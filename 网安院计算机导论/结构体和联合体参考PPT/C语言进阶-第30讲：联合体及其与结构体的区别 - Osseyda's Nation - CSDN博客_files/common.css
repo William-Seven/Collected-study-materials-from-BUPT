@@ -1,0 +1,55 @@
+/******* RESETS */
+body {
+  cursor: pointer;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+/* Displable swipe gesture: enables mouse interaction with group children. */
+gwd-swipegallery > gwd-gesture {
+  display: none;
+}
+gwd-carouselgallery > gwd-gesture {
+  display: none;
+}
+
+/******* POSITIONING */
+
+/* Vertically center element. */
+.v-center {
+  position: relative !important;
+  top: 49% !important;
+  -ms-transform: translateY(-50%) !important;
+  -webkit-transform: translateY(-50%) !important;
+  transform: translateY(-50%) !important;
+}
+
+/* Horizontally center element. */
+.h-center {
+  left: 50% !important;
+  position: relative !important;
+  -ms-transform: translateX(-50%) !important;
+  -webkit-transform: translateX(-50%) !important;
+  transform: translateX(-50%) !important;
+}
+
+/* Absolute center element. */
+.abs-center {
+  position: relative !important;
+  left: 50% !important;
+  top: 49% !important;
+  -ms-transform: translate(-50%,-50%) !important;
+  -webkit-transform: translate(-50%,-50%) !important;
+  transform: translate(-50%,-50%) !important;
+}
+
+/******* VISIBILITY */
+
+.mouse-disable {
+  pointer-events: none;
+}
+
+.hide {
+  opacity: 0;
+  visibility: hidden;
+}
