@@ -1,0 +1,22 @@
+000.000 =============================================================
+000.000                     Station A                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-005
+000.000 Log file "selective-A.log", TCP port 59144, debug mask 0x00
+000.000 Station A is waiting for station B on TCP port 59144 ... Done.
+000.942 New epoch: Tue Apr 12 09:15:29 2022
+000.943 =================================================================
+000.943 
+000.943 Designed by Jiang Yanjun, build: Oct 28 2018  16:37:15
+003.407 .... 7 packets received, 6820 bps, 85.25%, Err 1 (5.3e-005)
+005.520 .... 15 packets received, 7288 bps, 91.10%, Err 1 (2.8e-005)
+007.641 .... 23 packets received, 7434 bps, 92.93%, Err 1 (1.9e-005)
+009.759 .... 31 packets received, 7510 bps, 93.87%, Err 1 (1.4e-005)
+011.865 .... 39 packets received, 7564 bps, 94.55%, Err 1 (1.2e-005)
+013.998 .... 47 packets received, 7583 bps, 94.79%, Err 1 (9.7e-006)
+016.905 .... 54 packets received, 7089 bps, 88.62%, Err 2 (1.6e-005)
+019.008 .... 65 packets received, 7520 bps, 94.00%, Err 2 (1.4e-005)
+021.126 .... 73 packets received, 7543 bps, 94.28%, Err 2 (1.2e-005)
+023.228 .... 81 packets received, 7567 bps, 94.59%, Err 2 (1.1e-005)
+025.360 .... 89 packets received, 7577 bps, 94.72%, Err 2 (1.0e-005)

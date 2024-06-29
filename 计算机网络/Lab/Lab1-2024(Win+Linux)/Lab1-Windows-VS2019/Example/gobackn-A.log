@@ -1,0 +1,30 @@
+000.000 =============================================================
+000.000                     Station A                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-005
+000.000 Log file "D:\Users\SevenGrass\Documents\WILLIAMZHANG\ComputerNetwork\Lab\Lab1-2024(Win+Linux)\Lab1-Windows-VS2019\Example\gobackn-A.log", TCP port 59144, debug mask 0x01
+000.000 Station A is waiting for station B on TCP port 59144 ... Done.
+000.104 New epoch: Wed May 08 19:21:30 2024
+000.105 =================================================================
+000.105 
+000.105 Designed by Jiang Yanjun, build: Oct 28 2018  16:37:57
+000.105 Protocol Options: Piggybacking (Enabled), NAK (Enabled)
+004.737 .... 1 packets received, 585 bps, 7.32%, Err 0 (0.0e+000)
+009.644 .... 2 packets received, 487 bps, 6.09%, Err 1 (1.4e-004)
+012.862 .... 3 packets received, 529 bps, 6.61%, Err 1 (1.0e-004)
+017.001 .... 4 packets received, 520 bps, 6.50%, Err 1 (8.1e-005)
+021.169 .... 5 packets received, 514 bps, 6.42%, Err 1 (6.7e-005)
+025.253 .... 6 packets received, 512 bps, 6.40%, Err 1 (5.7e-005)
+029.412 .... 7 packets received, 509 bps, 6.36%, Err 1 (5.0e-005)
+033.476 .... 8 packets received, 508 bps, 6.35%, Err 1 (4.4e-005)
+037.578 .... 9 packets received, 507 bps, 6.34%, Err 1 (4.0e-005)
+041.669 .... 10 packets received, 507 bps, 6.33%, Err 1 (3.6e-005)
+045.677 .... 11 packets received, 507 bps, 6.34%, Err 1 (3.3e-005)
+049.801 .... 12 packets received, 506 bps, 6.33%, Err 1 (3.1e-005)
+053.958 .... 13 packets received, 505 bps, 6.31%, Err 1 (2.8e-005)
+058.021 .... 14 packets received, 505 bps, 6.31%, Err 1 (2.6e-005)
+062.213 .... 15 packets received, 504 bps, 6.30%, Err 1 (2.5e-005)
+066.364 .... 16 packets received, 503 bps, 6.29%, Err 1 (2.3e-005)
+070.542 .... 17 packets received, 502 bps, 6.28%, Err 1 (2.2e-005)
+072.449 TCP Disconnected.

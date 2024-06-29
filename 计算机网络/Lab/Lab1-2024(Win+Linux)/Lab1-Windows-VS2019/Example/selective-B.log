@@ -1,0 +1,24 @@
+000.000 =============================================================
+000.000                     Station B                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-005
+000.000 Log file "selective-B.log", TCP port 59144, debug mask 0x00
+000.000 Station B is connecting station A (TCP port 59144) ... Done.
+000.942 New epoch: Tue Apr 12 09:15:29 2022
+000.943 =================================================================
+000.943 
+000.944 Designed by Jiang Yanjun, build: Oct 28 2018  16:37:15
+003.340 .... 8 packets received, 7692 bps, 96.15%, Err 0 (0.0e+000)
+005.469 .... 16 packets received, 7694 bps, 96.17%, Err 0 (0.0e+000)
+007.568 .... 24 packets received, 7731 bps, 96.63%, Err 0 (0.0e+000)
+009.684 .... 32 packets received, 7734 bps, 96.67%, Err 0 (0.0e+000)
+011.794 .... 40 packets received, 7740 bps, 96.75%, Err 1 (1.2e-005)
+013.908 .... 47 packets received, 7580 bps, 94.76%, Err 1 (9.7e-006)
+016.009 .... 55 packets received, 7611 bps, 95.14%, Err 1 (8.3e-006)
+018.166 .... 63 packets received, 7609 bps, 95.12%, Err 1 (7.3e-006)
+020.252 .... 71 packets received, 7636 bps, 95.45%, Err 2 (1.3e-005)
+022.369 .... 79 packets received, 7646 bps, 95.58%, Err 2 (1.2e-005)
+024.739 .... 84 packets received, 7311 bps, 91.39%, Err 3 (1.6e-005)
+026.858 .... 95 packets received, 7586 bps, 94.82%, Err 3 (1.4e-005)
+026.969 TCP Disconnected.

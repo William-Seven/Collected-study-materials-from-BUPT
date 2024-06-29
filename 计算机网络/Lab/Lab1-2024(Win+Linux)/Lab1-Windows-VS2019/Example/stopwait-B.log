@@ -1,0 +1,43 @@
+000.000 =============================================================
+000.000                     Station B                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-005
+000.000 Log file "D:\Users\SevenGrass\Documents\WILLIAMZHANG\ComputerNetwork\Lab\Lab1-2024(Win+Linux)\Lab1-Windows-VS2019\Example\stopwait-B.log", TCP port 59144, debug mask 0x01
+000.000 Station B is connecting station A (TCP port 59144) ... Done.
+000.362 New epoch: Wed May 08 19:18:52 2024
+000.362 =================================================================
+000.362 
+000.362 Designed by Jiang Yanjun, build: Oct 28 2018  16:36:26
+003.495 .... 4 packets received, 2869 bps, 35.87%, Err 0 (0.0e+000)
+005.929 .... 7 packets received, 2711 bps, 33.88%, Err 0 (0.0e+000)
+008.448 .... 10 packets received, 2623 bps, 32.79%, Err 0 (0.0e+000)
+010.715 .... 12 packets received, 2439 bps, 30.49%, Err 0 (0.0e+000)
+013.225 .... 15 packets received, 2441 bps, 30.51%, Err 0 (0.0e+000)
+015.705 .... 18 packets received, 2447 bps, 30.59%, Err 0 (0.0e+000)
+017.907 .... 20 packets received, 2372 bps, 29.65%, Err 0 (0.0e+000)
+020.400 .... 23 packets received, 2384 bps, 29.80%, Err 0 (0.0e+000)
+022.645 .... 25 packets received, 2327 bps, 29.08%, Err 0 (0.0e+000)
+025.117 .... 28 packets received, 2343 bps, 29.28%, Err 0 (0.0e+000)
+027.591 .... 31 packets received, 2356 bps, 29.45%, Err 0 (0.0e+000)
+030.062 .... 34 packets received, 2367 bps, 29.58%, Err 0 (0.0e+000)
+032.590 .... 37 packets received, 2372 bps, 29.65%, Err 0 (0.0e+000)
+034.784 .... 39 packets received, 2339 bps, 29.24%, Err 0 (0.0e+000)
+037.314 .... 42 packets received, 2345 bps, 29.32%, Err 0 (0.0e+000)
+039.803 .... 45 packets received, 2353 bps, 29.42%, Err 0 (0.0e+000)
+045.346 .... 48 packets received, 2199 bps, 27.49%, Err 1 (9.4e-006)
+049.528 .... 50 packets received, 2095 bps, 26.18%, Err 2 (1.8e-005)
+052.032 .... 53 packets received, 2112 bps, 26.40%, Err 2 (1.7e-005)
+054.541 .... 56 packets received, 2128 bps, 26.60%, Err 2 (1.6e-005)
+056.988 .... 59 packets received, 2144 bps, 26.80%, Err 2 (1.5e-005)
+060.087 .... 62 packets received, 2136 bps, 26.70%, Err 2 (1.4e-005)
+062.575 .... 65 packets received, 2149 bps, 26.87%, Err 2 (1.4e-005)
+065.084 .... 68 packets received, 2161 bps, 27.01%, Err 2 (1.3e-005)
+067.571 .... 71 packets received, 2173 bps, 27.16%, Err 2 (1.3e-005)
+069.775 .... 73 packets received, 2162 bps, 27.03%, Err 2 (1.2e-005)
+077.883 .... 76 packets received, 2015 bps, 25.19%, Err 4 (2.3e-005)
+080.394 .... 79 packets received, 2029 bps, 25.36%, Err 4 (2.2e-005)
+082.856 .... 82 packets received, 2043 bps, 25.53%, Err 4 (2.1e-005)
+085.935 .... 85 packets received, 2041 bps, 25.51%, Err 4 (2.1e-005)
+088.152 .... 87 packets received, 2036 bps, 25.45%, Err 4 (2.0e-005)
+090.652 .... 90 packets received, 2048 bps, 25.60%, Err 4 (2.0e-005)

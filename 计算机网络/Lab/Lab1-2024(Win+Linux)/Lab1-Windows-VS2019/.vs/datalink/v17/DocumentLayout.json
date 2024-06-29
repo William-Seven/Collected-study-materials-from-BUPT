@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\SevenGrass\\Documents\\WILLIAMZHANG\\ComputerNetwork\\Lab\\Lab1-2024(Win\u002BLinux)\\Lab1-Windows-VS2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|D:\\Users\\SevenGrass\\Documents\\WILLIAMZHANG\\ComputerNetwork\\Lab\\Lab1-2024(Win\u002BLinux)\\Lab1-Windows-VS2019\\datalink.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|solutionrelative:datalink.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "datalink.c",
+              "DocumentMoniker": "D:\\Users\\SevenGrass\\Documents\\WILLIAMZHANG\\ComputerNetwork\\Lab\\Lab1-2024(Win\u002BLinux)\\Lab1-Windows-VS2019\\datalink.c",
+              "RelativeDocumentMoniker": "datalink.c",
+              "ToolTip": "D:\\Users\\SevenGrass\\Documents\\WILLIAMZHANG\\ComputerNetwork\\Lab\\Lab1-2024(Win\u002BLinux)\\Lab1-Windows-VS2019\\datalink.c",
+              "RelativeToolTip": "datalink.c",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAEUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-08T12:19:45.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
