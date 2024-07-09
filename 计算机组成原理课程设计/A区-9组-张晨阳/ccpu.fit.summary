@@ -1,0 +1,9 @@
+Fitter Status : Successful - Thu Jul 04 12:35:15 2024
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Full Version
+Revision Name : ccpu
+Top-level Entity Name : ccpu
+Family : MAX7000S
+Device : EPM7128SLC84-15
+Timing Models : Final
+Total macrocells : 35 / 128 ( 27 % )
+Total pins : 46 / 68 ( 68 % )

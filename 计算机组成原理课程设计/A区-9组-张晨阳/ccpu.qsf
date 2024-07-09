@@ -1,0 +1,91 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 1991-2009 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus II
+# Version 9.0 Build 132 02/25/2009 SJ Full Version
+# Date created = 12:17:47  July 02, 2024
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		ccpu_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus II software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY MAX7000S
+set_global_assignment -name DEVICE "EPM7128SLC84-15"
+set_global_assignment -name TOP_LEVEL_ENTITY ccpu
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 9.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "12:17:47  JULY 02, 2024"
+set_global_assignment -name LAST_QUARTUS_VERSION 9.0
+set_global_assignment -name USE_GENERATED_PHYSICAL_CONSTRAINTS OFF -section_id eda_blast_fpga
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name MISC_FILE "D:/code/VHDL/2021-/ccpu/ccpu.dpf"
+set_global_assignment -name MAX7000_DEVICE_IO_STANDARD TTL
+set_location_assignment PIN_1 -to CLR
+set_location_assignment PIN_40 -to ABUS
+set_location_assignment PIN_24 -to ARINC
+set_location_assignment PIN_2 -to C
+set_location_assignment PIN_33 -to CIN
+set_location_assignment PIN_20 -to DRW
+set_location_assignment PIN_11 -to IRHIGH[3]
+set_location_assignment PIN_10 -to IRHIGH[2]
+set_location_assignment PIN_9 -to IRHIGH[1]
+set_location_assignment PIN_8 -to IRHIGH[0]
+set_location_assignment PIN_25 -to LAR
+set_location_assignment PIN_31 -to LDC
+set_location_assignment PIN_30 -to LDZ
+set_location_assignment PIN_29 -to LIR
+set_location_assignment PIN_46 -to LONG
+set_location_assignment PIN_22 -to LPC
+set_location_assignment PIN_39 -to M
+set_location_assignment PIN_44 -to MBUS
+set_location_assignment PIN_27 -to MEMW
+set_location_assignment PIN_18 -to PCADD
+set_location_assignment PIN_21 -to PCINC
+set_location_assignment PIN_37 -to S[3]
+set_location_assignment PIN_36 -to S[2]
+set_location_assignment PIN_35 -to S[1]
+set_location_assignment PIN_34 -to S[0]
+set_location_assignment PIN_41 -to SBUS
+set_location_assignment PIN_48 -to SEL0
+set_location_assignment PIN_49 -to SEL1
+set_location_assignment PIN_50 -to SEL2
+set_location_assignment PIN_51 -to SEL3
+set_location_assignment PIN_52 -to SELCTL
+set_location_assignment PIN_45 -to SHORT
+set_location_assignment PIN_28 -to STOP
+set_location_assignment PIN_4 -to SWA
+set_location_assignment PIN_5 -to SWB
+set_location_assignment PIN_6 -to SWC
+set_location_assignment PIN_83 -to T3
+set_location_assignment PIN_12 -to W1
+set_location_assignment PIN_15 -to W2
+set_location_assignment PIN_16 -to W3
+set_location_assignment PIN_84 -to Z
+set_global_assignment -name VHDL_FILE ccpu.vhd
