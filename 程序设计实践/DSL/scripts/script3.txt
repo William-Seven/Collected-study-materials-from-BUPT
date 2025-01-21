@@ -1,0 +1,12 @@
+Step welcome
+    Speak "欢迎来到银行客服中心，请问有什么可以帮您?"
+    Listen 5, 15
+    Case "退出"
+        goto goodbye
+    Default
+Step goodbye
+    Speak "感谢您使用我们的银行服务，祝您有愉快的一天！"
+    Exit
+Step wait
+    Timeout 5
+        goto goodbye

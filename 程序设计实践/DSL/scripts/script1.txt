@@ -1,0 +1,75 @@
+Step welcome
+    Speak "尊敬的勇者，欢迎来到冒险者协会，请问有什么可以帮您?"
+    Listen 5, 30
+    Case "投诉"
+        goto complainProc
+    Case "查询"
+        goto billProc
+    Case "查看"
+        goto billProc
+    Case "存钱"
+        goto depositProc
+    Case "提交"
+        goto rechargeProc
+    Case "卖"
+        goto rechargeProc
+    Case "买"
+        goto consumeProc
+    Case "消费"
+        goto consumeProc
+    Case "离开"
+        goto thanks
+    Default
+Step complainProc
+    Speak "抱歉，我应该为勇者大人分忧，请问勇者大人还有什么意见?"
+    Listen 5, 30
+    Case "没有"
+        goto welcome
+    Case "觉得"
+        goto complainProc
+    Default
+Step thanks
+    Speak "感谢您的光临，期待您的新的冒险故事，再见！"
+    Exit
+Step billProc
+    Speak "您的账户当前有" + $amount + "枚金币。"
+    goto welcome
+Step depositProc
+    Speak "您这次想存入多少金币呢？"
+    GetNum $depositAmount
+    goto depositConfirm
+Step depositConfirm
+    Recharge $amount add $depositAmount
+    Speak "存款成功！您的账户余额为" + $amount + "元。"
+    goto welcome
+Step rechargeProc
+    Speak "请提供您想要换成金币的材料。"
+    Listen 5, 30
+    Case "提交"
+        goto verifyProc
+    Case "卖"
+        goto verifyProc
+Step verifyProc
+    Recharge $amount add 100
+    Speak "验证成功！您的账户当前余额是" + $amount + "枚金币"
+    goto welcome
+Step consumeProc
+    Speak "请问您今天想消费什么？"
+    Speak "今天我们提供所有种类的药水，都只需5金币。"
+    Listen 5, 30
+    Case "药水"
+        goto medicine
+    Case "买"
+        goto medicine
+    Default
+Step medicine
+    Consume $amount reduce 5
+    Speak "消费成功，您的当前余额是" + $amount + "枚金币"
+    goto welcome
+Step wait
+    Timeout 3
+        Speak "哈喽您还活着吗？"
+    Timeout 5
+        Speak "您已经很久没有冒险了，即将于10秒后退出"
+    Timeout 10
+        goto thanks

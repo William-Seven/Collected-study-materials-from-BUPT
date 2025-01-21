@@ -1,0 +1,26 @@
+Step welcome
+    Speak "欢迎来到银行客服中心，请问有什么可以帮您?"
+    Listen 5, 15
+    Case "投诉"
+        goto complainProc
+    Case "退出"
+        goto End
+    Default
+Step complainProc
+    Speak "抱歉听到您的投诉，请问您具体有什么问题？"
+    Listen 5, 15
+    Case "没有"
+        goto welcome
+    Case "问题"
+        goto complainProcNext
+    Default
+Step complainProcNext
+    Speak "抱歉给您带来了困扰，我们会尽快为您解决。"
+    goto welcome
+Step End
+    Speak "感谢您的耐心，再见！"
+    Exit
+Step wait
+    Timeout 5
+        goto End
+

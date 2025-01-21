@@ -1,0 +1,63 @@
+Step welcome
+    Speak "欢迎来到银行客服中心，请问有什么可以帮您?"
+    Listen 5, 30
+    Case "查询余额"
+        goto balanceProc
+    Case "存款"
+        goto depositProc
+    Case "取款"
+        goto withdrawProc
+    Case "转账"
+        goto transferProc
+    Case "帮助"
+        goto helpProc
+    Case "退出"
+        goto goodbye
+    Default
+Step balanceProc
+    Speak "您的账户当前余额为" + $balance + "元。"
+    goto welcome
+Step depositProc
+    Speak "请输入您要存入的金额："
+    GetNum $depositAmount
+    goto depositConfirm
+Step depositConfirm
+    Recharge $balance add $depositAmount
+    Speak "存款成功！您的账户余额为" + $balance + "元。"
+    goto welcome
+Step withdrawProc
+    Speak "请确认您是否要取出"
+    Listen 5, 30
+    Case "确认"
+        goto withdrawConfirm
+    Default
+Step withdrawConfirm
+    Consume $balance reduce 100
+    Speak "取款成功！您的账户余额为" + $balance + "元。"
+    goto welcome
+Step transferProc
+    Speak "确认转账？"
+    Listen 5, 30
+    Case "提交"
+        goto transferConfirm
+    Default
+Step transferConfirm
+    Consume $balance reduce 50
+    Speak "转账成功！您的账户余额为" + $balance + "元。"
+    goto welcome
+Step helpProc
+    Speak "如果您需要帮助，请告诉我具体问题，我会尽力帮助您。您可以选择存款、取款、转账等"
+    Listen 5, 30
+    Case "存款"
+        goto depositProc
+    Case "取款"
+        goto withdrawProc
+    Case "转账"
+        goto transferProc
+    Default
+Step goodbye
+    Speak "感谢您使用我们的银行服务，祝您有愉快的一天！"
+    Exit
+Step wait
+    Timeout 5
+        goto goodbye

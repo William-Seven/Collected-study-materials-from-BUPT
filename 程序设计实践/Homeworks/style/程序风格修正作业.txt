@@ -1,0 +1,28 @@
+程序风格修正作业
+学号：2022211683
+姓名：张晨阳
+
+程序：fifo_queue.c
+问题1：4 行存在注释有错、风格不一致问题，应修改为/* Implementing a FIFO queue with integer members */
+问题2：8 行存在成员名啰嗦问题，应修改为next
+问题3：13，14 行存在成员名啰嗦问题，应修改为head, tail
+问题4：18 行存在函数命名过于复杂问题，应修改为enqueue
+问题5：33 行存在函数命名过于复杂问题，应修改为dequeue
+问题6：59，64 行存在神秘数问题，应修改为#define TEST_SIZE 10再将10和11换成TEST_SIZE和TEST_SIZE+1
+问题7：67 行存在函数命名问题，应修改为is_success
+问题8：71 行存在代码内容不清晰问题，应修改为printf("Failed to pop from front\n");
+
+程序：serialize_json.cpp
+问题1：9 行存在函数命名不明确问题，应修改为escape_to_json
+问题2：22 行存在判断条件违反逻辑问题，应修改为if (*c < '\x00' || *c > '\x1f')
+问题3：32 行存在风格不一致，代码安全问题，应修改为const map<string, string> &m
+问题4：37 行存在判断违反逻辑问题，应修改为bool is_first = true;
+问题5：38 行存在代码缩进不一致问题，应修改为for (i = m.begin(); i != m.end(); i++) {
+问题6：39-42行存在逻辑混乱问题，可以联系问题4修改，但可以更简单，应修改为if (i != m.begin()) o << ",";
+
+程序：split_str.cpp
+问题1：47 行存在神秘数问题，应修改为#define MAX_NUM 30并且其他的30也替换为MAX_NUM
+问题2：50 行存在神秘数问题，应修改为#define MAX_LEN 31并且其他的31也替换为MAX_LEN，32替换为MAX_LEN+1
+问题3：8 行存在命名不明确无意义问题，应修改为char* tokens[]，其他argv也应修改为tokens
+问题4：11 行存在命名不明确带来困难问题，应修改为int current_len=0;
+问题5：50 行存在new的字符串对象未释放问题，应修改为在53行后添加：for(i = 0; i < MAX_NUM; i++) delete [] argv[i];

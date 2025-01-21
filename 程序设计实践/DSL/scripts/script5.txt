@@ -1,0 +1,27 @@
+Step welcome
+    Speak "欢迎来到银行客服中心，请问有什么可以帮您?"
+    Listen 5, 15
+    Case "查询"
+        goto queryProc
+    Case "存钱"
+        goto depositProc
+    Case "退出"
+        goto goodbye
+    Default
+Step queryProc
+    Speak "您的账户当前余额为" + $balance + "元。"
+    goto welcome
+Step depositProc
+    Speak "请输入您要存入的金额："
+    GetNum $depositAmount
+    goto depositConfirm
+Step depositConfirm
+    Recharge $balance add $depositAmount
+    Speak "存款成功！您的账户余额为" + $balance + "元。"
+    goto welcome
+Step goodbye
+    Speak "感谢您使用我们的银行服务，祝您有愉快的一天！"
+    Exit
+Step wait
+    Timeout 5
+        goto goodbye
