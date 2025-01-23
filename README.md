@@ -9,5 +9,11 @@
 
 什么都有，欢迎浏览以及邮件提出建议😪😪😪
 
+# 一些别的库
+[数据结构课设](https://github.com/William-Seven/StudentTravelSystem)
 
+[算法设计与分析——蒙图金字塔实验](https://github.com/liang-weixi/Diamond_Pyramid)
 
+[程序设计实践——DSL](https://github.com/William-Seven/DSL)
+
+[MIT-Missing-Semester笔记](https://github.com/William-Seven/MIT-Missing-Semester)
