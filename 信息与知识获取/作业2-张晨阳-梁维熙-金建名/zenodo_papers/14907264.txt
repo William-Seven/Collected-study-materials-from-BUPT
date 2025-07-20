@@ -1,0 +1,44 @@
+Title: Context-specific regulatory genetic variation in MTOR dampens neutrophil-T cell crosstalk in sepsis, modulating disease
+
+Authors: Zhang, Ping, MacLean, Patrick, Jia, Alicia, O'Neill, Callum, Allcock, Alice, Prince, Ethan, Dyne, Imogen, Cano-Gamez, Kiki, Qin, Hanyu, Wainwright, Chloe, Scozzafava, Giuseppe, Brown, Andrew, Davies, James, Chong, Amanda, Mentzer, Alexander J., Burnham, Katie L., Davenport, Emma E., Knight, Julian C.
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<strong>Abstract</strong>
+
+
+Sepsis is a heterogeneous clinical syndrome with a high mortality, requiring personalised stratification strategies. Here, we characterise genetic variation that modulates MTOR, a critical regulator of metabolism and immune responses in sepsis. The effects are highly context specific, involving a regulatory element that affects MTOR expression in activated T cells with opposite direction of effect in neutrophils. We show that the G-allele of the lead variant, rs4845987, associated with decreased risk of T2D, reduces MTOR expression in T cells and improves survival in sepsis patients due to pneumonia, with effects specific to sepsis endotype. Using ex vivo models, we demonstrate that activated T cells promote immunosuppressive sepsis neutrophils through released cytokines, a process dampened by hypoxia and the mTOR inhibitor rapamycin. Our work demonstrates a novel epigenetic mechanism that fine-tunes MTOR transcription and T cell activity via the variant-containing regulatory element, which exhibits an allelic effect upon vitamin C treatment. These findings reveal how genetic variation interacts with disease state to modulate immune cell-cell communication, providing a patient stratification strategy to inform more effective sepsis treatment.
+
+
+<strong>Contents</strong>
+
+
+This submission contains processed ATAC-seq and RNA-seq results, including raw and normalised counts along with bigWig files for genome-wide signal data from human primary CD4+ and CD8+ T cells with (Day-4) and without (Day-0) anti-CD3/CD28 Dynabead stimulation, derived from three healthy donors.&nbsp;
+
+
+The corresponding raw FASTQ files can be accessed at the European Genome-phenome Archive (EGA) under accession number EGAS50000000894 (https://ega-archive.org/studies/EGAS50000000894).&nbsp;All code used for data processing and analysis in this study is publicly available on GitHub (https://github.com/jknightlab/MTOR-Genetics-Project).
+
+
+Contents:
+ - CD8-Day-4_ATAC_mean.bw
+ - CD4-Day-0_ATAC_mean.bw
+ - CD8-Day-0_ATAC_mean.bw
+ - CD4-Day-4_ATAC_mean.bw
+ - CD4-1-Day-0_ATAC.14_29.macs2_normalized.bw
+ - CD8-1-Day-4_ATAC.14_29.macs2_normalized.bw
+ - CD8-2-Day-4_ATAC.14_29.macs2_normalized.bw
+ - CD8-3-Day-4_ATAC.14_29.macs2_normalized.bw
+ - CD8-3-Day-0_ATAC.14_29.macs2_normalized.bw
+ - CD8-2-Day-0_ATAC.14_29.macs2_normalized.bw
+ - CD8-1-Day-0_ATAC.14_29.macs2_normalized.bw
+ - CD4-2-Day-0_ATAC.14_29.macs2_normalized.bw
+ - CD4-2-Day-4_ATAC.14_29.macs2_normalized.bw
+ - CD4-3-Day-0_ATAC.14_29.macs2_normalized.bw
+ - CD4-1-Day-4_ATAC.14_29.macs2_normalized.bw
+ - CD4-3-Day-4_ATAC.14_29.macs2_normalized.bw
+ - RNAseq_featureCounts_Tcell.day0.day4.txt.gz
+ - T.cells.ATAC.htseq_count.merge_slurm.txt.gz

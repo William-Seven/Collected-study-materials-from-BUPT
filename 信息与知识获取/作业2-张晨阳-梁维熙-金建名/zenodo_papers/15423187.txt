@@ -1,0 +1,16 @@
+Title: CODECHECK Workshops - A recipe for organizers
+
+Authors: Ostermann, Frank, Gawehns, Daniela, Momin, Angelina, Sharma, Saba, Sun, Junzi, Belliard, Frederique, Eglen, Stephen, Nüst, Daniel
+
+Keywords: CODECHECK, reproducibility, reproducibility review, reproducible research, Open Science, Open Research
+
+Publication date: 2025-05-26
+
+Description:
+
+This document contains the lessons learned as well as do's and don'ts of the four workshops conducted as part of the <a href="https://codecheck.org.uk/nl/">CODECHECKing goes NL (CHECK-NL) project</a>.&nbsp;Its aim is to support everyone who wants to try a CODECHECK workshop and build/support local communities for reproducibility checks.
+
+
+Contents:
+ - CODECHECK-event-recipe.pdf
+ - event-recipe.md

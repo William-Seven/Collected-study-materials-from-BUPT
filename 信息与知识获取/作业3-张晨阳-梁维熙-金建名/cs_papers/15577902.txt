@@ -1,0 +1,14 @@
+Title: AI-Powered Nanomaterials for Targeted Drug Delivery in Cancer Therapy
+
+Authors: Shravan Kumar
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+Cancer continues to be a major global health concern, and while traditional therapies such as chemotherapyand radiation have proven effective, they often come with significant limitations, including non-specifictoxicity and the development of drug resistance. The advent of nanotechnology has provided a promisingavenue for overcoming these challenges by enabling the targeted delivery of drugs to tumor sites, whichreduces systemic toxicity and enhances therapeutic efficacy. Artificial intelligence (AI), particularly machinelearning (ML) and deep learning (DL), has the potential to revolutionize the design and optimization ofnanomaterials for cancer treatment. By utilizing AI, researchers can enhance the precision of drug deliverysystems, improve targeting, and optimize the therapeutic effectiveness of nanoparticles. This article exploresthe role of AI in the development of nanomaterials for targeted drug delivery in cancer therapy, focusing onits application to material selection, nanoparticle design, drug release, and personalized treatment strategies.
+
+
+Contents:
+ - IJSRED-V8I3P195.pdf

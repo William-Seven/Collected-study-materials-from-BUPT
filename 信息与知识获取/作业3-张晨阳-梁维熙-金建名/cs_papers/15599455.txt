@@ -1,0 +1,14 @@
+Title: FAIRiCUBE Deliverable D3.1 UC exploratory data analysis
+
+Authors: Jetschny, Stefan
+
+Keywords: FAIRiCUBE, data analyses
+
+Publication date: 2025-06-05
+
+Description:
+This deliverable needs to be seen as one item of a classical and logical execution of a machine learning&nbsp;(ML) application. Given availability/ingestion of data, we first perform an exploratory data analysis to&nbsp;get familiar with the data, analyse statistical parameters and distribution, check for completeness,&nbsp;outliers and other characteristics which could be relevant for the choice of the machine learning. This&nbsp;in-depth data analysis is covered by this deliverable D3.1 UC exploratory data analysis
+
+
+Contents:
+ - FAIRiCUBE Deliverable D3.1 UC exploratory data analysis.pdf

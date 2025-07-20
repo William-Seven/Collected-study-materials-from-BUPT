@@ -1,0 +1,326 @@
+Title: github.com/kbolton-lab/ArCH/ArCH-PoN2
+
+Authors: Irenaeus Chan
+
+Keywords: 
+
+Publication date: 2024-10-15
+
+Description:
+<h1>ArCH - (Ar)tifact Filtering (C)lonal (H)ematapoiesis Variant Calling Pipeline</h1>
+ArCH is a somatic variant calling pipeline designed to detect low variant allele fraction (VAF) clonal hematopoiesjsonsis (CH) variants. Starting from either unaligned FASTQ/BAM/CRAM files or aligned BAM/CRAM files, ArCH utilizes four variant callers (Mutect2, VarDictJava, LoFreq2, and Pindel) to detect somatic variants. These variants are then filtered using a variety of false positive filters and detection methods (false positive filters, panel of normal, etc.). The pipeline also generates VEP style annotations for all called variants as well as additional putative driver annotations generated from various database sources (TOPMed, MSK-IMPACT, COSMIC, OncoKB, etc.).
+
+If you end up using this tool in your publication, please cite this paper:
+
+<pre><code>Irenaeus C C Chan, Alex Panchot, Evelyn Schmidt, et al. ArCH: improving the performance of clonal hematopoiesis variant calling and interpretation, Bioinformatics, Volume 40, Issue 4, April 2024, btae121, https://doi.org/10.1093/bioinformatics/btae121
+</code></pre>
+<h2>Installation</h2>
+This pipeline requires several files to be downloaded and configured prior to running. The following files are required for the pipeline to run:
+
+<ol>
+Reference Genome
+Gene Panel Interval List
+Panel of Normals
+gnomAD VCF
+VEP Cache &amp; Plugins
+Somalier VCF
+COSMIC VCF
+</ol>
+Step-by-step instructions to prepare each file will be provided below.
+
+<h3>Panel of Normals</h3>
+One of the most important pieces of this pipeline is the Panel of Normals (PoN). The PoN is a collection of BAM files from young individuals that are used to filter out false positives from the tumor samples by representing a base threshold of noise. Typically, 10 to 20 samples yields the best performance for the PoN.
+
+Two separate filters are generated from the PoN:
+
+<ol>
+Threshold of Noise: This is a Bonferroni corrected Fisher's Exact Test that is used to determine the threshold of noise for the PoN. This is used to filter out any variants that are found in the tumor samples at a lower frequency than the threshold of noise.
+Potential Germline Variants: These are non-hotspot variants that are found in 2 or more of the PoN samples at a 2% VAF or higher. These variants are then used to filter out any variants found in the tumor samples as possible germline variants.
+</ol>
+To generate the PoN, the following steps are required:
+
+<ol>
+Run the <a href="https://github.com/kbolton-lab/ArCH/blob/main/WDL/ArCH_Alignment.wdl">ArCH Alignment WDL Workflow</a> - This will create UMI consensus aligned BAM files for all the PoN samples.
+Check the PoN Files for potential CH hotspots and remove them from the PoN samples.
+</ol>
+<pre><code># Using this Docker: duct/getbasecount:latest
+docker run -v /path/to/PoN:/mnt duct/getbasecount:latest /opt/GetBaseCountsMultiSample/GetBaseCountsMultiSample --fasta $REF --bam ${sample_name}:/mnt/PoN.bam --vcf AnnotatePD_Files/bick_kelly_HGVSp5_pileup.vcf --output ${sample_name}.pileup.vcf --maq 5 --baq 5
+bgzip ${sample_name}.pileup.vcf &amp;&amp; tabix ${sample_name}.pileup.vcf.gz
+
+# Check the resulting pileup files for potential CH hotspots
+bcftools view -i 'FORMAT/VF&gt;0.02' ${sample_name}.pileup.vcf.gz
+</code></pre>
+NOTE: For the variant: <code>chr20:32434638:A:AG</code>. Only remove the PoN Sample if this variant is found above 5% VAF in the PoN sample.
+
+<ol>
+Run the UMI Consensus Aligned BAM files through the <a href="https://github.com/kbolton-lab/ArCH/blob/main/WDL/pon2_creation.wdl">pon2_creation.wdl</a>
+</ol>
+This pipeline will generate 3 files:
+
+
+mutect.2N.maxVAF.vcf.gz
+lofreq.2N.maxVAF.vcf.gz
+vardict.2N.maxVAF.vcf.gz
+
+<h3>gnomAD Resource</h3>
+Due to the size of gnomAD. The database is split into individual chromosomes. They will all have to be downloaded individually before merging them into a singular VCF file
+Please go to the <a href="https://gnomad.broadinstitute.org/downloads#summary">official gnomAD download repository</a> to download the latest version of gnomAD (v4.1.0 - as of 05/30/2024)
+
+<pre><code>for chr in {1..22} X Y; do
+  bcftools view -f PASS -i 'INFO/AF&gt;=0.005' -Ou gnomad.exomes.v4.1.sites.chr${chr}.vcf.bgz | bcftools annotate -x ^INFO/AC,INFO/AF -Ou - | bcftools norm --multiallelics -any -Oz -o gnomad.exomes.v4.1.sites.chr${chr}.AF_only.exclude_0.005.normalized.vcf.gz -  
+done
+bcftools concat -Oz -o gnomad.exomes.v4.1.AF_only.exclude_0.005.normalized.vcf.gz gnomad.exomes.v4.1.sites.chr*.AF_only.exclude_0.005.normalized.vcf.gz
+</code></pre>
+<h3>VEP Cache</h3>
+This Pipeline's annotation step has been configured to use VEP cache files, which can be downloaded from the <a>Ensembl FTP - Homo sapiens v109</a>. The cache files should be downloaded along with all necessary plugin files and zipped into a single file for the pipeline to use.
+
+Create the VepData which will contain the VEP v109 Cache
+
+<pre><code>mkdir VEP_cache &amp;&amp; mkdir VEP_cache/VepData;
+cd VEP_cache;
+curl -O ftp://ftp.ensembl.org/pub/release-109/variation/indexed_vep_cache/homo_sapiens_merged_vep_109_GRCh38.tar.gz
+tar xzf homo_sapiens_merged_vep_109_GRCh38.tar.gz -C VepData
+rm homo_sapiens_merged_vep_109_GRCh38.tar.gz
+</code></pre>
+Create the plugin directory that will contain all the VEP plugins used in this pipeline
+
+<pre><code>mkdir plugin
+curl -o plugin/CADD.pm https://github.com/Ensembl/VEP_plugins/blob/431b1516431fcb4ee6431120c749769e6516a23e/CADD.pm
+curl -o plugin/REVEL.pm https://github.com/Ensembl/VEP_plugins/blob/431b1516431fcb4ee6431120c749769e6516a23e/REVEL.pm
+curl -o plugin/SpliceAI.pm https://github.com/Ensembl/VEP_plugins/blob/431b1516431fcb4ee6431120c749769e6516a23e/SpliceAI.pm
+curl -o plugin/pLI.pm https://github.com/Ensembl/VEP_plugins/blob/431b1516431fcb4ee6431120c749769e6516a23e/pLI.pm
+curl -o plugin/Frameshift.pm https://raw.githubusercontent.com/griffithlab/pVACtools/v2.0.0/tools/pvacseq/VEP_plugins/Frameshift.pm
+curl -o plugin/Wildtype.pm https://raw.githubusercontent.com/griffithlab/pVACtools/v2.0.0/tools/pvacseq/VEP_plugins/Wildtype.pm
+</code></pre>
+Create the individual raw resources for each of the VEP Plugins
+
+<pre><code># Synonyms File
+mkdir Synonyms
+curl -o Synonyms/chromAlias.txt https://hgdownload.soe.ucsc.edu/hubs/GCF/000/001/405/GCF_000001405.39/GCF_000001405.39.chromAlias.txt
+
+# CADD
+mkdir CADD
+curl -o CADD/whole_genome_SNVs.tsv.gz https://krishna.gs.washington.edu/download/CADD/v1.7/GRCh38/whole_genome_SNVs.tsv.gz
+curl -o CADD/gnomad.genomes.r4.0.indel.tsv.gz https://krishna.gs.washington.edu/download/CADD/v1.7/GRCh38/gnomad.genomes.r4.0.indel.tsv.gz
+
+# Clinvar
+mkdir Clinvar
+curl -o Clinvar/clinvar.vcf.gz https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar.vcf.gz
+tabix Clinvar/clinvar.vcf.gz
+
+# pLI
+mkdir pLI
+curl -o pLI/fordist_cleaned_exac_r03_march16_z_pli_rec_null_data.txt https://ftp.broadinstitute.org/pub/ExAC_release/release0.3/functional_gene_constraint/fordist_cleaned_exac_r03_march16_z_pli_rec_null_data.txt
+awk '{print $2, $20}' pLI/fordist_cleaned_exac_r03_march16_z_pli_rec_null_data.txt &gt; pLI/pLI_gene.txt
+
+# REVEL
+mkdir REVEL
+curl -o REVEL/revel-v1.3_all_chromosomes.zip https://rothsj06.dmz.hpc.mssm.edu/revel-v1.3_all_chromosomes.zip
+cd REVEL/
+unzip revel-v1.3_all_chromosomes.zip
+cat revel_with_transcript_ids | tr &quot;,&quot; &quot;\t&quot; &gt; tabbed_revel.tsv
+sed '1s/.*/#&amp;/' tabbed_revel.tsv &gt; new_tabbed_revel.tsv
+bgzip new_tabbed_revel.tsv
+
+zcat new_tabbed_revel.tsv.gz | head -n1 &gt; h
+zgrep -h -v ^#chr new_tabbed_revel.tsv.gz | awk '$3 != &quot;.&quot; ' | sort -k1,1 -k3,3n - | cat h - | bgzip -c &gt; new_tabbed_revel_grch38.tsv.gz
+tabix -f -s 1 -b 3 -e 3 new_tabbed_revel_grch38.tsv.gz
+
+# SpliceAI
+mkdir spliceAI
+# Files for spliceAI can be downloaded from Illumina basespace: https://basespace.illumina.com/analyses/194103939/files 
+# You will need:
+# - spliceai_scores.raw.indel.hg38.vcf.gz
+# - spliceai_scores.raw.indel.hg38.vcf.gz.tbi
+# - spliceai_scores.raw.snv.hg38.vcf.gz
+# - spliceai_scores.raw.snv.hg38.vcf.gz.tbi
+</code></pre>
+ZIP all the files into a single file for the pipeline to use
+
+<pre><code>zip -r VEP_cache.zip VEP_cache
+</code></pre>
+<h3>Somalier</h3>
+<a href="https://github.com/brentp/somalier/releases/tag/v0.2.15">Somalier (v0.2.15) written by Brentp</a> is run as a part of this pipeline to ensure that the samples are correctly identified.
+
+The VCF file containing all the sites used for this step can be prepared as follows
+
+<pre><code>curl -O https://github.com/brentp/somalier/files/3412456/sites.hg38.vcf.gz
+</code></pre>
+<h3>COSMIC Counts Files</h3>
+To generate the necessary file inputs for these files requires a lot of work and we have not optimized a pipeline to automatically perform this task. Please download the necessary zip file which has been configured for <a href="https://arch-example-files.s3.us-east-2.amazonaws.com/cosmic_zip.zip">COSMIC v94</a>
+
+<h2>Usage</h2>
+For ease of use, a <a href="https://github.com/kbolton-lab/ArCH/blob/main/WDL/ArCH.wdl">WDL pipeline</a> is available to run the entire ArCH pipeline from either unaligned FASTQ/BAM/CRAM or aligned BAM/CRAM files.
+
+An example sample has been provided which can be accessed through the following links:
+
+<pre><code>https://arch-example-files.s3.us-east-2.amazonaws.com/ArCH_S1_R1.fastq.gz
+https://arch-example-files.s3.us-east-2.amazonaws.com/ArCH_S1_R2.fastq.gz
+</code></pre>
+This Pipeline has been tested and configured to run using Cromwell-70 as well as on TERRAbio.
+
+<h3>Inputs</h3>
+For basic usage, please use the following <a href="https://github.com/kbolton-lab/ArCH/tree/main/Example/ArCH_pipeline.json">JSON</a> as a base template for your input file.
+
+| Variable | Type | Definition |
+| --- | --- | --- |
+|input_file|File|This will be the first input file. It can be a R1 FASTQ, BAM, or CRAM|
+|input_file_two|File|This will be the second input file. It can be R2 FASTQ, BAI, or CRAI|
+|tumor_sample_name|String|Name of the tumor sample|
+|normal_bam|File?|Optional matched normal sample BAM for variant calling, leave blank if not used.|
+|normal_bai|File?|Optional matched normal sample BAM index for variant calling, leave blank if not used.|
+|normal_sample_name|String?|Optional name of the normal sample, leave blank if not used.|
+|input_type|String|Three options: &quot;BAM&quot;, &quot;CRAM&quot;, or &quot;FASTQ&quot; (Default: &quot;FASTQ&quot;)|
+|aligned|Boolean|Set TRUE if UMI consensus sequencing building ArCH_Alignment.wdl was done prior to pipeline, FALSE if unaligned|
+|target_intervals|File|Interval list for the sequencing panel|
+
+<h3>Sequence and UMI Information</h3>
+| Variable | Type | Definition |
+| --- | --- | --- |
+|platform|String|PL Tag for BAM Metadata e.g. NovaSeq6000, NovaSeqX, etc...|
+|platform_unit|String|PU Tag for BAM Metadata e.g. the specific sequencing machine used e.g. FlowCellID_LaneX|
+|library|String|LB Tag for BAM Metadata e.g. ArcherDX VariantPlex, MGI, IlluminaWES|
+|has_umi|Boolean|Set TRUE if the sequencing data has UMIs, FALSE if it does not|
+|umi_paired|Boolean?|Set TRUE if the sequencing data has paired UMIs, FALSE if it does not|
+|where_is_umi|String|Three options: Use &quot;N = If the UMI is already in the sequence name&quot;, &quot;R = If the UMI is contained within the read&quot;, or &quot;T = If the UMI has already been tagged&quot;|
+|read_structure|Array[String]|https://github.com/fulcrumgenomics/fgbio/wiki/Read-Structures|
+|min_reads|Array[Int]|Minimum number of reads that constitutes a &quot;read family&quot; (Default: 1)|
+
+<h3>Consensus Building</h3>
+| Variable | Type | Definition |
+| --- | --- | --- |
+|min_base_quality|Integer|During consensus building, any base with a QUAL less than this value is masked with an N (Default: 1)|
+|max_base_error_rate|Float?|During consensus building, if this percent of the bases within a &quot;read family&quot; do not match, the base is masked with an N (Default: 0.1)|
+|max_read_error_rate|Float?|During consensus building, if this percent of the reads within a &quot;read family&quot; do not match, the entire family is removed (Default: 0.05)|
+|max_no_call_fraction|Float|During consensus building, the maximum fraction of no-calls (N) within the read after filtering allowed (Default: 0.5)|
+
+<h3>Reference</h3>
+| Variable | Type | Definition |
+| --- | --- | --- |
+|reference|File|Reference|
+|reference_fai|File|Reference FAI|
+|reference_dict|File|Reference Dictionary|
+|reference_amb|File|Reference AMB|
+|reference_ann|File|Reference ANN|
+|reference_bwt|File|Reference BWT|
+|reference_pac|File|Reference PAC|
+|reference_sa|File|Reference SA|
+
+<h3>Quality Control</h3>
+|Variable|Type|Definition|
+|---|---|---|
+|apply_bqsr|Boolean|Set TRUE if Base Quality Score Recalibration should be applied, FALSE if it should not (Default: False)|
+|bqsr_known_sites|Array[File]|A series of VCF denoted sites in which have known variation to avoid confusing real variation with errors. Can be downloaded from: https://console.cloud.google.com/storage/browser/genomics-public-data/resources/broad/hg38/v0/|
+|bqsr_known_sites_tbi|Array[File]|The index for the VCFs within bqsr_known_sites|
+|af_only_snp_only_vcf|File|A VCF file that contains specific SNPs sites of interest, used for Somalier. Can be from https://github.com/brentp/somalier/releases/tag/v0.2.15|
+
+<h3>Variant Callers</h3>
+|Variable|Type|Definition|
+|---|---|---|
+|tumor_only|Boolean|Set TRUE if the analysis will be done using only Tumor samples without matched normals, FALSE if there is a matched normals are available|
+|af_threshold|Float?|Optional minimum VAF cut-off (Default: 0.0001)|
+|bcbio_filter_string|String|https://github.com/bcbio/bcbio-nextgen/blob/master/bcbio/variation/vardict.py#L251|
+
+<h3>Filtering Parameters</h3>
+|Variable|Type|Definition|
+|---|---|---|
+|pon_bams|Array[Pair[File, File]]|The Panel of Normal Aligned BAMs generated in the Panel of Normals step and their associated index files|
+|pon_pvalue|Float|Minimum Bonferroni corrected p-value for Fisher's Exact Test of the Panel of Normals (Default: 2.114164905e-6)|
+|normalized_gnomad_exclude|File|Filtered gnomAD VCF with VAFs higher than 0.5%
+|normalized_gnomad_exclude_tbi|File|Filtered gnomAD VCF index|
+|mutect_pon2_file|File|Mutect2 called variants from PoN BAMs that are found in two or more samples above 2% VAF|
+|mutect_pon2_file_tbi|File|Mutect2 called variants from PoN BAMs index|
+|lofreq_pon2_file|File|Lofreq2 called variants from PoN BAMs that are found in two or more samples above 2% VAF|
+|lofreq_pon2_file_tbi|File|Lofreq2 called variants from PoN BAMs index|
+|vardict_pon2_file|File|VarDictJava called variants from PoN BAMs that are found in two or more samples above 2% VAF|
+|vardict_pon2_file_tbi|File|VarDictJava called variants from PoN BAMs index|
+
+<h3>VEP Annotation Parameters</h3>
+|Variable|Type|Definition|
+|---|---|---|
+|vep_cache_dir_zip|File|The VEP cache directory in ZIP format|
+|vep_plugins|Array[String]|List of plugins to be used in VEP (Default: &quot;Frameshift&quot;, &quot;Wildtype&quot;)|
+|synonyms_file|File?|Optional file of chromosome synonyms, leave blank if not used.|
+|annotate_coding_only|Boolean?|Set TRUE if VEP should return consequences that fall within the coding only regions of the transcript, FALSE if all consequences should be returned|
+|clinvar_vcf|File|Clinvar VCF file|
+|clinvar_vcf_tbi|File|Clinvar VCF index|
+
+<h3>Putative Driver Annotation Parameters</h3>
+|Variable|Type|Definition|
+|---|---|---|
+|bolton_bick_vars|File|Pathogenic CH Variants found in Bolton et al. (2020) Nature Genetics and Bick et al. (2020) Nature|
+|mut2_bick|File|Subset of bolton_bick_vars containing VEP type annotations from Bick et al. (2020) Nature|
+|mut2_kelly|File|Subset of bolton_bick_vars containing VEP type annotations from Bolton et al. (2020) Nature Genetics|
+|matches2|File|Intersection of mut2_bick and mut2_kelly variants containing VEP type annotations|
+|truncating|File|Subset of bolton_bick_vars containing all truncating mutations|
+|gene_list|File|List of genes that are considered putative drivers|
+|oncokb_genes|File|List of genes that are considered putative drivers from OncoKB|
+|oncokb_api_key|String|API Key for OncoKB: https://www.oncokb.org/account/settings|
+|cosmic_dir_zip|File|COSMIC Counts Files in ZIP format|
+
+<h3>BCBio Filter Parameters</h3>
+According to BCBIO, VarDict has multiple false positive calls at regions of low depth and allelic fractions. These are the <a href="https://github.com/bcbio/bcbio-nextgen/blob/master/bcbio/variation/vardict.py#L251">default</a> parameters recommended by BCBIO. However, we have found that these parameters are too stringent for our purposes and have modified them to the following:
+
+<pre><code>- Low mapping quality and multiple mismatches in a read (NM)
+  For bwa only: MQ &lt; 55.0 and NM &gt; 1.0 or MQ &lt; 60.0 and NM &gt; 3.0
+- Low depth (DP &lt; n) where n is calculated as 0.25 of the average read depth e.g. If the average read depth is 20,000 bp, then the n is 5000
+- Low QUAL (QUAL &lt; 27)
+</code></pre>
+<h2>Output</h2>
+|File|Description|
+|---|---|
+|sample.bam|Aligned BAM file|
+|sample.bam.bai|BAM index file|
+|sample_fastqc.html|FASTQC report for the aligned BAM file|
+|sample_fastqc.zip|FASTQC zip file for the aligned BAM file|
+|sample.somalier|Somalier output file|
+|variant_caller.sample.vcf.gz|Base variant calls from the callers without any filtering|
+|variant_caller.sample.pileup.fisherPON.fp_filter.VEP.vcf.gz|Variant calls after being annotated with the PoN, FP filters, and VEP|
+|variant_caller.sample.pileup.fisherPON.filtered.fp_filter.VEP.vcf.gz|Variant calls after being annotated with the PoN, FP filters, VEP and filtered by the Bonferroni corrected p-value|
+|all_callers.sample.fpfilter.vcf.gz|Results from Varscan's FP Filter on ALL of the variants found for every variant caller in VCF Format|
+|sample.pon.total.counts.vcf.gz|Results from the PoN Pileup. Contains information regarding the reference depth, alternate depth, depth for strand, etc.|
+|variant_caller.sample.pileup.fisherPON.filtered.fp_filter.VEP.tsv|Variant calls after being annotated with our putative driver annotation script|
+|sample.final.annotated.tsv|The FINAL output file that contains all merged information from the pipeline|
+
+<h2>Post Pipeline Steps</h2>
+After the pipeline has finished running there should be several files that are generated. The final output file would be <code>${sample_name}.final.annotated.tsv</code>. All of these files generated for all the samples should be combined together into a final file using the following command
+
+<pre><code># Grab the header from one of the output files
+cat ${sample_name}.final.annotated.tsv | head -n1 &gt; final.combined.tsv
+
+# Merge all output files together
+for dir in $(ls -d */); do
+  zcat $dir/${sample_name}.final.annotated.tsv | tail -n+2 &gt;&gt; final.combined.tsv;
+done
+
+# If the resulting file is too large, we can pre-filter the results prior to running our post filtering script
+# Find the relative index position for the &quot;all_fp_pass&quot; filter
+head -n1 final.combined.tsv | awk -F'\t' -vs='all_fp_pass' '{for (i=1;i&lt;=NF;i++)if($i~&quot;^&quot;s&quot;$&quot;){print i;exit;}}'
+
+# For all of the output files, only keep the variants that had passed all our applied filters via checking the &quot;all_fp_pass&quot; column
+# In this case, our column is index position 170
+for dir in $(ls -d */); do 
+  zcat $dir/${sample_name}.final.annotated.tsv | tail -n+2 | awk -F'\t' '{if($170==&quot;TRUE&quot;)print $0}' &gt;&gt; final.combined.FPpass.tsv; 
+done
+
+# Now the resulting final.combined.FPpass.tsv can be used as an input into our ArCHPostPipeline.R which can be run from this docker: kboltonlab/r_docker_ichan:latest
+LC_ALL=C.UTF-8 Rscript --vanilla ArCHPostPipeline.R --tsv final.combined.FPpass.tsv --bolton_bick_vars AnnotatePD_Files/bick.bolton.vars3.txt --gene_list AnnotatePD_Files/oncoKB_CGC_pd_table_disparity_KB_BW.csv --cosmic AnnotatePD_Files/COSMIC.heme.myeloid.hotspot.w_truncating_counts.tsv --pd_table AnnotatePD_Files/pd_table_kbreview_bick_trunc4_oncoKB_SAFE.filtered_genes_oncoKB_CGC.tsv
+</code></pre>
+The output from ArCHPostPipeline.R will produce three output files:
+|File|Description|
+|---|---|
+| final.all.csv | All variants that passed all post pipeline filters with additional annotations |
+| final.pass.csv | Variants that passed all post pipeline filters and have been identified as potential CH variants that are putative drivers |
+| final.review.csv | Variants that passed all post pipeline filters and could potentially be CH variants that are putative drivers, but need to be manually reviewed by an expert |
+
+<h2>Limitations | TODO</h2>
+
+VEP Annotations are hardcoded to work with the v109 cache be consistent so additional plugins or lack of plugins will cause issues with downstream annotation
+
+<h2>Contact Information</h2>
+Created by: Irenaeus Chan 
+Email: chani@wustl.edu 
+
+
+Contents:
+ - github.com-kbolton-lab-ArCH-ArCH-PoN2_v2.2.0.zip

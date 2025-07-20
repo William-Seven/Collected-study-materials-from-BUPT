@@ -1,0 +1,19 @@
+Title: Supplementary Data for: Debugging with Flexible Snapshot Creation for Code Cities
+
+Authors: Damerau, Lukas, Hansen, Malte, Hasselbring, Wilhelm
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - survey_archive_276134.lsa
+ - limesurvey_survey_276134.lss
+ - survey_276134_en.xml
+ - archive.tar
+ - video.mp4
+ - limesurvey_survey_276134.txt
+ - printable_survey_Debugging with Dynamic Snapshot Creation in ExplorViz _276134.zip

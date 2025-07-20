@@ -1,0 +1,25 @@
+Title: Denormalized occurrence table of the Paleobiology Database
+
+Authors: The Paleobiology Database Community
+
+Keywords: paleobiology, data, fossil, occurrences
+
+Publication date: 2025-05-26
+
+Description:
+
+<strong>Comprehensive denormalized occurrence table built with the API of the Paleobiology Database </strong> (<a href="http://paleobiodb.org/">http://paleobiodb.org/</a>). Archived for the Chronosphere project by Ádám T. Kocsis.
+ 
+
+Downloaded on 2025-05-26 with the API call:
+
+<code>https://paleobiodb.org/data1.2/occs/list.csv?datainfo&amp;rowcount&amp;interval=Ediacaran,Holocene&amp;show=class,classext,genus,subgenus,coll,coords,loc,paleoloc,strat,stratext,lith,env,ref,crmod,timebins,timecompare,refattr,entname,attr,ident,img,plant,abund,ecospace,taphonomy,etbasis,pres,prot,lithext,geo,methods,resgroup,refattr,ent</code>
+
+Contents:
+ <ul><li><code>pbdb_occs.rds</code>: occurrence table in binary R data file.</li><li><code>pbdb_parquet.zip</code>: occurrence table, zipped parquet file</li><li><code>pbdb_csv.zip</code>: occurrence table, zipped csv file</li><li><code>metadata.txt</code>: The metadata of the download.</li></ul>
+
+Contents:
+ - metadata.txt
+ - pbdb_parquet.zip
+ - pbdb_occs.rds
+ - pbdb_csv.zip

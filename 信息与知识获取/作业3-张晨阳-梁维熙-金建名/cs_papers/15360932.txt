@@ -1,0 +1,21 @@
+Title: Machine learning / Deep learning (ML/DL) calibration scripts to improve S2S monsoon wind speed forecasts from numerical models over India
+
+Authors: Das, Aheli
+
+Keywords: 
+
+Publication date: 2025-05-07
+
+Description:
+<strong>Calibration_scripts.rar</strong>
+
+Contains scripts to calibrate raw S2S 10 m wind speed forecasts using Random forest and Convolutional neural network.
+
+<strong>MMCFSv1_forecasts.rar</strong>
+
+Contains March initialised MMCFSv1 10 m wind speed forecasts of June, July, August, September for the period 1981-2016 over India.
+
+
+Contents:
+ - MMCFSv1_forecasts.rar
+ - Calibration_scripts.rar

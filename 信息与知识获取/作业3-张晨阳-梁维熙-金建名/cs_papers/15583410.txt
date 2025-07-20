@@ -1,0 +1,14 @@
+Title: Kinematics of Machinery
+
+Authors: Mr. B. Arul Kumar, Dr. R. Selvam, Dr. S. Vijayan, Prof. B. S. Kakol
+
+Keywords: Kinematics, Machinery
+
+Publication date: 2025-05-15
+
+Description:
+<strong>Kinematics of Machinery</strong> is a foundational textbook that systematically explores the analysis and design of mechanisms and motion-transmitting machine elements&mdash;central to mechanical and mechatronics engineering. The book begins with fundamental concepts, including the classification of mechanisms, degrees of freedom, kinematic pairs, and chains. It introduces the geometric and mathematical basis of motion through principles like Grashoff&rsquo;s Law and Kutzbach&rsquo;s Criterion. Key mechanisms such as four-bar linkages, slider-crank arrangements, and inversions are thoroughly examined to illustrate motion transformation and mechanical advantage. Advanced chapters focus on the kinematic analysis of linkage systems, cam mechanisms for controlled motion, and the design of gear trains for power transmission. A dedicated section covers the role of friction in machine elements like clutches, bearings, brakes, and screw threads. The text also discusses straight-line motion generators and universal joints, blending both exact and approximate techniques. Rich with illustrations, real-world applications, and step-by-step derivations, this book serves as a complete guide for students, educators, and practicing engineers aiming to master the theory and application of machine kinematics.
+
+
+Contents:
+ - Quill tech-Kinematics of machinery.pdf

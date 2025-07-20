@@ -1,0 +1,14 @@
+Title: Air Script : Deciphering Text from Finger Gesture
+
+Authors: Satheesh Kumar D, Devi V
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+This paper presents Air Script, an innovative multi model handwriting recognition system that combines computer vision and machine learning to interpret airborne gestures and recognize handwritten characters. Air Script captures and analyzes hand movements, allowing users to write in mid-air, while also incorporating a character recognition module to identify and transcribe individual characters. The system consists of two primary components: (1) gesture recognition, utilizing convolutional neural networks (CNNs) to classify airborne gestures, and (2) character recognition, employing recurrent neural networks (RNNs) to recognize and transcribe handwritten characters. Experimental results demonstrate the system's accuracy and usability, showcasing its potential applications in virtual and augmented reality, accessible technology, and intelligent writing systems. AirScript contributes to the advancement of gesture-based human-computer interaction and handwriting recognition, offering a novel approach to seamless and intuitive writing experiences
+
+
+Contents:
+ - 7-MRJ1531.pdf

@@ -1,0 +1,15 @@
+Title: scooby: Modeling multi-modal genomic profiles from DNA sequence at single-cell resolution - Training data
+
+Authors: Hingerl, Johannes, Martens, Laura Doree
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Scooby training data
+
+
+Contents:
+ - training_data.zip

@@ -1,0 +1,14 @@
+Title: Deliverable D4.2: Collected reports on the learning paths for data professionals
+
+Authors: Wildgaard, Lorna, Derksen, Benjamin
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+This is the final deliverable for Skills4EOSC, WP4 Curricula and learningpaths for Open Science ready institutions, T.4 Learning Paths for DataProfessionals.The deliverable is an executive summary referencing reports ofLearning Paths developed in T4.2. These reports contain detaileddescriptions of the learning paths, the content covered, feedback fromlearners, recommendations for revisions to the learning materials andalignment with diverse MVS profiles for skills and competences for dataprofessionals.These reports are framed by an introductory executive summary (a&lsquo;cape&rsquo;) in which we briefly describe our approach to designing thelearning paths, problems encountered and additional disseminationopportunities.
+
+
+Contents:
+ - Skills4EOSC_4_2_Final_Deliverable.pdf

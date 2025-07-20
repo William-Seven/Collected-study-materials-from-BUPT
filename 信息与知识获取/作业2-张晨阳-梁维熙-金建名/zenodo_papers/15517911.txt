@@ -1,0 +1,21 @@
+Title: Change point detection method for estimating the remaining useful lifetime of engine filters
+
+Authors: Noot, Jean-Pierre, Martin, Mikaël, Birmele, Etienne
+
+Keywords: 
+
+Publication date: 2025-05-19
+
+Description:
+
+Predictive maintenance aims to anticipate component failures in order to replace the components at the optimal time. In this context, methods for estimating the remaining useful life (RUL) of engine filters are being developed at Liebherr Component Colmar.
+
+The pressure signals upstream and downstream of the filters are measured by test bench sensors, allowing to obtain a time series for the pressure difference across the filter, denoted by the differential pressure, Delta_P. The pressure drop is considered as the best indicator of the filter's status in terms of clogging. The visual analysis of such time series shows two phases of distinct behavior. In a first period corresponding to a healthy filter, the Delta_P oscillates around a filter-dependent constant value. At some point, however, the Delta_P shows an inflexion and starts a growth trajectory of increasing slope until clogging.
+
+The method presented is two-fold, combining a change point detection algorithm to identify the inflexion with a RUL-estimation model during the second phase. The cumulative sum control chart (CUSUM) algorithm is a widely used and robust algorithm to detect changes of average value in times series. It relies on the computation of a likelihood-based score that tells how far observations are from a reference model. This score moreover grows cumulatively when successive observations deviate from the reference model. The first step of the proposed method is an adaptation of that procedure, based on linear model likelihoods, to detect changes in slope when considering time windows of the Delta_P. Using the inflexion point identified by the CUSUM algorithm, a polynomial/exponential curve fit is then applied to the Delta_P curve to predict its future values. This allows a prediction of the RUL which is defined as the remaining time left before the Delta_P reaches a pre-defined level considered as filter clogging.
+
+The developed method has the advantage to be online, not to rely on a nominal mean value for the Delta_P, and to be computationally frugal as it relies only on linear models and polynomial fits. Those characteristics make it a good candidate for an embarked system ringing an alarm several days before a clogging occurs. It however depends on several parameters (reference slope, window size, score threshold used for inflexion detection, degree of the polynomial fit) that must be optimized. Training and test data obtained on bench engines at Liebherr Component Colmar are used to learn those parameters and evaluate the resulting performance.
+
+
+Contents:
+ - CIMAC_paper_471.pdf

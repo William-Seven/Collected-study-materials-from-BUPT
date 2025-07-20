@@ -1,0 +1,14 @@
+Title: Explainable deep learning for stratified medicine in inflammatory bowel disease
+
+Authors: Raimondi, Daniele, Moreau, Yves, FARISELLI, PIERO, Verplaetse, Nora
+
+Keywords: genome interpretation
+
+Publication date: 2025-06-03
+
+Description:
+Code accompanying the article "Explainable deep learning for stratified medicine in inflammatory bowel disease" by Verplaetse, N et al.
+
+
+Contents:
+ - noraver-stratifiedibdgi-78857feed694.zip

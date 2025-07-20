@@ -1,0 +1,16 @@
+Title: Growth response of Norway spruce trees to selection harvest in continuous cover forestry stands on drained boreal peatlands
+
+Authors: Helama, Samuli, Heikkinen, Juha, Lehtonen, Aleksi, Mäkipää, Raisa
+
+Keywords: 
+
+Publication date: 2025-05-13
+
+Description:
+
+This is a supplementary item to a scientific study entitled 'Growth response of Norway spruce trees to selection harvest in continuous cover forestry stands on drained boreal peatlands'. The files available here include the data and R-code that can be used to re-run the analyses.
+
+
+Contents:
+ - tree_rings.xlsx
+ - ThinningResponseModel.R

@@ -1,0 +1,19 @@
+Title: Primena jezičkih tehnologija u izdvajanju višečlanih leksičkih jedinica iz teksta udžbenika
+
+Authors: Dinić Marinković, Milica, Stanković, Ranka, Ikonić Nešić, Milica
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<p dir="ltr">Iako ispitivanja vokabulara u obaveznim &scaron;kolskim udžbenicima traju već čitav vek, &nbsp;počev&scaron;i od pokreta &bdquo;Kontrole vokabulara&ldquo; i prvih merenja čitljivosti teksta u SAD-u 20-ih godina XX v, nevelik broj istraživača se bavio ovim pitanjem, i ciljevi postavljeni pre jednog veka jo&scaron; uvek nisu postignuti. Glavni razlozi za ovo stanje su (1) skrajnuta pozicija leksikona u okviru lingvistike tokom većeg dela XX v, i (2) mukotrpnost i dugotrajnost procesa (p)opisa jedinica rečnika udžbenika. Ipak, uticaj Korpusne revolucije (i) na (fundamentalna) lingvistička istraživanja, kao i izrazito ubrzan razvoj jezičkih tehnologija, danas nam omogućavaju da analiza vokabulara udžbenika obuhvati sve relevantne jedinice rečnika, i da bude izvedena u optimalnom roku.&nbsp;
+
+<p dir="ltr">Budući da specifičnost jezika udžbenika rezultira velikim brojem netipičnih leksičkih jedinica u vokabularu udžbenika, predmet ovog rada su vi&scaron;ečlane leksičke jedinice u udžbenicima geografije za drugi ciklus obaveznog obrazovanja u R. Srbiji. Iako je nepobitna naučna činjenica da su vi&scaron;ečlane leksičke jedinice ravnopravne jedinice rečnika, ovaj aspekt vokabulara i dalje ostaje nedovoljno reprezentovan i neuvažavan u istraživanjima koja se tiču leksičkog znanja, pa i u analizi vokabulara udžbenika.
+
+
+U radu predstavljamo rezultate primene metoda i alata za automatsku obradu teksta u izdvajanju: (1) vi&scaron;ečlanih leksičkih jedinica (eng. MWU i MWE) metodom predstavljenom u Stanković i sar. (2016), (2) termina alatom Leximir, i (3) imenovanih entiteta (eng. NER) modelom sr_pln_tesla_j355. Podatke dobijene automatskom obradom poredimo sa rezultatima ručne obrade sprovedene nad istim korpusom (Dinić Marinković, 2017). U delu specijalizovanog vokabulara utvrđene su razlike koje potiču od različitog načina definisanja opsega leksičkih slojeva u njegovom sastavu, dok zanimljive rezultate nalazimo u delu izdvajanja MWE, gde su automatskom analizom izdvojene jedinice koje nisu bile u fokusu istraživača tokom ručnog popisa vokabulara udžbenika, a od značaja su za precizan opis vokabulara udžbenika.
+
+
+Contents:
+ - alt - 8 Primena jezičkih tehnologija u izdvajanju višečlanih leksičkih jedinica.pptx

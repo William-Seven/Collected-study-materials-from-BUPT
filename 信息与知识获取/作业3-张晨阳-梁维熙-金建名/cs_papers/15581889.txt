@@ -1,0 +1,14 @@
+Title: AL-ASSISTED LANGUAGE LEARNING AND STUDENT AUTONOMY
+
+Authors: Masharipova, Shoxida, Aminboyeva, Guloy
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+<span lang="EN-US">This article explores the impact of Artificial Intelligence (AI) technologies on language learning and the enhancement of student autonomy. It examines how AI-assisted tools such as intelligent tutoring systems, chatbots, and adaptive learning platforms facilitate personalized learning experiences, enabling learners to take greater control of their educational process. The study highlights the benefits and challenges of integrating AI in language education, emphasizing the role of autonomous learning in improving language proficiency, motivation, and learner engagement. Finally, it discusses practical strategies for educators to effectively implement AI tools to foster independent learning skills in students.</span>
+
+
+Contents:
+ - Ilm-fan 1918.pdf

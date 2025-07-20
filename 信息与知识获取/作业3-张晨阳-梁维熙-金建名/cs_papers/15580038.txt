@@ -1,0 +1,13 @@
+Title: Adaptive Gradient Scaling for Federated Learning with Non-IID Data and Privacy Preservation
+
+Authors: Carver, Elodie
+
+Keywords: 
+
+Publication date: 2025-05-30
+
+Description:
+N/A
+
+Contents:
+ - Adaptive+Gradient+Scaling+for+Federated+Learning+with+Non-IID+Data+and+Privacy+Preservation.pdf

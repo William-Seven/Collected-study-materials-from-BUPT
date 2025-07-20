@@ -1,0 +1,15 @@
+Title: The Natural Language Processing Axioms in Classical Tamil for Zonal Dialects using Machine Learning
+
+Authors: Perumal Sivaraman
+
+Keywords: (must be 3-5), Zonal Dialects, Machine Learning, Naïve Bayes
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract:</strong> Studying Natural Language Processing (NLP) for Classical Tamil and its Zonal Dialects using Machine Learning (ML) involves unique challenges and opportunities. Classical Tamil, one of the oldest languages with a rich literary heritage, differs significantly in syntax, semantics, and phonetics from its modern dialects. Addressing these differences requires incorporating linguistic axioms and cultural nuances into NLP systems. This deals with Tamil letters, Challenges, Future directions, and Lexical Differences. It also includes parsers and tokenisation. Lists the differences between Morphemes, Bounded Morphemes in terms of Tamil as a Natural Language processing&mdash;dictionary form of the words used in Lemmatizations. Stemming reduces the words, and Tamil is represented as a short sentence, comparing the differences in the Tamil dialect taken and represented. The methodology used is Clustering algorithms, which can group zonal dialects based on phonetic and semantic similarities using a Na&iuml;ve Bayes classifier. We are using speechto-text to identify the Tamil dialect. This zonal dialect is essential in entertainment, education, information, and business. More Exploration can be done using Zonal dialects in Classical Tamil. Machine learning plays a role in classification, Grouping, and Segmenting Natural Language processing. We have different dialects in the Single Language Tamil for a single word in Natural Language Processing. Encourages local people to communicate fluently in terms of transactions. Preserving local traditions and customs is the advantage of Zonal Dialects. It can be used in interviews, recordings, written and spoken texts, and debates. Linguistic Diversity, preservation of History, and Cultural Identity are the significant concerns in Zonal dialects using classical Tamil.
+
+
+Contents:
+ - F109614060525.pdf

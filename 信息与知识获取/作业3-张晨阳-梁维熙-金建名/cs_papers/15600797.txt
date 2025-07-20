@@ -1,0 +1,14 @@
+Title: Violence Detection System
+
+Authors: Gadekar, Prof. Prakash, Rane, Dhruv, Shaikh, Mohiuddin, Patil, Harshdip
+
+Keywords: Convolution Neural Network, Long Short-Term Memory, Machine Learning, Surveillance Systems, Artificial Intelligence.
+
+Publication date: 2025-06-05
+
+Description:
+<em><span lang="EN-US">The increasing prevalence of violent incidents in public spaces has created a pressing need for intelligent surveillance systems capable of real-time violence detection. Traditional manual monitoring methods are often inefficient and error-prone, emphasizing the necessity for automated solutions that can quickly identify and respond to violent behaviours. This project addresses this issue by developing a violence detection system using advanced computer vision and machine learning techniques to analyse video footage and detect violent activities. The system aims to enhance public safety by providing an automated mechanism for identifying violent events in surveillance videos through a combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks, which extract spatial and temporal features from video frames&mdash;CNNs capturing spatial patterns and LSTMs analysing dynamic temporal sequences. Overall, the proposed system offers a robust and efficient approach to improving public security by automating violence detection, thereby enhancing response times and reducing dependence on manual monitoring. Future improvements may involve incorporating multi-modal data sources, such as audio and sensor inputs, to further boost detection accuracy and system reliability.</span></em>
+
+
+Contents:
+ - 4-2-30-Prakash Gadekar-Dhruv Rane-Mohiuddin Shaikh-Harshdip Patil.pdf

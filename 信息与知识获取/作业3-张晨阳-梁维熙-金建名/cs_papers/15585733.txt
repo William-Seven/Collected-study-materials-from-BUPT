@@ -1,0 +1,14 @@
+Title: Raising Cybersecurity Awareness in a Engaging Way: How Gamification and AI Tips Can Help Social Media Users Stay Safe from AI Threats, Supported by Cyber Law
+
+Authors: Piyush Alhad Gandhi
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+This paper investigates ways to help social media users stay safe from AI-driven threats like deepfakescams and automated phishing. We focus on making learning about cybersecurity more engaging throughgames and subtle AI nudges that encourage better decisions. Our approach combines fun, game-like lessonswith AI techniques to boost people's awareness and judgment online. To test this, we conducted a study with200 social media users, comparing regular cybersecurity training to our gamified method. The resultsshowed that those using our approach detected threats 35% more effectively and reduced risky behaviors by25%. We also explore how current cyber laws protect users and hold platforms accountable. The paperdiscusses challenges like keeping users engaged and addressing legal gaps, and suggests scalable ideas forsocial media sites. Finally, this research shows that mixing game elements, AI, and legal systems can builda more proactive cybersecurity mindset among users.&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P227.pdf

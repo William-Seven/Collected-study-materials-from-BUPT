@@ -1,0 +1,30 @@
+Title: Experimental Campaign for Dynamic Characterization of a Laboratory-Scale Structure
+
+Authors: Brambilla, Matteo, Dertimanis, Vasilis, Chatzi, Eleni, Chiariotti, Paolo, Cigada, Alfredo
+
+Keywords: Experimental Modal Analysis, Structural dynamics
+
+Publication date: 2025-05-26
+
+Description:
+<h1>Description:</h1>
+
+This dataset originates from a dynamic experimental campaign on a laboratory-scale four-story structure conducted at ETH Z&uuml;rich. The aim is to provide high-quality measurements for structural dynamic analysis, including both undamaged (baseline) and artificially damaged conditions. Tests include experimental modal analysis (EMA) under impact excitation and dynamic tests under random excitation using a six degrees-of-freedom shaking table. Data are provided in MATLAB format and organized into impact and random excitation folders, with subfolders for piezoelectric accelerometer and DMM measurements. For details on test setup, sensor configuration, data structure, and usage guidelines, please refer to the accompanying PDF document <em>LabStructure_DynamicTestsOverview_DatasetGuide</em>.
+
+<h1>Please consider citing this dataset as:</h1>
+
+Brambilla, M., Dertimanis, V., Chatzi, E., Chiariotti, P., &amp; Cigada, A. (2025).&nbsp;<em>Experimental Campaign for Dynamic Characterization of a Laboratory-Scale Structure</em> [Dataset]. Zenodo. <a target="_new" rel="noopener">https://doi.org/10.5281/zenodo.15516419</a>
+
+<h2>Bibtex</h2>
+
+<code>@dataset{brambilla2025experimental,</code>
+<code>&nbsp; author &nbsp; &nbsp; &nbsp; = {Brambilla, Matteo and Dertimanis, Vasilis and Chatzi, Eleni and Chiariotti, Paolo and Cigada, Alfredo},</code>
+<code>&nbsp; title &nbsp; &nbsp; &nbsp; &nbsp;= {Experimental Campaign for Dynamic Characterization of a Laboratory-Scale Structure},</code>
+<code>&nbsp; year &nbsp; &nbsp; &nbsp; &nbsp; = {2025},</code>
+<code>&nbsp; publisher &nbsp; &nbsp;= {Zenodo},</code>
+<code>&nbsp; doi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;= {10.5281/zenodo.15516419},</code>
+<code>&nbsp; url &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;= {https://doi.org/10.5281/zenodo.15516419},</code>
+<code>&nbsp; note &nbsp; &nbsp; &nbsp; &nbsp; = {Dataset}</code>
+<code>}</code>
+
+

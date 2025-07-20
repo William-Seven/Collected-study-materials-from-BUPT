@@ -1,0 +1,16 @@
+Title: Biomarker Discovery for Early Breast Cancer Diagnosis Using Machine Learning on Transcriptomic Data for Biosensor Development
+
+Authors: Mayoral-Peña, Kalaumari
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+N/A
+
+Contents:
+ - Supplementary Materials S1-S9.docx
+ - Supplementary Material S10 Additional information of the statistical analysis.pdf
+ - Supplementary Material S11.docx
+ - Supplementary material S12.xlsx

@@ -1,0 +1,14 @@
+Title: Mephisto - LLM Agent for Galaxy SED Modeling
+
+Authors: Sun, Zechang
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+We present Mephisto, a multi-agent collaboration framework that uses large language models (LLMs) as a reasoning engine to interpret multi-band galaxy observations. By interacting with the CIGALE codebase, which includes a library of spectral energy distribution (SED) models, Mephisto iteratively refines physical models to align with observations. In this open-world setting, Mephisto conducts deliberate reasoning through tree search, learns from self-play experience, and dynamically updates its knowledge base. Validated through various experiments, we demonstrate that Mephisto achieves near-human proficiency in reasoning about galaxies' physical properties, even when addressing the complex, cutting-edge research problem of ``Little Red Dot" galaxies recently discovered by the James Webb Space Telescope. Unlike previous black-box machine learning approaches in astronomy, Mephisto offers a transparent, human-like reasoning process that aligns seamlessly with current research practices. This work showcases the promising future of agent-based research in astronomy. It paves the way for fully automated, end-to-end research workflows powered by artificial intelligence and unravels new dimensions for AI-augmented scientific discoveries.
+
+
+Contents:
+ - mephisto.tar.gz

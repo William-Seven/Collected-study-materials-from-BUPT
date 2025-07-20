@@ -1,0 +1,15 @@
+Title: Small-Medium Business Enterprise Management Application
+
+Authors: Manish Andure
+
+Keywords: Financial Reporting, Digital Transformation, Small and Medium-Sized Enterprises (SMEs), Business Management App, Inventory Tracking
+
+Publication date: 2025-05-26
+
+Description:
+
+<strong>Abstract: </strong>Small and medium-sized enterprises (SMEs) form the backbone of many economies, yet they often face significant challenges in managing their operations effectively due to limited resources and technical expertise. This paper presents the design and development of the "Small-Medium Business Enterprises Manager App," a robust, cross-platform solution tailored for SMEs. The application integrates essential business management functionalities, including invoicing, expense management, and financial reporting, to provide a unified tool for business owners. With its intuitive interface, the app empowers retailers, wholesalers, and distributors to streamline sales and purchase processes, monitor product details, and generate insightful reports for better decision-making. By incorporating cloud synchronization, the app enables users to securely access and manage their business data from mobile and desktop platforms, ensuring flexibility and real-time collaboration. The study delves into the technical architecture, user experience design, and implementation challenges encountered during the app&rsquo;s development. It also evaluates the app&rsquo;s impact on operational efficiency and financial compliance through case studies and performance metrics. This research highlights the potential of technology-driven solutions in overcoming traditional business hurdles, fostering growth, and enabling SMEs to compete effectively in a dynamic marketplace. The findings underscore the importance of accessible and scalable digital tools in driving the digital transformation of small businesses.
+
+
+Contents:
+ - G179611070325.pdf

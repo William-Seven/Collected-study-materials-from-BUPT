@@ -1,0 +1,14 @@
+Title: Website Phishing Detector
+
+Authors: Mrs Varshini J, Nidhiswar B, Ravikrishna L, Rohith S, Yashwanth Babu S
+
+Keywords: Phishing detection, URL analysis, browser extension, domain verification, SSL validation, machine learning, cybersecurity
+
+Publication date: 2025-06-03
+
+Description:
+<em><span>Phishing attempts are still one of the most popular techniques to deceive customers and steal personal information, especially with the significant increase in cyberthreats.<span> </span>This project provides a browser extension-based phishing detection solution to increase user security when using the internet.<span> </span>The plugin continuously examines and assesses website URLs, data, and content to identify any phishing attempts.<span> </span>It makes use of databases of blocked URLs, machine learning techniques, and heuristic criteria to accurately identify questionable websites.<span> </span>When<span> </span>a<span> </span>threat<span> </span>is<span> </span>detected,<span> </span>users<span> </span>receive an<span> </span>immediate<span> </span>alert,<span> </span>allowing<span> </span>them<span> </span>to avoid risky<span> </span>websites.<span> </span>This<span> </span>lightweight,<span> </span>user-friendly<span> </span>plugin<span> </span>aims<span> </span>to<span> </span>provide<span> </span>a<span> </span>seamless<span> </span>and<span> </span>effective layer of security without compromising surfing speed, making it an essential tool for safer online experiences.</span></em>
+
+
+Contents:
+ - Website Phishing Detector -Formatted Paper.pdf

@@ -1,0 +1,34 @@
+Title: teMatDb v1.1.6: Thermoelectric Material Database
+
+Authors: Byungki Ryu
+
+Keywords: thermoelectric, material database, thermoelectric property, teMatDb272, Sc-ZT filter
+
+Publication date: 2025-05-26
+
+Description:
+
+**teMatDb** is a digitized thermoelectric material database constructed from literature-reported thermoelectric property curves. This release (v1.1.6) serves as the foundational dataset (*teMatDb272*) used in the teMatDb-based paper currently in preparation.
+
+
+The dataset includes:
+
+
+- 355 raw digitized thermoelectric property (TEP) curve sets &nbsp;
+- 272 high-fidelity samples curated using a self-consistent ZT filtering protocol &nbsp;
+- Temperature-dependent curves for: &nbsp;
+&nbsp; - Seebeck coefficient, &alpha;(T) &nbsp;
+&nbsp; - Electrical resistivity, &rho;(T) &nbsp;
+&nbsp; - Thermal conductivity, &kappa;(T) &nbsp;
+&nbsp; - Figure of merit, ZT(T)
+
+
+This database supports reproducible thermoelectric analysis and data-driven materials research.
+
+
+🔗 Interactive interface: [https://tematdb.streamlit.app/](https://tematdb.streamlit.app/) &nbsp;
+📦 GitHub repository: [https://github.com/byungkiryu/teMatDb](https://github.com/byungkiryu/teMatDb)
+
+
+Contents:
+ - byungkiryu/teMatDb-v1.1.6a.zip

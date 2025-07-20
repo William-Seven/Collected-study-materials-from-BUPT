@@ -1,0 +1,13 @@
+Title: Fiber Volume Content Characterization of Flax Fiber Reinforced Plastics Using Deep Learning
+
+Authors: Chavoshi, Ava, Kaufmann, Jörg, Cebulla, Holger
+
+Keywords: Flax Fiber Reinforced Plastics, Fiber Volume Content, Deep Learning Segmentation, U-Net with VGG19, Microscopy Image Analysis
+
+Publication date: 2024
+
+Description:
+N/A
+
+Contents:
+ - Fiber Volume Content Characterization of Flax Fiber Reinforced Plastics Using Deep Learning.pdf

@@ -1,0 +1,18 @@
+Title: Analyses Strategy of Information Technology and Alternative Presential Learning Process for Timor-Leste
+
+Authors: Soares Martins, Antonio
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+<span>This research focuses on analyzing the information technology strategy used during the online class due to the pandemic, or Covid-19, which affects all activities, including the learning process at the university, making it run unstable. The subject or object of research in this study was carried out in universities in the city of Dili, especially UNPAZ, ICS, IOB, and UNTL. The purpose of this study is to bring up online learning strategies for everyone who has contributed to the online learning process, especially information technology as an online platform based on the situation and conditions in Timor-Leste. There are several procedures or rules that become guidelines used to carry out online learning processes so that they can respond to emergency situations that affect precision activities that do not go well. The method used in this study is a qualitative method and conducts analysis with descriptive methods through graphs, how to collect data using triangulation methods, with combination and structured questions interviewed. The results of this study are to bring up the platform and recommendations or information technology LMS is Google Classroom by carrying out in-depth configurations on several features such as streaming, student assignments, college participants, and the last grade. For video conferences, they are advised to use the Zoom meeting used for direct explanation of the lectures to students. The bandwidth consumed is 700 kbps compared to other platforms. The features of Zoom Meeting are as follows: new meetings, join, schedule, share screen, record, and chat. The procedure or rules must conduct a training session before starting an online class to have a material guide guideline to tell the rules that have a relationship in using LMS, must participate and conduct a video conference, and must define the evaluation team to be responsible for online classes, such as the academic department and the head of the institution, who take responsibility directly or indirectly for students and colleagues.</span>
+
+&nbsp;
+
+<span>Keywords: </span><span>Online Platform, Information Technology, LMS, IES, Pandemic COVID-19</span>&nbsp;
+
+
+Contents:
+ - Analyses Strategy of Information Technology and Alternative Presential Learning Process for Timor-Leste.pdf

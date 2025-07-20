@@ -1,0 +1,15 @@
+Title: RAQAMLI TEXNOLOGIYALARNI JORIY ETISHDA XATARLARNI KAMAYTIRISH: KICHIK BIZNES UCHUN LOYIHA BOSHQARUVI YONDASHUVI
+
+Authors: Mirzaxmedov, Mirzohid
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<span lang="TR">Ushbu maqola kichik biznes korxonalarida raqamli texnologiyalarni joriy etish jarayonida yuzaga keladigan xatarlarni kamaytirish uchun loyiha boshqaruvi yondashuvlarini o'rganadi. Tadqiqot adabiyotlar tahlili asosida amalga oshirilgan bo'lib, kichik korxonalar uchun maxsus xatar boshqaruv strategiyalarini tahlil qiladi. Natijalar shuni ko'rsatadiki, samarali loyiha boshqaruvi metodologiyalari yordamida kichik biznes korxonalari raqamli transformatsiya xatarlarini sezilarli darajada kamaytirib, muvaffaqiyatli texnologik o'zgarishlarni amalga oshirishlari mumkin.</span>
+
+
+Contents:
+ - ZDIT 1724.pdf

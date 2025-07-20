@@ -1,0 +1,66 @@
+Title: Increasing Mosquito Abundance Under Global Warming
+
+Authors: Nair, Gokul
+
+Keywords: mosquito
+
+Publication date: 2024
+
+Description:
+LSTM model focused on using hydrological variables to predict mosquito populations under future climate scenarios.&nbsp; Repo includes data prep for observed climate variables and ESM simulated climate data, the LSTM model and analysis of model results. Please check READ ME first.
+
+
+Contents:
+ - Mosquito Model Complied-Copy1.ipynb
+ - Mosquito Model Complied.ipynb
+ - DaylightDataset.xlsx
+ - CMIPValues_CESM2_585_Fulldataset.xlsx
+ - Soil Moisture Code with Polygon-checkpoint.ipynb
+ - CMIPValues_CMCC_CM2_SR5_585_Fulldataset.xlsx
+ - Climate Data New 2023.ipynb
+ - CMIP Data extraction CMCC-ESM2 with Polygon.ipynb
+ - Soil Moisture Code with Polygon-Copy1.ipynb
+ - mosquito_model_T1.h5
+ - mosquito_model_T3.h5
+ - Runoff 2023-checkpoint.ipynb
+ - GTA_waterstations.csv
+ - VegetationDataPolygon.xlsx
+ - CMIPValues_CMCC_ESM2_585_Fulldataset.xlsx
+ - CMIP Data extraction Nor ESM2 With Polygon.ipynb
+ - Variable changes and IG 2024 Trial 1.ipynb
+ - CMIPValues_CMCC_ESM2_245_Fulldataset.xlsx
+ - Streamflow2023.xlsx
+ - SoilMoisturePolygon.xlsx
+ - Example Model Weights.h5
+ - CMIP Data extraction CMCC-CM2-SR5 with Polygon-checkpoint.ipynb
+ - LSTM Present and Future Simulations 1-checkpoint.ipynb
+ - Compiling Observed Data.ipynb
+ - Runoff 2023.ipynb
+ - Soil Moisture Code with Polygon-Copy1-checkpoint.ipynb
+ - Moving to CMIP Datasets Polygon-checkpoint.ipynb
+ - Compiling Observed Data-checkpoint.ipynb
+ - Vegetation Data with Polygon-checkpoint.ipynb
+ - Climate Data New 2023-checkpoint.ipynb
+ - CMIP Data extraction CESM2 With Polygon-Copy1-checkpoint.ipynb
+ - CMIP Data extraction Nor ESM2 With Polygon-checkpoint.ipynb
+ - CMIP Data extraction CESM2 With Polygon.ipynb
+ - Moving to CMIP Datasets Polygon.ipynb
+ - CMIPValues_NorESM2_MM_245_Fulldataset.xlsx
+ - LSTM Present and Future Simulations 2-checkpoint.ipynb
+ - Variable changes and IG 2024 Trial 2-checkpoint.ipynb
+ - CMIPValues_NorESM2_MM_585_Fulldataset.xlsx
+ - CMIP Data extraction CESM2 With Polygon-checkpoint.ipynb
+ - CMIP Data extraction CMCC-ESM2 with Polygon-checkpoint.ipynb
+ - GTA boundaries.zip
+ - CMIP Data extraction CMCC-CM2-SR5 with Polygon.ipynb
+ - Vegetation Data with Polygon.ipynb
+ - ClimateDataNew2023.xlsx
+ - CMIPValues_CESM2_245_Fulldataset.xlsx
+ - CMIPValues_CMCC_CM2_SR5_245_Fulldataset.xlsx
+ - CMIP Data extraction CESM2 With Polygon-Copy1.ipynb
+ - Soil Moisture Code with Polygon.ipynb
+ - Variable changes and IG 2024 Trial 1-checkpoint.ipynb
+ - ReadMe.txt
+ - LSTM Present and Future Simulations 1.ipynb
+ - mosquito_model_T2.h5
+ - mosquito_model_T4.h5

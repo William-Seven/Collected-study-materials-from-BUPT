@@ -1,0 +1,14 @@
+Title: A Digital Persuasive System to Mitigate Health Risks Associated with Prolonged Sitting and Screen Time
+
+Authors: Ikenna Kelechi, Ukabuiro, Stella Adaugo, Agomah
+
+Keywords: 
+
+Publication date: 2025-04-22
+
+Description:
+The modern digital lifestyle has contributed to a global surge in sedentary behaviour and prolonged screen exposure, significantly increasing the risk of chronic health conditions such as cardiovascular disease, obesity, musculoskeletal disorders, and mental health issues. Despite growing awareness, sustained behavioural change remains a challenge due to the lack of personalization and adaptive support in existing health interventions. This study presents the design and implementation of an intelligent health application that integrates persuasive technology and machine learning to monitor screen time and sedentary patterns while delivering tailored health-promoting interventions. The system is built upon behavioural change models, including the Fogg Behaviour Model, Health Belief Model, and Transtheoretical Model, and employs gamification, real-time feedback, and adaptive machine learning algorithms to encourage healthier habits. A mixed-methods approach was used to guide the development and evaluate user engagement, system performance, and behavioural impact. Data collected from 104 participants demonstrated a 35% improvement in break-taking habits, 97.4% accuracy in inactivity detection, and an average prompt response time of 1.2 seconds. These findings validate the system&rsquo;s capacity to drive meaningful behavioural change, offering a scalable solution to mitigate health risks in tech-driven environments. The research underscores the efficacy of combining persuasive design and data-driven personalization in promoting long-term wellness.<span>&nbsp;</span>
+
+
+Contents:
+ - 4_EJISS_Ukabuiro_Agomah.pdf

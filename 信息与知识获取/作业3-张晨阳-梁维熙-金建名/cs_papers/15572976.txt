@@ -1,0 +1,73 @@
+Title: Tuni2025 Datasets for GNSS - GPS Spoofing
+
+Authors: Ur Rahman, Syed Muneeb
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+<div>Tuni2025 Datasets for GNSS - GPS Spoofing&nbsp;</div>
+<div>&nbsp;</div>
+<div>Selected Scenarios is a curated subset of high-resolution GNSS spoofing measurement data recorded in a controlled laboratory environment at Tampere University, Finland. The dataset supports research in spoofing detection, RF signal analysis, and GNSS receiver security.</div>
+<div>&nbsp;</div>
+<div>Each scenario contains:</div>
+<div>&nbsp;</div>
+<div>A raw I/Q measurement file (approx. 30 GB, interleaved 32-bit float format)</div>
+<div>&nbsp;</div>
+<div>A scenario-specific README file documenting signal setup, spoofing conditions, and usage notes</div>
+<div>&nbsp;</div>
+<div>This release includes 9 GPS E1 signal scenarios, covering both spoofed and authentic (clear-sky) cases, true spoofer position attacks, and varying numbers of spoofers. The data was collected using a USRP-2945R software-defined radio front-end at 50 MSps sampling rate, with spoofing signals generated using a Spectracom GSG-6 GNSS simulator where applicable.</div>
+<div>&nbsp;</div>
+<div>📁 Included Scenarios</div>
+<div>&nbsp;</div>
+<div>C-5 GPS Static No Multipath True Position &ndash; Clear-sky (no spoofers) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Version-v1</div>
+<div>SS-17 GPS Static No Multipath True Position &ndash; 1 Spoofer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Version-v2</div>
+<div>SS-18 GPS Static No Multipath True Position &ndash; 2 Spoofers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Version-v3</div>
+<div>SS-20 GPS Static No Multipath True Position &ndash; 4 Spoofers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Version-v4</div>
+<div>C-7 GPS Static Multipath True Position &ndash; Clear-sky (no spoofers) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Version-v5</div>
+<div>SS-27 GPS Static Multipath True Position &ndash; 1 Spoofer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Version-v6</div>
+<div>SS-28 GPS Static Multipath True Position &ndash; 2 Spoofers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Version-v7</div>
+<div>SS-29 GPS Static Multipath True Position &ndash; 4 Spoofers &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Version-v8</div>
+<div>SS-33 GPS Delayed Spoofer Injection (All PRNs Spoofed)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Version-v9</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>🔬 Intended Use</div>
+<div>&nbsp;</div>
+<div>This dataset is intended for use in:</div>
+<div>&nbsp;</div>
+<div>GNSS spoofing detection research and algorithm development</div>
+<div>&nbsp;</div>
+<div>RF fingerprinting and signal classification</div>
+<div>&nbsp;</div>
+<div>GNSS receiver performance benchmarking</div>
+<div>&nbsp;</div>
+<div>Machine learning and statistical analysis of spoofed GNSS signals</div>
+<div>&nbsp;</div>
+<div>🛰️ Signal Type</div>
+<div>&nbsp;</div>
+<div>GPS L1 only</div>
+<div>&nbsp;</div>
+<div>🛠️ Equipment Used</div>
+<div>&nbsp;</div>
+<div>USRP-2945R software-defined radio front-end</div>
+<div>&nbsp;</div>
+<div>Spectracom GSG-6 GNSS signal simulator (used in spoofing scenarios only)</div>
+<div>&nbsp;</div>
+<div>📂 File Format</div>
+<div>&nbsp;</div>
+<div>.bin: Raw I/Q measurement (interleaved 32-bit float)</div>
+<div>.pdf: Scenario-specific README file</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>📚 Citation</div>
+<div>&nbsp;</div>
+<div>If using this dataset, please cite this:</div>
+<div>&nbsp;</div>
+<div>🔄 Additional Data</div>
+<div>&nbsp;</div>
+<div>Other scenarios and dataset extensions (e.g., multipath, dynamic spoofing, false position) may be provided upon request by the authors.</div>
+
+Contents:
+ - Clear-Sky Signal C-5.bin
+ - Readme.pdf

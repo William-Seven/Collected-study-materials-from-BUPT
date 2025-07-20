@@ -1,0 +1,26 @@
+Title: A global 100 m coastal typology dataset derived from satellite data using deep learning
+
+Authors: Calkoen, Floris Reinier
+
+Keywords: 
+
+Publication date: 2025-04-09
+
+Description:
+This dataset provides global predictions for four key dimensions of coastal typology: shore type, coastal type, presence of built environments and presence of coastal hard-defenses.&nbsp;Predictions were derived using a deep learning model trained on satellite imagery and elevation data, and applied to almost 10 million transects from the Global Coastal Transect System (GCTS) (Calkoen et al., (2025). Enabling coastal analytics at planetary scale). Each record includes the predicted class label and associated model confidence for all four tasks, along with spatial and administrative metadata cascaded from GCTS for downstream analysis.
+
+Data are stored in partitioned Parquet format, grouped by continent. For multi-class outputs, softmax probabilities are reported for each class; binary attributes are predicted using sigmoid probabilities thresholded at 0.5. Metadata fields include transect_id, centroid coordinates, bounding box, country and region names, and quadkeys.
+
+While the data is available here for download, we recommend direct access via the cloud-based STAC catalog, which supports scalable filtering and analytics. Tutorials and usage examples are available via the coastpy Python library: <a href="https://github.com/TUDelft-CITG/coastpy" target="_new" rel="noopener">https://github.com/TUDelft-CITG/coastpy</a>.
+
+Please cite the associated publication when using this dataset:Calkoen et al., 2025, <em>A global 100 m coastal typology dataset derived from satellite data using deep learning</em>, Earth System Science Data (in preparation).
+
+
+Contents:
+ - Asia.parquet
+ - Europe.parquet
+ - Africa.parquet
+ - Antarctica.parquet
+ - North_America.parquet
+ - South_America.parquet
+ - Oceania.parquet

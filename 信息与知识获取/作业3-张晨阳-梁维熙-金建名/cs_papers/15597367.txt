@@ -1,0 +1,20 @@
+Title: Cleaned Dataset for Predicting Smart City Development Index in Indonesia (2019–2021)
+
+Authors: Ramadhani, Putri Adistia
+
+Keywords: Smart City, Smart City Development Index, Machine Learning, Predictive Analytics, Urban Indicators, Indonesia, Open Data
+
+Publication date: 2025-07-05
+
+Description:
+This dataset supports the study <em>"Machine Learning-Based Prediction of Smart City Development Index in Indonesia."</em> It contains lightly pre-processed indicators from 98 cities and regencies across Indonesia between 2019 and 2021.
+
+Data was collected from official sources such as BPS-Statistics Indonesia and regional open data portals. It includes 17 variables relevant to smart city dimensions, covering aspects such as economy, infrastructure, education, public health, and access to services.
+
+The dataset has undergone basic preprocessing in the form of missing value imputation only. No normalization, transformation, or feature engineering has been applied.
+
+This dataset is intended for reproducible machine learning research and urban analytics. It is released under the CC BY 4.0 license.
+
+
+Contents:
+ - scdi_indicators_indonesia_2019_2021.zip

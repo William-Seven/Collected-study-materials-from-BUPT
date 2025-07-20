@@ -1,0 +1,15 @@
+Title: Tokenization in Financial Transactions
+
+Authors: Narendra Deshmukh
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Tokenization&nbsp;<strong>protects sensitive card data</strong>&nbsp;by replacing it with a&nbsp;<strong>unique digital code</strong>. Because of this, your real card number is never exposed in online or mobile transactions. Tokenization is widely used by banks and payment networks, especially to make shopping safer and easier. By preventing fraud and streamlining checkouts, tokenization indeed helps ensure your money and personal information stay secure. Altogether it&rsquo;s a key innovation in the evolution of digital payments, giving people more confidence to pay online.
+
+
+Contents:
+ - Tokenization in Financial Transactions.pdf

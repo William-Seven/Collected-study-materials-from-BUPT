@@ -1,0 +1,15 @@
+Title: ARMS Data management plan (D8.2)
+
+Authors: Pourkheirollah, Hamed, Niskanen, Julia
+
+Keywords: data management plan, DMP, open science, FAIR principles, Graphene Flagship
+
+Publication date: 2025-05-26
+
+Description:
+
+Deliverable D8.2 entails the data management plan (DMP) of the ARMS project. The document has been prepared in accordance with the Horizon Europe DMP guidelines. This is an updated version of the DMP originally delivered to the European Commission.
+
+
+Contents:
+ - D8.2 DMP.pdf

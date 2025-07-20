@@ -1,0 +1,12 @@
+Title: Optical imaging and machine learning to identify and enumerate early developmental stages of fish species
+
+Authors: Bowman, Micah, McManamay, Ryan, Kramer, Kurt, Arnold, William, Dean, Milton, Prangnell, David, Matthews, Michael
+
+Keywords: Small Aquatic Organism (SAO), Larval fish, Fish eggs, Machine learning, Artificial intelligence, Optical imaging
+
+Publication date: 2025-06-04
+
+Description:
+This upload consists of a zip files containing all the images used in the color and grayscale fish training libraries. Individual folders of each larval fish class contain all the images in the training library for that respective class. Each image is labeled with its actual classification. The labeled images provide a reproducible source to test and retest various classification algorithms and image decomposition approaches.
+
+

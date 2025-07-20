@@ -1,0 +1,14 @@
+Title: AI-Driven Predictive Modeling for Solar Power Generation: A Comparative Analysis of ANN and RFR Approaches
+
+Authors: Isha Bhardwaj, Saurabh Kumar Gaur, Dr.Manoj K.Sharma, Dr.Pushpneel Verma
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+PurposeForecasted solar power output acts as a fundamental requirement to develop stronger transmission techniquesand controlling procedures for electricity. Artificial Neural Networks (ANN) and Random Forest Regression(RFR) deliver the most accurate forecasting results while analyzing solar power output from meteorologicaldata according to data analysis results.MethodologyThe study utilized solar photon measurements from meteorological environments alongside wind data andtemperature values and humidity metrics with atmospheric pressure observations and cloud observation datafor research evaluation. The system achieved improved prediction capabilities by adopting different methodsof data preparation and feature engineering. Research optimization work led to superior results for both RFRand ANN method parameters. Research analysts applied Mean Squared Error (MSE) in combination withMean Absolute Error (MAE) and Root Mean Squared Error (RMSE) and R&sup2; score to evaluate the developedmodels.FindingsTests confirm RFR surpasses ANN since it maintains improved R&sup2; scores which coincide with superiorgeneralization abilities. The principal factor determining power generation forecasts from predicted dataresults from analysis of solar irradiance. RFR produced superior results than ANN because it achieved 91%testing accuracy while ANN achieved 88% accuracy.Originality/ValueThis paper enhances existing knowledge about AI-based predictive framework assessment approaches bycreating hybrid combinations between performance indicators along with sensitivity measures andhyperparameter optimization methods for solar power forecasting. Researchers must base their selection ofmachine learning approaches on their experimental outcomes for conducting energy forecasting.&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P219.pdf

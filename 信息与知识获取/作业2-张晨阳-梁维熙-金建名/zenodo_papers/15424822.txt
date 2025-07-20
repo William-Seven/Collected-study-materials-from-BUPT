@@ -1,0 +1,26 @@
+Title: Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing
+
+Authors: Akbari, Saman, Hauswirth, Manfred
+
+Keywords: Cloud computing, Function-as-a-Service, Serverless computing, Cold start
+
+Publication date: 2025-05-15
+
+Description:
+
+This repository contains the code and instructions needed to reproduce the figures and analysis from our paper "Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing," which exploits the skewed popularity of functions in production environments. Through this replication package, you can validate our analysis of function popularity distributions, latency breakdowns, and cache hit rates across different FaaS platforms.
+
+
+&nbsp;
+
+
+<strong>Abstract</strong>
+
+<blockquote>
+
+Serverless computing enables developers to deploy code without managing infrastructure, but suffers from cold start overhead when initializing new function instances. Existing solutions such as "keep-alive" or "pre-warming" are costly and unreliable under bursty workloads. We propose universal workers, which are computational units capable of executing any function with minimal initialization overhead. Based on an analysis of production workload traces, our key insight is that requests in Function-as-a-Service (FaaS) platforms show a highly skewed distribution, with most requests invoking a small subset of functions. We exploit this observation to approximate universal workers through locality groups and three-tier caching. With this work, we aim to enable more efficient and scalable FaaS platforms capable of handling diverse workloads with minimal initialization overhead.
+
+</blockquote>
+
+Contents:
+ - universal_workers.zip

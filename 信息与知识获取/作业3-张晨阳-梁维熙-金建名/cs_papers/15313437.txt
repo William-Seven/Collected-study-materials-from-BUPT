@@ -1,0 +1,18 @@
+Title: Machine learning approach for the development of new β-metastable Ti alloys best-suited for additive manufacturing
+
+Authors: Jacques, Pascal J., Jimenez-Mena, Norberto, Nutal, Nicolas, Dethier, Sarah, Choisez, Laurine, Coffigniez, Marion
+
+Keywords: 
+
+Publication date: 2025-04-30
+
+Description:
+<span lang="EN-US">It is now well established that </span><span lang="EN-US">b</span><span lang="EN-US">-metastable titanium alloys exhibit improved mechanical properties owing to the simultaneous activation of Transformation-Induced Plasticity (TRIP) and Twinning-Induced Plasticity (TWIP) effects as plasticity mechanisms, resulting in a significant increase of both the hardening capacity and the resistance to plastic localization. The relationship between the alloy chemical composition and the activated plasticity mechanisms has been based for decades on the &ldquo;d-electron design strategy&rdquo; developed by Morinaga <em>et al</em>. </span>
+
+<span lang="EN-US">We have recently proposed a new machine-learning (ML) model that combines <em>ab initio</em> calculations and an experimental dataset to predict the activated plasticity mechanisms in &beta;-Ti alloys more efficiently than the classical Bo - Md approach. </span>
+
+<span lang="EN-US">This model was used to design new </span><span lang="EN-US">b</span><span lang="EN-US">-metastable Ti alloys that are well-suited for use in additive manufacturing, particularly in aerospace applications. The adequacy of the predictions was first validated in the cast and wrought state, by measuring the mechanical properties and characterizing the evolution of the microstructures with strain. The same grades were then tested using L-PBF after casting and atomization. Different profiles of properties (maximization of strength, of ductility, &hellip;) were developed, exceeding the properties of the generic TA6V. <span>&nbsp;</span></span>
+
+
+Contents:
+ - Abstract_AAMS2025_PJacques.docx

@@ -1,0 +1,15 @@
+Title: varfish-org/clinvar-data-jsonl: clinvar-weekly-20250521
+
+Authors: varfish-bot, Manuel Holtgrewe, Till Hartmann
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This release was created automatically by GitHub Action in our CI.
+
+
+Contents:
+ - varfish-org/clinvar-data-jsonl-clinvar-weekly-20250521.zip

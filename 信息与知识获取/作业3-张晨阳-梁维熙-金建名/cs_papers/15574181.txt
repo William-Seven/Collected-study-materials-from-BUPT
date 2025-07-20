@@ -1,0 +1,14 @@
+Title: Pengembangan Media Pembelajaran Interaktif Panca Indera Manusia Berbasis Android dengan Teknologi Augmented Reality
+
+Authors: Maulana, Agam, Indarto, Indarto, Jumeilah, Fithri Selva
+
+Keywords: Teknologi, Augmented Reality, Media Pembelajaran, alat panca indra, MDLC
+
+Publication date: 2025-06-02
+
+Description:
+Kemajuan teknologi yang semakin cepat di era globalisasi saat ini tidak dapat dihindari, termasuk dalam dunia pendidikan. Penelitian ini bertujuan untuk merancang dan mengimplementasikan aplikasi Augmented Reality (AR) sebagai media pembelajaran Alat Panca Indera Manusia bagi siswa kelas 4 di SDN 231 Palembang. Tujuan dari penelitian ini adalah untuk mengimplementasikan fitur materi dan alat peraga Pengenalan Alat Panca Indera Manusia menggunakan teknologi AR pada aplikasi tersebut.Dalam tahap perancangan sistem, peneliti menggunakan metode Multimedia Development Life Cycle (MDLC) sebagai langkah pengembangan untuk membangun aplikasi AR. Dengan metode MDLC ini, peneliti dapat membangun aplikasi AR secara sistematis dan terstruktur, memastikan setiap tahap dilakukan dengan teliti untuk mencapai hasil yang optimal. Metode MDLC terdiri dari enam tahapan Concept, Design, Material Collecting, Assembly, Testing, dan Distribution.Setelah tahap pembuatan aplikasi selesai dan pengujian telah dilakukan, peneliti siap mendistribusikan dan mengimplementasikan aplikasi tersebut sebagai media pembelajaran interaktif. Aplikasi ini dirancang untuk digunakan oleh siswa kelas IV di SD Negeri 231 Palembang, dengan tujuan agar dapat dimanfaatkan secara optimal oleh para guru dan siswa di sana.Berdasarkan hasil pengujian blackbox testing pada aplikasi augmented reality &ldquo;Mengenal Panca Indera&rdquo;, dapat disimpulkan bahwa aplikasi ini menunjukkan tingkat keberhasilan 100%.
+
+
+Contents:
+ - 5 Artikel 10508.pdf

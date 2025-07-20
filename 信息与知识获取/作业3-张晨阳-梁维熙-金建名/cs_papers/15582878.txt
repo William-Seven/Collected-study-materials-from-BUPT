@@ -1,0 +1,14 @@
+Title: Classification of Coffee Bean Using CNN
+
+Authors: K Sinu, Aswin, Kurian, Rini
+
+Keywords: Coffee Bean Classification, Convolutional Neural Networks (CNNs), Data Augmentation, Streamlit.
+
+Publication date: 2025-06-03
+
+Description:
+<span>Abstract: This study offers a deep learning paradigm-based methodological framework for classifying coffee beans using convolutional neural networks (CNNs). The research starts with thorough data pretreatment and model building, making use of the TensorFlow and Keras frameworks for effective implementation. Convolutional and pooling layers, densely linked layers, and a softmax output layer for categorical classification are the many layers that make up the convolutional architecture. By means of stringent training and validation protocols, the model attains notable precision in differentiating four discrete kinds of coffee beans: Dark, Green, Light, and Medium. Additionally, smooth interaction is made possible by the model's integration into an intuitive online application that uses Streamlit to allow users to input images for real-time classification. This study provides a useful tool for the analysis and classification of coffee beans in a variety of applications and highlights the effectiveness of deep learning approaches in image classification tasks.</span>
+
+
+Contents:
+ - Classification of Coffee Bean Using CNN.pdf

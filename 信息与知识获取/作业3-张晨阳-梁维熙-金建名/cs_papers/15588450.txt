@@ -1,0 +1,21 @@
+Title: MATLAB Package for Ionogram Download and Deep Learning-Based Classification
+
+Authors: Sulaiman, Yushau M.
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+This package contains MATLAB scripts for the analysis and classification of digital ionogram images. The script <code>download_ionogram_DIDBase.m</code> enables bulk downloading of ionograms from the Global Ionosphere Radio Observatory (GIRO) database, specifically for station IL008. Users can modify the URL to download data from other stations.
+
+The script <code>pro8_NNTrain.m</code>, adapted from Okoh (2024), was modified to support RGB ionogram images of size 600&times;900&times;3. It is used to train the convolutional neural network saved as <code>net_cnn_3_output_layers.mat</code>, which classifies ionograms into three categories:(i) ESF (Equatorial Spread F),(ii) Clear, and(iii) Unidentified.
+
+The script <code>test_cnn_accuracy.m</code> evaluates the model's performance on an independent test set and displays the overall classification accuracy.
+
+
+Contents:
+ - net_cnn_3_output_layers.mat
+ - pro8_NNTrain.m
+ - test_cnn_accuracy.m
+ - download_ionogram_DIDBase.m

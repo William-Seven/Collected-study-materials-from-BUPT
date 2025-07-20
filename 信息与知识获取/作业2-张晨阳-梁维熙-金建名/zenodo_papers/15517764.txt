@@ -1,0 +1,17 @@
+Title: scooby: Modeling multi-modal genomic profiles from DNA sequence at single-cell resolution - Supplementary data and code
+
+Authors: Hingerl, Johannes, Martens, Laura Doree
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Data and code to reproduce the analyses from the study: "scooby: Modeling multi-modal genomic profiles from DNA sequence at single-cell resolution".&nbsp;
+
+
+Contents:
+ - reproducibility_data.zip
+ - scooby.zip
+ - scooby_reproducibility.zip

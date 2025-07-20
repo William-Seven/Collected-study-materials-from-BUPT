@@ -1,0 +1,14 @@
+Title: NIWorkflows: NeuroImaging Workflows
+
+Authors: Esteban, Oscar, Markiewicz, Christopher J., Goncalves, Mathias, Blair, Ross, Berleant, Shoshana L., Poldrack, Russell A., Gorgolewski, Krzysztof J.
+
+Keywords: neuroimaging, workflow, pipeline, preprocessing, MRI, BIDS
+
+Publication date: 2025-06-05
+
+Description:
+A collection of Nipype interfaces, patches and workflows for reuse in NIPreps (NeuroImaging PREProcesssing tools) such as fMRIPrep.
+
+
+Contents:
+ - nipreps/niworkflows-1.13.4.zip

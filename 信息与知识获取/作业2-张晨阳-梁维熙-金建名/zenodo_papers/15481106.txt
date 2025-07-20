@@ -1,0 +1,138 @@
+Title: Barómetro Andaluz de Marzo de 2025
+
+Authors: Fundación CENTRA
+
+Keywords: electoral behaviour, comportamiento electoral, Ciencias sociales, Ciencias políticas, opinion poll, estudio de opinión, survey, encuesta, situación sociopolítica, sociopolitical situation, política arancelaria de EEUU, US tariff policy, financiación autonómica, regional funding, conflictos internacionales, international conflicts
+
+Publication date: 2025-05-26
+
+Description:
+
+<strong>Resumen:</strong>
+
+
+Este estudio aborda, entre otras cuestiones, la opini&oacute;n de los andaluces en relaci&oacute;n con la financiaci&oacute;n auton&oacute;mica, los efectos de la pol&iacute;tica arancelaria estadounidense sobre la econom&iacute;a andaluza y los conflictos internacionales, as&iacute; como la percepci&oacute;n de la situaci&oacute;n sociopol&iacute;tica, el comportamiento electoral y la estimaci&oacute;n de voto.
+
+
+<strong>Como citar:</strong>
+
+
+Fundaci&oacute;n CENTRA (2025). Bar&oacute;metro Andaluz de Marzo de 2025 [Data set]. Centro de Estudios Andaluces. <a href="https://doi.org/10.5281/zenodo.15481106">https://doi.org/10.5281/zenodo.15481106</a>
+
+
+<strong>Datos de contacto para aclarar dudas t&eacute;cnicas:</strong>&nbsp;investigacion@fundacioncentra.es
+
+
+<strong>Financiaci&oacute;n:</strong>
+Fundaci&oacute;n Centro de Estudios Andaluces (CENTRA)
+
+
+<strong>Licencias de uso/restricciones impuestas a los datos:</strong>
+
+
+Este dataset est&aacute; publicado en acceso abierto y puede ser usado, realizando la pertinente atribuci&oacute;n a los autores. Ver todos los t&eacute;rminos y condiciones de la licencia Creative Commons que aparecen en el registro de Zenodo: <a href="https://doi.org/10.5281/zenodo.15481106">https://doi.org/10.5281/zenodo.15481106</a>
+
+
+<strong>Enlaces a publicaciones que citen o hagan uso de los datos:</strong>
+
+
+Enlace a la publicaci&oacute;n en PDF (ficha t&eacute;cnica, cuestionario, tablas de frecuencia, estimaci&oacute;n de voto y cruces bivariables de datos): <a href="https://doi.org/10.54790/barometro.202503">https://doi.org/10.54790/barometro.202503</a>
+
+
+<strong>Enlaces/relaciones con conjuntos de datos auxiliares:</strong>
+
+
+Enlace a otros bar&oacute;metros:<a href="https://doi.org/10.54790/barometro">&nbsp;https://doi.org/10.54790/barometro</a>
+
+
+<strong>Lista de ficheros</strong>:
+
+
+README_Barometro_Andaluz_Marzo_2025.txt
+* Dise&ntilde;o_de_Registro_Barometro_Andaluz_Marzo_2025.xlsx (descripci&oacute;n de los c&oacute;digos de las variables y etiquetas del archivo de datos)
+* Barometro_Andaluz_Marzo_2025.xlsx (dataset en formato XLSX)
+* Barometro_Andaluz_Marzo_2025.csv (dataset en formato CSV)
+* Barometro_Andaluz_Marzo_2025.sav (dataset en formato SAV)
+
+
+<strong>Relaci&oacute;n entre los ficheros:</strong>
+Los ficheros CSV y XLSX se han obtenido a partir del fichero SAV.
+
+
+<strong>Descripci&oacute;n de los m&eacute;todos utilizados para la recopilaci&oacute;n/generaci&oacute;n de datos:</strong>
+
+
+-&Aacute;mbito: Comunidad Aut&oacute;noma de Andaluc&iacute;a.
+-Universo: Poblaci&oacute;n de ambos sexos, de 18 a&ntilde;os y m&aacute;s, con ciudadan&iacute;a espa&ntilde;ola y residentes en cualquier municipio de Andaluc&iacute;a.
+-Dise&ntilde;o muestral: 3.600 entrevistas, realizadas mediante metodolog&iacute;a CATI aplicada a m&oacute;viles (70%) y fijos (30%).
+-Distribuci&oacute;n de la muestra: Las 3.600 entrevistas se han realizado de acuerdo con la estructura dise&ntilde;ada atendiendo al &uacute;ltimo censo de poblaci&oacute;n disponible (2023) del Instituto de Estad&iacute;stica y Cartograf&iacute;a de Andaluc&iacute;a.
+-Procedimiento de muestreo: realizado mediante un criterio de compromiso entre la afijaci&oacute;n uniforme y la proporcional. Tras asignar 200 entrevistas a cada una de las ocho provincias, el resto, hasta 3.600, se distribuye proporcionalmente seg&uacute;n la poblaci&oacute;n residente. Los estratos est&aacute;n formados por el cruce de las ocho provincias con el tama&ntilde;o de h&aacute;bitat de sus municipios, dividido en cinco categor&iacute;as: menor o igual a 10.000; de 10.001 a 20.000; de 20.001 a 50.000; de 50.001 a 100.000 y m&aacute;s de 100.000 habitantes.
+La selecci&oacute;n de individuos se ha realizado mediante una selecci&oacute;n aleatoria en cada estrato, de acuerdo con cuotas cruzadas de sexo y edad, seg&uacute;n el &uacute;ltimo Padr&oacute;n Municipal de Habitantes disponible. Los tramos de edad a emplear son: 18-24, 25-34, 35-44, 45-54, 55-64, 65-74 y 75 y m&aacute;s.
+-Error muestral: El error muestral para el total de la muestra es del &plusmn;1,63% para el 95% (p=q=50%). Los m&aacute;rgenes de error provinciales son: Almer&iacute;a, &plusmn;5,08%; C&aacute;diz, &plusmn;4,41%;C&oacute;rdoba, &plusmn;5,01%; Granada, &plusmn;4,79%; Huelva, &plusmn;5,43%; Ja&eacute;n, &plusmn;5,26%; M&aacute;laga, &plusmn;3,97%; y Sevilla, &plusmn;3,84%.
+
+
+-Trabajo de campo: del 17 de marzo al 3 de abril de 2025.
+-Direcci&oacute;n Cient&iacute;fica: Direcci&oacute;n de la Fundaci&oacute;n CENTRA.
+
+
+<strong>Procedimiento de control de calidad realizado en los datos:</strong>
+
+
+La presente investigaci&oacute;n est&aacute; visada por el Colegio Oficial de Ciencias Pol&iacute;ticas y Sociolog&iacute;a de Andaluc&iacute;a con objeto de ratificar que el proyecto est&aacute; dirigido por un/a profesional colegiado/a, garantizar la capacidad t&eacute;cnica y deontol&oacute;gica de la direcci&oacute;n del trabajo as&iacute; como establecer un control de calidad de la investigaci&oacute;n mediante la evaluaci&oacute;n externa del 20,00% de la muestra. Los trabajos de control de calidad realizados son los siguientes:&nbsp;
+-Supervisi&oacute;n Ficha T&eacute;cnica del Estudio: supervisi&oacute;n &Aacute;mbito de estudio, Universo, Tama&ntilde;o y distribuci&oacute;n de la muestra, Procedimiento de Muestreo, Error Muestra, Temporalidad y Trabajo de Campo.&nbsp;
+-Revisi&oacute;n y control de calidad Trabajo de Campo CATI: Comprobaci&oacute;n de la base de datos telef&oacute;nica empleada, Comprobaci&oacute;n del muestreo realizado por sexo, edad, provincia, tama&ntilde;o de h&aacute;bitat y c&oacute;digo postal.
+-Comprobaci&oacute;n de la correcta aplicaci&oacute;n del cuestionario: Contenido, Tiempo de realizaci&oacute;n y Sesgos.&nbsp;
+-Revisi&oacute;n de la bater&iacute;a de preguntas del cuestionario utilizado.&nbsp;
+-Revisi&oacute;n de los protocolos &eacute;ticos, anonimatos y protecci&oacute;n de datos de los/as entrevistados/as.
+
+
+<strong>Comit&eacute; Cient&iacute;fico: &nbsp;</strong>
+-Andr&eacute;s Trist&aacute;n Pert&iacute;&ntilde;ez Blasco &nbsp;
+-M&ordf; Eladia Illescas Est&eacute;vez
+-Ra&uacute;l Lucena Mart&iacute;nez &nbsp;
+
+
+<strong>Tratamiento de datos: &nbsp;</strong>
+-Rub&eacute;n Mart&iacute;n Gimeno &nbsp;
+-Ana Roc&iacute;o Andreu P&eacute;rez
+-Diego de Haro G&aacute;zquez
+
+
+<strong>Publicaci&oacute;n y divulgaci&oacute;n:&nbsp;</strong>
+-Rafael Corpas Latorre&nbsp;
+-Patricia Illana Sanmiguel
+-F. Daniel Montes Garc&iacute;a
+
+
+<strong>Informaci&oacute;n espec&iacute;fica de los datos:</strong>
+
+
+1. N&uacute;mero de variables: 75
+
+
+2. N&uacute;mero de casos/filas: 3.600
+
+
+3 Lista de variables: Consulta documento:
+Dise&ntilde;o_de_Registro_Barometro_Andaluz_Marzo_2025.xlsx
+
+
+4. C&oacute;digos de datos faltantes:&nbsp;
+
+
+-Codificaci&oacute;n de la No Respuesta Parcial: 98-No sabe; 99-No contesta.
+-Valores faltantes por filtros del cuestionario: campo vac&iacute;o.&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+Contents:
+ - Diseño_de_Registro_Barometro_Andaluz_Marzo_2025.xlsx
+ - Barometro_Andaluz_Marzo_2025.xlsx
+ - Barometro_Andaluz_Marzo_2025.csv
+ - Barometro_Andaluz_Marzo_2025.sav
+ - README_Barometro_Andaluz_Marzo_2025.txt

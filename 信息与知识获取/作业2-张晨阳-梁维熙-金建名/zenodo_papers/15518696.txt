@@ -1,0 +1,18 @@
+Title: caravagnalab/CNAqc: CNAqc v1.1.2
+
+Authors: Giulio Caravagna, Salvatore Milite, Virginia Gazziero, nicola_calonaci, riccardobergamin, AliceAntonello, Qingjian Chen (陈青建)
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Main changes:
+
+<ul>
+<li>Sequenza_cnaqc pipeline deprecated</li>
+</ul>
+
+Contents:
+ - caravagnalab/CNAqc-v1.1.2.zip

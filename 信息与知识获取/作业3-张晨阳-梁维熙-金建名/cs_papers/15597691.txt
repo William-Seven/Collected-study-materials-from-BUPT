@@ -1,0 +1,14 @@
+Title: EDUVISTAAI: INTERACTIVE AI-BASED LEARNING MANAGEMENT SYSTEM
+
+Authors: Dr. Mrs. Preeti Patil, Priyanka Patil, Pankaj Kshirsagar, Shravni Dhokare, Vishwajeet Phalke
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+<a href="https://ijetrm.com/issues/files/Jun-2025-05-1749096125-JUNE09.pdf" target="_blank" rel="noopener">EduVistaA</a>I is a web-based Learning Management System that enhances digital education through AI-poweredvideo summarization and interactive question-answering based on lecture content. The platform enablesefficient access to concise video summaries, improving students&rsquo; understanding and engagement. It supportssecure authentication, easy registration, and structured course navigation. Technologies like FFmpeg,Deepgram, Gemini 1.5 Flash, and Cloudinary are integrated to enable video processing, transcription, andsummarization. Instructors can manage courses and track student progress, while students benefit from focusedcontent and interactive doubt resolution based on video material. This research demonstrates EduVistaAI&rsquo;spotential to improve accessibility and learning outcomes in modern education.
+
+
+Contents:
+ - JUNE09.pdf

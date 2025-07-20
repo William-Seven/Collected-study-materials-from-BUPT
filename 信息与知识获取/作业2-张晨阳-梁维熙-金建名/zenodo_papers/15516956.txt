@@ -1,0 +1,15 @@
+Title: Improved Fast YOLO One-Stage Object Detection Algorithm for Detecting Objects in Images
+
+Authors: Fidelis Nfwan Gonten
+
+Keywords: Convolutional Neural Network (CNN), Object Detection, You Only Look Once (YOLO)
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>Using a Convolutional neural network (CNN) has gained wide recommendation in the research community, especially in vision systems (Object detection). Recently, CNN recorded various advancements in object detection in images with tremendous accuracy, but they still faced challenges of high time complexity. A one-stage object detection algorithm, YOLO (You Only Look Once), used for object classification and localization, performs great, especially in detecting objects in real time. In this study, we proposed an improved, fast YOLO CNN-based algorithm for detecting objects in images. We introduced hard negative mining for resampling and voting to eliminate negative samples for balancing negative and positive samples. A small convolution operation was used in exchange for the original convolution, which adjusted the parameters and effectively decreased image detection time. The proposed model outperformed Fast YOLO with a precision of 88.32% and a recall of 89.92%, conducted on smart city datasets.
+
+
+Contents:
+ - D459714040425.pdf

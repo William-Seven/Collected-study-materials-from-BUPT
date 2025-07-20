@@ -1,0 +1,14 @@
+Title: AI-Driven Personal Assistant: A No-Code  Implementation Using n8n
+
+Authors: Soni, Bhavesh, Narnolia, Chirag, Kumar, Priyanshu, Shukla, Gagan, Behera, Biswamber, Singh, Vinay
+
+Keywords: n8n, no-code, AI agent
+
+Publication date: 2025-05-28
+
+Description:
+This paper presents the developmant of AI driven personal assistant made for taking voice and text inputs from users via Telegram and processing them. This Bot is built using n8n, a no-code workflow automation platform, which integrates advanced AI models, vector databases, and specialized agents to perform tasks such as email management, calendar scheduling, and research. The assistant is made using technologies such as OpenAI, Pinecone, and ElevenLabs, to produce context-aware responses for improving user productivity. Developed as a learning project by students at Amity University Chhattisgarh, this work demonstrates the accessibility of no-code platforms in creating AI powered systems, which offers practical insights into AI-driven automation and workflow design.
+
+
+Contents:
+ - AI_driven_personal_assistant.pdf

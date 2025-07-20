@@ -1,0 +1,14 @@
+Title: Beyond Binary Trees: A Paradigm Shift in Data Search Efficiency via SRMs-Based Structures.
+
+Authors: França, Carlos
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+<strong><span>Abstract: </span></strong><span>This is the seventh paper written in the context of Infinite Series with Multiple Ratios (SRMs), driven by Generative Artificial Intelligences (GenAIs). Previous papers presented advanced mathematical challenges with no record of resolutions by humans, where some GenAIs managed to achieve success. Paper 1, which addresses computational biology, more specifically, cellular profiles, is the most notable and publicly recognized. This work will not have a mathematical challenge per se, but the socialization of the breaking of the Binary Trees (B-Tree) paradigm and its algorithmic complexity in the order of O(log n). The Heru Search Method (HSM) is another development of Infinite Series with Multiple Ratios. In this paper, you will find the main aspects involving data structures that aim to optimize binary searches, the most recognized by GenAIs being the so-called Hash Table. We will address the positive and negative aspects of adopting Hash Tables as a database management tool, particularly regarding data searches in a database based on a hash function. Data will be presented that indicate that HSM is a more versatile structure and is suitable for fulfilling functions that Hash Tables do not deliver with the desired efficiency and that traditional B-Trees consume more computational processing and execution time. It will be up to the reader to decide whether the Heru Search Method deserves an opportunity to become a product that is disseminated and used worldwide. This task was eased with the collaborative writing between humans and GenAIs, which even allows for the title of co-author of this paper.</span>
+
+
+Contents:
+ - Paper_7_Beyond_Binary_Trees_Heru_Search_Method_SRMs_vs_Hash_BTrees.pdf.pdf

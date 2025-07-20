@@ -1,0 +1,14 @@
+Title: INDUSTRY TRANSFORMATION DRIVEN BY AI: A MULTIDISCIPLINARY APPROACH TO INNOVATION AND ETHICS
+
+Authors: Mr. Chirag G. Mohature, Mr. Pranay N. Bawane, Mr. Harshal K. Khapekar, Dr. Pragati Patil
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+The goal of the quickly evolving discipline of artificial intelligence (AI) in computer science is to create machines that can replicate human cognitive functions including learning, thinking, and decision-making. In general, artificial intelligence (AI) can be divided into three categories: narrow AI, which focuses on specific tasks like virtual help or speech recognition; broad AI, which seeks to mimic the entire spectrum of human intelligence; and super AI, which is a speculative idea in which computers are able to think more intelligently than humans [1]. AI is now a force that is revolutionizing many different industries. It facilitates quicker medication development, robotically aided surgery, and early diagnostics in the medical field [2]. AI is used by financial institutions for automated trading, risk management, and fraud detection. AI drives autonomous cars and intelligent traffic systems in transportation, and it makes personalized learning and intelligent evaluation tools possible in education [3]. AI helps businesses through improved cybersecurity, targeted marketing campaigns, and increased operational efficiency. Notwithstanding its advantages, artificial intelligence poses serious problems, including algorithmic prejudice, moral dilemmas, job displacement, and data privacy threats [4]. Clear ethical frameworks, transparency, and regulatory control are desperately needed as AI technologies advance quickly. As the next phase of innovation is shaped by developments like Explainable AI (XAI), integration with quantum computing, and greater human-AI collaboration, responsible development will become even more crucial [5].
+
+
+Contents:
+ - 50-AJ-3584.pdf

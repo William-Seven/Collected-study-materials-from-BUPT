@@ -1,0 +1,14 @@
+Title: Understanding the Zeta Potential of Nanomaterials through Predictive Nanoinformatics
+
+Authors: Jarzynska, Kamila, Ciura, Krzesimir, Gao, Xuejiao, Mikolajczyk, Alicja, Gao, Xingfa, Puzyn, Tomasz
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+<span lang="EN-GB">Nanomaterials (NMs) are employed extensively in materials engineering and nanomedicine due to their unique properties. Therefore, understanding their behavior in the environment is imperative to ensuring the successful development of complex and safe NMs. The zeta potential (&zeta;) is a principal determinant of NMs' behavior, including their surface charge characteristics and stability. This review presents recent advances in the computational modeling of relationships between the nanomaterial's structure and its &zeta;. It examines the implementation of data-driven methods, specifically machine learning-based nano-quantitative structure-property relationships (ML-based nano-QSPR) modeling, for this purpose. Moreover, it explores the use of physics-based methods, i.e., quantum mechanics (QM), including density functional theory (DFT) calculations, molecular dynamics (MD), and Monte Carlo simulations, to predict and understand the factors affecting the stability of NMs in fluid environments, including medium-nanosurface interactions on a molecular level. The importance of theoretical structure characterization by utilizing complex nanodescriptors and their mechanistic interpretation have also been discussed. In summary, this article explores the use of nanoinformatics to predict the &zeta; of NMs, from its evolving landscape to its challenges and future directions.</span>
+
+
+Contents:
+ - ZetaRev_zenodo.docx

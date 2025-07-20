@@ -1,0 +1,14 @@
+Title: Integration of Information Technology in the South Coast Regional Museum: Metadata Development for Local Wisdom Education
+
+Authors: Yudas Sabaggalet,, Zulfa, Zulfa,, Dian Hasfera,, Gustina,, Indraniawati,
+
+Keywords: Metadata, regional museum, information technology, local wisdom, cultural education
+
+Publication date: 2025-06-06
+
+Description:
+Local knowledge is an important part of cultural heritage that needs to be preserved and passed on to the younger generation. Museums as educational institutions have a strategic role in this process, especially at the regional level. However, limitations in managing collection information often become an obstacle in optimizing the educational function of museums. This study aims to examine the integration of information technology through the development of a metadata system at the Pesisir Selatan Regional Museum as an effort to strengthen education based on local wisdom. A qualitative approach was used with a case study method in the Pesisir Selatan area. Data collection was carried out by conducting in-depth interviews and participatory observation. The results of the study indicate that the application of structured and contextual metadata can improve accessibility, understanding, and involvement of visitors, especially students, in recognizing local cultural values. In addition, the integration of metadata with digital platforms opens up new opportunities for more inclusive and sustainable culture-based learning. This study recommends a metadata development model that is adaptive to the local context and integrated with the regional education curriculum.
+
+
+Contents:
+ - 13.pdf

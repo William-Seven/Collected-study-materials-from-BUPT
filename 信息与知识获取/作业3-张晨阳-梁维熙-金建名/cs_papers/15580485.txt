@@ -1,0 +1,125 @@
+Title: Benchmark dataset for agricultural KGML model development with PyKGML
+
+Authors: Yang, Yufeng, LIU, LICHENG
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+This benchmark dataset works as the demonstrative data in the testing of PyKGML, the Python library for the efficient development of knowledge-guided machine learning (KGML) models.
+
+The dataset are developed using agroecosystem data in the two KGML studies:&nbsp;
+
+1. "KGML-ag: A Modeling Framework of Knowledge-Guided Machine Learning to Simulate Agroecosystems: A Case Study of Estimating N<sub>2</sub>O Emission using Data from Mesocosm Experiments".Licheng Liu, Shaoming Xu, Zhenong Jin*, Jinyun Tang, Kaiyu Guan, Timothy J. Griffis, Matt D. Erickson, Alexander L. Frie, Xiaowei Jia, Taegon Kim, Lee T. Miller, Bin Peng, Shaowei Wu, Yufeng Yang, Wang Zhou, Vipin Kumar.
+
+2. "Knowledge-guided machine learning can improve carbon cycle quantification in agroecosystems".
+
+Licheng Liu, Wang Zhou, Kaiyu Guan, Bin Peng, Shaoming Xu, Jinyun Tang, Qing Zhu, Jessica Till, Xiaowei Jia, Chongya Jiang, Sheng Wang, Ziqi Qin, Hui Kong, Robert Grant, Symon Mezbahuddin, Vipin Kumar, Zhenong Jin.
+
+<div>
+<div>All the files belong to Dr. Licheng Liu, University of Minnesota. lichengl@umn.edu</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>There are two parts in this dataset, the CO2 data from study 1 and the N2O data from study 2, both contain a pre-training subset and a fine-tuning subset.&nbsp; Data descriptions are as follows:</div>
+<div>&nbsp;</div>
+<div><strong>1. CO2 dataset:&nbsp;</strong></div>
+<div>
+
+Synthetic data of ecosys:
+
+</div>
+<div>- 100 simulations at random corn fields in the Midwest.</div>
+<div>- Daily sequences over 18 years (2000-2018).</div>
+<div>
+
+Field observations:
+
+</div>
+<div>- Eddy-covariance observations from 11 flux towers in the Midwest.</div>
+<div>- A total of 102 years of daily sequences.</div>
+<div>
+
+Input variables (19):
+
+</div>
+<div>- Meterological (7): solar radiation (RADN), max air T (TMAX_AIR), (max-min) air T (TDIF_AIR), max air humidity (HMAX_AIR), (max-min) air humidity (HDIF_AIR), wind speed (WIND), precipitation (PRECN).</div>
+<div>- Soil properties (9): bulk density (TBKDS), sand content (TSAND), silt content (TSILT), field capacity (TFC), wilting point (TWP), saturate hydraulic conductivity (TKSat), soil organic carbon concetration (TSOC), pH (TPH), cation exchange capacity (TCEC)</div>
+<div>- Other: crop type (Crop_Type), gross primary productivity (GPP)</div>
+<div>
+
+Output variables (3):
+
+</div>
+<div>- Autotrophic respiration (Ra), heterotrophic respiration (Rh), carbon mass of grain (GrainC).</div>
+<div>&nbsp;</div>
+<div><strong>2. N2O dataset:</strong></div>
+<div>
+
+Synthetic data of ecosys:
+
+</div>
+<div>- 1980 simulations at 99 counties x 20 N-fertilizer rates in the 3I states (Illinois, Iowa, Indiana).</div>
+<div>- Daily sequences over 18 years (2000-2018).</div>
+<div>
+
+Field observations:
+
+</div>
+<div>- 6 chamber observations in a mesocosm environment facility at the University of Minnesota.</div>
+<div>- Daily sequences of 122 days x 3 years (2016-2017) x 1000 augmentations from hourly data at each chamber.</div>
+<div>Input variables (16):</div>
+<div>- Meterological (7): solar radiation (RADN), max air T (TMAX_AIR), min air T (TMIN_AIR), max air humidity (HMAX_AIR), min air humidity (HMIN_AIR), wind speed (WIND), precipitation (PRECN).</div>
+<div>- Soil properties (6): bulk density (TBKDS), sand content (TSAND), silt content (TSILT), pH (TPH), cation exchange capacity (TCEC), soil organic carbon concetration (TSOC)</div>
+<div>- Management (3): N-fertilizer rate (FERTZR_N), planting day of year (PDOY), crop type (PLANTT).</div>
+<div>
+
+Output variables (3):
+
+</div>
+<div>- N2O FLUX (N2O_FLUX), soil CO~2~ flux, (CO2_FLUX), soil water content at 10 cm (WTR_3), soil ammonium concentration at 10 cm (NH4_3), soil nitrate concentration at 10 cm (NO3_3).</div>
+<div>&nbsp;</div>
+<div>
+<div>
+<div>Each file is a serialized Python dictionary containing the following keys and values:</div>
+
+<div>data={'X_train': X_train,</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'X_test': X_test,</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'Y_train': Y_train,</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'Y_test': Y_test,</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'y_scaler': y_scaler,</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'input_features': input_features,</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;'output_features': output_features}</div>
+<div>
+
+
+<code>X_train</code>, <code>X_test</code>: Feature matrices for training and testing.
+
+
+
+<code>Y_train</code>, <code>Y_test</code>: Target values for training and testing.
+
+
+
+<code>y_scaler</code>: The scaler (mean, std) used for normalizing the target variable.
+
+
+
+<code>input_features</code>: A list of input feature names.
+
+
+
+<code>output_features</code>: A list of output target names.
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+Contents:
+ - co2_pretrain_data.sav
+ - n2o_finetune_augment_data.sav
+ - n2o_pretrain_data.sav
+ - co2_finetune_data.sav

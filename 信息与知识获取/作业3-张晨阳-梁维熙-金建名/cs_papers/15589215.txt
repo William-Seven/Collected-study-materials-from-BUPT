@@ -1,0 +1,14 @@
+Title: Examining 21st Century Skills Research Published Between 2015 and 2025
+
+Authors: Elvir Isayev, Köprülü, Fatma
+
+Keywords: 21st-century skills, bibliometric analysis, digital literacy, research trends, educational technology, global collaboration.
+
+Publication date: 2025-06-04
+
+Description:
+Abstract: This study presents a bibliometric analysis of research on 21st-century skills published between 2015 and 2025, sourcedfrom the Scopus database. The analysis examines publication trends, geographic distributions, collaboration patterns, citation impacts,&nbsp;and thematic clusters to map the evolution of this critical educational domain. The data shows significant fluctuations in research&nbsp;output, influenced by global events such as the pandemic, emphasizing digital literacy and adaptive learning resurfacing postpandemic. Malaysia and Indonesia are gaining prominence, while the United States and the Netherlands remain dominant. This&nbsp;empirical research identifies three key clusters: pedagogical approaches, technological integration, and structural frameworks, with&nbsp;identified gaps in cultural adaptation and affective skills research. Collaboration networks reveal strong transcontinental partnerships,&nbsp;though imbalances persist in global knowledge production. The study highlights the field's maturity and responsiveness to educational&nbsp;disruptions and calls for including longitudinal and interdisciplinary studies. Affective skill development, cross-cultural studies, and&nbsp;equitable collaboration are recommended.
+
+
+Contents:
+ - MRSJAHL-0472025-GP.pdf

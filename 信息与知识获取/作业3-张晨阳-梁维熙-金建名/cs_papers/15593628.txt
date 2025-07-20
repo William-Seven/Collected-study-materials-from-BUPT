@@ -1,0 +1,107 @@
+Title: CURVAS-PDACVI dataset
+
+Authors: Riera-Marín, Meritxell, O K, SIKHA, DUH, MARIA MONTSERRAT, Aubanell, Anton, Ruben, de Figueiredo Cardoso, Saskia, Egger-Hackenschmidt, Rodríguez-Comas, Júlia, González Ballester, Miguel Ángel, Garcia López, Javier
+
+Keywords: 
+
+Publication date: 2025-06
+
+Description:
+&nbsp;
+
+This challenge will be hosted soon in&nbsp;<a href="https://curvas-pdacvi.grand-challenge.org/" target="_blank" rel="noopener">Grand Challenge.</a> Currently under construction.
+
+&nbsp;
+
+<h2>Clinical Problem</h2>
+In medical imaging, DL models are often tasked with delineating structures or abnormalities within complex anatomical structures, such as tumors, blood vessels, or organs. Uncertainty arises from the inherent complexity and variability of these structures, leading to challenges in precisely defining their boundaries. This uncertainty is further compounded by interrater variability, as different medical experts may have varying opinions on where the true boundaries lie. DL models must grapple with these discrepancies, leading to inconsistencies in segmentation results across different annotators and potentially impacting diagnosis and treatment decisions. Addressing interrater variability in DL for medical segmentation involves the development of robust algorithms capable of capturing and quantifying uncertainty, as well as standardizing annotation practices and promoting collaboration among medical experts to reduce variability and improve the reliability of DL-based medical image analysis. Interrater variability poses significant challenges in the field of DL for medical image segmentation.
+
+This challenge is designed to promote awareness of the impact uncertainty has on clinical applications of medical image analysis. In our last-year edition, we proposed a competition based on modeling the uncertainty of segmenting three abdominal organs, namely kidney, liver and pancreas, focusing on organ volume as a clinical quantity of interest. This year, we go one step further and propose to <strong>segment pancreatic pathological structures</strong>, namely <strong>Pancreatic Ductal Adenocarcinoma (PDAC)</strong>, with the clinical goal of understanding <strong>vascular involvement</strong>, a key measure of tumor resectability. In this above context, uncertainty quantification is a much more challenging task, given the wildly varying contours that different PDAC instances show.
+
+This year, we will provide a richer dataset, in which we start from an already existing dataset of clinically verified contrast-enhanced abdominal CT scans with a single set of manual annotations (provided by the PANORAMA organization), and make an effort to construct four extra manual annotations per PDAC case. In this way, we will assemble a unique dataset that creates a notable opportunity to analyze the impact of multi-rater annotations in several dimensions, e.g. different annotation protocols or different annotator experiences, to name a few.
+
+<h2>CURVAS Challenge Goal</h2>
+This challenge aims to advance deep learning methods for medical image segmentation by focusing on the critical issue of interrater variability, particularly in the context of pancreatic cancer. Building on last year's focus on organ segmentation uncertainty, this edition shifts to the more complex task of<strong> segmenting Pancreatic Ductal Adenocarcinoma (PDAC) to assess vascular involvement</strong>&mdash;a key indicator of tumor resectability. By providing a unique, richly annotated dataset with multiple expert annotations per case, the challenge encourages participants to develop robust models that can quantify and manage uncertainty arising from differing expert opinions, ultimately improving the clinical reliability of AI-based image analysis.
+
+For more information about the challenge, visit our website to join&nbsp;<a href="https://sycaimedical.com/curvaspdacvi/" target="_blank" rel="noopener">CURVAS-PDACVI (Calibration and Uncertainty for multiRater Volume Assessment in multistructure Segmentation - Pancreatic Ductal AdenoCarcinoma Vascular Invasion)</a>. This challenge will be held in&nbsp;<a href="https://conferences.miccai.org/2025/en/" target="_blank" rel="noopener">MICCAI 2025</a>.
+
+<h2>Dataset Cohort</h2>
+The challenge cohort comprises upper-abdominal axial, portal-venous CECT 125 CT scans selected from a subset of the PANORAMA challenge dataset. The selection process will prioritize CT scans with manually generated labels, excluding those with automatically derived annotations. Additionally, only cases with a conclusive diagnostic test (e.g., pathology, cytology, histopathology) are included, while patients with radiology-based diagnoses have been excluded.
+
+To ensure the subset is representative of common real-world scenarios, lesion sizes have been analyzed, and a diverse range of cases have been selected. Furthermore, patient demographics, including sex and age, have been considered to enhance the cohort's representativeness.
+
+Finally, a preliminary visual analysis have been conducted before sending the image to radiologists for segmentation. This ensures the tumor's location, size, and relevance, helping maintain the dataset's representativeness for the challenge.
+
+The previously indicated cohort of 125 CT scans is splitted in the following way:
+
+
+<strong>Training Phase cohort:</strong>
+
+40 CT scans with the respective annotations is given. It is encouraged to leverage publicly available external data annotated by multiple raters. The idea of giving a small amount of data for the training set and giving the opportunity of using a public dataset for training is to make the challenge more inclusive, giving the option to develop a method by using data that is in anyone's hands. Furthermore, by using this data to train and using other data to evaluate, it makes it more robust to shifts and other sources of variability between datasets.
+
+
+<strong>Validation Phase cohort:</strong>
+
+5 CT scans will be used for this phase.
+
+
+<strong>Test Phase cohort:</strong>
+
+85 CT scans will be used for evaluation.&nbsp;
+
+<em>Both validation and testing CT scans cohorts will not be published until the end of the challenge. Furthermore, to which group each CT scan belongs will not be revealed until after the challenge.</em>
+
+&nbsp;
+
+Each folder containing a study is named with a unique ID (CURVASPDAC_XXXX) so it cannot be directy related to the PANORAMA ID and has the following structure:
+
+
+annotation_X.nii.gz: contains the Pancreatic Ductal Adenocarcinoma (PDAC) segmentations (X=1 being the PANORAMA segmentation, X=2,..,5 being the other experts segmentations)
+vascular_annotation.nii.gz: contains the vascular structures that will be analyzed in the challenge. They are the following: Porta (=1), Superior Mesenteric Vein (SMV) (=2), Aorta (=3), Celiac Trunk (=4) and Superior Mesenteric Artery (SMA) (=5).
+image.nii.gz: CT volume
+
+The four additional annotations are done from radiologists at Universit&auml;tsklinikum Erlangen, Hospital de Sant Pau, and Hospital de Matar&oacute;. Hence, <strong>four new annotations</strong> plus the PANORAMA annotation are provied. Another clinician, focused on modifying the annotations from the vascular structures of the PANORAMA dataset and separated veins and arteries in single strcutures segmentations. This structures are the ones considered highly relevant for the study of <strong>Vascular Invasion (VI)</strong>: Porta, Superior Mesenteric Vein (SMV), Superior Mesenteric Artery (SMA), Aorta and Celiac Trunk. <strong>The vascular annotations will be made public later in the challenge, so the participants can try out the evaluation code.</strong>
+
+&nbsp;
+
+A balance to ensure representiveness within the subsets have been performed as well. Factors such as devices, sex, and patient age have been considered to improve the cohort's representativeness. Efforts have been made to balance bias as evenly as possible across these variables. For age distribution, the target percentages are as follows: below 50 years (5%), 50&ndash;59 years (15%), 60&ndash;69 years (20%), 70&ndash;79 years (30%), and 80&ndash;89 years (30%) [1,2,3,4]. While these percentages are approximate and have been rounded for simplicity, the balance aims to be as close to these proportions as feasible. For the sex, 40-50% for females and 50-60% for males [5]. For location of the PDAC, 60-70% head, 15-25% body and 10-15% tail [6]. The size of the lesions has been analyzed and a subset will be selected and this values will be published in the future with the entire dataset.
+
+&nbsp;
+
+Data from PANORAMA <strong>Batch 1</strong> (https://zenodo.org/records/13715870), <strong>Batch 2</strong> (https://zenodo.org/records/13742336), and <strong>Batch 3</strong> (https://zenodo.org/records/11034011)), are <strong>not allowed for training</strong> the models. Batch 4 (https://zenodo.org/records/10999754) can be used.
+
+For more technical information about the dataset visit the platform: https://panorama.grand-challenge.org/datasets-imaging-labels/
+
+&nbsp;
+
+<strong>Ethical Approval and Data Usage Agreement</strong>
+
+No other information that is not already public about the patient will be released since the CT images and their corresponding information are already publicly available.
+
+&nbsp;
+
+<strong>References</strong>
+
+[1] Lee, K.S.; Sekhar, A.; Rofsky, N.M.; Pedrosa, I. Prevalence of Incidental Pancreatic Cysts in the Adult Population on MR Imaging. Am J Gastroenterol 2010, 105, 2079&ndash;2084, doi:10.1038/ajg.2010.122.
+
+[2] Canakis, A.; Lee, L.S. State-of-the-Art Update of Pancreatic Cysts. Dig Dis Sci 2021.
+
+[3] De Oliveira, P.B.; Puchnick, A.; Szejnfeld, J.; Goldman, S.M. Prevalence of Incidental Pancreatic Cysts on 3 Tesla Magnetic Resonance. PLoS One 2015, 10, doi:10.1371/JOURNAL.PONE.0121317.
+
+[4] Kimura, W.; Nagai, H.; Kuroda, A.; Muto, T.; Esaki, Y. Analysis of Small Cystic Lesions of the Pancreas. Int J Pancreatol 1995, 18, 197&ndash;206, doi:10.1007/BF02784942.
+
+[5] Natalie Moshayedi et al. Race, sex, age, and geographic disparities in pancreatic cancer incidence. JCO 40, 520-520(2022). DOI:10.1200/JCO.2022.40.4_suppl.520
+
+[6] Avo Artinyan, Perry A. Soriano, Christina Prendergast, Tracey Low, Joshua D.I. Ellenhorn, Joseph Kim, The anatomic location of pancreatic cancer is a prognostic factor for survival, HPB, Volume 10, Issue 5, 2008, Pages 371-376, ISSN 1365-182X, https://doi.org/10.1080/13651820802291233.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<em>The challenge has been co-funded by Proyectos de Colaboraci&oacute;n P&uacute;blico-Privada (CPP2021-008364), funded by MCIN/AEI, and the European Union through the NextGenerationEU/PRTR and by the Program Doctorats Industrials de Catalunya, specifically the industrial doctorate AGAUR 2021-063, in collaboration with Sycai Technologies SL.</em>
+
+
+Contents:
+ - training_set.zip

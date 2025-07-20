@@ -1,0 +1,28 @@
+Title: Graph-based Learning Models (AeroFomer & MeshGAT)
+
+Authors: Hussain, Saad
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+This repository contains the source code, model architectures, training/inference scripts, and environment files used in the manuscript <em>"Sparse Edge-Augmented Graph Transformer vs. Graph Attention Networks for Transonic Aerodynamic Predictions"</em>, currently under peer review.
+
+It includes implementations of two models:
+
+
+
+MeshGAT &ndash; a GAT-enhanced MeshGraphNet
+
+
+
+AeroFormer &ndash; a physics aware sparse attention edge-augmented graph Transformer
+
+
+
+The dataset structure, training logs, inference outputs, and environment specifications (YAML and requirements.txt) are provided to ensure reproducibility.
+
+This upload is shared strictly for review purposes. Please contact the author for further clarifications.
+
+

@@ -1,0 +1,14 @@
+Title: A Cox Model-Based Workflow for Increased Accuracy in Activity-Travel Patterns Generation
+
+Authors: Katsaitis, Dionysios, Rizopoulos, Dimitrios, Gkiotsalitis, Konstantinos
+
+Keywords: activity-travel patterns, activity duration estimation, cox model, hazard-based model, activity-based modelling
+
+Publication date: 2025-06-01
+
+Description:
+<h2>Abstract</h2>
+<div>Understanding how people spend time on daily activities is key to modeling travel behavior. However, accurately estimating the duration of these activities remains a significant challenge, especially when generating synthetic activity-travel data. This article introduces an activity-based approach that addresses this issue by applying statistical and machine learning models to improve the precision of activity duration estimates. The method utilizes real-world Origin-Destination (OD) datasets to generate additional synthetic data that can support transportation planning processes. Unlike conventional approaches that rely solely on OD matrices, this framework incorporates Cox and Cox-based hazard models to more precisely estimate activity durations, as well as arrival and departure times across trip segments. Statistical tests and comparative evaluations show that the proposed method produces more accurate synthetic data than existing open-source tools that do not employ hazard-based modeling. A case study using real-world data from Athens, Greece, demonstrates the effectiveness of the proposed approach.</div>
+
+Contents:
+ - applsci-15-06237.pdf

@@ -1,0 +1,19 @@
+Title: How Cation Size Modulates Anion Effect in CO2 Electroreduction: Insights From Multiscale Modeling of Electrochemical Interface
+
+Authors: Ye, Ke, Ye, Ke
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This is the trajectory file for FEP simulation of CO2 adsorption process on Ni-N-C single active site within electric double layer with different cation ions(Li, Na, K, and Cs)
+
+
+Contents:
+ - FEP2.zip
+ - FEP3.zip
+ - FEP1.zip
+ - FEP4.zip
+ - FEP5.zip

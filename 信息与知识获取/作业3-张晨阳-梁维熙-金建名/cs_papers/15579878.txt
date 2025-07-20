@@ -1,0 +1,14 @@
+Title: COMPARISON OF ZERO AND FEW-SHOT LEARNING APPROACH USING THE LLMS FOR SENTIMENT ANALYSIS IN SERBIAN LITERATURE
+
+Authors: Petalinkar, Saša, Ikonić Nešić, Milica, Škorić, Mihailo, Stanković, Ranka
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+Goal: Assess if newer versions of LLMs offer more consistent, efficient, and potentially less biased sentiment annotation.Comparison: With previous research on srpELTeC Sentiment Analysis employing Mistral 7B model.Impact: Advance sentiment data processing and interpretation across various applications.Significance for Low-Resource Languages: Highlight challenges and benefits for languages like Serbian, where annotated corpora are scarce, limiting traditional sentiment analysis models.
+
+
+Contents:
+ - COMPARISON OF ZERO AND FEW-SHOT LEARNING APPROACH USING THE LLMS FOR SENTIMENT .pptx

@@ -1,0 +1,13 @@
+Title: Field evaluation of a computer vision-based system for real-time cattle behavior monitoring
+
+Authors: Benaissa, Said, Jan De Temmerman, Pieter, Coussement, Sacha, Vangeyte, Jürgen, Maselyne, Jarissa
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - ILVO_Field evaluation of a vision-based system for real-time cattle behavior monitoring_May26_2025.pdf

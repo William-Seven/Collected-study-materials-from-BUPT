@@ -1,0 +1,14 @@
+Title: A Hybrid Approach to Event Reconstruction for Atmospheric Cherenkov Telescopes Combining Machine Learning and Likelihood Fitting
+
+Authors: Schwefer, Georg
+
+Keywords: 
+
+Publication date: 2025-04-03
+
+Description:
+The imaging atmospheric Cherenkov technique currently provides the highest angular resolution achievable in astronomy at very high energies. High resolution measurements provide the key to progress on many of the key questions in high energy astrophysics. The huge potential of the next generation Cherenkov Telescope Array Observatory (CTAO) in this regard can be realised with the help of improved algorithms for the reconstruction of the air-shower direction and energy. Hybrid methods combining maximum-likelihood fitting techniques with neural networks represent a particularly promising approach.Here, we present the FreePACT algorithm, a hybrid machine-learning likelihood reconstruction method for IACTs. In this, the analytical likelihood used in traditional image-likelihood fitting techniques is replaced by a neural network that approximates the charge probability density function for each pixel in the camera. The performance of this improved algorithm is demonstrated using simulations of the planned CTAO Southern array.
+
+
+Contents:
+ - FreePACT_Delaware_ML_workshop.pdf

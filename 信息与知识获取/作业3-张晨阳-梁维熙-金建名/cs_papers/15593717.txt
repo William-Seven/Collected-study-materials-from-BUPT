@@ -1,0 +1,13 @@
+Title: ADAPTIV GISTOGRAMMA TEKISLASH (AHE) ASOSIDA TIBBIY TASVIRLARNI SEGMENTATSIYALASH
+
+Authors: Saodat Olimjonova
+
+Keywords: Tibbiy tasvirlar, topografik xarita, AHE algoritmi, tasvir sifatini yaxshilash
+
+Publication date: 2025-06-04
+
+Description:
+Yurak kasalliklarini erta aniqlashda yurak tasvirlari — xususan, echokardiyografiya, MRT va KT tasvirlari muhim manba hisoblanadi. Biroq, past kontrastli yoki shovqinli tasvirlar diagnostik jarayonni murakkablashtiradi. Ushbu maqolada tasvir sifatini yaxshilash uchun Adaptive Histogram Equalization (AHE) algoritmidan foydalaniladi. AHE yordamida yaxshilangan yurak tasviri ustida chekka aniqlovchi va topografik xarita asosidagi segmentatsiya amallari bajariladi. Ushbu yondashuv yurakning klapanlari, devorlari va bo'lmachalarining konturlarini aniqroq aniqlashga imkon beradi.
+
+Contents:
+ - 26_843-136-140-Olimjonova.pdf

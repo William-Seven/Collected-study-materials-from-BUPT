@@ -1,0 +1,14 @@
+Title: Figure 10.1 Learning scenario spreadsheet
+
+Authors: Dubois, Jacques, Jourde, François
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+<span>A spreadsheet showing a learning design with rows for steps and columns for parameters (such as learning type, duration, grouping). A dropdown menu allows to select the parameters.</span>
+
+
+Contents:
+ - figure 10.1.tif

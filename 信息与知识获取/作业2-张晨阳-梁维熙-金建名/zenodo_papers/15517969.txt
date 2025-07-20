@@ -1,0 +1,18 @@
+Title: OntoAligner: A Comprehensive Modular and Robust Python Toolkit for Ontology Alignment
+
+Authors: Babaei Giglou, Hamed, D'Souza, Jennifer, Karras, Oliver, Auer, Sören
+
+Keywords: Ontology Matching, Alignment, Python Library
+
+Publication date: 2025-05-26
+
+Description:
+<ul>
+<li>Fixed an issue related to #25 and #36.</li>
+<li>Sentence-transformer v4.1.0 is supported.</li>
+<li>Adding Python 3.12 and 3.13 for automated testing.</li>
+<li>Remove the dependency on ontospy since it is not being maintained. Initially, it was used for <code>MaterialInformationOntoOntology</code> class.</li>
+</ul>
+
+Contents:
+ - sciknoworg/OntoAligner-v1.4.1.zip

@@ -1,0 +1,14 @@
+Title: ENHANCED NETWORK INTRUSION DETECTION USING LONG SHORT-TERM MEMORY FOR IMPROVED SECURITY ANALYSIS
+
+Authors: Venkataramesh Induru, Purandhar. N
+
+Keywords: 
+
+Publication date: 2019-03-21
+
+Description:
+The <a href="https://ijetrm.com/issues/files/Jun-2019-05-1749123091-MAR201913.pdf" target="_blank" rel="noopener">traditional signature-based</a> and rule-based intrusion detection systems to keep up with the times, especiallywhen the enemy or threats become sophisticated. In this paper, we aim to present an advanced intrusion detectiontechnique based on the Long Short-Term Memory (LSTM) network, a special kind of recurrent neural network(RNN) able to capture long-term dependencies in sequential data through enhanced learning. LSTMs areparticularly tuned for analyzing time-series data, such as network traffic, whose normal and malicious behaviorpatterns change over time. The proposed method involves data pre-processing, cleaning, and normalization forconsistency and reliability. The preprocessed data is then classified into the LSTM model, which automaticallylearns intricate patterns from the network traffic to classify them as intrusion or normal activity. The model'sability to detect both known attacks and newly established patterns of attack significantly enhances accuracy whilereducing false positives and false negatives. Moreover, cloud storage integration enriches the system further, thusscaling it to provide data management with real-time analysis. A cloud-based infrastructure will ensure elasticityand scalability to handle large datasets for the ever-available pool of data for model training and intrusiondetection. The outcome of the LSTM-based system indicates that it could easily be termed a simplistic approachtoward robust detection and mitigation of network security threats with enhanced performance and scalabilityover the traditional approach.
+
+
+Contents:
+ - MAR201913.pdf

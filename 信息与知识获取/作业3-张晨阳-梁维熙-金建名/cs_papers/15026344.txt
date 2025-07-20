@@ -1,0 +1,31 @@
+Title: Skilful probabilistic predictions of UK flood risk months ahead using a large-sample machine learning model trained on multimodel ensemble climate forecasts
+
+Authors: Moulds, Simon
+
+Keywords: 
+
+Publication date: 2025-06
+
+Description:
+This repository contains accompanying data to the "Skilful probabilistic predictions of UK flood risk months ahead using a large-sample machine learning model trained on multimodel ensemble climate forecasts" paper by Moulds et al. (in press).&nbsp;
+
+<p dir="auto">This repository is a Snakemake workflow. Users should install Snakemake using Mamba/Conda. It can then be run from the command line as follows:
+
+
+$&gt; snakemake --cores N --snakefile workflow/Snakefile_envs --use-conda
+$&gt; snakemake --cores N --snakefile workflow/Snakefile_prediction --use-conda
+$&gt; snakemake --cores N --snakefile workflow/Snakefile_tuning --use-conda
+$&gt; snakemake --cores N --snakefile workflow/Snakefile_prediction --use-conda
+$&gt; snakemake --cores N --snakefile workflow/Snakefile_evaluation --use-conda
+$&gt; snakemake --cores N --snakefile workflow/Snakefile_plotting --use-conda
+
+where N is the number of cores you wish to use. The workflow has been tested on MacOS and Linux systems. On Windows it should work under the Windows Subsystem for Linux. As we do not have permission to distribute many of the input data, we instead include the data after the first level of preprocessing (results/preprocessing). Hence attempting to run workflow/Snakefile_preprocessing will not work.
+
+Log:
+
+
+Version 0.1 (05/06/2025): Initial upload following acceptance for publication
+
+
+Contents:
+ - seasonal-flood-prediction.tar.gz

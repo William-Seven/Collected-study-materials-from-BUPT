@@ -1,0 +1,15 @@
+Title: DESI EDR DWD
+
+Authors: Jiang, Ziyue
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - sin.zip
+ - sedplot.zip
+ - readme.txt

@@ -1,0 +1,14 @@
+Title: Context-Aware Multimodal Feedback System for Enhancing Outcomes-Based Education in Mechanical Engineering
+
+Authors: CUI Fangyuan
+
+Keywords: context-aware multimodal feedback system, Outcomes-Based Education (OBE), mechanical engineering, personalized feedback, cognitive assessment
+
+Publication date: 2025-06-03
+
+Description:
+We propose a context-aware multimodal feedback system designed to enhance Outcomes-Based Education (OBE) in mechanical engineering by dynamically adapting feedback modalities to individual learning contexts and performance. The system integrates cognitive diagnosis models to assess student proficiency and an environment-aware modality selector to determine the optimal feedback form, such as visual annotations, haptic cues, or interactive 3D simulations, depending on whether the learning occurs in physical laboratories or digital platforms. A Transformer-based architecture synthesizes personalized feedback by combining diagnostic outputs with contextual data, enabling precision-tailored support for complex engineering concepts. The proposed method replaces conventional static assessment reports with adaptive, multimodal feedback, thereby addressing the limitations of one-size-fits-all approaches in OBE. Furthermore, the system leverages state-of-the-art technologies, including probabilistic programming for scalable cognitive diagnosis and physics-accurate simulations for immersive learning experiences. Experimental validation demonstrates its effectiveness in improving student engagement and mastery of mechanical engineering principles. This work contributes a unified framework that bridges cognitive assessment, environmental context, and multimodal feedback, offering a scalable solution for personalized engineering education. The results highlight the potential of adaptive feedback systems to transform traditional OBE practices by aligning instructional support with individual learning trajectories and real-world engineering scenarios.
+
+
+Contents:
+ - 6.pdf

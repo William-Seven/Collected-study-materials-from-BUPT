@@ -1,0 +1,13 @@
+Title: MOCPy
+
+Authors: Baumann, Matthieu, Boch, Thomas, Marchand, Manon, Pineau, François-Xavier
+
+Keywords: astronomy, moc, astrophysics
+
+Publication date: 2025-05-26
+
+Description:
+MOCPy is a Python library allowing easy creation and manipulation of MOCs (Multi-Order Coverage maps).
+
+Contents:
+ - cds-astro/mocpy-v0.18.0.zip

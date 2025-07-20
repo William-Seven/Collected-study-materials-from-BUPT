@@ -1,0 +1,16 @@
+Title: ZERO-SHOT EMOTION RECOGNITION IN CROSS-LANGUAGE SPEECH USING CONTRASTIVE LEARNING
+
+Authors: Froom, Vincent
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+This paper presents a zero-shot learning framework for speech-based emotion recognition across languages using contrastive learning. Traditional emotion AI models often depend on large, labeled corpora in a specific language, limiting global scalability. We introduce a contrastive embedding technique that aligns emotional cues across multilingual speech without explicit emotion labels in the target language. Trained on English and evaluated on German, Mandarin, and Arabic datasets, our approach achieves competitive accuracy compared to supervised baselines. The model&rsquo;s design enables practical deployment in customer service, digital therapy, and cross-cultural human-computer interaction.
+
+&nbsp;
+
+
+Contents:
+ - Academic ZERO-SHOT EMOTION RECOGNITION.docx

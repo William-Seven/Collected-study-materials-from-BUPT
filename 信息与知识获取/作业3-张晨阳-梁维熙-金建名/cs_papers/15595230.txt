@@ -1,0 +1,14 @@
+Title: DCTPQ: Dynamic Cloud Gaming Traffic Prioritization Using Machine Learning and Multi-Queueing for QoE Enhancement
+
+Authors: shirmarz, alireza, de França Marques, Carlos Henrique, Verdi, Fabio, Silva Netto, Roberto, Singh, Suneet Kumar, Esteve Rothenberg, Christian
+
+Keywords: RS.C3LA, WP.CL1, Cloud Gaming (CG), Traffic Classification, Edge Computing, QoE
+
+Publication date: 2025-05-19
+
+Description:
+Cloud gaming (CG) traffic requires high bandwidth and low latency to ensure Quality of Experience (QoE). We propose DCTPQ, an ML-based edge solution that dynamically identifies and prioritizes CG traffic on-the-fly, achieving 97.6% classification accuracy using packet-based and RTP frame-based features with Decision Tree (DT) and Random Forest (RF) models. DCTPQ employs separate queues for CG, UDP (Non-CG), and TCP traffic, with varied lengths and rates, implemented using P4 on the data plane. Leveraging Inband Network Telemetry (INT) and Device-in-the-Loop (DIL) techniques, we evaluate QoS (throughput, latency, packet sojourn time) and QoE (VMAF score) under congestion. The system is tested with three distinct CG games (Fortnite, Forza, Mortal Kombat) on the Xbox platform, while users play online, ensuring a realistic assessment of the deployed model&rsquo;s impact on QoS and QoE.
+
+
+Contents:
+ - SBRC2025_Presentation_Alireza .pdf

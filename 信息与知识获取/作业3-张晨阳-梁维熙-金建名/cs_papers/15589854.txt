@@ -1,0 +1,14 @@
+Title: Investigating the determinants of performance in machine learning for protein fitness prediction
+
+Authors: Sandhu, Mahakaran, Mater, Adam C., Matthews, Dana S., Spence, Matthew A., Lensky, Artem A., Jackson, Colin J.
+
+Keywords: 
+
+Publication date: 2025-04-18
+
+Description:
+Code for evaluating ML architectures on NK fitness landscapes, benchmarking interpolation, extrapolation, ablation, and positional extrapolation performance.
+
+
+Contents:
+ - nk-ml.zip

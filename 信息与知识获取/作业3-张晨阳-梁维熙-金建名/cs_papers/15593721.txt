@@ -1,0 +1,13 @@
+Title: SUN'IY INTELLEKT TEXNOLOGIYALARIDAN FOYDALANGAN HOLDA YER OSTI BOYLIKLARI JOYLASHGAN KONLARNI TASNIFLASH
+
+Authors: Javohir Nurmurodov, Zilola Dadajonova
+
+Keywords: Mashinani oʻrganish, regressiya, gamma-neytron, RNN
+
+Publication date: 2025-06-04
+
+Description:
+Maqolada yer osti mineral boyliklarini aniqlash va tasniflash uchun sun'iy intellekt texnologiyalaridan foydalanishning afzal jihatlari, an'anaviy usullarning samarasizligi tahlilga tortilgan.
+
+Contents:
+ - 28_845-148-151-Dadajonova.pdf

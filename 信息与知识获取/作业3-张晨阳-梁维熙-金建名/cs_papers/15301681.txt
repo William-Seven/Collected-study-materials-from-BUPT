@@ -1,0 +1,14 @@
+Title: Laser Powder Bed Fusion of defect-free components using Bayesian Machine Learning
+
+Authors: Kosiba, Konrad, Chernyavsky, Dmitry, Kononenko, Denys, van den Brink, Jeroen, Hufenbach, Julia
+
+Keywords: 
+
+Publication date: 2025-04-29
+
+Description:
+<span>Identifying optimal processing parameters remains a major challenge in additive manufacturing (AM), limiting its potential and broader industrial adoption. In this work, we present a Bayesian machine learning (ML) framework designed to efficiently determine optimal parameters for laser powder bed fusion (PBF-LB/M) which is a widely used metal AM process. We demonstrate its effectiveness through the successful processing of the AA2024 alloy into crack-free and highly dense components. This alloy was selected because of its strong industrial use and poor processability by PBF-LB/M and is hence ideal to demonstrate the effectiveness of the present ML framework. Our approach begins with Bayesian Optimization (BO) applied to an initial dataset containing only five processing parameter sets initially suggested by the Latin hypercube sampling algorithm. Despite the limited data, our BO method accurately predicts conditions for fabricating crack-free components with a remarkably high density of 99.97%. We further extend the framework to perform bi-objective optimization, targeting both maximum build-up rate (BUR) and relative density of the component. Experimental validation confirms that our ML framework can identify new parameter sets that significantly enhance the BUR while maintaining high part quality readily characterized by a relative density of 99.35%. This work underscores the potential of BO strategies for accelerating the identification of optimal processing conditions, especially for challenging materials and multi-objective scenarios. Along this line, we highlight the high transferability and versatility of the developed BO-based methodology. Beyond its specific application to PBF-LB/M and the AA2024 alloy, this framework is readily adaptable for the optimization of various alloys and targeted properties, thereby enabling its implementation across a wide range of AM technologies.</span>
+
+
+Contents:
+ - abstract_AAMS2025_Kosiba.docx

@@ -1,0 +1,14 @@
+Title: AN ANALYSIS OF THE ADVANTAGES AND LIMITATIONS OF ARTIFICIAL INTELLIGENCE IN FACILITATING LANGUAGE LEARNING
+
+Authors: Xu Hui
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+<em><span lang="EN-US">In recent years, artificial intelligence (AI) technology has experienced explosive growth and gradually penetrated into the field of language learning, bringing unprecedented changes and challenges. AI significantly enhances the convenience and efficiency of language learning through customized learning path design, instant and accurate learning feedback mechanisms, integration of vast and diverse learning resources, and provision of convenient and efficient learning experiences. However, there are also obvious limitations in the application of AI in language learning, including the lack of emotional interaction, insufficient understanding of cultural contexts, data privacy and security risks, and the potential for excessive learner dependence. In the future, improvements such as strengthening emotional interaction and humanistic care, deepening the presentation of cultural connotations, strengthening data privacy and security protection, and cultivating learners' autonomous learning abilities are needed to provide global language learners with higher-quality, more efficient, and safer learning support.</span></em>
+
+
+Contents:
+ - 4.10.pdf

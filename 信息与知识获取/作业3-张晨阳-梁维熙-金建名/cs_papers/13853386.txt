@@ -1,0 +1,25 @@
+Title: Hierarchical Relationship Between Neural Mechanisms of Ensemble and Individual Perception Revealed Through Perceptual Learning
+
+Authors: Liu, Ning
+
+Keywords: 
+
+Publication date: 2024-09-28
+
+Description:
+N/A
+
+Contents:
+ - ARTANOVA_result_exp1.txt
+ - ARTANOVA_result_exp2.txt
+ - fig3C.R
+ - fig2F.R
+ - result_data.xlsx
+ - fig3A-B.R
+ - fig2A-D.R
+ - fig2G.R
+ - exp2.csv
+ - fig2E.R
+ - fig3D.R
+ - exp1.csv
+ - ARTANOVA_code.R

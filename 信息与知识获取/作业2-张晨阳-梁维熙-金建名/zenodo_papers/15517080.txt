@@ -1,0 +1,15 @@
+Title: EFFECTS OF PARTIAL SHADING ON THE EFFICIENCY OF PHOTOVOLTAIC PANELS
+
+Authors: Aminata, Fatou Ndiaye, Schneider, Lukas Johannes
+
+Keywords: Partial Shading, Photovoltaic Panels, Mono-crystalline, Polycrystalline, Performance Degradation
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>This experimental study investigates the impact of partial shading on the performance of photovoltaic (PV) solar panels, focusing on mono-crystalline and polycrystalline panels. The research utilized three types of covering materials with varying transmittance levels: white leaf, tree leaf, and transparent paper. Shading was applied to 20%, 50%, and 100% of the cell area, and the electrical parameters of the modules were measured for each condition. The transmittance levels of the covering materials were characterized to determine their effect on PV performance. The results indicate that performance degradation is primarily influenced by the type of material used and the shading rate, with significant variations observed between mono-crystalline and polycrystalline panels. The position of the shaded cell was found to have no impact on the performance outcomes. These findings highlight the importance of understanding material properties and shading patterns to optimize PV panel efficiency in real-world conditions.</span>
+
+
+Contents:
+ - Paper 2.pdf

@@ -1,0 +1,14 @@
+Title: The Digital Future of Pharmacovigilance: Leveraging Advanced Technologies for Enhanced Drug Safety and Compliance
+
+Authors: Hrishikesh S. Ingle, Krushna D. Charathe, Harish L. Bhonde, Harshal A. Bhonde, Harshal R. Bahekar, Shivshankar M. Nagrik, Manisha R. Jawale, Prakash Kendre, Somnath Vibhute, Shirish Jain
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+Pharmacovigilance, the science of detecting, assessing, understanding, and preventing adverse effects related to drug use, has evolved significantly with the integration of advanced digital technologies. This review explores the transformative impact of technologies such as artificial intelligence (AI), machine learning (ML), big data analytics, blockchain, robotics, and automation in enhancing pharmacovigilance practices. AI and ML algorithms facilitate the efficient analysis of extensive and complex datasets, improving signal detection and minimizing human error in adverse drug event (ADE) identification. Big data analytics, including data mining and natural language processing (NLP), allow for real-time surveillance by processing vast quantities of structured and unstructured data, including social media posts and electronic health records (EHRs). Blockchain technology offers secure, decentralized data management, promoting transparency and integrity in pharmacovigilance databases. Robotics and automation streamline labor-intensive processes such as case intake, evaluation, and reporting, thereby increasing operational efficiency and scalability. Despite these advancements, challenges such as underreporting, data quality issues, and the ethical implications of mining patient-generated content persist. Regulatory compliance remains central, as global authorities continue to emphasize stringent safety monitoring. The review also discusses the future landscape of pharmacovigilance, highlighting the growing role of wearable technology, mobile health applications, and cloud computing in real-time monitoring and data sharing. Overall, the integration of emerging technologies is revolutionizing pharmacovigilance, offering robust, efficient, and proactive solutions for ensuring drug safety in an increasingly data-driven healthcare ecosystem.
+
+
+Contents:
+ - 14-CRD3035.pdf

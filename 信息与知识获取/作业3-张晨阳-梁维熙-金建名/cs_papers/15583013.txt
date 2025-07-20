@@ -1,0 +1,14 @@
+Title: Teaching the Unknown: A Pedagogical Framework for Teaching With and About AI
+
+Authors: Ballsun-Stanton, Brian, Torrington, Jodie
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+Generative artificial intelligence (AI) has disrupted education systems worldwide. This disruption necessitates pedagogical approaches that embrace uncertainty while developing student agency. We examined how decoupling task success from assessment outcomes created environments where students developed critical AI literacy through structured risk-taking. Drawing on Transformative Learning Theory and Rumsfeld's epistemological matrix as interpretive frameworks, we analysed an experimental undergraduate AI unit across three disciplinary streams: Ancient History, Philosophy, and Politics and International Relations ($N=23$). Data included student reflections, classroom observations, and AI interaction logs collected over a 13-week semester. Our pedagogical framework operationalised four interconnected pillars: risk-embracing assessment structures, intentional classroom culture development, systematic navigation of technological uncertainty, and facilitation of transformative learning experiences. This paper presents the implications of these pillars for 1) educational theory, where productive failure serves as an effective pedagogical strategy; 2) educator praxis, viewing AI as a textual technology that extends the capabilities of the humanities; and 3) implications for the university teaching context, where AI-enabled teaching should focus on reflection and process rather than demonstratable competencies.&nbsp;
+
+
+Contents:
+ - 20250603-BBS-JT-TeachingTheUnknown.pdf

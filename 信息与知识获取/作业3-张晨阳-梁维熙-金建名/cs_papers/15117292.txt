@@ -1,0 +1,14 @@
+Title: Reconstructing the Direction of Ultra-High-Energy Cosmic Rays Using a Simulation-Based Inference Method
+
+Authors: Mason, Zach
+
+Keywords: 
+
+Publication date: 2025-04-01
+
+Description:
+GRAND (Giant Radio Array for Neutrino Detection) is a proposed next-generation observatory designed to detect ultra-high-energy (UHE) cosmic particles. It aims to accomplish this by identifying the radio signals generated when these particles interact with the atmosphere and Earth's magnetic field. We present a novel pipeline utilizing simulation-based inference (SBI) methods to reconstruct the incoming direction of UHE cosmic rays. By training the SBI algorithm using realistic simulations produced with CoREAS and ZHAireS, which include electric field amplitudes, antenna positions, and trigger times, we demonstrate how our algorithm learns the posterior probability of the Bayesian model given the data. This approach enables us to access robust error estimates in the reconstructed direction. Additionally, we show that, in contrast to standard "black box" machine learning methods, our SBI technique allows us to evaluate the statistical rigor of our results.
+
+
+Contents:
+ - ML Analysis Conference slides.pdf

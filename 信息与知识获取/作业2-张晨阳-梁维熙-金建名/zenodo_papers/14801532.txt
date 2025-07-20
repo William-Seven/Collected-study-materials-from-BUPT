@@ -1,0 +1,16 @@
+Title: Data From: Exploring Gelatin-A and Mouse Proline-Rich Protein 5 as Probes for Wine Polyphenols analysis by Quartz Crystal Microbalance with Dissipation Monitoring
+
+Authors: Tori, Giorgia
+
+Keywords: QCM-D, Sensor functionalization, Polyphenols, oenology
+
+Publication date: 2025-05-26
+
+Description:
+
+Polyphenols are essential in winemaking, affecting the wine's quality, color, astringency, bitterness, and chemical stability. Conventional methods for assessing polyphenolic content are both expensive and time-intensive, underscoring the need for new, efficient techniques.
+
+
+The Quartz Crystal Microbalance with Dissipation Monitoring (QCM-D) sensor is recognized for its speed and reliability as a label-free detection tool. This study applies QCM-D to evaluate Gelatin Type A (Gel-A) from porcine skin and Mouse Proline-Rich Protein 5 (MP5) for polyphenol analysis in red wines without pre-treatment. MP5 notably exhibited a linear dissipation signal response with both total polyphenol and hydroxybenzoic acid concentrations. These findings highlight the potential for creating a stand-alone sensor platform for real-time polyphenol monitoring in winemaking.
+
+

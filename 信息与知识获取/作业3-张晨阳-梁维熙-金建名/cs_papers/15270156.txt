@@ -1,0 +1,18 @@
+Title: Exploring the Study Circle approach in fostering change in biodiversity values among adults
+
+Authors: SHARED GREEN DEAL
+
+Keywords: 
+
+Publication date: 2025-06
+
+Description:
+The SHARED GREEN DEAL (Social sciences &amp; Humanities for Achieving a Responsible, Equitable and Desirable GREEN DEAL) project aims to drive progress towards EU Green Deal targets. At the heart of this EU Horizon 2020 project are six streams of innovative, participatory social experiments focused on six Green Deal priority areas: Clean Energy, Circular Economy, Efficient Renovations, Sustainable Mobility, Sustainable Food, and Preserving Biodiversity. Experiments for each of the six streams were implemented in four locations across Europe between April 2023 and June 2024. The experiments were led by local partners (NGOs and local, regional, or national governments). Whilst the activities undertaken by each of the local partners differed across experiment streams, a core component of each experiment was that different stakeholders were involved.
+
+This Zenodo upload is a report which sets out the findings from the Preserving Biodiversity stream, based upon the activities undertaken by the experiment stream's local partners: Pososki Razvojni Cent (Slovenia), Environment and Health (Sweden), Municipality of Amarous (Greece), and Ballyhoura Development (Ireland). The four Preserving Biodiversity experiements explored the diverse values people assign to biodiversity across different European regions using the Study Circle approach, a non-formal learning method. By fostering public engagement, education, and behavioural change, this approach aimed to inspire transformative change in biodiversity values and contribute to its preservation.&nbsp;As such, the Study Circles on aimed to translate high-level policy&nbsp;frameworks into actionable, community-driven initiatives that address biodiversity loss while fostering a just&nbsp;and inclusive transition as envisioned by the European Green Deal.&nbsp;
+
+The findings are informed by the analysis of interviews conducted with participants involved upon the completion of the SHARED GREEN DEAL experiments. Each local partner conducted 10 interviews with participants involved in their experiment (totalling 40 interviews in each stream, and 240 interviews across the project). The purpose of these interviews was to learn more individuals' experiences of participating in the local experiment. The interviews were carried out in spring 2024, and the transcripts are available on the SHARED GREEN DEAL Zenodo community.
+
+
+Contents:
+ - Exploring the Study Circle approach in fostering change in biodiversity values among adults.pdf

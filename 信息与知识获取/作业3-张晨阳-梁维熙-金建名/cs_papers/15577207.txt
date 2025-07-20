@@ -1,0 +1,14 @@
+Title: Machine Learning Approach for Wine Quality Assessment
+
+Authors: Apeksha Nayak, Harsh Tyagi, Priyanshu Sharma, Prashant Tyagi
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+This research presents a machine learning-based approach to predict the quality of red wine using itsphysicochemical properties. Traditional wine evaluation methods rely on expert tasters, which are often subjective,time-consuming, and inconsistent. To overcome these limitations, this study utilizes a publicly available red winedataset and applies the Gradient Boosting Regressor algorithm for predictive modelling. The dataset includes keyfeatures such as alcohol content, volatile acidity, sulphates, and citric acid, all of which influence wine quality.The data underwent preprocessing including normalization and correlation analysis to improve model accuracy.After training and evaluation, the Gradient Boosting model achieved an R&sup2; score of 0.79 and a Root Mean SquaredError (RMSE) of 0.48, indicating strong predictive performance. The model was further deployed into a userfriendly web application using Streamlit, allowing real-time input and prediction through an interactive interface.This study demonstrates the potential of machine learning in automating quality control in the food and beverageindustry. It also highlights how user-friendly deployment platforms like Streamlit can bridge the gap betweentechnical machine learning models and practical end-user applications.&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P185.pdf

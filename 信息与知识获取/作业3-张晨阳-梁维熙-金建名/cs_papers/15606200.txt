@@ -1,0 +1,35 @@
+Title: DVC: Data Version Control - Git for Data & Models
+
+Authors: Ruslan Kuprieiev, skshetry, Peter Rowlands (변기호), Dmitry Petrov, Paweł Redzyński, Casper da Costa-Luis, David de la Iglesia Castro, Alexander Schepanovski, Ivan Shcheklein, Gao, Batuhan Taskaya, Jorge P, Fábio Santos, Daniele, Ronan Lamy, Aman Sharma, Zhanibek Kaimuldenov, Dani Hodovic, Nikita Kodenko, Andrew Grigorev, Earl, Nabanita Dash, George Vyshnya, Dave Berenbaum, maykulkarni, Max Hora, Vera, Sanidhya Mangal
+
+Keywords: data-science, data-version-control, machine-learning, git, developer-tools, reproducibility, collaboration, ai, python
+
+Publication date: 2025-06-06
+
+Description:
+&lt;!-- Release notes generated using configuration in .github/release.yml at main --&gt;
+
+<h2>What's Changed</h2>
+<h3>🚀 New Features and Enhancements</h3>
+
+fix(dvcfs): rename argument <code>url</code> to <code>repo</code> by @skshetry in https://github.com/iterative/dvc/pull/10754
+fs(gs): allow configuring anonymous login by @skshetry in https://github.com/iterative/dvc/pull/10756
+
+<h3>Bugfixes</h3>
+
+fix: treated S3 configpath as a relpath by @clouds56 in https://github.com/iterative/dvc/pull/10758
+
+<h3>Other Changes</h3>
+
+deps: bump minver version for dvc-gs to 3.0.2 by @skshetry in https://github.com/iterative/dvc/pull/10757
+bench: check for dvc_bin.version instead of dvc_rev by @skshetry in https://github.com/iterative/dvc/pull/10764
+
+<h2>New Contributors</h2>
+
+@clouds56 made their first contribution in https://github.com/iterative/dvc/pull/10758
+
+<strong>Full Changelog</strong>: https://github.com/iterative/dvc/compare/3.59.2...3.60.0
+
+
+Contents:
+ - iterative/dvc-3.60.0.zip

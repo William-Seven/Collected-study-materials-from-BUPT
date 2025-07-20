@@ -1,0 +1,14 @@
+Title: CODATA-RDA Schools of Research Data Science (SoRDS)  An introduction for instructors
+
+Authors: Shanahan, Hugh
+
+Keywords: Teaching, Open Science, Data Science, Research Data Management, Machine Learning
+
+Publication date: 2025-06-04
+
+Description:
+Presentation introducing SoRDS to new instructors.
+
+
+Contents:
+ - CODATA-RDA schools ethos(2).pptx

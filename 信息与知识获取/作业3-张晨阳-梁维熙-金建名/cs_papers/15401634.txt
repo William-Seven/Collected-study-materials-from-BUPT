@@ -1,0 +1,34 @@
+Title: Twi-XL & SANE: New Ways of Exploring the KB Web Collection
+
+Authors: Geldermans, Iris, de Gruijter, Michel, Ham, Sophie, Wiedenhof, Fedor
+
+Keywords: research infrastructure, sensitive data, datasets, data access, non-consumptive reading, distant reading, text and data mining, secure data environment, collections as data, web collections, web archiving, websites, information retrieval, Trusted Research Environment
+
+Publication date: 2025-06-04
+
+Description:
+<span lang="EN-US">This poster introduces two projects that together have increased the accessibility of harvested websites for researchers. </span>
+
+<span lang="EN-US">The KB, National Library of the Netherlands, will celebrate 20 years of web archiving in 2027. This period of archiving has led to a web collection which can give us insights in online culture. Within the Twi-XL project we tried to create opportunities for</span><span lang="EN-US"> social sciences and humanities (SSH) researchers to examine online news sources like websites and social media, in order to add new perspectives to societal issues in the Netherlands. </span>
+
+<span lang="EN-US">SSH research that aims to incorporate web data is challenging because archived websites are often not fully text searchable. Furthermore, t</span><span lang="EN-US">hese data are subject to legal restrictions, such as copyright and privacy law. Providing access is complex. The stakeholders of Twi-XL needed an infrastructure to make research of copyright protected data possible. Luckily, there is a high demand for such infrastructures, and one is being built by a partner already, within the SANE project. </span>
+
+<span lang="EN-US">SANE is a Trusted Research Environment (TRE) allowing researchers to analyse data that are sensitive, private, or protected under copyright law. The data always remain safe and, depending on the specific legal restrictions, cannot be copied or even viewed. However, it can be analysed when researchers upload their tools to the TRE to run over the data. This type of research infrastructure can help substantially improve the results of SSH research by making far more data available for analysis.</span><span lang="EN-US"> SANE needed use cases to evaluate the environment and to show researchers the added value. And KB as a one of those data providers had the ambition to enhance discovery possibilities of the web collections for researchers in a secure manner. By starting up a Twi-XL use case within SANE, we hoped to explore opportunities for SSH researchers to use and analyse a subset of the web collection. </span>
+
+<span lang="EN-US">To achieve this, we indexed a subset of the web collection using the SolrWayback Machine, an open-source software suite for indexing and exploring web archive files (WARC files). In order to comply with legal requirements and keep the amount of data manageable, the WARC files were deleted after the indexing process was completed. We developed a simple API for programmatically querying the index and downloading data in bulk. The SolrWayback software and the API were packaged in a Docker image. This image and the data were transferred to the SANE environment, which offers an isolated environment for running the software. This access and full-text search capabilities are now available remotely, allowing researchers to work from home rather than exclusively on site.</span>
+
+<span lang="EN-US">Although there are still some manual steps in the process, this approach now allows researchers to perform full-text searches within selected parts of the web collection, with the results returned solely in metadata form.</span>
+
+<span lang="EN-US">In the near future we want to establish a sustainable and swift process for researchers, to make them able to explore a selection of websites within TRE's like SANE. To optimize the process, we will improve dataset descriptions and automate the selection possibilities. And within the SSH community data providers are committed to making as many other datasets available for research as possible.</span>
+
+<span lang="EN-US"><a title="More info about SANE" href="https://www.surf.nl/en/themes/research-infrastructure/sane-secure-environment-for-analysing-sensitive-data">SANE </a>is being developed by the Erasmus School of Social and Behavioural Sciences, ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations), Netherlands Institute for Sound and Vision, CLARIAH (Common Lab Research Infrastructure for the Arts and Humanities), SURF and KB, National Library of the Netherlands. SANE is funded by PDI-SSH (Platform Digital Infrastructure Social Sciences &amp; Humanities).&nbsp;&nbsp;</span>
+
+<span lang="EN-US"><a title="More info about the Twi-XL project" href="https://twi-xl.humanities.uva.nl/">Twi-XL </a>is being developed by the University of Amsterdam (UvA), University Groningen (RUG), SURF, the Netherlands Institute for Sound and Vision and KB, and is funded by PDI-SSH.&nbsp;</span>
+
+<span lang="NL">Van Der Meer, L. (2023, november 2). </span><span lang="EN-US">Sharing sensitive data using SANE. </span><span lang="NL">ODISSEI Conference 2023, Utrecht. Zenodo.&nbsp;https://doi.org/10.5281/zenodo.10069901</span>
+
+<span lang="NL">Poster design: Mirjam Cuper.</span>
+
+
+Contents:
+ - DHBenelux2025_TwiXL-SANE_Geldermans_DeGruijter_Ham_Wiedenhof.pdf

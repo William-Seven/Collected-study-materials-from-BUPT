@@ -1,0 +1,64 @@
+Title: Dataset of Higher Education Activities that Incorporate Wikipedia as a Pedagogical Tool
+
+Authors: Varella, Flávia, Figueredo, Danielly
+
+Keywords: Wikipedia in Education, Open educational resources, Global outreach, Tracking tools
+
+Publication date: 2025-04-02
+
+Description:
+This dataset compiles educational activities in higher education that incorporate Wikipedia as a pedagogical tool between 2003 and 2024. Each activity includes detailed information such as:
+
+
+
+Wikipedia version used
+
+
+
+Activity title
+
+
+
+Description of the activity
+
+
+
+Related discipline and course code (if applicable)
+
+
+
+Dates of implementation (start and end)
+
+
+
+City and country where the activity took place
+
+
+
+Educational level and university
+
+
+
+National Council for Scientific and Technological Development (CNPq) knowledge area classification
+
+
+
+Names and usernames of supporting staff and responsible professors
+
+
+
+Partnerships with other institutions or initiatives
+
+
+
+Links to relevant outputs on Wikipedia, Wikimedia Commons, and external sites
+
+
+
+Its goal is to organize these experiences to facilitate comparative analysis, identify best practices, and support the development of new educational projects involving open knowledge and active learning strategies.
+
+The mapping table available on this page is the result of an extensive two-year research effort, involving the analysis of over 20,000 educational projects related to the use of Wikipedia in higher education. Despite the systematic effort and methodological rigor applied, the volume, diversity, and limitations in accessing consistent data ultimately compromised the final consolidation of the table, especially after the research funding ended. Therefore, we recommend that the table be consulted with caution and critical thinking, bearing in mind that some information may be incomplete or inaccurate. A broader contextualization of the results, as well as reflections on the challenges faced, can be found in the project's final report: https://w.wiki/DeBS .
+
+
+Contents:
+ - [PÚBLICA] Tabela de Mapeamento de Projetos Multilíngue.xlsx

@@ -1,0 +1,60 @@
+Title: Data for the study: "Force and stress calculations with a neural-network wave function for solids"
+
+Authors: Qian, Yubing
+
+Keywords: Quantum Monte Carlo
+
+Publication date: 2024-11-06
+
+Description:
+
+This dataset contains the raw data and plotting code used in the study titled: "<a href="https://doi.org/10.1039/d4fd00071d">Force and stress calculations with a neural-network wave function for solids</a>".
+
+
+The relevant code is available at <a href="https://github.com/bytedance/netobs">https://github.com/bytedance/netobs</a>.
+
+<h2>Data Files</h2>
+<h3>Directory structure</h3>
+<ul>
+<li><code>deepsolid-force/</code>: Data files for calculating forces.
+<ul>
+<li><code>Graphene/{X}</code> contains training curves and forces by different estimators for 1x1x1 graphene cell, with one carbon atom stretched X angstroms.</li>
+<li><code>LiH_TRI/{X}</code> contains forces by different estimators for 1x1x1 LiH cell, with the hydrogen atom displaced along the diagonal line for X Bohr.</li>
+<li><code>LiH_NU/{X}</code> is similar to&nbsp;<code>LiH_TRI/{X}</code> but uses the NU feature instead of the TRI feature mentioned in the paper.
+<ul>
+<li><code>fs</code> means the function f is using the triangular version and <code>f0</code> means it's using the original version. Same for function g.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><code>deepsolid-stress/</code>: Data files for calculating stress
+<ul>
+<li><code>LiH/{X}</code> contains pressure and stress data for 1x1x1 LiH cell with lattice constant equals to X angstrom.</li>
+</ul>
+</li>
+</ul>
+<h3>File format</h3>
+
+Raw force/stress data are stored in files named <code>netobs_ckpt_xxxxxx.npz</code>. Forces are stored in <code>digest/force</code> fields of the <code>npz</code> file and stresses are stored in <code>values/value</code> field.
+
+
+The training curves are stored in <code>train_stats.csv</code> files.
+
+<h2>Code for Plotting Figures</h2>
+<ul>
+<li><code>prep_data.py</code>: Script to process data and create CSVs in <code>digest/</code>.
+<ul>
+<li>The easiest way to run it is using command <code>uv run prep_data.py</code></li>
+</ul>
+</li>
+<li><code>plot.ipynb</code>: Jupyter notebook for generating the plots.
+<ul>
+<li>The easiest way to run it is using command <code>uvx --with numpy,pandas,lmfit,matplotlib,git+https://github.com/AllanChain/acplot jupyter lab plot.ipynb</code>
+
+</li>
+</ul>
+</li>
+</ul>
+
+Contents:
+ - force-data.zip

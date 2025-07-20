@@ -1,0 +1,43 @@
+Title: SelfEEG: A Python library for Self-Supervised Learning in Electroencephalography
+
+Authors: Del Pup, Federico, Zanola, Andrea, Tshimanga, Louis Fabrice, Mazzon, Paolo Emilio, Atzori, Manfredo
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+<h2>What's New</h2>
+<strong>Functionality</strong>
+
+
+<strong>augmentation module</strong>:
+add Circular augmenter in compose module.
+add phase swap augmentation in functional module.
+
+
+<strong>models module</strong>:
+models can be initialized with a custom seed.
+add EEGConformer.
+add xEEGNet.
+
+
+<strong>dataloading module</strong>:
+EEGDataset now supports EEG with multiple labels (1 per window partition).
+
+
+<strong>ssl module</strong>:
+The fine_tuning function now accepts a custom validation loss function.
+
+
+
+<strong>maintenance</strong>
+
+
+fixed unittest MPS device bug on git workflows
+fixed unittest deprecation warnings
+reduced unittest overall time
+
+
+Contents:
+ - MedMaxLab/selfEEG-v0.2.1.zip

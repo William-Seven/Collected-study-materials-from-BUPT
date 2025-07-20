@@ -1,0 +1,14 @@
+Title: Topology Optimization of Neural Networks as an Integrated Process in Training with Control Theory Methods
+
+Authors: Dolezel, Petr, Štursa, Dominik, Honc, Daniel, Rak, Josef, Karamazov, Simon, Kopecký, Dušan
+
+Keywords: neural network topology optimization; neural network pruning; process control; neural network training;
+
+Publication date: 2025-06-04
+
+Description:
+The simultaneous optimization of neural network topology and training remains an underexplored research direction, despite its potential to improve model efficiency and performance dynamically. This paper introduces a control-based framework for jointly adjusting the structure and training process of fully connected neural networks. The methodology formulates the training and pruning process as a multivariable dynamic system with two input variables&mdash;training process parameters and network architecture adjustments&mdash;and two output variables&mdash;model performance and computational complexity. A discrete two-dimensional Proportional-Integral-Derivative (PID) controller is employed to regulate these inputs, ensuring a balanced trade-off between accuracy and computational efficiency. The control system is tested on a function approximation task, where a fully connected network is initially set with redundant capacity and gradually optimized according to predefined reference trajectories of performance and complexity. Experimental results demonstrate the effectiveness of the proposed approach, revealing the dynamic interaction between topology and training in real-time network adaptation. The findings highlight the feasibility of integrating control strategies into neural network optimization and pave the way for future research on more advanced control-based learning architectures.
+
+
+Contents:
+ - 11_Prezentace_Process Control_Dolezel.pdf

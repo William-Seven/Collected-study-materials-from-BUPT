@@ -1,0 +1,15 @@
+Title: Factorul uman – factor fundamental al eficientizării gestiunii operative a rețelelor electrice
+
+Authors: Suslenco, Alina, Corbu, V.
+
+Keywords: operational management, electrical networks, energy management, human factor, organizational efficiency
+
+Publication date: 2025-05-26
+
+Description:
+
+<span lang="EN-US">This work represents a theoretical-applicative foray into the possibilities of making the operative management of electrical networks more efficient. As the operational management is carried out by the human resources of the organization, the human factor becomes the main factor of the efficiency of the operational management of the electrical networks. As a result, the purpose of the research is to elucidate the contribution of the human factor in the efficiency of the operative management of the electrical networks. The research methodology focused on the use of the following research methods: analysis, synthesis, induction, deduction, abduction, comparative analysis, secondary data analysis. Towards the end, we can note that the efficiency of the operational management of the electrical networks can be ensured by increasing investments in the human factor, which will generate possibilities for increasing the quality of the operational management. At the same time, the application of information technologies and the digitization of operative management can ensure a safe route to achieve the efficiency and performances recorded by the operative management department, on the one hand, as well as ensure the increase of organizational performance, on the other hand. </span>
+
+
+Contents:
+ - suslenco_factor_uman.pdf

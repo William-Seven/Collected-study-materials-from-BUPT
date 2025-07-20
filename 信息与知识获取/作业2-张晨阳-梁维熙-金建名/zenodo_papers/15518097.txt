@@ -1,0 +1,13 @@
+Title: anty-filidor/network_diffusion: 0.18.0rc20250526114731
+
+Authors: Michał Czuba, uniooo, damian4060, nurek-mateusz, mateuszStolarski
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+Python package for simulating spreading phenomena in complex networks
+
+Contents:
+ - anty-filidor/network_diffusion-0.18.0rc20250526114731.zip

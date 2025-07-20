@@ -1,0 +1,13 @@
+Title: IIIF for Historical Document Analysis: Approaches to Machine Learning and Image Annotation Workflows in Monasterium.net
+
+Authors: Renet, Nicolas, Atzenhofer-Baumgartner, Florian
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+N/A
+
+Contents:
+ - 2025-05-08-CLARIAH-AT-IIIF-DiDip.pdf

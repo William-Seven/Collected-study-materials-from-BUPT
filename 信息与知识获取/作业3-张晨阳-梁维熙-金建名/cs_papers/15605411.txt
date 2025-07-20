@@ -1,0 +1,18 @@
+Title: Achieving self-sufficiency in China's future maize production through data-driven interpretable machine learning strategies
+
+Authors: Wang, Yueying
+
+Keywords: 
+
+Publication date: 2025-06-06
+
+Description:
+Data Sources and Model Development Code for Maize Yield Prediction under Future Climate Scenarios in China
+
+
+Contents:
+ - Independent_Validation_Data_Sources.csv
+ - XGBoost_Model_Code_and_Figures.html
+ - Maize_Yield_Model_Data_Sources.csv
+ - SVR_Model_Code_and_Figures.html
+ - RF_Model_Code_and_Figures.html

@@ -1,0 +1,15 @@
+Title: vaughngrey/JHydrology_Streamflow_ISA: Original code
+
+Authors: vaughngrey
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+Original code release: 3/6/2025
+Code to support paper: Grey et al. 2025 Journal of Hydrology, Harnessing the strengths of machine learning and geostatistics to improve streamflow prediction in ungauged basins; the best of both worlds
+
+
+Contents:
+ - vaughngrey/JHydrology_Streamflow_ISA-v1.0.zip

@@ -1,0 +1,15 @@
+Title: TURIZM SOHASIDA RAQAMLI TEXNOLOGIYALAR
+
+Authors: Sabirova Dildor Arifovna, Ataxanova Shaxnoza Anvarovna
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<em><span lang="EN-US">Ushbu maqolada zamonaviy raqamli texnologiyalarning turizm sohasiga ta&rsquo;siri ko&lsquo;rib chiqilgan. Sun&rsquo;iy intellekt, AR/VR, Big Data, IoT kabi texnologiyalar turizmni shaxsiylashtirish, avtomatlashtirish va interaktiv qilish imkonini bermoqda. Ichki va tashqi raqamlashtirish orqali turizm kompaniyalari o&lsquo;z raqobatbardoshligini oshirmoqda. Maqolada raqamli texnologiyalar orqali turizmda xizmat sifatini yaxshilash va daromadlarni oshirish imkoniyatlari haqida tahlil keltirilgan.</span></em>
+
+
+Contents:
+ - 2.14.pdf

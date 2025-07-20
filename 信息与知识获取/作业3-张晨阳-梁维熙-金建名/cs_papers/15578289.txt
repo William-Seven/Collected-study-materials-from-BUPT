@@ -1,0 +1,14 @@
+Title: Integrated cloud platform for energy management of self-sustainable island communities
+
+Authors: Jelić, Marko, Peretti Corrêa, Dayanne, Jelić, Dea, Berbakov, Lazar, Werner, Daniel, Maruf, Md Nasimul Islam, Lazaro, Ignacio, Fernandez, Izaskun, Keane, Marcus, Tomasevic, Nikola
+
+Keywords: Geographical islands, Sustainable energy communities, Energy management platform, Energy forecasting, Energy optimization, Smart asset control
+
+Publication date: 2025-05-28
+
+Description:
+An integral part of contemporary initiatives striving to promote and create self-sustainable communities has&nbsp;been the integration and efficient management of renewable energy sources, energy storage solutions, and&nbsp;sustainable heating and cooling assets. This paper presents a unique combination of diverse technologies,&nbsp;ranging from established data management solutions like SQL and NoSQL databases to custom semantic&nbsp;solutions and device-specific control adapters powered by the OpenMUC gateway. Additionally, it incorporates&nbsp;analytical machine learning-based forecasting solutions paired with optimization algorithms, working together&nbsp;to enable energy self-sufficiency. The platform constituted by these solutions is subsequently utilized to provide&nbsp;predictive and real-time control of energy assets in various facilities in line with the selected operation strategy.&nbsp;Its application, particularly in terms of effective energy storage utilization and timing of asset activation&nbsp;scheduling, ultimately results in improvements in renewable energy integration and overall increase of energy&nbsp;efficiency in the considered buildings. As demonstrated in real-world use cases tested within prosumer-based&nbsp;energy communities in geographical islands, the application of the platform resulted in tangible modifications&nbsp;to the primary statistical characteristics of electrical energy consumption clearly signified, among others, by a&nbsp;reduction in mean consumption of between 40 W and 190 W. Through scrutinizing the achieved results, it can&nbsp;be concluded that the platform displays the capabilities to outperform stock control algorithms provided by&nbsp;the inverter vendors. Expanding upon the application limited to the electric assets, use cases in the thermal&nbsp;domain where optimization outputs are utilized for heat pump scheduling were also discussed and presented.
+
+
+Contents:
+ - 1-s2.0-S235248472500280X-main.pdf

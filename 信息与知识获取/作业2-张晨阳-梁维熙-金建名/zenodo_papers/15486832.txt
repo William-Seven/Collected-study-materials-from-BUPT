@@ -1,0 +1,16 @@
+Title: Dataset for U-Net-Like Spiking Neural Networks for Single Image Dehazing
+
+Authors: Liu, Haoran, Li, Huibin
+
+Keywords: Image Dehazing, Spiking Neural Networks
+
+Publication date: 2025-05-22
+
+Description:
+
+DehazeSNN is a novel image dehazing framework that combines a U-Net-like architecture with Spiking Neural Networks (SNNs) to address limitations in existing CNN- and Transformer-based methods. By introducing the Orthogonal Leaky-Integrate-and-Fire Block (OLIFBlock), DehazeSNN effectively captures both local and long-range dependencies while reducing computational complexity. Extensive evaluations demonstrate that DehazeSNN achieves competitive performance on standard benchmarks with fewer parameters and lower computational costs. This dataset supports the DehazeSNN paper (to appear in IJCNN 2025) and includes experimental results for two model variants (L and M) on RESIDE-6K, RESIDE-Indoor, RESIDE-Outdoor, and RS-Haze. It provides training logs, performance metrics (loss, PSNR), validation results from the last 20 epochs, and detailed outputs from the best-performing models. The dataset is released under the CC BY 4.0 license. Code and models are available at: <a href="https://github.com/HaoranLiu507/DehazeSNN" target="_new" rel="noopener">https://github.com/HaoranLiu507/DehazeSNN</a>.
+
+
+Contents:
+ - Model_results.zip
+ - README.txt

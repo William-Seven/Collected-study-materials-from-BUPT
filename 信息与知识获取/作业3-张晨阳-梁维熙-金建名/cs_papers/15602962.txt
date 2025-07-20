@@ -1,0 +1,16 @@
+Title: SAT-Based Model Calibration for Biochemical Reactions Under Uncertainty
+
+Authors: Anonymous
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+Biological processes are executed concurrently and on different scales. Modeling of biological processes becomes challenging when the concentrations of biochemicals are imprecise. A tractable formalism for model construction to address imprecision in the concentrations of biochemicals. The model calibration is performed by generating finer models from coarser models that represent the set of sequences of biochemical reactions. Learning of the specifications extracted from the coarser model is applied effectively to construct a finer model. The computational feasibility of the formalism is evaluated on a prototype of the RKIP-inhibited ERK pathway. Bounded model checking is performed on the prototype by addressing the uncertainty in the concentration of biochemical reactions. The formalism provides insight for modeling biochemical reactions that demonstrate multiscale behavior.
+
+
+Contents:
+ - Timing_Data_New.xlsx
+ - Finer_Model.py
+ - Coarser_Model.py

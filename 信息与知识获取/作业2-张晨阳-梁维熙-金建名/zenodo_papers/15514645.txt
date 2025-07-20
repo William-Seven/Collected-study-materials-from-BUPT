@@ -1,0 +1,13 @@
+Title: Observatorio virtual sonoro basado en deep learning. Material complementario.
+
+Authors: García Riber, Adrián
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Im&aacute;genes, audios y v&iacute;deos del proyecto de investigaci&oacute;n del observatorio virtual sonoro.
+
+

@@ -1,0 +1,15 @@
+Title: Bridging 3D-Printed and Cast Concrete: A Review of Mechanical Bond Behavior, Composite Action, and Sustainable Protective Structures
+
+Authors: Girmay Mengesha Azanaw
+
+Keywords: 3D Printed Concrete, Cast-in-Place Concrete, Interfacial Bond Behaviour, Composite Action, Digital Construction, and Protective Concrete Structures
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>New possibilities in digital construction are made possible by combining 3D printed concrete with traditional cast concrete, which allows for the quick fabrication of hybrid structures that blend structural efficiency, customization, and geometric intricacy. However, the mechanical bond behavior and composite action at the interface between cast concrete and 3D printed concrete continue to be significant obstacles influencing such hybrid systems' overall performance, longevity, and structural integrity. To clarify the interfacial mechanisms driving load transmission, failure modes, and bond strength development, this study examines current developments in experimental techniques and numerical modelling approaches. Additionally, the research examines how printing parameters, interface preparation methods, and reinforcing tactics can improve composite activity. At the same time, the assessment assesses the application and design of 3D printed concrete for protective constructions, including blast-resistant barriers, disaster shelters, and impact-absorbing walls, highlighting their performance under extreme loading conditions. Through a comparative analysis of existing findings, I identify research gaps, standardisation needs, and future directions for optimising mechanical synergy in hybrid 3D printing systems. Visual summaries, including comparative tables, bond stress&ndash;slip relationship charts, and schematic illustrations of interface mechanisms, are provided to facilitate a more profound understanding. This review contributes to the foundation for the next generation of high-performance, sustainable, and rapidly deployable concrete structures.
+
+
+Contents:
+ - E110312050525.pdf

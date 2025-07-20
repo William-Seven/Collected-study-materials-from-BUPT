@@ -1,0 +1,838 @@
+Title: Dataset for: A web-based app for sunn pest species recognition (Hemiptera: Scutelleridae: Eurygaster) using machine learning
+
+Authors: Neimorovets, Vladimir, Konstantinov, Fedor
+
+Keywords: 
+
+Publication date: 2025-04-22
+
+Description:
+
+Keywords: convolutional neural networks, pests, taxonomy, automated species recognition
+
+
+Desription:&nbsp;This dataset was used in a project focused on training a convolutional neural network (CNN) for expert-level identification of <em>Eurygaster</em> species. It comprises 5,072 dorsal habitus images of specimens that were reliably identified by expert taxonomist V. Neimorovets from the collection of the Zoological Institute, St. Petersburg. We prepared 48 image sets&mdash;separately for males and females of each <em>Eurygaster</em> species (see Table 1)&mdash;using a variety of imaging equipment, including a DSLR camera (<a name="_Hlk199099902"></a>Canon 50D), a compact camera (Olympus TG-5 with and without flash), and a smartphone (Redmi Note 9 Pro):
+
+
+<em>Eurygaster</em><em> austriaca</em><em>&nbsp;</em>(Schrank, 1776)
+
+
+<em>Eurygaster</em>&nbsp;<em>dilaticollis</em> Dohrn, 1860
+
+
+<em>Eurygaster</em><em>&nbsp;</em><em>integriceps</em>&nbsp;Puton, 1881
+
+
+<em>Eurygaster</em><em>&nbsp;</em><em>laeviuscula</em>&nbsp;Jakovlev, 1886
+
+
+<em>Eurygaster</em><em>&nbsp;</em><em>maura</em> (Linnaeus, 1758)
+
+
+<em>Eurygaster</em><em>&nbsp;</em><em>testudinaria</em> (Geoffroy, 1785)
+
+
+&nbsp;
+
+
+Likewise, we generated 12 sets of dorsal habitus images using Canon 50D&nbsp;only for each sex of the following true bug species, which resemble <em>Eurygaster</em> spp., to serve as an &ldquo;outgroup&rdquo; for CNN training. These species belong to the families Scutelleridae and Pentatomidae:
+
+
+<em>Aelia acuminata</em> (Linnaeus, 1758)
+
+
+<em>Dolycoris</em><em>&nbsp;</em><em>baccarum</em> (Linnaeus, 1758)
+
+
+<em>Holcostethus</em><em>&nbsp;</em><em>strictus</em> (Fabricius, 1803) (= <em>Holcostethus</em><em> vernalis</em> (Wolff, 1804))
+
+
+<em>Odontotarsus</em><em>&nbsp;</em><em>purpureolineatus</em> (Rossi, 1790)
+
+
+<em>Piezodorus</em><em>&nbsp;</em><em>lituratus</em> (Fabricius, 1794)
+
+
+<em>Staria </em><em>lunata</em> (Hahn, 1835)
+
+
+&nbsp;
+
+
+All images were organized into a total of 60 archive files to facilitate downloading (see Table 1). The abbreviations used in the archive names are as follows:
+
+
+***_Canon50D &ndash; images were taken with a DSLR camera Canon EOS 50D equipped with&nbsp;Sigma 105mm f/2.8 macro lens and Yongnuo YN24EX Macro Flash;
+
+
+***_Olympus_Flash &ndash; images were taken with an Olympus Tough TG-5 with its built-in flash;
+
+
+***_Olympus_no Flash &ndash; images were taken with an Olympus Tough TG-5 without its built-in flash;
+
+
+***_ Olympus_Redmi &ndash; images were taken with a smartphone Redmi Note 9 Pro;
+
+
+***_M_*** &ndash; sets of males;
+
+
+***_F_*** &ndash; sets of females.
+
+
+&nbsp;
+
+
+Table 1. Number of photographed specimens used in this study:
+
+<table>
+<tbody>
+<tr>
+<td>
+
+<strong>Species</strong>
+
+</td>
+<td>
+
+<strong>Canon 50D</strong>
+
+</td>
+<td>
+
+<strong>Olympus Tough TG-5 with flash</strong>
+
+</td>
+<td>
+
+<strong>Olympus Tough TG-5 without flash</strong>
+
+</td>
+<td>
+
+<strong>RedMi</strong><strong>&nbsp;</strong><strong>Note 9 Pro</strong>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>austriaca</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>austriaca</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>dilaticollis</em>, male
+
+</td>
+<td>
+
+75
+
+</td>
+<td>
+
+75
+
+</td>
+<td>
+
+75
+
+</td>
+<td>
+
+75
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>dilaticollis</em>, female
+
+</td>
+<td>
+
+82
+
+</td>
+<td>
+
+82
+
+</td>
+<td>
+
+82
+
+</td>
+<td>
+
+82
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>integriceps</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>integriceps</em>, female
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>laeviuscula</em>, male
+
+</td>
+<td>
+
+7
+
+</td>
+<td>
+
+7
+
+</td>
+<td>
+
+7
+
+</td>
+<td>
+
+7
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>laeviuscula</em>, female
+
+</td>
+<td>
+
+5
+
+</td>
+<td>
+
+5
+
+</td>
+<td>
+
+5
+
+</td>
+<td>
+
+5
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>maura</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>maura</em>, female
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>testudinaria</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Eurygaster</em><em>&nbsp;</em><em>testudinaria</em>, female
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+100
+
+</td>
+</tr>
+<tr>
+<td colspan="5">
+
+<strong>Outgroup</strong>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Aelia</em><em>&nbsp;</em><em>acuminata</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Aelia</em><em>&nbsp;</em><em>acuminata</em>, female
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Dolycoris</em><em>&nbsp;</em><em>baccarum</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Dolycoris</em><em>&nbsp;</em><em>baccarum</em>, female
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Holcostethus</em><em>&nbsp;</em><em>vernalis</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Holcostethus</em><em>&nbsp;</em><em>vernalis</em>, female
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Odontotarsus</em><em>&nbsp;</em><em>purpureolineatus</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Odontotarsus</em><em>&nbsp;</em><em>purpureolineatus</em>, female
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Piezodorus</em><em>&nbsp;</em><em>lituratus</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Piezodorus</em><em>&nbsp;</em><em>lituratus</em>, female
+
+</td>
+<td>
+
+96
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Staria</em><em>&nbsp;</em><em>lunata</em>, male
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+<tr>
+<td>
+
+<em>Staria</em><em>&nbsp;</em><em>lunata</em>, female
+
+</td>
+<td>
+
+100
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+<td>
+
+&ndash;
+
+</td>
+</tr>
+</tbody>
+</table>
+
+&nbsp;
+
+
+Contents:
+ - E_maura_M_Redmi_.rar
+ - Dolycoris baccarum_M_Canon50D.rar
+ - Staria lunata_M_Canon50D.rar
+ - E_integriceps_M_Canon50D.rar
+ - E_dilaticollis_M_Olympus_no Flash.rar
+ - Piezodorus lituratus_M_Canon50D.rar
+ - E_dilaticollis_M_Olympus_Flash.rar
+ - E_maura_F_Redmi_.rar
+ - E_maura_F_Olympus_Flash.rar
+ - E_laeviuscula_F_Olympus_Flash.rar
+ - Dolycoris baccarum_F_Canon50D.rar
+ - E_maura_F_Olympus_no Flash.rar
+ - E_testudinaria_M_Redmi.rar
+ - E_dilaticollis_M_Redmi.rar
+ - Aelia acuminata_M_Canon50D.rar
+ - Aelia acuminata_F_Canon50D.rar
+ - E_dilaticollis_F_Canon50D.rar
+ - E_integriceps_F_Canon50D.rar
+ - E_austriaca_M_Canon50D.rar
+ - E_austriaca_F_Canon50D.rar
+ - E_laeviuscula_M_Canon50D.rar
+ - E_dilaticollis_M_Canon50D.rar
+ - Holcostethus vernalis_M_Canon50D.rar
+ - E_maura_F_Canon50D.rar
+ - E_laeviuscula_F_Canon50D.rar
+ - Staria lunata_F_Canon50D.rar
+ - E_austriaca_F_Olympus_Flash.rar
+ - E_integriceps_F_Olympus_Flash.rar
+ - E_testudinaria_M_Canon50D.rar
+ - E_maura_M_Canon50D.rar
+ - E_maura_M_Olympus_Flash.rar
+ - Holcostethus vernalis_F_Canon50D.rar
+ - E_testudinaria_F_Canon50D.rar
+ - E_testudinaria_M_Olympus_Flash.rar
+ - Odontotarsus purpureolineatus_F_Canon50D.rar
+ - E_austriaca_M_Olympus_Flash.rar
+ - Odontotarsus purpureolineatus_M_Canon50D.rar
+ - Piezodorus lituratus_F_Canon50D.rar
+ - E_dilaticollis_F_Olympus_Flash.rar
+ - E_austriaca_F_Olympus_no Flash.rar
+ - E_austriaca_M_Olympus_no Flash.rar
+ - E_testudinaria_F_Olympus_ Flash.rar
+ - E_integriceps_M_Olympus_Flash.rar
+ - E_laeviuscula_M_Olympus_Flash.rar
+ - E_integriceps_M_Olympus_no Flash.rar
+ - E_dilaticollis_F_Olympus_no Flash.rar
+ - E_integriceps_F_Olympus_no Flash.rar
+ - E_maura_M_Olympus_no Flash.rar
+ - E_laeviuscula_M_Redmi.rar
+ - E_laeviuscula_F_Olympus_no Flash.rar
+ - E_laeviuscula_M_Olympus_no Flash.rar
+ - E_testudinaria_F_Olympus_no Flash.rar
+ - E_dilaticollis_F_Redmi.rar
+ - E_ integriceps_M_Redmi_.rar
+ - E_testudinaria_F_Redmi.rar
+ - E_austriaca_M_Redmi.rar
+ - E_testudinaria_M_Olympus_no Flash.rar
+ - E_laeviuscula_F_Redmi.rar
+ - E_ integriceps_F_Redmi_.rar
+ - E_austriaca_F_Redmi.rar

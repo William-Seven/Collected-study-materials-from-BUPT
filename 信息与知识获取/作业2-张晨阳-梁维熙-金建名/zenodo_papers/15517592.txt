@@ -1,0 +1,15 @@
+Title: Open database on product-service specifications and characteristics
+
+Authors: Terlouw, Tom, Lotz, Meta Thurid, Neuwirth, Marius, Saurat, Mathieu, Baka, Maria-Iro (Maro), Bauer, Christian
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>This database has been developed in the context&nbsp;of the Horizon Europe project <a title="https://www.transience.eu/" href="https://www.transience.eu/" target="_blank" rel="noreferrer noopener">TRANSIENCE</a> to support the development of MIC3, a consistent, fully open-source model ecosystem to assess industrial circularity, decarbonisation, and sustainability. The database contains P&amp;S characteristics, specifications, material compositions, and supply chain-related information. It assesses material compositions (bulk materials) of various building types, passenger vehicles, batteries, wind turbines, solar PV systems, and electronic devices, using the data from the prospective life cycle assessment framework <em>premise&nbsp;</em>building on ecoinvent 3.10 (system model: 'allocation, cutoff by classification') and literature. Additional data on critical materials for a large set of low-carbon energy technologies has also been included. Moreover, important translations of socioeconomic indicators into physical demand are provided for selected products, end-uses, and energy services.</span>
+
+
+Contents:
+ - TRANSIENCE Product & Service (P&S) Database_v1.00.xlsx

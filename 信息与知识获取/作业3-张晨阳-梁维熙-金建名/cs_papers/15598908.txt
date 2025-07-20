@@ -1,0 +1,18 @@
+Title: Aversive experiences induce valence plasticity of instructive signals to change future learning rules in mice
+
+Authors: Higashino, Iori
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+N/A
+
+Contents:
+ - func.py
+ - Chronos_eYFP.ipynb
+ - Generalization_Successive_Ctrl.ipynb
+ - Successive_Ctrl.ipynb
+ - func_gen.py
+ - Generalization_Chronos_eYFP.ipynb

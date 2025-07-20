@@ -1,0 +1,14 @@
+Title: Auxiliary python scripts for fine-tuning of universal Machine Learning Interatomic Potential CHGNet
+
+Authors: Žguns, Pjotrs
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+These scripts are auxiliary tools intended to assist in the fine-tuning of universal machine learning interatomic potentials.
+
+
+Contents:
+ - auxiliary_scripts_for_CHGNet_fine_tuning.tar

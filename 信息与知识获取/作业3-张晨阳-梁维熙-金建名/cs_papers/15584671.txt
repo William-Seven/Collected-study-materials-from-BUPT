@@ -1,0 +1,45 @@
+Title: State Space-Based Methods for Validating Model Transformations in Model Checkers (Dataset)
+
+Authors: Ádám, Zsófia, Micskei, Zoltán
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<h1>Artifact</h1>
+These directories contain all necessary files and our results for our&nbsp;<strong>evaluation</strong>, and additionally, to our&nbsp;<strong>motivation example</strong>&nbsp;for the paper titled "State Space-Based Methods for Validating Model Transformations in Model Checkers" by Zs&oacute;fia &Aacute;d&aacute;m and Zolt&aacute;n Micskei.
+
+These files are available directly in the zenodo archive, but the provided Ubuntu VM also contains a copy of this directory.
+
+DOI of the paper: <em>TBA</em>
+
+<h2>About the Virtual Machine</h2>
+VM username and password: artifact
+
+The VM is a simple ubuntu 24.04.1 Desktop install with the following additional packages (and their dependencies) installed from apt:openssh-servergraphvizdotopenjdk-17-jre-headless
+
+It has 8GB of RAM, a 35GB disk and 12 CPU cores.
+
+It is a kvm VM, thus a qcow2 disk and the exported XML of the VM is provided. Change the &lt;file&gt; path to the qcow2 file before importing it.
+
+<h2>Data Folders</h2>
+These are available separately and on the virtual machine as well.
+
+<h3>Motivation Example</h3>
+This is the motivation example of HugoRT battery models from the beginning of the paper.
+
+<h3>Evaluation</h3>
+This is our main evaluation executed on the Gamma-Theta toolchain from the last section of the paper.
+
+Textual source (gcd extension) and PlantUML visualisations for each model are also provided, eliminating the need to run Gamma and the Eclipse IDE for just checking the model suite.
+
+<em>Both the evaluation and the motivation example include their own readmes.</em>
+
+
+Contents:
+ - model-visualizations.zip
+ - motivation-example.zip
+ - all-artifact-files.zip
+ - evaluation-files.zip
+ - vm.zip

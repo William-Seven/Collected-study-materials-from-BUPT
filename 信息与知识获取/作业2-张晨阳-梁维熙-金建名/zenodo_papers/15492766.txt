@@ -1,0 +1,29 @@
+Title: SECURE Deliverable 4.1: Action Plans to Implement SECURE Research Career Framework
+
+Authors: Moya-Falcón, Corina, Martín Imholtz, Silvia, Dalton, Gordon, Priscila, Velázquez-Ortuño, O'Neill, Gareth, Karalija, Erna, Day, Emma, Bouccara, Sophie, Moiras, Panagiotis, Zelenika, Sasa, Jakominić Marot, Nataša, Lopes, Helder, Rocha, Isabel, Irimia, Alina, Trif, Ioana, Gómez, Silvia, Terlevic, Sanja
+
+Keywords: 
+
+Publication date: 2025-05-22
+
+Description:
+
+This document of the SECURE project (Deliverable D4.1), presents the Action Plans to implement in the trial organisations. The Action Plans are based on deliverable D2.1-First Draft of SECURE Research Career Framework (DOI: 10.5281/ZENODO.10776715) of the SECURE project which builds on existing European initiatives to improve research careers and reduce precarity, linking to the European Framework for Research Careers (EFfRC), the European Charter for Researchers, the European Competence Framework for Researchers (ResearchComp), and the European Skills, Competences, and Occupations (ESCO) classification. D2.1 is structured around the 8 pillars and 44 recommendations of the EFfRC and addresses 6 key questions aimed primarily at research-performing organisations (RPOs) and research funding organisations (RFOs) for each recommendation in the EFfRC:
+
+<ul>
+<li>How could this recommendation be relevant and useful for RPOs and RFOs?</li>
+<li>Which principles of the Charter could be relevant for this recommendation?</li>
+<li>How could ResearchComp and ESCO be relevant for this recommendation?</li>
+<li>How could this recommendation reduce the precarity of research careers?</li>
+<li>Which actions could implement this recommendation at RPOs and RFOs?</li>
+<li>Which challenges could hinder this recommendation at RPOs and RFOs?</li>
+</ul>
+
+D2.1 proposes a set of 150 SECURE RCF actions for implementing the EFfRC at RFOS and RPOs, addressing related challenges for each recommendation. These actions provide clear, practical guidance while allowing flexibility for organisations to adapt them to their strategic interests and needs.
+
+
+In this document, D4.1, the trial organisations have each selected and interpreted a number of these actions, which have been integrated into individual action plans for each trial as detailed in section 3. The trials will run for 12 months from February 2024 until January 2025. The trial organisations include&nbsp;3 RPO, 1 RFO, 1 research infrastructure (RI) and 1 recruitment agency (RA).
+
+
+Contents:
+ - SECURE D4.1_Action Plans to Implement SECURE Research Career Framework.pdf

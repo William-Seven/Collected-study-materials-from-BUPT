@@ -1,0 +1,16 @@
+Title: Energietechnologien und Wertschöpfungsketten in Österreich
+
+Authors: Jäger, Katharina, Bürscher, Theresa, Scherngell, Thomas, Montalvo Rojo, Anahí
+
+Keywords: Strategic Net Zero Technologies, Supply Chain, Policy, Austria, Innovation Dynamics & Modelling
+
+Publication date: 2025-05-26
+
+Description:
+
+Net Zero Technologien (NZT) gewinnen angesichts der fortschreitenden Klimakrise weltweit zunehmend an wirtschaftlicher Bedeutung (Hofmann et al. 2024). Bis 2030 soll&nbsp;
+ihre Kapazit&auml;t laut IEA (2024a) um das 2,3-Fache wachsen. Gleichzeitig befinden sich noch rund 35 % der daf&uuml;r notwendigen Technologien in der Entwicklung (IEA, 2023a), weshalb ein starker Innovationsstandort entscheidend f&uuml;r die langfristige Wettbewerbsf&auml;higkeit ist. Clean Tech gilt dabei als eines der St&auml;rkefelder &Ouml;sterreichs mit signifikanten Marktchancen. W&auml;hrend die EU mit zahlreichen Initiativen den regulatorischen Rahmen zur St&auml;rkung ihrer Wettbewerbsf&auml;higkeit setzt, sind gezielte Ma&szlig;nahmen in Forschung, Technologie und Innovation (FTI) f&uuml;r die Transformation der heimischen Industrie unerl&auml;sslich. Im vorliegende Policy Brief beleuchten wir die wirtschaftliche Bedeutung sowie die strategischen Perspektiven von Net-Zero-Technologien (NZT) in &Ouml;sterreich im Kontext globaler Klimaziele und industrieller Transformation. Dar&uuml;ber hinaus formulieren wir Handlungsempfehlungen zur St&auml;rkung technologischer Souver&auml;nit&auml;t, zum Ausbau der Kreislaufwirtschaft sowie zur gezielten F&ouml;rderung digitaler Infrastruktur &ndash; zentrale Hebel f&uuml;r eine resiliente und wettbewerbsf&auml;hige Clean-Tech-Industrie in &Ouml;sterreich.
+
+
+Contents:
+ - Policy Brief Entech - Energietechnologien und Wertschöpfungsketten in Österreich.pdf

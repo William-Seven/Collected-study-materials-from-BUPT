@@ -1,0 +1,17 @@
+Title: USENIX'25 Artifact Datasets: Towards Internet-Based State Learning of TLS State Machines
+
+Authors: Maehren, Marcel, Erinola, Nurullah, Merget, Robert, Somorovsky, Juraj, Schwenk, Jörg
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+Artifacts for our USENIX Security '25 paper 'Towards Internet-Based State Learning of TLS State Machines'. The artifact includes:- the tools we used to learn and analyze state machines of TLS implementations- the state machines we collected and discuss in our paper- additional statistics and information on our analysis methodology
+
+
+Contents:
+ - source_code.zip
+ - executables.zip
+ - dataset.zip
+ - additional_material.zip

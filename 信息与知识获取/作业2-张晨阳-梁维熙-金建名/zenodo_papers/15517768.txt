@@ -1,0 +1,19 @@
+Title: Deformation of a Bouncy Ball Software
+
+Authors: Preus, Simon
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - Analyse.zip
+ - Atom-sim.zip
+ - simple_simulation_of_a_ball_using_hooks_law.ipynb
+ - Atom Spring Sim.ipynb
+ - Sammenligning.ipynb
+ - Data Sammenlign.zip
+ - 20.05.2025Centroid calculation without outliers.ipynb

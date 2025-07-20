@@ -1,0 +1,13 @@
+Title: Dataset - Implementation of didactic strategies for assurance of learning with students at risk of academic failure in general chemistry
+
+Authors: Monsalve-Silva, Santiago, Bermudez-Aponte, Jose Javier, Vera-Monroy, Sulma Paola
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+N/A
+
+Contents:
+ - Dataset.xlsx

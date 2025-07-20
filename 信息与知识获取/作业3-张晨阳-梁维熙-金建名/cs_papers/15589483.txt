@@ -1,0 +1,14 @@
+Title: A U.S. NATIONAL FRAMEWORK FOR QUANTUM-ENHANCED FEDERATED ANALYTICS IN POPULATION HEALTH EARLY-WARNING SYSTEMS
+
+Authors: Yusuff Taofeek Adeshina, Babatunde O. Owolabi, Solomon O. Olasupo
+
+Keywords: 
+
+Publication date: 2023-02-21
+
+Description:
+The integration of federated analytics into population <a href="https://ijetrm.com/issues/files/Jun-2023-04-1749011871-FEB202310.pdf" target="_blank" rel="noopener">health surveillance</a> systems has emerged as a transformativestrategy to harness decentralized health data while preserving patient privacy. As the complexity and volume ofhealth data continue to grow across disparate institutions and devices, traditional computational models facelimitations in ensuring both scalability and security. This paper proposes a U.S. national framework for quantumenhanced federated analytics (QFA) to power early-warning systems in population health, leveraging quantumcomputing capabilities to address existing bottlenecks in speed, pattern detection, and cryptographic robustness.At the broader level, the framework aligns with federal priorities on precision public health, pandemicpreparedness, and secure health data infrastructure. Quantum-enhanced algorithms&mdash;particularly in optimization,clustering, and secure multiparty computation&mdash;present opportunities to detect health anomalies across distributeddatasets without centralizing sensitive information. Within the proposed architecture, hybrid quantum-classicalmodels are embedded into edge-based federated learning networks, allowing real-time synthesis of signals fromelectronic health records (EHRs), wearable devices, and public health registries. The framework emphasizes interagency collaboration, integrating efforts from the Department of Health and Human Services (HHS), NationalQuantum Initiative (NQI), and National Institute of Standards and Technology (NIST). It also proposes quantumsafe communication protocols and data governance policies that adhere to HIPAA and emerging AI accountabilitystandards. Narrowing down, the framework presents use cases in early detection of infectious disease outbreaksand chronic disease risk profiling using simulated and real-world federated datasets. This interdisciplinary effortcalls for concerted investment in quantum infrastructure, regulatory agility, and workforce development to ensureethical, equitable, and effective deployment of QFA systems in U.S. public health domain
+
+
+Contents:
+ - FEB202310.pdf

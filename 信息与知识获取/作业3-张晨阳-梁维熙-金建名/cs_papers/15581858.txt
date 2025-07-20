@@ -1,0 +1,28 @@
+Title: Guided Hands, lasting knowledge: Data, Analysis, Materials
+
+Authors: anonymous
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+README &ndash; Guided Hands, Lasting Knowledge: Haptic Prompts in Learning
+
+This repository contains all materials, data, and analysis scripts related to the manuscript:
+
+&ldquo;Guided Hands, Lasting Knowledge: Haptic Prompts in Learning&rdquo;Submitted to <em>Learning and Instruction.</em>
+
+-------------------------------------Included Files
+
+Data- Data &ndash; Haptic Instructions.sav&nbsp; SPSS dataset (anonymized).&nbsp; Note: Due to a technical issue, NFT data for one participant in the NAHI group is missing.
+
+Analysis- Analytical Code.sps&nbsp; SPSS syntax file for statistical analysis.- Qualitative Analyse.docx&nbsp; Coding notes and procedure for qualitative analysis.
+
+Study Materials- Learning Material.docx&nbsp; Full instructional learning text used in the study.- Wissentests.docx&nbsp; Knowledge tests (pre, post, follow-up), including all items and scoring.
+
+-------------------------------------Review Status
+
+This repository is provided for peer review purposes only.All personal or identifying metadata has been removed. A public version will be released upon acceptance of the manuscript.
+
+

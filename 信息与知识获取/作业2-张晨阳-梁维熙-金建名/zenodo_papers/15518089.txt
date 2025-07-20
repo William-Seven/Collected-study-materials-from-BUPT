@@ -1,0 +1,13 @@
+Title: Report on the technical specifications and guidelines for comprehensive testing of gradient-induced heating of passive implants
+
+Authors: Zanovello, Umberto, Arduino, Alessandro, Zilberti, Luca, Bottauscio, Oriano
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+N/A
+
+Contents:
+ - DeliverableD4.pdf

@@ -1,0 +1,45 @@
+Title: SAR Data Simulation and Generation for Machine Learning
+
+Authors: Naidu, Shraddha, Gaburro, Romina, Nolan, Clifford, Healy, Patrick, J.Mcmahon, David
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+Code written by: Shraddha Naidu (DatasetGenerator/Backprojection/Bump Functions) and David J. McMahon (Forward Map/Bump Functions)
+
+This release contains the complete codebase for the simulation and generation of Synthetic Aperture Radar (SAR) data. The SAR data is generated from a virtual antenna flying at a height of&nbsp;<strong>5 meters</strong>&nbsp;along a&nbsp;<strong>circular flight path</strong>, with additional simulated passes at two other altitudes.
+
+<h3>🔍&nbsp;<strong>Features</strong></h3>
+
+SAR signal modeling and simulation
+Synthetic data acquisition along a circular flight trajectory
+Phase-only SAR image reconstruction (backprojection)
+Support for generating terrain images from three antenna heights
+
+<h3>🛠&nbsp;<strong>Usage</strong></h3>
+To generate a dataset, call the following function:
+
+<div>
+<pre>SAR_Dataset_Generation(number_of_samples)</pre>
+<div>&nbsp;</div>
+</div>
+This function:
+
+
+Simulates SAR phase-only data
+Reconstructs images via backprojection
+Saves the generated data and images for analysis
+
+<h3>🧾&nbsp;<strong>Notes</strong></h3>
+
+Only&nbsp;<strong>phase data</strong>&nbsp;is used&mdash;amplitude is not included.
+The output images are&nbsp;<strong>phase-only reconstructions</strong>.
+Ideal for SAR imaging research and algorithm development.
+
+
+Contents:
+ - backprojection.m
+ - SAR_Dataset_Generator.m
+ - BumpFunction.m

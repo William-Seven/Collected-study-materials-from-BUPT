@@ -1,0 +1,22 @@
+Title: Code for large aperture scintillometry source area processing: scintools
+
+Authors: Saunders, Beth, Morrison, William, Grimmond, Sue, Hertwig, Denise, Lean, Humphrey, Bohnenstengel, Sylvia
+
+Keywords: Large aperture scintillometry, source area
+
+Publication date: 2024-08-02
+
+Description:
+
+Code used to derive source areas for large aperture scintillometer observations.
+
+
+This upload corresponds to version 0.2 of the scintools GitHub repository: <a href="https://github.com/Urban-Meteorology-Reading/scintools">https://github.com/Urban-Meteorology-Reading/scintools</a>
+
+
+This code is used in Saunders et. al 2024: &ldquo;Methodology to evaluate numerical weather predictions using large aperture scintillometry sensible heat fluxes: demonstration in London&rdquo;, DOI: <a title="https://doi.org/10.1002/qj.4837" href="https://doi.org/10.1002/qj.4837" target="_blank" rel="noopener">https://doi.org/10.1002/qj.4837</a>
+
+
+Also included is &lsquo;digital_surface_models_London.zip&rsquo;, containing digital surface models of the area considered in Saunders et al. 2024: Building height (height_surface_4m.tif), terrain height (height_terrain_4m.tif) and vegetation height (height_veg_4m.tif). Classification of the land-cover over the area is also included (LandUseMM_7classes_32631.tif).
+
+

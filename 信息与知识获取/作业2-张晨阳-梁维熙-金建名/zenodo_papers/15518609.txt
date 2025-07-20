@@ -1,0 +1,20 @@
+Title: Data from: Penaeid shrimp postlarval abundance, phenology, and links to environmental conditions over four decades
+
+Authors: Stone, Joshua, Dunn, Robert
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+
+Data from the paper<strong> "&nbsp;</strong><span>Penaeid shrimp postlarval abundance, phenology, and links to environmental conditions over four decades" by&nbsp;<span> Dunn, Allen, Batchelder, Kimball, Mallick, Pfirrmann, Stone, and Wachala. Published in Marine Ecology Progress Series, 2025.</span></span><strong><span>
+</span></strong>
+
+
+&nbsp;
+
+
+Contents:
+ - EPI_PPL_final_long.csv
+ - EPI_PPL_final_long Metadata.pdf

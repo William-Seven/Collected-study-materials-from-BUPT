@@ -1,0 +1,16 @@
+Title: Feasibility study of true muonium observation with the existing Belle-II dataset
+
+Authors: Gargiulo, Ruben, Di Meco, Elisa, Palmisano, Stefano
+
+Keywords: 
+
+Publication date: 2025-01-29
+
+Description:
+True muonium ($\mu^+\mu^-$) is one of the cleanest bound states, being composed only of leptons, along with true tauonium and positronium. Unlike the latter, true muonium and true tauonium have not been observed so far.
+
+The following article will show that the spin-0 state of True Muonium (para-TM), decaying into two photons, can be observed at a discovery level of significance in the dataset already collected by the Belle-II experiment at the Y(4S) peak.&nbsp;The production of para-TM is achieved via photon-photon fusion, and its observation is based on the detection of the photon pair resulting from its decay, on top of the continuum background due predominantly to light-by-light scattering. The similarities between the dynamical properties of para-TM and hypothetical axion-like particles are pointed out and exploited to simulate Monte Carlo events for the signal.Trigger, acceptance and isolation cuts, along with calorimeter resolution and reconstruction efficiency, are taken into account during the simulation of both signal and background. In order to separate signal and background, a machine learning method, based on extremely randomized trees, is trained on simulated events. Finally, the expected statistical significance of TM observation is evaluated, taking into account systematic uncertainties in a parametric fashion.
+
+
+Contents:
+ - Feasibility_study_of_true_muonium_observation_with_the_existing_Belle_II_dataset-1.pdf

@@ -1,0 +1,15 @@
+Title: Agent-based modelling: A stochastic approach to assessing personal exposure to environmental pollutants – Insights from the URBANOME project
+
+Authors: Karakoltzidis, Achilleas, Agalliadou, Anna, Kermenidou, Marianthi, Nikiforou, Fotini, Chatzimpaloglou, Anthoula, Feleki, Eleni, Karakitsios, Spyros, Gotti, Alberto, Sarigiannis, Dimosthenis
+
+Keywords: Exposure, Agent-based modelling, Noise, Air pollution, Green cities
+
+Publication date: 2025-02-07
+
+Description:
+
+In the context of the URBANOME project, aiming to assess European citizens&rsquo; exposure to air pollutants (PM10, PM2.5, NO2) and noise, an extensive data collection process was undertaken. This involved the distribution of stationary home sensors, portable sensors, and smartphone applications, alongside participants logging their activities while using these devices. By leveraging socioeconomic and socio-demographic statistical data for the residents of Thessaloniki, we developed an agent-based model to&nbsp; stimate exposure levels based on the movement patterns, locations, and data collected from the URBANOME campaign. The model highlights that an individual&rsquo;s exposure is closely linked to the type of activities they perform, their location, age, and gender. Whether exposure occurs indoors, or outdoors is important for determining intake levels. Activity selections were found to be strongly influenced by income, age, and social connections, indicating that socio-economic factors&nbsp;significantly shape exposure patterns. The analysis also revealed considerable differences between PM measurements&nbsp;taken from fixed monitoring stations and the sensors used in the campaign. Notably, even agents&nbsp;residing in the same household displayed distinct exposure levels, underscoring the variability within localized&nbsp;environments. Preliminary results from the URBANOME campaign were compared with the ABM outputs,&nbsp;showing differences in median values of up to 20 % of both noise and inhalation intakes. This research emphasizes&nbsp;the importance of using such models for developing future scenarios in large cities aimed at fostering&nbsp;green transitions and enhancing citizens&rsquo; quality of life. These models provide valuable insights for designing&nbsp;strategies to reduce exposure and improve urban living conditions.
+
+
+Contents:
+ - Agent-based modelling -A stochastic approach to assessing personal exposure to environmental pollutants – Insights from the URBANOME project.pdf

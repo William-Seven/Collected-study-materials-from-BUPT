@@ -1,0 +1,15 @@
+Title: THERMAL ANALYSIS OF INTERNAL COMBUSTION ENGINE FINS WITH VARIABLE THICKNESS AND SLOT PLACEMENT
+
+Authors: Arvind, Kumar Raghavan, Sneha, Rajesh Iyer
+
+Keywords: Fins, Thermal Performance, Engine Cooling, Temperature Distribution, Heat Flux
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>Fins are essential components in heat transfer systems, serving to enhance the thermal performance between two fluids or between a solid and a fluid. This study investigates the effectiveness of different fin types&mdash;rectangular and circular&mdash;in cooling engine piston chambers, which are exposed to extreme thermal shocks and thus prone to significant thermal stresses. To optimize cooling efficiency, fins with and without slots were analyzed. The study utilized AUTODESK FUSION 360 for modeling the fins and ANSYS WORKBENCH for meshing and post-processing. The analysis focused on temperature distribution and heat flux characteristics across various fin geometries and slot configurations. The results indicate that slotted circular fins, particularly those with a higher thickness of 3 mm, outperform other fin types in terms of thermal performance. These findings suggest that adopting slotted circular fins can significantly improve engine cooling efficiency and overall performance</span>
+
+
+Contents:
+ - 4.pdf

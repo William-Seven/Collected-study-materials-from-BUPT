@@ -1,0 +1,16 @@
+Title: OER.NET: A Hub for RDM-OER for the Humanities and Social Sciences – Perspectives on Metadata
+
+Authors: Bergmann, Katharina, Geiger, Jonathan D., Lemaire, Marina, Polywka, Andrea, Steiner, Petra
+
+Keywords: presentation, open educational resources, infrastructure, digital humanities, NFDI, Nationale Forschungsdateninfrastruktur, data literacy
+
+Publication date: 2025-06-06
+
+Description:
+The OER.NET is an informal network between research data management (RDM) and data competence projects. There are communication channels, workshops, the exchange of ideas regarding data literacy and RDM learning materials as well as sub working groups for even more specific topics.
+
+The OER.NET group was presented at the NFDI talk on the 19th of May 2025 (online). These are the slides of this presentation.
+
+
+Contents:
+ - NFDITalk-OERNET-Bergmannetal-OER-Metadaten.pdf

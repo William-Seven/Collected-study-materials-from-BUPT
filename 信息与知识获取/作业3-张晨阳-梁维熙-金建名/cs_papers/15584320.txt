@@ -1,0 +1,19 @@
+Title: MARISMa: MALDI-TOF Acquisition Repository of Infectious Species at Marañón
+
+Authors: Schmidt-Santiago, Lucía, López-Mareca, Inés, Blázquez-Sánchez, Mario, Moreno, José Miguel, SEVILLA SALCEDO, Carlos, GOMEZ VERDEJO, VANESSA, Rodriguez-Sanchez, Belen, Rodriguez-Temporal, David, Guerrero-López, Alejandro
+
+Keywords: MALDI-TOF, Mass spectrometry, Pathogen identification, Microbiology, Infectious diseases, Bacteria, Fungi, Mycobacteria, Bruker
+
+Publication date: 2025-06-04
+
+Description:
+Clinical microbiology laboratories play a crucial role in identifying pathogens, guiding antibiotic treatment, and managing antimicrobial resistance (AMR). Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry (MALDI-TOF MS) has become essential for rapid, accurate, and cost-effective microbial identification. Recent advances in integrating MALDI-TOF MS with Artificial Intelligence (AI) show promise in improving microbial detection and prediction of AMR. However, progress is limited by the lack of comprehensive and openly accessible databases that restrict the validation, reproducibility, and applicability of the model.
+
+To address this gap, we introduce a publicly available, extensively documented MALDI-TOF MS database comprising 207,950 unique spectra from isolates collected between 2018 and 2024 at the Hospital General Universitario Gregorio Mara&ntilde;&oacute;n, Spain. This dataset includes 191,048&nbsp; bacteria,&nbsp; 16,537 fungal, and 365 mycobacterial isolates, all provided in raw format with detailed metadata and AMR annotations for 13,114 bacterial isolates. In contrast to many existing datasets, this resource is openly and freely shared, rigorously curated, and designed to support a wide range of machine learning and epidemiological applications. By ensuring unrestricted access to high-quality, standardized data, this database aims to promote transparency, reproducibility, comparative benchmarking, and collaborative progress in AI-driven clinical microbiology.
+
+&nbsp;
+
+
+Contents:
+ - MARISMa_v1.zip
+ - labels_AMR_Kpneumoniae.csv

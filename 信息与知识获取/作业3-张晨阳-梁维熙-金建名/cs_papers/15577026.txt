@@ -1,0 +1,14 @@
+Title: The Therapeutic Effect of Music in the Treatment of Diabetes
+
+Authors: Rohit Yadav, Kalpana Singh
+
+Keywords: Diabetes mellitus, music therapy, glycaemic control, stress reduction, hyperglycemia, insulin resistance, psychological well-being
+
+Publication date: 2025-05-30
+
+Description:
+<span lang="EN-IN">Diabetes mellitus, a chronic metabolic disorder characterized by persistent hyperglycemia, poses a significant global health challenge, affecting approximately 537 million individuals worldwide in 2021. The disease, stemming from impaired insulin secretion or action, is associated with severe complications, including cardiovascular diseases, renal failure, and neuropathy, alongside substantial psychological and economic burdens. Despite advancements in therapeutic interventions, effective diabetes management remains complex, necessitating innovative approaches to address both physiological and psychological dimensions of the disease. Music therapy, an evidence-based clinical intervention, has emerged as a promising adjunctive therapy, leveraging its ability to modulate stress, enhance emotional well-being, and improve glycemic control. By engaging neural pathways and regulating stress-induced hormonal responses, music therapy offers a holistic approach to diabetes care, potentially mitigating the disease's multifaceted impact on patients' quality of life. This chapter explores the therapeutic potential of music therapy in diabetes management, emphasizing its role in stress reduction, psychological support, and overall health improvement.</span>
+
+
+Contents:
+ - 6. Rohit Yadav.pdf

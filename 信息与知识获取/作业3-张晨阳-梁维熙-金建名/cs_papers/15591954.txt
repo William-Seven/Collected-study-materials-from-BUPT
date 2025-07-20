@@ -1,0 +1,14 @@
+Title: Combating SIM Swap Fraud in Telecommunications: A Machine Learning Approach and Multi-Factor Authentication as a Preventive Strategy
+
+Authors: Ibanibo Tamunotonye Sotonye, Nkechinyere Eyidia, Wobiageri Ndidi Abidde
+
+Keywords: SIM Swap Fraud, Telecommunications Security, Machine Learning Detection, MFA, Fraud Prevention Strategies
+
+Publication date: 2025-06-04
+
+Description:
+<em><span lang="EN-GB">SIM swap fraud has emerged as a critical threat in the telecommunications sector, enabling attackers to bypass traditional security mechanisms and gain control of users' phone numbers. This paper examines SIM swap fraud as a growing challenge and explores the application of machine learning algorithms for its detection. Additionally, it presents multi-factor authentication (MFA) as an essential preventive measure. The integration of intelligent detection systems and robust authentication protocols is proposed as a dual-layered defence strategy for telecom operators aiming to reduce customer vulnerability and minimize financial losses. The results demonstrate that integrating machine learning-based anomaly detection with multi-factor authentication effectively mitigates SIM swap fraud, reducing fraudulent attempts by 80% and enhancing overall network security and resilience.</span></em>
+
+
+Contents:
+ - Combating SIM Swap Fraud in Telecommunications A Machine Learning -Formatted Paper.pdf

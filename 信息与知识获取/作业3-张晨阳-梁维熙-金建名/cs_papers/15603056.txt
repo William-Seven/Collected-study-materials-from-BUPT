@@ -1,0 +1,18 @@
+Title: uc-cdis/pypfb: fix fastavro
+
+Authors: Michael Lukowski, Andrew Prokhorenkov, giangbui, Fantix King, Alexander VanTol, Marcelo R Costa, Jian, Mingfei Shao, Pauline Ribeyre, Maribelle Hannah Gomez, Avantol13-machine-user, Luca Graglia, burtonk, mysterious-progression, Albert Snow, cmlsn, Michael Abreu, Uwe Winter, Zac Flamig, Thanh Dang Nguyen, Zoe
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+<h2>What's Changed</h2>
+
+fix(fastavro): update to latest deps to fix issue with fastavro by @Avantol13 in https://github.com/uc-cdis/pypfb/pull/136
+
+<strong>Full Changelog</strong>: https://github.com/uc-cdis/pypfb/compare/0.5.32...0.5.33
+
+
+Contents:
+ - uc-cdis/pypfb-0.5.33.zip

@@ -1,0 +1,123 @@
+{
+  "information get": {
+    "positive": {
+      "support": 1,
+      "information": 2,
+      "year": 1,
+      "observation": 1,
+      "city": 2,
+      "security": 1,
+      "satisfaction": 1,
+      "app": 2
+    },
+    "negative": {
+      "communication": 1,
+      "digital": 1,
+      "manage": 1,
+      "information": 1,
+      "time": 1,
+      "european": 1,
+      "reconstruction": 1,
+      "large": 1,
+      "sample": 1,
+      "study": 1,
+      "geospatial": 1,
+      "datum": 1,
+      "land": 1
+    }
+  },
+  "multiple model learning train": {
+    "positive": {
+      "distance": 1,
+      "learning": 2,
+      "basic": 1,
+      "model": 2,
+      "improvement": 3,
+      "system": 3,
+      "train": 3,
+      "expert": 3,
+      "platform": 1,
+      "emerge": 1,
+      "ai": 1,
+      "machine": 1
+    },
+    "negative": {
+      "distance": 1,
+      "learning": 2,
+      "basic": 1,
+      "model": 1,
+      "emerge": 1,
+      "ai": 1,
+      "machine": 1
+    }
+  },
+  "train label distribution\n\n3500\n\n3000\n\n2500\n\n2000\n\n1500\n\n1000\n\n500\n\ntest label distribution\n\n1000 +\n\n8004\n\n600 7\n\n4007\n\n200 4": {
+    "positive": {
+      "distribution": 1,
+      "scope": 1,
+      "marking": 1
+    },
+    "negative": {
+      "distribution": 1,
+      "scope": 1,
+      "marking": 1
+    }
+  },
+  "deep learning computer science": {
+    "positive": {
+      "deep": 2,
+      "learning": 2,
+      "base": 3,
+      "detect": 2,
+      "security": 2,
+      "system": 3,
+      "feature": 2,
+      "multi": 1,
+      "scale": 1,
+      "adaptive": 1,
+      "theory": 1,
+      "learn": 1,
+      "field": 1,
+      "evaluation": 1,
+      "computer": 1,
+      "vision": 1,
+      "real": 1,
+      "time": 1,
+      "behavior": 1,
+      "monitor": 1
+    },
+    "negative": {
+      "science": 1,
+      "fall": 1,
+      "learn": 1,
+      "teach": 1,
+      "foreign": 1,
+      "language": 1,
+      "culture": 1,
+      "virtual": 1,
+      "en": 1,
+      "deep": 1,
+      "learning": 1,
+      "material": 1,
+      "complementario": 1
+    }
+  },
+  "revolutionizing machine perception and intelligence\nthrough opencv technology\n\nshayan jamal mr. ram kumar sharma\ninformation technology information technology\n(niet) (niet)\nnoida institute of engineering and technology noida institute of engineering and technology\n(aktu) (aktu)\ngreater noida, india greater noida, india\n\n0221dit178@niet.co.in ramkumar.sharma@niet.co.in": {
+    "positive": {
+      "machine": 1,
+      "perception": 1,
+      "intelligence": 1,
+      "technology": 1
+    },
+    "negative": {}
+  },
+  "deep learning revolutionizing machine perception and intelligence\nthrough opencv technology\n\nshayan jamal mr. ram kumar sharma\ninformation technology information technology\n(niet) (niet)\nnoida institute of engineering and technology noida institute of engineering and technology\n(aktu) (aktu)\ngreater noida, india greater noida, india\n\n0221dit178@niet.co.in ramkumar.sharma@niet.co.in": {
+    "positive": {
+      "machine": 1,
+      "perception": 1,
+      "intelligence": 1,
+      "technology": 1
+    },
+    "negative": {}
+  }
+}

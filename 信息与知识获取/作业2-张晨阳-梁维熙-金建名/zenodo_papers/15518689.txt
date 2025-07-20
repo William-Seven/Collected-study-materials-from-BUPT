@@ -1,0 +1,15 @@
+Title: Supplementary material for: All at sea? Externalities and cargo diversion in the wake of Brexit
+
+Authors: Mac Domhnaill, Ciarán
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This folder contains the data and Stata code used in the article 'All at sea? Externalities and cargo diversion in the wake of Brexit'. Its purpose is to enable readers to replicate the main findings of the study.
+
+
+Contents:
+ - data_and_code.zip

@@ -1,0 +1,15 @@
+Title: Volatility Spillover Among Sectoral Indices of the Indian and US Stock Markets
+
+Authors: Hema Saini
+
+Keywords: Stock Market Integration, Financial Market Interconnectedness, Volatility Spillover, Market Risk Transmission, Dynamic Conditional Correlation-Generalized Autoregressive Conditional Heteroskedasticity (DCC-GARCH), Generalized Autoregressive Conditional Heteroskedasticity (GARCH), Autoregressive Conditional Heteroskedasticity (ARCH)
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>The main aim of this study is to empirically analyze the volatility spillover among the sectoral equity returns for Indian and US markets. The paper extracts the time‐varying conditional correlations between the sector indices using the Dynamic Conditional Correlation model. The analysis of the DCC-GARCH model indicates a conditional correlation between the Indian and US stock markets. Furthermore, despite market volatility and a significant disruption caused by the COVID-19 crisis in 2019, the consistent presence of a positive correlation highlights the strong and lasting connection between Indian and foreign stock exchanges in the financial services, FMCG sector, and the Healthcare sector. The fluctuation in conditional correlation coefficients over time showcases the evolving connectivity and volatility spillover effect between Indian and United Nations stock markets in the Information and Technology sector. The findings indicate that offering proper direction for risk management and developing investment strategies in uncertain and unstable market conditions is essential for understanding the' continuous impact and interconnectedness of global financial markets.
+
+
+Contents:
+ - G180111070325.pdf

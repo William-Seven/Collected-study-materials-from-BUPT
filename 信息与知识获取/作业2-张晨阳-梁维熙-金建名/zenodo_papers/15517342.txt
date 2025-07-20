@@ -1,0 +1,46 @@
+Title: Soil biodiversity in the Atacama Desert
+
+Authors: Villegas, Laura, Pettrich, Laura, Acevedo-Trejos, Esteban, Suwanngam, Arunee, Wassey, Nadim, Allende, Miguel, Stoll, Alexandra, Holovachov, Oleksandr, Waldvogel, Ann-Marie, Schiffer, Philipp
+
+Keywords: Biogeography, Nematodes, Environment, Latitude, Atacama
+
+Publication date: 2025-05-26
+
+Description:
+
+This data set contains the fasta sequences of the 18S region of nematodes isolated from the Atacama Desert. This project belong to the CRC1211 "Earth-Evolution at the dry limit" and all files required to reproduce the analysis done in the manuscript titled "Hierarchical Patterns of Soil Biodiversity in the Atacama Desert: Insights Across Biological Scales". All scripts are deposited on github (https://github.com/lauraivillegasr/BiogeographyDesert).
+
+
+Contents:
+ - EcoVarData_reprod_transect_testing_fixed.csv
+ - List_of_Families_Genera_Haplotypes_with_accession_20250225.csv
+ - 01_Alaimidae_final_haplotype-matrix.txt
+ - 03_Dorylamida_final_renamed.nex
+ - 07_Plectidae_final_haplotype-matrix.txt
+ - asex_sex_data_GLM.csv
+ - Jaccard_list_corrected.csv
+ - 02_Aphelenchoididae_final_haplotype-matrix.txt
+ - 07_Plectidae_final_renamed.nex
+ - 07_Plectidae_haptyped_popart.nex
+ - 06_Panagrolaimus_final_haptyped_popart.nex
+ - nucleotide_diversity_salarstogether.csv
+ - 04_Acrobeles-like_haptyped_popart.nex
+ - 02_Aphelenchoididae_haptyped_popart.nex
+ - Location_forcentroids.csv
+ - 01_Alaimidae_final_renamed.nex
+ - 05_Acrobeloides_final_haplotype-matrix.txt
+ - 02_Aphelenchoididae_final_renamed.nex
+ - 06_Panagrolaimus_final_renamed.nex
+ - 06_Panagrolaimus_final_haplotype-matrix.txt
+ - 04_Acrobeles-like_final_renamed.nex
+ - 03_Dorylamida_final_haplotype-matrix.txt
+ - 04_Acrobeles-like_final_haplotype-matrix.txt
+ - 01_Alaimidae_haptyped_popart.nex
+ - 03_Dorylamida_haptyped_popart.nex
+ - 05_Acrobeloides_haptyped_popart.nex
+ - EcolData.zip
+ - 05_Acrobeloides_final_renamed.nex
+ - FastaSequencesBioDivZenodo.fasta
+ - seqids_NCBI_accession_numbers.txt
+ - EcoVarData_transect_testing_fixed_feb.csv
+ - FamilyGeneraperSample.csv

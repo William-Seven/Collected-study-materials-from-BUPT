@@ -1,0 +1,15 @@
+Title: PERFORMANCE ANALYSIS OF EMISSION REDUCTION TECHNOLOGIES IN AUTOMOBILES: A FOCUS ON CATALYSTS AND OXYGEN SENSORS
+
+Authors: Okoro, Ifeanyi Chukwudi, Ekezieand, Chinedu Obinna
+
+Keywords: catalyst system, fuel injection engine, oxygen sensor, performance evaluation, emission control
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>This study examines the influence of catalyst systems on the performance of fuel injection engines and oxygen sensors. Through comprehensive evaluation, we assess how catalyst configurations affect engine efficiency and oxygen sensor accuracy. Key factors such as catalyst composition, placement, and condition are analyzed to understand their impact on fuel injection dynamics and sensor functionality. The findings provide valuable insights into optimizing catalyst systems for enhanced engine performance and emission control. Through systematic evaluation, we analyze how catalyst configurations influence engine efficiency and the accuracy of oxygen sensors, parameters such as catalyst composition, positioning, and condition are scrutinized to comprehend their implications for fuel injection dynamics and sensor functionality. The results yield valuable insights into optimizing catalyst systems to enhance engine performance and control emissions</span>
+
+
+Contents:
+ - 3.pdf

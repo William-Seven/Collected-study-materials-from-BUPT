@@ -1,0 +1,16 @@
+Title: Additive manufacturing: a tool for engineering microstructures and mechanical behavior
+
+Authors: Polatidis, Efthymios, Sofras, Christos, Čapek, Jan, Leinenbach, Christian, Strobl, Markus, Loge, Roland
+
+Keywords: 
+
+Publication date: 2025-05-15
+
+Description:
+<span lang="EN-US">Laser Powder Bed Fusion (L-PBF) is a versatile metal additive manufacturing technique that not only enables the creation of intricate geometries but also allows for precise control over microstructural properties. By adjusting processing parameters, L-PBF facilitates the engineering of crystallographic textures and grain orientations, enhancing the mechanical performance of metallic parts. Austenitic steels exhibit Transformation Induced Plasticity (TRIP) and Twinning Induced Plasticity (TWIP) effects under deformation, which are influenced by crystallographic texture. Therefore, this contribution will provide an overview of a project on the utilization of L-PBF to produce austenitic stainless steels with tailored crystallographic textures, optimized for specific load states to improve their mechanical behavior. The study requires identifying optimal microstructures and L-PBF processing routes using machine learning methods, that enhance these effects under complex stress states. The findings are leveraged to produce site-specific, texture-optimized components with superior mechanical responses compared to conventionally manufactured parts.</span>
+
+<span lang="EN-US">C.S. and E.P. acknowledge the financial support from the Swiss National Science Foundation (SNSF), Project number: 200021_188767. EP acknowledges support by the research project co-funded by the Stavros Niarchos Foundation (SNF) and the Hellenic Foundation for Research and Innovation (H.F.R.I.) under the 5th Call of &ldquo;Science and Society&rdquo; Action&mdash;&ldquo;Always Strive for Excellence&mdash;Theodore Papazoglou&rdquo;.</span>
+
+
+Contents:
+ - abstract_Polatidis_AAMS2025.docx

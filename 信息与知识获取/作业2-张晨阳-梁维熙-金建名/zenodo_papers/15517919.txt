@@ -1,0 +1,15 @@
+Title: GitHub repository fhswf/paper-da-ieee-codit-2025
+
+Authors: Arend, Detlef, Singh Padda, Amerik Toni, Schwung, Andreas
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<strong>Full Changelog</strong>: https://github.com/fhswf/paper-da-ieee-codit-2025/compare/v1.0.0...v1.0.1
+
+
+Contents:
+ - fhswf/paper-da-ieee-codit-2025-v1.0.1.zip

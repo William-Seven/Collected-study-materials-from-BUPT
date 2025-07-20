@@ -1,0 +1,14 @@
+Title: Integrating Machine Learning with Digital Forensics to Enhance Anomaly Detection and Mitigation Strategies
+
+Authors: Ndibe, Ogochukwu Susan
+
+Keywords: 
+
+Publication date: 2025-05-23
+
+Description:
+In the face of escalating cyber threats, conventional digital forensic methods are increasingly limited in scope and responsiveness. The rapid evolution of attack vectors&mdash;ranging from insider threats and advanced persistent threats (APTs) to polymorphic malware&mdash;demands forensic frameworks that are not only reactive but adaptive, scalable, and capable of real-time analysis. This study investigates the integration of machine learning (ML) techniques into digital forensics workflows to enhance anomaly detection and mitigation strategies, enabling cybersecurity systems to evolve from passive evidence collectors into active threat intelligence engines. From a broader perspective, the paper examines the current landscape of digital forensics, identifying challenges related to high false positive rates, data overload, and the inability to detect zero-day or low-signal attacks using traditional rule-based systems. It then explores the capacity of supervised, unsupervised, and reinforcement learning models to augment forensic processes by learning behavioral baselines, identifying deviations in real-time, and prioritizing alerts based on contextual risk factors. The study further narrows its focus to architectural designs and operational deployments of ML-enhanced forensic systems. Case studies across cloud environments, industrial networks, and financial institutions illustrate how ML models&mdash;particularly autoencoders, random forests, and LSTMs&mdash;support evidence correlation, cross-layer anomaly mapping, and adaptive containment. Emphasis is also placed on interpretability, privacy-preserving techniques, and adversarial robustness, which remain critical for deploying ML models in high-stakes forensic settings. By demonstrating the technical and strategic benefits of integrating machine learning with digital forensics, this paper contributes to the foundation for a new class of intelligent cybersecurity systems&mdash;ones capable of continuous learning, predictive analysis, and autonomous incident response.
+
+
+Contents:
+ - Integrating Machine Learning with Digital Forensics to Enhance Anomaly Detection and Mitigation Strategie.pdf

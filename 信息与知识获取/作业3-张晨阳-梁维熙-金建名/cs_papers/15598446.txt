@@ -1,0 +1,16 @@
+Title: Stakeholder engagement in European research and innovation: An investigation into how and why EU R&I projects develop engagement tools
+
+Authors: Gudek, Luka, Rao, Madhura, Broerse, Jacqueline
+
+Keywords: EU, R&I, stakeholder engagement, tool, innovation, mission-oriented
+
+Publication date: 2025-04-15
+
+Description:
+Research funded by the European Union often takes place through collaborative projects in which universities, expert organisations, and businesses take part. These projects often develop tools such as games, guidelines, and exercises to bring the research they do closer to the public. The tools developed within projects can be used to do the research with the public, inform them of the results of the project, or provide a service.
+Interestingly, the way in which these projects develop the tools for engaging with the public can take different trajectories. Some projects focus on transparency and accountability towards the EU, as the funder of their work. Other projects focus more on connecting with the public in every stage of developing the tool. We call these two different approaches the project-focused approach and user-focused approach. Each of these approaches can be applied more generally in European research and innovation.
+This study argues that the trajectory of tool development in European projects is shaped both the rules set by the EU and the way that staff in the organisations participating in projects approach their work.
+
+
+Contents:
+ - openreseurope-5-21534.pdf

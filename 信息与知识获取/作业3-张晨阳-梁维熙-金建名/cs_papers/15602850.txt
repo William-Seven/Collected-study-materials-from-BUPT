@@ -1,0 +1,14 @@
+Title: WAND — Practice and Fatigue‑Induction Suite
+
+Authors: Mangan, Brodie
+
+Keywords: cognitive fatigue, working memory, N-back, PsychoPy
+
+Publication date: 2025-06-05
+
+Description:
+The WAND (Working-memory Adaptive-fatigue with N-back Difficulty) model is a software package for cognitive fatigue research. It provides a standardised protocol, implemented wth PsychoPy library in Python, to calibrate baseline performance, reduce learning effects, induce active mental fatigue, and measure its effects on working memory using sensitivity measures (d'; A'). The protocol uses an adaptive model across Spatial, and Dual N-back tasks and a stable Sequential task (to perserve statisical integrity across blocks) to maintain high cognitive load tailored to individual participant ability.
+
+
+Contents:
+ - brodie-neuro/WAND-practice-and-fatigue-induction-v1.0.1.zip

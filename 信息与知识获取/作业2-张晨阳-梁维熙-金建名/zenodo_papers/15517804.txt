@@ -1,0 +1,15 @@
+Title: D4.2 - Service and product database
+
+Authors: Terlouw, Tom, Lotz, Meta Thurid, Neuwirth, Marius, Saurat, Mathieu, Baka, Maria-Iro (Maro), Bauer, Christian
+
+Keywords: Industry transition, material composition, modelling framework, service-to-product translations
+
+Publication date: 2025-05-26
+
+Description:
+
+This document presents the documentation and user manual of the TRANSIENCE project&rsquo;s online Product &amp; Service (P&amp;S) database, which provides (bulk) material compositions, critical raw material requirements, and translations of services into product and material demand, to be used among the models altogether constituting the Model for European Industry Circularity and Climate Change Mitigation (MIC3). The database contains P&amp;S characteristics, specifications, material compositions, and supply chain-related information. It assesses material compositions (bulk materials) of various building types, passenger vehicles, batteries, wind turbines, solar PV systems, and electronic devices, using the data from the prospective life cycle assessment framework premise building on ecoinvent 3.10 (system model: 'allocation, cutoff by classification') and literature. Additional data on critical materials for a large set of low-carbon energy technologies has also been included. Moreover, important translations of socioeconomic indicators into physical demand are provided for selected products, end-uses, and energy services. Broadly, the P&amp;S database will support the alignment of variables exchanged across the MIC3 modules to serve as a common reference for linking the diverse MIC3 modelling approaches. For example, the material flow analysis (MFA) module may use it to derive material requirements based on outputs from the socioeconomic model, while energy system modellers may use it to translate technology deployment (such as installed capacities of technologies) into demand for bulk and critical materials embedded in low-carbon technologies.
+
+
+Contents:
+ - D4.2_Service and product database_v1.00_SUBMITTED.pdf

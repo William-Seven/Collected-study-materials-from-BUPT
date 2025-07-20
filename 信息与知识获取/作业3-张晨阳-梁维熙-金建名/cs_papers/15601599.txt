@@ -1,0 +1,13 @@
+Title: Charakterisierung des Faservolumengehalts von Flachsfaser-Kunststoff-Verbunden mittels Deep Learning
+
+Authors: Chavoshi, Ava, Kaufmann, Jörg, Cebulla, Holger
+
+Keywords: Datenaugmentation,, Deep Learning, Faser-Volumenanteil, Flachsfaser-Verbundwerkstoffe, U-Net- Architektur
+
+Publication date: 2024
+
+Description:
+N/A
+
+Contents:
+ - Charakterisierung des Faservolumengehalts von Flachsfaser-Kunststoff-Verbunden mittels Deep Learning.pdf

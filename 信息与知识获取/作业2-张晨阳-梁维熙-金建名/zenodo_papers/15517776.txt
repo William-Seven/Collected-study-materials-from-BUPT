@@ -1,0 +1,15 @@
+Title: TC-Trissea (Tuguegarao City Tricycle Riders Information, Security and Satisfaction Enhancement App): A Proposed Mobile App for Tricycle Commuters of Tuguegarao City
+
+Authors: Dr. Maria Visitacion N. Gumabay
+
+Keywords: Tricycle Transportation System, Mobile Application, Commuter Safety, Urban Mobility Solutions, ISO 25010 Software Standards
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>The tricycle transportation system in Tuguegarao City in Northern Philippines is perennially confronted with problems and challenges that have to do with the tricycle commuters&rsquo; safety, the quality of service that they receive from drivers and their deteriorating overall level of satisfaction as commuters. To address these issues, the Tuguegarao City Tricycle Riders Information, Security, and Satisfaction Enhancement App (TC-TRISSEA) was developed as a mobile application to enhance the commuters&rsquo; experiences by integrating technological innovations in the app&rsquo;s interface. The study utilised the exploratory sequential mixed methods as its research design. Qualitative data were gathered through formal interviews with tricycle commuters and drivers to identify issues and concerns that were used as bases in developing the survey instruments. In the quantitative phase of the study, 90 participants were surveyed and assessed the mobile app&rsquo;s net effect on commuters&rsquo; safety, satisfaction, and usability. The Technology Acceptance Model (TAM) was used as the anchor of the quantitative phase. Ten IT experts were involved as evaluators to measure the app&rsquo;s extent of compliance with ISO 25010 software quality standards. Findings revealed consumers&rsquo; consistent dissatisfaction with the current tricycle system, particularly regarding their safety, payment of fares, and the professionalism and behavior of tricycle drivers. The developed TC-TRISSEA app addressed these concerns through embedded features such as realtime tracking, a feedback mechanism, and driver profile verification using QR codes. The IT experts rated the app as compliant to a "Very Great Extent" with ISO 25010 software quality standards, thus confirming that it is robust and usable. The study revealed that the app significantly enhanced commuter safety and overall satisfaction by addressing the areas of inefficiencies and promoting accountability among drivers. The app&rsquo;s adherence to international software quality standards highlights its potential as a scalable model for urban mobility solutions in the cities and municipalities in the Philippines.
+
+
+Contents:
+ - D107614040325.pdf

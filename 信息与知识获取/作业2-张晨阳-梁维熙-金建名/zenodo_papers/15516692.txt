@@ -1,0 +1,19 @@
+Title: Dataset and codes inherent to the JGR: Earth Surface submission "Stochastic dynamics of coastal dune vegetation"
+
+Authors: Camporeale, Carlo
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+
+The zipped file wind_analysis.zip contains datasets and scripts used for the characterization of the wind and runup disturbance. This toolbox generates Fig1c-h of the manuscript and contains: i) The matlab scripts Fig1_generator.m (the main script), extract_new.m; ii) Eleven folders containing the &nbsp;shapefiles of the offshore zones and the NetCDF files of the ERA5 hourly signals for the period 2019-2022. 
+
+
+This zipped file validation_toolbox.zip contains datasets and scripts used for the validation: i) The matlab scripts Fig4_generator.m (the main script), model_realcase.m, extract.m; ii) Four folders containing all the dataset of the pilot areas, including shapefiles of the terrestrial areas, shapefiles of the offshore zone, &nbsp;NetCDF files of the ERA5 hourly signals, mean transect profile, Planet cover profile, Sentinel2 cover profile, high-resolution DEMs.
+
+
+Contents:
+ - Validation_toolbox.zip
+ - Wind_analysis.zip

@@ -1,0 +1,508 @@
+[
+  {
+    "query": "english learning",
+    "results": [
+      {
+        "doc_id": "15517923.txt",
+        "title": "Emerging Trends in AI and Machine Learning",
+        "score": 0.3493,
+        "relevant": 0
+      },
+      {
+        "doc_id": "15517554.txt",
+        "title": "Deep Learning Based Detecting Security System",
+        "score": 0.2977,
+        "relevant": 0
+      },
+      {
+        "doc_id": "15517420.txt",
+        "title": "THE ROLE OF SPEAKING IN LANGUAGE LEARNING",
+        "score": 0.2825,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15517915.txt",
+        "title": "DISTANCE LEARNING: BASIC MODELS",
+        "score": 0.2795,
+        "relevant": 0
+      },
+      {
+        "doc_id": "15518057.txt",
+        "title": "The Natural Language Processing Axioms in Classical Tamil for Zonal Dialects using Machine Learning",
+        "score": 0.2652,
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "deep learning",
+    "results": [
+      {
+        "doc_id": "15517554.txt",
+        "title": "Deep Learning Based Detecting Security System",
+        "score": 0.631,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15514645.txt",
+        "title": "Observatorio virtual sonoro basado en deep learning. Material complementario.",
+        "score": 0.4771,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15518158.txt",
+        "title": "A Comparative Study of Data Mining Algorithms for Weather Prediction",
+        "score": 0.3277,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15480898.txt",
+        "title": "From Kernels to Features: A Multi-Scale Adaptive Theory of Feature Learning",
+        "score": 0.3244,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15517923.txt",
+        "title": "Emerging Trends in AI and Machine Learning",
+        "score": 0.2878,
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "deep learning",
+    "results": [
+      {
+        "doc_id": "15517554.txt",
+        "title": "Deep Learning Based Detecting Security System",
+        "score": 0.6219,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15514645.txt",
+        "title": "Observatorio virtual sonoro basado en deep learning. Material complementario.",
+        "score": 0.4994,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15516215.txt",
+        "title": "3D Simulated Surface Defects Dataset on Car Doors for Deep Learning-Based Industrial Inspection",
+        "score": 0.2864,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15518158.txt",
+        "title": "A Comparative Study of Data Mining Algorithms for Weather Prediction",
+        "score": 0.283,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15517923.txt",
+        "title": "Emerging Trends in AI and Machine Learning",
+        "score": 0.2809,
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "computer",
+    "results": [
+      {
+        "doc_id": "15517685.txt",
+        "title": "Field evaluation of a computer vision-based system for real-time cattle behavior monitoring",
+        "score": 0.3408,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15517883.txt",
+        "title": "Development and Implementation of a Custom License Plate Detection and Recognition System Using YOLOv10 and Tesseract OCR: A Comprehensive Study in Computer Vision and Optical Character Recognition Technologies",
+        "score": 0.2065,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15517573.txt",
+        "title": "Internet Layers: Connecting the World",
+        "score": 0.0547,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15517650.txt",
+        "title": "Binary Numbers and Bitwise Magic: A Fun Guide",
+        "score": 0.0486,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15267584.txt",
+        "title": "Conductance-based Model for Internal Partial Discharges",
+        "score": 0.0485,
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "Field evaluation of a computer vision-based system for real-time cattle behavior monitoring",
+    "results": [
+      {
+        "doc_id": "15517685.txt",
+        "title": "Field evaluation of a computer vision-based system for real-time cattle behavior monitoring",
+        "score": 0.9928,
+        "relevant": 1
+      },
+      {
+        "doc_id": "15441330.txt",
+        "title": "MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps",
+        "score": 0.3203,
+        "relevant": 0
+      },
+      {
+        "doc_id": "15517883.txt",
+        "title": "Development and Implementation of a Custom License Plate Detection and Recognition System Using YOLOv10 and Tesseract OCR: A Comprehensive Study in Computer Vision and Optical Character Recognition Technologies",
+        "score": 0.2593,
+        "relevant": 0
+      },
+      {
+        "doc_id": "15517143.txt",
+        "title": "The Coherence Sphere. A Resonance-Based System for Energy, Healing, and Field Integration.",
+        "score": 0.2558,
+        "relevant": 0
+      },
+      {
+        "doc_id": "14801532.txt",
+        "title": "Data From: Exploring Gelatin-A and Mouse Proline-Rich Protein 5 as Probes for Wine Polyphenols analysis by Quartz Crystal Microbalance with Dissipation Monitoring",
+        "score": 0.2263,
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "machine learning",
+    "results": [
+      {
+        "title": "Emerging Trends in AI and Machine Learning",
+        "relevant": 1
+      },
+      {
+        "title": "The Natural Language Processing Axioms in Classical Tamil for Zonal Dialects using Machine Learning",
+        "relevant": 1
+      },
+      {
+        "title": "Dataset for: A web-based app for sunn pest species recognition (Hemiptera: Scutelleridae: Eurygaster) using machine learning",
+        "relevant": 1
+      },
+      {
+        "title": "An enhanced machine learning plagioclase-liquid hygrometer for magmatic H2O estimation across different tectonic settings",
+        "relevant": 1
+      },
+      {
+        "title": "DISTANCE LEARNING: BASIC MODELS",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "language model",
+    "results": [
+      {
+        "title": "IMPROVING STUDENTS' LANGUAGE SKILLS THROUGH NEW INTEGRATED APPROACHES IN MODERN LANGUAGE TEACHING",
+        "relevant": 1
+      },
+      {
+        "title": "Analisis Penerapan Pembelajaran Billingual dengan Model PBL Berbantuan Platform ABCya Pada Materi Bentuk Geometri Bangun Ruang",
+        "relevant": 0
+      },
+      {
+        "title": "3D-printable models of the Tomba dei Rilievi (Tomb of the Reliefs) at Cerveteri",
+        "relevant": 0
+      },
+      {
+        "title": "MoM (Model Management) Challenge 2025 - Satellite Configuration",
+        "relevant": 0
+      },
+      {
+        "title": "COMPARATIVE ANALYSIS OF CONSONANTS IN ENGLISH AND UZBEK LANGUAGES",
+        "relevant": 1
+      },
+      {
+        "title": "R scripts for \"Global biome changes over the last 21,000 years inferred from model–data comparisons\"",
+        "relevant": 0
+      },
+      {
+        "title": "THE ROLE OF SPEAKING IN LANGUAGE LEARNING",
+        "relevant": 1
+      },
+      {
+        "title": "An empirical agent-based model for Regional Twin Transition Pathways: Ideas for model enrichments through foresight",
+        "relevant": 0
+      },
+      {
+        "title": "THE IMPACT OF USING GAMES ON COMMUNICATIVE LANGUAGE TEACHING",
+        "relevant": 0
+      },
+      {
+        "title": "LINGUOPRAGMATIC AND LINGUOCULTURAL STRUCTURE OF IMPERATIVE SENTENCES (ON EXAMPLE OF ENGLISH AND UZBEK LANGUAGES)",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "Noi modele de afaceri ca urmare a sustenabilității",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "Small-Medium Business Enterprise Management Application",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "IDIOMS IN BUSINESS COMMUNICATION: A LEXICOGRAPHICAL AND FUNCTIONAL ANALYSIS",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "TOURISM-DRIVEN TRANSFORMATION OF LOCAL BUSINESS ECOSYSTEMS IN UZBEKISTAN: AN EXAMPLE OF SAMARKAND REGION",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "business trade",
+    "results": [
+      {
+        "title": "Business Environment and Entrepreneurial Intention among Employed Individuals",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "Crisis Communications in the Digital Era: Managing Information in Times of Uncertainty",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "Supporting Information for \"Nine Martian Years of polar caps observations by SPICAM-IR/Mars-Express\"",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "TC-Trissea (Tuguegarao City Tricycle Riders Information, Security and Satisfaction Enhancement App): A Proposed Mobile App for Tricycle Commuters of Tuguegarao City",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "EARLS: European aggregated reconstruction for large-sample studies",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "information get",
+    "results": [
+      {
+        "title": "Geospatial Data Interpretation of the Land Suitability of Heavy Chernozems (Karasolutsi) from North – East Bulgaria for Growing Agricultural Crops",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "DISTANCE LEARNING: BASIC MODELS",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "IMPROVEMENT OF THE SYSTEM OF TRAINING FORENSIC EXPERTS",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "Analisis Penerapan Pembelajaran Billingual dengan Model PBL Berbantuan Platform ABCya Pada Materi Bentuk Geometri Bangun Ruang",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "Emerging Trends in AI and Machine Learning",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "DISTANCE LEARNING: BASIC MODELS",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "Emerging Trends in AI and Machine Learning",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "IMPROVEMENT OF THE SYSTEM OF TRAINING FORENSIC EXPERTS",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "multiple model learning train",
+    "results": [
+      {
+        "title": "IMPROVEMENT OF THE SYSTEM OF TRAINING FORENSIC EXPERTS",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": " Train Label Distribution\n\n3500\n\n3000\n\n2500\n\n2000\n\n1500\n\n1000\n\n500\n\nTest Label Distribution\n\n1000 +\n\n8004\n\n600 7\n\n4007\n\n200 4\n\n",
+    "results": [
+      {
+        "title": "Remarks on the distribution of wh-scope marking",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": " Train Label Distribution\n\n3500\n\n3000\n\n2500\n\n2000\n\n1500\n\n1000\n\n500\n\nTest Label Distribution\n\n1000 +\n\n8004\n\n600 7\n\n4007\n\n200 4\n\n",
+    "results": [
+      {
+        "title": "Remarks on the distribution of wh-scope marking",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "deep learning computer science",
+    "results": [
+      {
+        "title": "Deep Learning Based Detecting Security System",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "deep learning computer science",
+    "results": [
+      {
+        "title": "The Science of Eternal Flame Falls and its Endless Flame",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "deep learning computer science",
+    "results": [
+      {
+        "title": "DISADVANTAGES OF LEARNING AND TEACHING FOREIGN LANGUAGES UNBASED CULTURE",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "deep learning computer science",
+    "results": [
+      {
+        "title": "From Kernels to Features: A Multi-Scale Adaptive Theory of Feature Learning",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "deep learning computer science",
+    "results": [
+      {
+        "title": "Deep Learning Based Detecting Security System",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "deep learning computer science",
+    "results": [
+      {
+        "title": "Observatorio virtual sonoro basado en deep learning. Material complementario.",
+        "relevant": 0
+      }
+    ]
+  },
+  {
+    "query": "deep learning computer science",
+    "results": [
+      {
+        "title": "Field evaluation of a computer vision-based system for real-time cattle behavior monitoring",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": " Revolutionizing Machine Perception and Intelligence\nThrough OpenCV Technology\n\nShayan jamal Mr. Ram kumar Sharma\nInformation Technology Information Technology\n(NIET) (NIET)\nNoida Institute of Engineering and Technology Noida Institute of Engineering and Technology\n(AKTU) (AKTU)\nGreater Noida, India Greater Noida, India\n\n0221dit178@niet.co.in ramkumar.sharma@niet.co.in\n",
+    "results": [
+      {
+        "title": "Revolutionizing Machine Perception and Intelligence Through OpenCV Technology",
+        "relevant": 1
+      }
+    ]
+  },
+  {
+    "query": "deep learning Revolutionizing Machine Perception and Intelligence\nThrough OpenCV Technology\n\nShayan jamal Mr. Ram kumar Sharma\nInformation Technology Information Technology\n(NIET) (NIET)\nNoida Institute of Engineering and Technology Noida Institute of Engineering and Technology\n(AKTU) (AKTU)\nGreater Noida, India Greater Noida, India\n\n0221dit178@niet.co.in ramkumar.sharma@niet.co.in\n",
+    "results": [
+      {
+        "title": "Revolutionizing Machine Perception and Intelligence Through OpenCV Technology",
+        "relevant": 1
+      }
+    ]
+  }
+]

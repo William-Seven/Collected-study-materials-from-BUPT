@@ -1,0 +1,158 @@
+Title: Reproduction Package for ASE 2025 submission "Non-termination Witnesses and Their Validation"
+
+Authors: Anonymous
+
+Keywords: 
+
+Publication date: 2025-05-30
+
+Description:
+<h1>Reproduction Package for the Paper &ldquo;Non-Termination Witnesses&rdquo;</h1>
+<h2>Abstract</h2>
+This artifact is a reproduction package for the paper &ldquo;Certification and Validation for Program Termination&rdquo; which has been submitted to CAV 2025.
+
+It consists of all executables, input data and results required to reproduce the experiments. In particular it also contains the original results of the paper and a way to generate the macros and csv&rsquo;s to generate the plots in the paper from it.
+
+We run the experiments using 2 cores and 15 GiB of memory for at most 15 minutes (CPU time).
+
+A full reproduction of the experiments requires roughly <strong>40 days</strong> of CPU time. For demonstration purposes, a subset of tasks has been selected which should take at most 1 day to complete and will likely finish sooner. To test that everything is working as intended, we provide a configuration that terminates within ~10 minutes.
+
+<h2>Contents</h2>
+This artifact contains the following items:
+
+
+<code>README.md</code>: This file.
+<code>benchmark-defs/*.xml.template</code>: Templates to generate benchmark definition files for running the experiments using BenchExec.
+<code>benchmark-defs/set_tasks.py</code>: Script to change the tasks to be run in the xml files.
+<code>tasks/*.xml</code>: Sets of tasks
+
+<code>tasks/all.xml</code>: All tasks used to produce the results in the paper.
+<code>tasks/subset.xml</code>: Subset of the tasks used in the paper.
+<code>test/test.xml</code>: One task used only for the smoke test of the Artifact.
+
+
+<code>data-analysis</code>: Scripts and definitions to produce the CSV files used to generate the plots in the paper. Additionally they also generate the macros used to generate the tables in the paper.
+<code>benchmark-utils/*</code>: Benchmarking utils
+
+<code>config.sh</code>: File with parameters for BenchExec
+<code>check_configured.sh</code>: File which checks that BenchExec is set up correctly
+
+
+<code>Makefile</code>: Makefile to run the experiments.
+<code>results-paper</code>: Raw results of the experiments presented in the paper.
+<code>License.txt</code>: License information for the artifact.
+<code>sv-benchmarks</code>: The SV-COMP25 benchmarks. Unnecessary files have been removed to make the artifact smaller.
+Tools can be found in the <code>tools</code> directory.
+
+<code>CPAchecker</code>: CPAchecker version (removed for anonimity).
+<code>UAuomizer</code>: UAutomizer in its <a href="https://zenodo.org/records/14209043/files/uautomizer.zip">SV-COMP25</a> version in the folder <code>uautomizer</code>.
+<code>TransVer</code>: TransVer at commit (removed for anonimity) in the folder <code>transver</code> using CPAchecker at commit (removed for anonimity)
+<code>Symbiotic</code>: Symbiotic at commit (removed for anonimity) built for Ubuntu in the folder <code>symbiotic</code>
+<code>EmergenTheta</code>: EmergenTheta at commit (removed for anonimity) in the folder <code>emergentheta</code>
+<code>Theta</code>: Theta at commit (removed for anonymity) in the folder <code>theta</code>
+<code>Theta</code>: Theta at commit (removed for anonymity) in the folder <code>theta-modular</code>
+<code>Thorn</code>: Theta at commit (removed for anonymity) in the folder <code>thorn</code>
+<code>witch</code>: Witch at commit (removed for anonymity) built for Ubuntu in the folder <code>witch</code>
+<code>WitnessLint</code>: WitnessLint at commit (removed for anonymity) in the folder <code>witnesslint</code>
+
+
+
+This ReadMe contains the following sections to help the user to reproduce the experiments:
+
+
+TL;DR: A quick guide to reproduce the experiments and analyze the data.
+Environment: Describes the environment in which the artifact was tested and can be run.
+Experiments: Describes how to execute the experiments and generate the results.
+Results: Describes where the results can be found and how to analyze them.
+Known Issues: Describes known issues when executing the artifact.
+Reuse: Documentation on how to reuse the artifact for other purposes.
+
+<h2>TL;DR</h2>
+<ol>
+Extract the files in the provided ZIP archive to an arbitrary directory and open a terminal inside it.
+Set the environment variables:
+</ol>
+
+<code>source benchmark-utils/local_config.sh</code>: if you have a overlayfs in version 1.10 or newer installed
+
+<ol>
+Choose one of the following sets of tasks to run:
+
+<code>make setup-benchmark</code>: Reproduce all results in our paper on your machine (takes about 30 days of CPU time, requires 2 cores and 16GiB of RAM). We strongly discourage from running this inside a VM.
+<code>make setup-subset</code>: Reproduce the results on a representative subset of our tasks (takes ~1 day).
+<code>make setup-test</code>: Smoke test the VM and the setup (takes ~5 min).
+
+
+Run <code>make transform-programs-termination</code> to transform the programs using TransVer
+Run <code>make verify-all</code> to run the verification of all the tools to export the witnesses.
+Run <code>make process-all-witnesses</code> to generate the directories from which the witnesses will be read from. This symlinks the witnesses into that directory.
+Run <code>make validate-all</code> to validate all the produced witnesses by all the verifiers.
+Run <code>make process-results</code> to process the produced results in order to get human readable results. They can be found in the <code>results/tables</code> directory.
+</ol>
+<h2>Environment</h2>
+To run the artifact <code>BenchExec</code>, <code>Python &gt;= 3.8</code>, and <code>Java &gt;= 21</code> are required. We attach <code>Symbiotic</code> and <code>Witch</code> as builds for Ubuntu.
+
+Inside a clean VM, please see the documentation of the respective tools for installation hints. A non-exhaustive list of required packages: * <code>CPAchecker</code>: Java 17 * <code>UAutomizer</code>: Java 21 * <code>Symbiotic</code> and <code>Witch</code>: LLVM 14 and python3-clang-14 * <code>Theta</code>, <code>EmergenTheta</code>, <code>Thorn</code>, <code>Theta-modular</code>: Java 17, libgomp1, libmpfr6
+
+<strong>NOTE:</strong> We assume that all of the following commands are executed from inside the root directory of the artifact!
+
+<h2>Experiments</h2>
+<h3>Setup</h3>
+Run <code>source benchmark-utils/local_config.sh</code> (needs to be repeated every time a new shell is opened).
+
+<h3>Benchmark Selection</h3>
+Depending on your available resources you can select different sets of benchmarks to execute the tools on. You have the following options:
+
+
+A quick test with a single file, which can be useful to test that the artifact is behaving as intended. To select it use <code>make setup-test</code>. Executing this benchmark set should take ~5 minutes.
+A subset of the tasks used for the benchmarks in the paper. To select it use <code>make setup-subset</code>. Executing this benchmark set should take around 1 day.
+The full benchmark set used in the experiments. To select it use <code>make setup-benchmark</code>. Executing this benchmark set will take around 30 days of CPU Time.
+
+<h3>Running the Experiments</h3>
+To run all experiments multiple targets need to be executed one after the other, their list and order can be found in the TL;DR. Each of them encompass multiple targets for the different verifiers and validator backends.
+
+All experiments are run using BenchExec in order to ensure reliable benchmarks.
+
+<h2>Results</h2>
+<h3>Generating the Results</h3>
+Once you ran all experiments execute <code>make process-results</code> to generate HTML tables which contain the information used in RQ1 and RQ2.
+
+To analyze the results of RQ3 please take a look at <a>this README</a>
+
+<h2>Known Issues</h2>
+<h3>Warnings</h3>
+<h4>Overheating</h4>
+During the execution of the experiments, a warning may appear which tells us that the CPU was throttled due to overheating. This affects the time measurements in the results, but should not happen when reproducing the results outside a VM.
+
+<pre><code>2024-XX-XX XX:XX:XX - WARNING - CPU throttled itself during benchmarking due to overheating. Benchmark results are unreliable!</code></pre>
+<h4>Overlayfs</h4>
+During the execution of the experiments, a warning may appear which tells us that the home directory should be given as an overlay or hidden. Currently it is not possible to do neither of those inside the TACAS23 VM due to its old overlayfs and due to not knowing the path to the folder where the artifact is being executed.
+
+<pre><code>2024-XX-XX XX:XX:XX - WARNING - Home directory in container should be /home/benchexec but this directory cannot be created due to directory mode of parent directory. It is recommended to use '--overlay-dir /home' or '--hidden-dir /home' and overwrite directory modes for subdirectories where necessary.</code></pre>
+<h4>Resource Requirements</h4>
+During the execution of the experiments, a warning may appear which tells us that the resource requirements are being ignored. This only means that the resource requirements regarding CPU model are being ignored, this has no effect on the benchmarking.
+
+<h3>Errors</h3>
+<h4>Overlay</h4>
+When BenchExec tries to create an overlay mount while there is a shared folder mounted inside the VM, the following error may occur:
+
+<pre><code>2024-XX-XX XX:XX:XX - ERROR - Failed to create overlay mount for /home/...: invalid argument ...</code></pre>
+In this case, the shared folder should be unmounted and the experiments should be run again.
+
+<h4>C Groups</h4>
+If BenchExec is unable to use C groups to benchmark then a restart of the VM may help make BenchExec work as intended.
+
+<h4>Z3 not working properly</h4>
+This artifact includes the tools from SVCOMP25 built for the setup of that competition. On other systems, this may cause errors if the CPU instruction set differs. In particular, Virtual Box does not support the avx instruction set on Windows hosts with Hyper-V active. This can cause Ultimate Automizer to fail. To circumvent this, try evaluating the artifact on a different host system, try disabling Hyper-V in Windows (see e.g.&nbsp;https://forums.virtualbox.org/viewtopic.php?f=25&amp;t=99390) or rebuild the affected tools.
+
+For the last option run the following commands:
+
+<pre><code>sudo apt -y install z3
+mv ./tools/uautomizer/z3 ./tools/uautomizer/z3_original
+sudo ln /usr/bin/z3 ./tools/uautomizer/z3</code></pre>
+<h2>Reuse</h2>
+For developing and reusing this artifact for other purposes please look at <a>developing.md</a>.
+
+
+Contents:
+ - non-termination-witnesses-and-their-validation_ASE25_submission.zip

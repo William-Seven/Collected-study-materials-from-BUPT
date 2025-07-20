@@ -1,0 +1,14 @@
+Title: DETECTING MALICIOUS URLS:TRENDS, CHALLENGES AND THE ROLE OF BROWSER EXTENSIONS
+
+Authors: El-Taj, Homam
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+Malicious URLs continue to pose a significant cybersecurity threat, frequently bypassing conventional detection systems through URL masking and rapid domain switching. This paper proposes a conceptual framework for a lightweight, real-time browser extension designed to block harmful URLs using a dynamically updated blacklist. Beyond detection, the system integrates a user-awareness module offering contextual security guidance and regulatory resources, promoting safer online behavior. The proposed extension aims to address key limitations in existing tools by offering client-side protection with minimal performance overhead and a community driven reporting mechanism. Although the current design employs deterministic logic, future development will incorporate machine learning to enhance adaptability and improve classification of emerging threats. By combining real-time detection, user education, and planned AI integration, the proposed solution contributes a practical and forward-looking approach to strengthening browserlevel web security.
+
+
+Contents:
+ - 17325ijnsa01.pdf

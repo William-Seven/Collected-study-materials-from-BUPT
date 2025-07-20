@@ -1,0 +1,14 @@
+Title: Analyzing Student Behavior in the Implementation of LAT Using Cloud Technology in Higher Education Institutions
+
+Authors: Alvindra, Fedry, Ng, Jonathan, Wijaya, Rafael, Mailangkay, Adele
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+In this study, the effect of cloud computing on student behavior analysis by means of Using Learning Analysis Tools (LAT) in higher education is investigated. With the growing scale of cloud computing, its involvement in enhancing data oriented decision making is getting more and more important. Under this research, this is intended to examine the impact of cloud based LAT on students' academic engagement, ease of use and adoption. Quantitative approach was used to gather the data from 155 students having some knowledge about cloud computing by using a structured questionnaire of closed ended questions. Data analysis was carried out using SmartPLS to determine the relationships between technology competency, cloud computing ability, perceived usefulness and intention to adopt LAT. Findings showed that technology competency is higher when students have higher cloud computing ability, which, in turn, tends to increase the usefulness and the ease of use perception that leads students to adopt LAT. Furthermore, cloud based LAT can improve the academic performance by recommending suitable material and by receiving the real time analysis of students. Owing to the analysis, the integration of cloud computing education is described to create a flexible, data driven, and more engaging learning environment. Future research should focus on latency impacted by cloud based LAT adoption in order to create a long term effective technology in different educational institutions, in the manner of various levels of learning.&nbsp;
+
+
+Contents:
+ - Analyzing Student Behavior in the Implementation of LAT Using Cloud Technology in Higher Education Institutions.xlsx

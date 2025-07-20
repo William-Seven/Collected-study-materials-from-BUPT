@@ -1,0 +1,77 @@
+Title: Constraining the origins of binary black holes using normalising flows
+
+Authors: Colloms, Storm, Berry, Christopher, Veitch, John, Zevin, Michael
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+This is the data release for Colloms et al. 2025 (<a href="https://arxiv.org/abs/2503.03819">arXiv</a>,&nbsp;<a href="https://dcc.ligo.org/LIGO-P2500074">dcc</a>). In this work we demonstrate the use of normalising flows for emulation of population synthesis simulations and continuous inference of the simulation inputs, natal spin, common envelope efficiency, and the relative rates between five formation channels.
+
+This data release includes hyperposterior samples from our discrete and continuous inference, the normalising flow models used for the analysis, the processed gravitational wave event samples, and additional auxiliary data for the remaining paper results.
+
+The analysis was produced using the updated AMAZE framework, which can be found in <a href="https://github.com/michaelzevin/AMAZE/tree/v2.0.0">this git repository</a>.&nbsp;The population synthesis models used to train the normalising flows were initially produced for <a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...910..152Z/abstract">Zevin et al. (2021)</a> and are contained in <a href="https://zenodo.org/records/4947741">this data release</a>.
+
+<h3>Data included:</h3>
+
+<code>AMAZE_flows.ini</code> can be used with <a href="https://github.com/michaelzevin/AMAZE/tree/v2.0.0">AMAZE version 2.0.0</a> to reproduce the continuous inference paper results. Running requires providing the population synthesis model file (<code>path-to-populations</code>), the GWTC-3 event data (<code>event-samples-path</code>), the trained normalising flow models (<code>flow-model-path</code>). Setting <code>continuous-sampling</code> to False will run discrete inference with normalising flows, and additionally setting <code>use-flows</code> to False will run discrete inference with KDEs.
+<code>AMAZE_flows_train.ini</code> can be used as above to reproduce the continuous inferece, additionally training new normalising flows. This does not require providing the pre-trained flows from this data release.
+<code>inference_samples.tar.gz</code> contains the hyperposterior samples from our three inference results: continuous inference with normalising flows, discrete inference with normalising flows, and discrete inference with KDEs. Each inference result contains multiple hdf5 files, each for a different run instance with a different random seed, which were combined for the published result.
+
+<code>cont_GWTC3/</code> contains the continuous result files with the natal spin and common envelope efficiency and the underlying branching fraction samples
+<code>discrete_GWTC3/flow/</code> contains the discrete result files using normalising flows
+<code>discrete_GWTC3/KDEs/</code> contains the discrete result files using KDEs
+
+
+
+Within each hdf5 file, the key:
+
+
+
+
+<code>model_selection/samples</code>&nbsp;contains the hyperposterior samples for natal spin, common envelope efficiency, and the five underlying branching fractions inferred (for the discrete results, natal spin common and envelope efficiency samples are represented by the model index).
+<code>model_selection/obsdata</code> contains the combined GW posterior samples of chirp mass, mass ratio, effective inspiral spin, and redshift for each event used in the inference.
+<code>model_selection/lnprob</code>&nbsp;contains the log probability of each hyperposterior sample.
+<code>model_selection/raw_samples</code> contains the raw MCMC samples without the flooring to a particular model index for the discrete result samples. These are identical to <code>model_selection/samples</code> for the continuous inference.
+
+
+
+This also includes
+
+
+
+
+<code>cont_detectable_GWTC3/</code>containing the hyperposterior samples for natal spin, common envelope efficiency, and the detectable branching fractions with continuous inference.
+
+
+<code>flow_models.tar.gz</code> contains the normalising flow models (as pytorch version 1.12.1 Model objects), the training and validation losses for each training epoch, the mapping constants used for the initial transformation of the training data, and a config file with the architecture for each normalising flow. We include these data products for each formation channel: common envelope (CE), chemically homogeneous evolution (CHE), globular clusters (GC), nuclear star clusters (NSC), and stable mass transfer (SMT).
+
+<code>{channel}.pt</code> is the trained normalising flow model used in the analysis, as a pytorch model. These may be loaded as an <a href="https://github.com/michaelzevin/AMAZE/blob/v2.0.0/populations/population_utils/flow.py">Nflow objects</a> within the AMAZE framework.
+<code>{channel}_loss_history.csv</code> contains the training epoch number, training loss, validation loss, and learning rate at each epoch of training for each normalising flow.
+<code>{channel}_mappings.npy</code> contains the constants used in the logistic mapping for the chirp mass, mass ratio, and redshift samples for each channel. See Colloms et al. Appendix A for details of how these are used.
+
+We also include <code>flows_mapping.json</code> as a human readable version of the mappings
+
+
+<code>flowconfig.json</code> contains the network architecture (number of transforms, number of neurons per layer, and number of spline bins) used for each normalising flow.
+
+
+<code>gw_events.tar.gz</code> contains the posterior samples from the GWTC-2.1 and GWTC-3 data releases. Each event contains samples of chirp mass, mass ratio, effective inspiral spin, and redshift, along with a prior value calculated for each sample <code>p_theta_jcb</code>. These samples were created with the notebook <a href="https://github.com/scolloms/AMAZE_model_selection/blob/6aa3b0f020f02bb42b16c993e8d39778e25a1f6b/notebooks/process_GWTCdata_flows.ipynb">process_GWTC_data.ipynb</a> from a previous AMAZE version.
+<code>plot_data.tar.gz</code> contains auxiliary data used for plotting the samples drawn from the normalising flow and KDE models, and the log likelihood ratio between the normalising flows and the KDEs.
+
+<code>dataspace_samps.hdf5</code>contains samples from the normalising flow used to make Figure 5, and samples from parametric results drawn from the default models used in Abbott et al. (2022). The normalising flow samples are stored in <code>flow_samps/{channel}</code>, where the number of samples for each channel is representative of the inferred branching fractions from continuous inference.
+<code>KLs_KSs.json</code> contains the Kullbeck &ndash; Liebler divergence values between the normalising flows and the KDEs at for each channel, at each of the population synthesis model points. This also includes the Kolmogorov&ndash;Smirnov test values for the effective spin distribution of the CE channel with the normalising flows and the KDEs.
+<code>paper_plots_flows.ipynb</code> contains a Python notebook that can be used to reproduce the paper plots, plot the training and validation losses of the normalising flows, and calculate the KL and KS statistics for the normalising flows and KDEs.
+<code>mpl.sty</code> and <code>zoom_plot.py</code> are additional utils needed to provide the plotting styles and functions for inset plots in <code>paper_plots_flows.ipynb</code>
+
+
+
+
+Contents:
+ - gw_events.tar.gz
+ - flow_models.tar.gz
+ - plot_data.tar.gz
+ - inference_results.tar.gz
+ - AMAZE_flows_train.ini
+ - AMAZE_flows.ini

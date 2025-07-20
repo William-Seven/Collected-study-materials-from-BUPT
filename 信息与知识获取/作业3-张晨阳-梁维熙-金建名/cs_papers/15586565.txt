@@ -1,0 +1,22 @@
+Title: Some Interesting Features of Water   in Extreme Space Conditions:   Molecular Dynamics Simulations   and Quantum Mechanical Calculations
+
+Authors: Znamenskiy, Vasiliy, Spataru, Tudor, Niyazov, Rafael
+
+Keywords: Water in space, Molecular dynamics simulations, Quantum mechanical calculations, Extreme conditions, Astrobiology, Nanoconfinement, Interstellar ice, One-dimensional water chains, Graphene nanostructures, Nanodiamonds, Hydrogen bonding, Proton transfer, Computational chemistry, Space physics, Cryogenic water behavior
+
+Publication date: 2024-07-16
+
+Description:
+This presentation explores the physical behavior and structural transformations of water molecules under extreme space conditions using molecular dynamics simulations and quantum mechanical calculations. The study investigates the effects of ultralow temperatures, high pressures, vacuum, electromagnetic radiation, plasma, and confinement in nanostructures on water&rsquo;s molecular properties.
+
+Key case studies include simulations of water in nanopores, one-dimensional water chains in graphene nanotubes and bilayers, and clusters of nanodiamonds capturing water molecules. The presentation discusses implications for astrophysics, astrobiology, and materials science, highlighting the relevance of water&rsquo;s behavior to space missions and the origin of life theories.
+
+The research was supported by the PSC-CUNY Cycle 54 Award #66256-00 54 and utilized computational resources provided by the Texas Advanced Computing Center (TACC).
+
+<strong>Funding Acknowledgment:</strong> PSC-CUNY Cycle 54 Award &ldquo;Machine Learning Force Field for Extremal Water Clusters&rdquo; #66256-00 54
+
+<strong>Computational Resources:</strong> Texas Advanced Computing Center (TACC), University of Texas at Austin<a href="http://www.tacc.utexas.edu" target="_new" rel="noopener">http://www.tacc.utexas.edu</a>
+
+
+Contents:
+ - Water_Extreme_Space_Conditions_Presentation.pdf

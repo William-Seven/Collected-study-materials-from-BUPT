@@ -1,0 +1,13 @@
+Title: The grand challenge of data citation: a critical look at the Make Data Count initiative
+
+Authors: Page, Roderic
+
+Keywords: data citation, metrics, citation
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - rdmpage-wooc2025.pdf

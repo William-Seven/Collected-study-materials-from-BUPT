@@ -1,0 +1,18 @@
+Title: Access to quiet green areas in European Urban Centres. DIRECT SERVICE CONTRACT No 3506/RO-REGIND/EEA.59966,  No 4100/R0-REGIND/EEA.60379. ETC HE Report 2025/3. (Version 2).
+
+Authors: Sainz de la Maza, Miquel, Fons Esteve, Jaume, Ubach, Raquel, Blanes Guàrdia, Núria, Vuaille, Jeann, Peris, Eulalia
+
+Keywords: Environmental noise directive (Directive 2002/49/EC), quiet areas, urban centres, noise contours maps, road noise, population accessibility, quiet green areas
+
+Publication date: 2025-05-13
+
+Description:
+
+This report examines the accessibility and distribution of quiet green areas within European urban centres. Utilising spatial analysis and data from the Copernicus Urban Atlas and Environmental Noise Directive, the study identifies green urban areas and assesses their acoustic quality by overlaying noise contour maps. The methodology focuses on urban centres as stable reference units, ensuring comparability with previous assessments by DG Regio.
+
+
+Key findings reveal that only 34% of the population in the 233 cities analysed can access quiet green areas within a 400-meter walk, highlighting the significant impact of road traffic noise. The study also uncovers considerable variability in accessibility between cities and countries, with Northern European countries generally exhibiting higher accessibility rates. The report underscores the importance of preserving existing green spaces and improving their acoustic quality, considering the equitable distribution of these areas.
+
+
+Contents:
+ - ETC HE_Report_2025-3_Sainz de la Maza v2.pdf

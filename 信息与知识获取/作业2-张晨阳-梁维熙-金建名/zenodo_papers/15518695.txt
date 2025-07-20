@@ -1,0 +1,43 @@
+Title: cheminformatics-microservice
+
+Authors: Venkata, Chandrasekhar, Sharma, Nisha, Schaub, Jonas, Steinbeck, Christoph, Rajan, Kohulan
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<h2><a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/compare/v3.1.0...v3.2.0">3.2.0</a> (2025-05-26)</h2>
+<h3>Features</h3>
+<ul>
+<li>chain filters (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/ed2675b317c600b6c7634b67d766a1fcb13577b8">ed2675b</a>)</li>
+<li>dev &amp; prod build updates and prod docker compose updates (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/469be591f06eb549d582ba35b413eb92648defc9">469be59</a>)</li>
+<li>dev docker compose updates (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/0a36e5017935c70eceeed4a9ad3fc77689b936eb">0a36e50</a>)</li>
+<li>InChI generator (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/7ada690f95cbd8780b7b564ee58cd2572e078146">7ada690</a>)</li>
+<li>RInChI and InChI cleanup (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/9e4a7d42a5f42ad58cd740eb1fc380870a14f43f">9e4a7d4</a>)</li>
+<li>SMARTS convertion (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/ef2f1fc8c9c8ffb6e914854ee62cc95abeae4916">ef2f1fc</a>)</li>
+<li>SMARTS convertion test (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/51306689633bd28aa96f628c30f399321bc33885">5130668</a>)</li>
+<li>updated docker compose to include frontend and api. enabled lite mode docker compose (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/d5c041db9f4b0f0fc718ed79e9e6e7fb17f5ca9b">d5c041d</a>)</li>
+<li>various minor updates and tidyup (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/a65d76dc6349f9002e21745ba9e14264ef6dca6f">a65d76d</a>)</li>
+</ul>
+<h3>Bug Fixes</h3>
+<ul>
+<li>about page (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/35e14f6ba523acaa49e769d6d09969657d53fe58">35e14f6</a>)</li>
+<li>add comments to github workflows (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/298e7ec380a256e3d004481e1f066e28154148c6">298e7ec</a>)</li>
+<li>add healthcheck to docker-compose-prod.yml (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/1558f75247c48fa9080604228d1ea24989016be5">1558f75</a>)</li>
+<li>Chain filters frontend (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/ef23d650d0cac407d8c59e1c534afe643b61aac9">ef23d65</a>)</li>
+<li>docker-compose files for dev and prod env (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/abe820ebbd109cd3c57266dbc72be05996098ba6">abe820e</a>)</li>
+<li>filter updates (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/c628349d74ec39ab1331ee2c162c01be92b4210f">c628349</a>)</li>
+<li>fix syntax error in prod-build.yml (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/4464d9fbf5532fbae6b4c403672b60bae5f85504">4464d9f</a>)</li>
+<li>frontend adjustments (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/d19719f7118d786a5cb664c7dbb4f7e83d2789a4">d19719f</a>)</li>
+<li>prod-build.yml (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/ac44bf42a1fa42cbf48eb801dc025c6de619db7b">ac44bf4</a>)</li>
+<li>removed container name from docker-compose (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/93e12bb79873762191e1ed79dfc03324b1e823af">93e12bb</a>)</li>
+<li>setOrgMet default on (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/11ce740094439aed07dbc0e3bd002c983ba26f80">11ce740</a>)</li>
+<li>update clear InChI logs to frontend (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/e104222b16bab9c4a1d66061d9a674050e346eea">e104222</a>)</li>
+<li>update docker-compose and deployment script (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/4d62c87d5527518fcb451d607b40e7fb540f72ba">4d62c87</a>)</li>
+<li>update Github action to add build condition (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/640670f9aee4aaebd486d95566578536db1744d3">640670f</a>)</li>
+<li>update release-please (<a href="https://github.com/Steinbeck-Lab/cheminformatics-microservice/commit/b8e44f4dd305f97fc1277f6368fc6646579a22fc">b8e44f4</a>)</li>
+</ul>
+
+Contents:
+ - Steinbeck-Lab/cheminformatics-microservice-v3.2.0.zip

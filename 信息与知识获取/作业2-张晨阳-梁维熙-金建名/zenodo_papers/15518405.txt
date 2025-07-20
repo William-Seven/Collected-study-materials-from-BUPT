@@ -1,0 +1,25 @@
+Title: ChargeTransport.jl -- Simulating charge transport in semiconductors
+
+Authors: Abdel, Dilara, Farrell, Patricio, Fuhrmann, Jürgen, Jaap, Patrick
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<h2>ChargeTransport v0.4.0</h2>
+
+<a href="https://github.com/WIAS-PDELib/ChargeTransport.jl/compare/v0.3.0...v0.4.0">Diff since v0.3.0</a>
+
+
+see CHANGELOG.md
+
+
+<strong>Merged pull requests:</strong>
+
+<ul>
+<li>julia 1.12 compatibility (#50) (@pjaap)</li>
+</ul>
+
+Contents:
+ - WIAS-PDELib/ChargeTransport.jl-v0.4.0.zip

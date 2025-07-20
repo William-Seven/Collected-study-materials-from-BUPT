@@ -1,0 +1,14 @@
+Title: WORKING WITH DATE AND TIME IN PYTHON
+
+Authors: Onarkulov, Maqsadjon, Yusupov, Mirsaid, Numonova, Malohat
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+<span lang="EN-US">Python is dedicated to learning ways to work with date and time in the programming language. Python's datetime module allows you to perform basic operations such as getting the current date and time, creating exact date and time objects, formatting time, and converting an object to string. It also covers the calculation of the difference between two dates, the addition or subtraction of time, and the work with time zones. Working with dates and times is widely used in programming, allowing for efficient tasks such as time-dependent calculations and formatting. This topic provides programmers with important knowledge and practical skills in solving real-world time-related problems.</span>
+
+
+Contents:
+ - Ilm-fan 1939.pdf

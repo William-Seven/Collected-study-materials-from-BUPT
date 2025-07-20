@@ -1,0 +1,14 @@
+Title: Supplementary material: Federated Learning MLOps Tools. A Systematic Mapping.
+
+Authors: Kukkaro, Ari Aarne Armas, Moreschini, Sergio, Hästbacka, David, Taibi, Davide
+
+Keywords: Empirical Software Engineering, Federated Learning
+
+Publication date: 2025-06-03
+
+Description:
+This is the supplementary material for the work Federated Learning MLOps Tools. A Systematic Mapping.
+
+
+Contents:
+ - Federated Learning MLOps Tools. A Systematic Mapping. Replication package.xlsx

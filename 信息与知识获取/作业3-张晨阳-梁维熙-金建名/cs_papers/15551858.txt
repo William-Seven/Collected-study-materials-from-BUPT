@@ -1,0 +1,77 @@
+Title: Italian Digital Humanities Projects
+
+Authors: Andreose, Erica, Crosilla, Giorgia, Grillo, Remo, Spinaci, Gianmarco
+
+Keywords: 
+
+Publication date: 2025-05-30
+
+Description:
+<p dir="ltr">This dataset is one of the outputs of the study <em>The Life and Death of DH Projects: A Preliminary Investigation of Their Lifecycles in Italy</em>, presented at the AIUCD conference in June 2025. Its goal is to aggregate Digital Humanities (DH) projects published between 1998 and 2024. The dataset, last updated in April 2025, includes only projects whose outputs are publicly accessible online via a dedicated website or digital edition. Projects that exist only locally or whose results have been disseminated exclusively through non-digital means are not included.
+
+<p dir="ltr">In the absence of a central aggregator for Italian DH projects, data has been collected from multiple sources:
+
+
+
+<p dir="ltr">DH awards (http://dhawards.org/)&nbsp;
+
+
+
+<p dir="ltr">Italian DH research centers (via web crawling)
+
+
+
+<p dir="ltr">KNOT Catalogue
+
+
+
+<p dir="ltr">Catalogue of Digital Editions
+
+
+
+<p dir="ltr">The dataset &ldquo;Classification of web-based Digital Humanities projects&rdquo;
+
+
+
+<p dir="ltr">Projects extracted from AIUCD and IRCDL conference proceedings
+
+
+
+<h3>Structure of the Dataset</h3>
+<p dir="ltr"><code><strong>institution</strong></code>: Refers to the main institution or collaboration of institutions responsible for creating the project. When no data is available, this means no specific institution was identified or clearly stated.
+
+<p dir="ltr"><code><strong>title</strong></code>: Refers to the title of the project. If the project was extracted via web crawling, the title usually corresponds to the website title. In other cases, the title was manually extracted, as in the case of AIUCD or IRCDL proceedings, or was already available in the source datasets.
+
+<p dir="ltr"><code><strong>project_url</strong></code>: The URL where the project is accessible.
+
+<p dir="ltr"><code><strong>functioning_websites</strong></code> (Boolean): Indicates whether the website is functioning (returns HTTP 200).
+
+<p dir="ltr"><code><strong>website_not_found</strong></code> (Boolean): Indicates whether the website returns a 404 error or uses an outdated HTTPS protocol.
+
+<p dir="ltr"><code><strong>non_redirected_website</strong></code> (Boolean): Indicates whether the website has not been redirected (i.e., the original URL is still in use).
+
+<p dir="ltr"><code><strong>partially_unaccessible_website</strong></code> (Boolean): The website is accessible but some parts do not function properly (e.g., unsupported Adobe Flash content, broken visualizations, malfunctioning filters).
+
+<p dir="ltr"><code><strong>new_websites_url</strong></code> : The URL to which the project was redirected, if applicable. In some cases, the same project had multiple URLs due to migration.
+
+<p dir="ltr"><code><strong>url_showcase</strong></code>: Refers to a showcase page, typically a presentation of the project goals and team members, but not the project content itself. These pages are not considered representative of the project.
+
+<p dir="ltr"><strong><code>url_showcase_working</code> </strong>(Boolean): Indicates whether the showcase URL resolves.
+
+<p dir="ltr"><code><strong>url_landing_page</strong></code>: Refers to a landing page associated with the project, which may not contain the project data itself.
+
+<p dir="ltr"><code><strong>url_landing_working</strong></code> (Boolean): Indicates whether the landing page resolves.
+
+<p dir="ltr"><code><strong>provenance</strong></code>: Describes the origin of the data, such as Italian DH institutions, the KNOT catalogue, the Catalogue of Digital Editions, DH awards, AIUCD and IRCDL proceedings.
+
+<p dir="ltr"><code><strong>knot_uri</strong></code>: The URI associated with the KNOT catalogue record, where further metadata about the project is available.
+
+<p dir="ltr"><code><strong>notes</strong></code>: Contains observations about the individual projects, such as known issues (e.g., registration requirements, errors, incomplete content). These notes helped identify recurring problems across projects.
+
+<p dir="ltr"><code><strong>url_first_seen</strong></code>: The date when the Wayback Machine first archived the website.
+
+<p dir="ltr"><code><strong>url_last_seen</strong></code>: The date when the Wayback Machine last archived the website.
+
+
+Contents:
+ - DH_Projects_Survey_20250530_v01.csv

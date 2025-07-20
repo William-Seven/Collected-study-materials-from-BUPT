@@ -1,0 +1,15 @@
+Title: Agile Methodology Integrated Programming Planned (PIP) to Optimize the Development of Educational Software
+
+Authors: Cesar Patricio-Peralta
+
+Keywords: Methodology, Agile, Flexibility, Adaptability, Educational Software, Planned Integrated Programming (PIP)
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>The new Agile Methodology, Planned Integrated Programming (PIP), is an efficient and robust alternative for manufacturers, developers, and students of Software Engineering. The study is an experimental design that allows for the evaluation of the impact of the Agile PIP Methodology in developing educational software. The population consisted of 5 professionals in charge of creating and maintaining Educational Software, 15 teachers and 10 students from the School of Systems Engineering of the University of San Mart&iacute;n de Porres. The Results: Based on chi-square tests, they demonstrate that PIP has a significant impact. With a Continuity Correction statistic value of 8.643 and a p-value of 0.003, it is concluded that PIP significantly improves the development of educational software, reducing educational software development times, errors in testing, and satisfaction. The application of PIP in the School of Systems Engineering, USMP, was handy, with an effectiveness of 80% according to the scale indicators. Conclusions: The Agile Planned Integrated Programming (PIP) methodology has proven to be a valuable resource for the development of educational software in the university context, achieving substantial improvements in quality, delivery times and user satisfaction, which validates its application in other similar projects within the academic sector.
+
+
+Contents:
+ - D107514040325.pdf

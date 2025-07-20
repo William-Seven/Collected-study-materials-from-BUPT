@@ -1,0 +1,14 @@
+Title: Remotely View User Activities and Impose Rules and Penalties in a Local Area Network Environment
+
+Authors: IJCSIT
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+Monitoring whether a student is opening other files other than the allowed file/s during an examination period is really a challenging task. The art of cheating in a written examination is also pertinent to a computer-based examination. Since the proctor is not at all time looking at the student&rsquo;s computer activities, students still have the chance to open restricted applications. In this hurdle, developing a system that will send to the proctor&rsquo;s machine the list and screenshots of the classified computer programs accessed in every student machine in real-time is beneficial. This system will detect the deceitful act through a warning message. If the act is not discontinued, the student machine will be penalized by either be locked, restarted, shutdown, sleep, or hibernate depending on the penalty set by the proctor.Furthermore, this system also records the student attendance during digital exams or as the students log-on to their machine.
+
+
+Contents:
+ - 10618ijcsit07.pdf

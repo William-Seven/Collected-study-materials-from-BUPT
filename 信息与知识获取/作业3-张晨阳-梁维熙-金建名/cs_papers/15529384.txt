@@ -1,0 +1,62 @@
+Title: Universität Hamburg | Interdisziplinärer Grundkurs 2 (Spektor VWL) – Materialien SS2024: Wissenschaftliche Hausarbeiten mit KI-Unterstützung verfassen
+
+Authors: Spektor, Mark
+
+Keywords: OER, Hochschullehre, Künstliche Intelligenz, KI in der Lehre, Wissenschaftliches Schreiben, Hausarbeit, Sozialökonomie, Volkswirtschaftslehre, Interdisziplinärer Grundkurs, Universität Hamburg, Digitale Kompetenz, Schreibkompetenz, Prompt Engineering, ChatGPT, Zitieren, Plagiatsprävention, Forschungsfrage, Gliederung, Sommersemester 2024, Higher Education, Artificial Intelligence, AI in Education, Academic Writing, Term Paper, Social Economics, Economics, Interdisciplinary Basic Course, University of Hamburg, Digital Literacy, Writing Skills, Prompt Engineering, ChatGPT, Citation, Plagiarism Prevention, Research Question, Outlining, Summer Semester 2024
+
+Publication date: 2025-05-27
+
+Description:
+<h3>Kursmaterialien Interdisziplin&auml;rer Grundkurs 2 (IGK2 VWL, Universit&auml;t Hamburg, SS2024): Wissenschaftliche Hausarbeiten mit KI-Unterst&uuml;tzung verfassen</h3>
+Diese Sammlung enth&auml;lt ausgew&auml;hlte Kursmaterialien des Interdisziplin&auml;ren Grundkurses 2 (IGK2), der im Sommersemester 2024 an der Universit&auml;t Hamburg (Fachbereich Sozial&ouml;konomie, Schwerpunkt VWL) von Mark Spektor durchgef&uuml;hrt wurde. Der Kurs baut auf den im IGK1 erworbenen Kompetenzen auf und ist Teil eines innovativen Lehrprojekts (Leitung: Prof. Dr. Marianne Saam, gef&ouml;rdert durch das WiSo-F&ouml;rderprogramm "Digitale Lehre"). Ziel ist die Erprobung der freiwilligen und didaktisch begleiteten Integration von KI-basierten Werkzeugen (z.B. ChatGPT, Claude, Perplexity) in den Prozess des wissenschaftlichen Schreibens einer Hausarbeit f&uuml;r Studierende im&nbsp;zweiten Fachsemester.
+
+<strong>Lernziele des Kurses:</strong>Der Kurs f&uuml;hrt Studierende im&nbsp;zweiten Fachsemester&nbsp;in die Erstellung einer ersten wissenschaftlichen Hausarbeit ein, mit einem Fokus auf volkswirtschaftliche Themen wie Innovation, Wirtschaftswachstum oder Nachhaltigkeit. Die Studierenden entwickeln:
+
+
+
+ein tiefgreifendes Verst&auml;ndnis f&uuml;r Aufbau und Form einer wissenschaftlichen Hausarbeit.
+
+
+
+die F&auml;higkeit, eine eigenst&auml;ndige Forschungsfrage zu entwickeln und kritisch zu hinterfragen.
+
+
+
+Kompetenz im Umgang mit wissenschaftlichen Texten und den sicheren Einsatz von Literaturverwaltungsprogrammen.
+
+
+
+die F&auml;higkeit zur Anwendung von KI-Tools im wissenschaftlichen Kontext, inklusive einer kritischen Bewertung ihres Nutzens und ihrer Grenzen beim Verfassen der Hausarbeit (z.B. f&uuml;r Gliederung, Formulierungshilfen, Literaturmanagement).
+
+
+
+<strong>Didaktischer Ansatz:</strong>Das Seminar umfasst interaktive Sitzungen, in denen die Studierenden durch praktische &Uuml;bungen, Gruppenarbeit, Diskussionen und Peer-Feedback angeleitet werden. Ein Schwerpunkt liegt auf der gemeinschaftlichen Entwicklung und Verfeinerung der F&auml;higkeiten im wissenschaftlichen Arbeiten. Die Grundlagen des wissenschaftlichen Schreibens werden vertieft, eigene Fragestellungen pr&auml;zisiert und erste Entw&uuml;rfe der Hausarbeiten angefertigt. Regelm&auml;&szlig;ige Feedbackrunden, Peer-Reviews und die M&ouml;glichkeit zu individuellen Beratungsgespr&auml;chen (auch mit optionaler KI-Unterst&uuml;tzung als "Sparringspartner") sind integrale Bestandteile. Der Einsatz von KI-Tools (z.B. f&uuml;r Schreibpl&auml;ne, Stilverbesserung, Analyse qualitativer/quantitativer Ans&auml;tze) wird explizit thematisiert und ge&uuml;bt, immer verbunden mit der Reflexion &uuml;ber Transparenz und wissenschaftliche Integrit&auml;t. Die Materialien des UHH Schreibzentrums (mit freundlicher Genehmigung von Frau Jacoby) erg&auml;nzen den Kurs.
+
+<strong>Inhalt der Materialien:</strong>Die hier bereitgestellten OER-Materialien umfassen Vorlesungsfolien (PowerPoint), &Uuml;bungsaufgaben und Prompt-Vorlagen (Word), einen Schreibplan (Excel) sowie Materialien des UHH Schreibzentrums (PDF), die im Sommersemester 2024 eingesetzt wurden. Sie decken Themen wie die Struktur wissenschaftlicher Arbeiten, Forschungsfragenerstellung, Gliederung, wissenschaftlichen Schreibstil, Zitierregeln, Plagiatspr&auml;vention und den Einsatz von KI im Schreibprozess ab.
+
+<strong>Lizenz und Nachnutzung:</strong>Diese Materialien stehen unter der Lizenz Creative Commons Attribution 4.0 International (CC BY 4.0) zur freien Verf&uuml;gung und Nachnutzung.
+
+<h3>&nbsp;</h3>
+
+Contents:
+ - 7.3.2. Beispiel - Peer Feedback (14.05.2024).docx
+ - 6.1. Analysemethoden in der Praxis - Qualitative und quantitative Ansätze (15.05.2024).pptx
+ - 0. Kursaufbau (07.08.2024).pdf
+ - 5.1. Integrität in der Forschung - Zitierregeln und Plagiatsprävention (08.05.2024).pptx
+ - 8.3. LV8 Promptansätze (05.06.2024).docx
+ - 7.1. Plurale Perspektiven auf die Wirtschaftswissenschaften (29.05.2024).pptx
+ - 7.2. LV7 Promptansätze (29.05.2024).docx
+ - 5.2.2. Übungsblatt Zitieren (30.04.2024)_uncovered.docx
+ - 5.2.1. Übungsblatt Zitieren (30.04.2024).docx
+ - 1.2. Schreibplan (Stand 03.04.2025).xlsx
+ - 5.3. LV5 Promptansätze (08.05.2024).docx
+ - 1.1. Einführung in das wissenschaftliche Arbeiten (03.04.2024).pptx
+ - 7.3.1. Vorlage Feedback (14.05.2024).docx
+ - 8.2. UHH Schreibzentrum - Arbeitsblaetter (05.06.2024).pdf
+ - 2.1. Die Basis wissenschaftlicher Arbeiten - Forschungsfrage und Gliederung (10.04.2024).pptx
+ - 3.2. LV3 Promptansätze (17.04.2024).docx
+ - 2.2. LV2 Promptansätze (10.04.2024).docx
+ - 3.1. Exzellenz im wissenschaftlichen Schreiben Stil, Argumentation und KI (17.04.2024).pptx
+ - 1.3. LV1 Promptansätze (03.04.2024).docx
+ - 6.2. LV6 Promptansätze (15.05.2024).docx
+ - 8.1. Jacoby - UHH Schreibzentrum - Presentation (05.06.2024) - Erlaubnis zum Teilen als OER erhalten.pdf

@@ -1,0 +1,15 @@
+Title: TRANSFORMER ARXITEKTURASI ASOSIDA TABIIY TILNI QAYTA ISHLASH USULLARINI TADQIQ QILISH
+
+Authors: Qulmatov, Muhriddin, Naziraliyev, O'rinboy, Jumabekov, Ilhom
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Mazkur ilmiy ishda Transformer arxitekturasi asosida tabiiy tilni qayta ishlash (NLP) usullarini tadqiq qilish yoritilgan. Transformer modellarining asosiy komponentlari &ndash; Self-Attention va Multi-Head Attention mexanizmlari tahlil qilinib, ularning NLP vazifalaridagi roli o&lsquo;rganildi. Tadqiqot davomida Python dasturlash tilida TensorFlow va HuggingFace kutubxonalari yordamida BERT va GPT modellarini amaliyotda qo&lsquo;llash tajribasi o&lsquo;tkazildi.
+
+
+Contents:
+ - CANRMS 0809.pdf

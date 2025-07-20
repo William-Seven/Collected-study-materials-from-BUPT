@@ -1,0 +1,18 @@
+Title: Design of Machine Elements
+
+Authors: Dr. V. Ravi Raj, Mr. U. Sangameswaran., Dr. K. P. Vasantha Kumar, Mr. M. Siva
+
+Keywords: Design of Machine, Machine Elements
+
+Publication date: 2025-05-13
+
+Description:
+<strong>Design of Machine Elements</strong>&nbsp;is a comprehensive textbook that provides a structured and application-driven approach to the analysis and design of mechanical components subjected to various loading conditions. Targeted at undergraduate mechanical engineering students, this book systematically covers both foundational and advanced concepts in machine design. Beginning with an introduction to the design process and general considerations, it explores steady and variable stresses, material selection, fits and tolerances, and various failure theories including stress concentration, fatigue, and impact loading.
+
+The text then delves into detailed design procedures for critical machine elements such as shafts, keys, couplings, springs, joints (riveted, bolted, welded), bearings, flywheels, pistons, connecting rods, and crankshafts. Emphasis is placed on real-world applications, design safety, optimization, and manufacturing feasibility. Stress analysis is supported with clear derivations, diagrams, and example problems. Chapters are enriched with theoretical explanations and practical guidelines aligned with industry standards.
+
+With contributions from experienced faculty and researchers, the book integrates theoretical rigor with practical insight. It also addresses modern design methods, such as optimization techniques and CAD tools, ensuring students and professionals develop strong analytical and design skills. Overall, this book serves as a vital resource for mechanical design engineers, educators, and learners aiming to build reliable and efficient machine components.
+
+
+Contents:
+ - Quill tech-Design of machine Elements.pdf

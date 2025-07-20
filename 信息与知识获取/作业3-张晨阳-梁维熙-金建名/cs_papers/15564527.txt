@@ -1,0 +1,18 @@
+Title: Робототехніка як STEM-технологія в шкільній освіті
+
+Authors: Sipii, Volodymyr
+
+Keywords: STEM education; robotics; engineering thinking; project-based learning; career guidance; secondary school; cross-curricular course
+
+Publication date: 2025-05-22
+
+Description:
+These conference abstracts were originally published as part of the official conference proceedings.
+
+This version is identical to the archived entry in the institutional repository of the National Academy of Educational Sciences of Ukraine (EB NAPN), where it was made publicly available on 2025-05-22: https://lib.iitta.gov.ua/id/eprint/745397/
+
+Relation to the full proceedings: [isPartOf] https://enpuir.npu.edu.ua/handle/123456789/48201
+
+
+Contents:
+ - Sipii_transformatsiia_2025.pdf

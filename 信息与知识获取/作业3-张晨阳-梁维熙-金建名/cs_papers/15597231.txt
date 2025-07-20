@@ -1,0 +1,20 @@
+Title: PhonemeQuest: A Video Game for Training in English Phoneme Identification
+
+Authors: Vlahou, Eleni, Kopčo, Norbert, Seitz, Aaron
+
+Keywords: phonetic training, perceptual learning, Game-Based Learning
+
+Publication date: 2025-06-05
+
+Description:
+PhonemeQuest is a gamified application for perceptual training on English speech sounds. It features adaptive difficulty progression and optional multitalker babble to simulate challenging listening environments.This upload includes builds for Windows and macOS, as well as the full Unity source code.
+
+Please refer to the included README file for installation instructions, gameplay details, and citation information.
+
+
+Contents:
+ - PhonemeQuest_Source.zip
+ - PhonemeQuest.mp4
+ - PhonemeQuest_Mac.zip
+ - PhonemeQuest_Windows.zip
+ - PhonemeQuest 1.2 README.pdf

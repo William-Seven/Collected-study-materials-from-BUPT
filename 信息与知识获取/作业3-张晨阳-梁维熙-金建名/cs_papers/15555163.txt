@@ -1,0 +1,18 @@
+Title: Playing checkers with an intelligent and collaborative robotic system. Supplementary material (video).
+
+Authors: Fabris, Giuliano, Scalera, Lorenzo, Gasparetto, Alessandro
+
+Keywords: 
+
+Publication date: 2025-05-30
+
+Description:
+An interactive collaborative robotic system to play Italian checkers is presented in this paper. The system detects the state of the game using a camera, calculates the optimal move using a developed decision-making algorithm, and executes pick-and-place tasks to physically move the pieces on the board. The developed system is implemented in a real-world setup using a Franka Emika arm as pieces manipulator. The experimental results show the feasibility of proposed approach.
+
+This study was carried out within the Interconnected Nord-Est Innovation Ecosystem (iNEST) and received funding from the European Union Next-GenerationEU (PIANO NAZIONALE DI RIPRESA E RESILIENZA (PNRR) &ndash; MISSIONE 4 COMPONENTE 2, INVESTIMENTO 1.5 &ndash; D.D. 1058 23/06/2022, ECS00000043). This manuscript reflects only the authors&rsquo; views and opinions, neither the European Union nor the European Commission can be considered responsible for them.
+
+<span lang="EN-US">The study was developed as part of the activities carried out by Spoke 3, Research Topic 2 (Smart Manufacturing, Mechatronics and Robotics), Task S3_RT2.4 (Dynamic modeling and trajectory planning for mechatronic and robotic systems, AI-driven robots (continuous and transfer learning, neuromorphing robots), specification and validation of functional and security requirements of robotic software).</span>
+
+
+Contents:
+ - presentazione_dama.mp4

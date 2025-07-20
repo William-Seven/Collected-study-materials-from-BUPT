@@ -1,0 +1,18 @@
+Title: ImmunoConnect: A Smarter Way to Manage Immunization
+
+Authors: Jimmy Mathew, Jaick T. Kurian, Jovin J George, Karun Jidhish, Dr. Jacob John
+
+Keywords: 
+
+Publication date: 2025-05-23
+
+Description:
+
+ImmunoConnect is a holistic digital platform that simplifies immunization for individuals, families, and health workers. The platform offers personal profiles, vaccination pathways, reminder emails, location-based vaccine finder, educational resources, and AI-driven support to address common questions and misconceptions. With timely reminders and real-time alerts, ImmunoConnect ensures that no dose of the vaccine is missed, creating a healthier and more informed society. The current paper outlines the key characteristics, modules, and technology architecture of ImmunoConnect with a focus on its innovative approach towards immunization management.
+
+
+Keywords: Immunization, Digital Platform, Vaccination Tracking, AI Support, Healthcare Management
+
+
+Contents:
+ - NACORE 25P206.pdf

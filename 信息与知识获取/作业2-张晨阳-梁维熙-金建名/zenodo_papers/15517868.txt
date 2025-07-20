@@ -1,0 +1,15 @@
+Title: Nodi (Knots) con Gemini
+
+Authors: Sparavigna, Amelia Carolina, Gemini (Modello Linguistico di Google)
+
+Keywords: knots, nodi, curva di jordan, mappe
+
+Publication date: 2025-05-26
+
+Description:
+
+Questo lavoro &egrave; strutturato in modo da evidenziare come Gemini possa svolgere un problema relativo ai nodi (knots), che sono entit&agrave; sia fisiche che matematiche. Si mostra come Gemini apprenda ad ottenere le regioni formate dalla curva che si ottiene proiettando il nodo su un piano (knot diagram). A tale curva si associa il codice di Gauss. A Gemini si chiede di costruire dal codice di Gauss la curva di Jordan, e poi di trovare le regioni grazie a tale curva. Si mostrano dei casi preliminari di training dell&rsquo;AI, tra cui alcuni dei &lsquo;prime knots&rsquo; e le loro regioni. Siamo in fase di training.
+
+
+Contents:
+ - GEMINI-NODI-4_merged.pdf

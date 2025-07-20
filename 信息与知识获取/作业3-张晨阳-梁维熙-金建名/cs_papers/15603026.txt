@@ -1,0 +1,14 @@
+Title: The Psychological Impact of Behavior on Student Learning at High School and University Levels
+
+Authors: Joseph O. Akomodi
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+<span lang="EN-US">This research analysis delves into the intricate relationship between behavior and student learning in high school and college environments, focusing on the psychological impacts that various behaviors exert on academic performance, motivation, and mental health. The study presents a comprehensive examination of both positive and negative behaviors, illustrating how they can significantly influence students' educational experiences and outcomes. The analysis employs robust statistical methods to quantify the correlation between behavioral patterns and learning outcomes, drawing on data collected from diverse educational institutions. Findings indicate that positive behaviors, such as collaboration, engagement, and a growth mindset, are linked to heightened academic performance and improved motivation among students. Conversely, negative behaviors, including disengagement, disruptive conduct, and maladaptive coping strategies, are associated with decreased academic achievement and adverse mental health outcomes. This research underscores the necessity of addressing behavioral issues within educational frameworks to foster an environment conducive to learning. It advocates for the implementation of targeted interventions and support systems aimed at promoting positive behaviors, thereby enhancing students' academic success and overall well-being. The insights gleaned from this study contribute to a deeper understanding of the psychological dynamics at play in educational settings and offer valuable guidance for educators and policymakers seeking to improve student outcomes.</span>
+
+
+Contents:
+ - IJRIAR-40.pdf

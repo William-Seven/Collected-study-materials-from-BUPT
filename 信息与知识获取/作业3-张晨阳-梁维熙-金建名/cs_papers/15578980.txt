@@ -1,0 +1,20 @@
+Title: Data and code used in analyses for Simulated soundscapes and transfer learning boost the performance of acoustic classifiers under data scarcity
+
+Authors: Weldy, Matthew J., Lesmeister, Damon B., Denton, Tom, Duarte, Adam, Vernasco, Ben J., Gasc, Amandine, Rowe, Jennifer C., Adams, Michael J., Jeremy, Anso, Desutter‐Grandcolas, Laura, Hervé, Jourdan, Betts, Matthew G.
+
+Keywords: amphibian sounds, avian sounds, biodiversity monitoring, data scarcity, few-shot learning, mammal sounds, passive acoustic monitoring, orthopteran sounds
+
+Publication date: 2025-06-02
+
+Description:
+Evaluation datasets, Python scripts, and computation environments used to conduct analyses for Simulated soundscapes and transfer learning boost the performance of acoustic classifiers under data scarcity.&nbsp;transfer_learning_project.zip also contains a vignette describing the use of a generalized script for adapting these methods to novel acoustic classification tasks.&nbsp;
+
+&nbsp;
+
+
+Contents:
+ - transfer_learning_project.zip
+ - ablation_evaluation.zip
+ - foreground.zip
+ - XC_wavs.zip
+ - evaluation.zip

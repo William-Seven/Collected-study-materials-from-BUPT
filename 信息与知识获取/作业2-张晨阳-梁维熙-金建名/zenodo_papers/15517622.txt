@@ -1,0 +1,20 @@
+Title: scipp/essreduce: 25.05.3
+
+Authors: Simon Heybrock, Neil Vaytet, Jan-Lukas Wynen, Sunyoung Yoo, Mridul Seth, jokasimr
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<h2>What's Changed</h2>
+<ul>
+<li>Resample TOA-TOF-converted histogram data using <code>rebin</code> by @SimonHeybrock in https://github.com/scipp/essreduce/pull/245</li>
+<li>Remove separate resampling step from TofWorkflow by @SimonHeybrock in https://github.com/scipp/essreduce/pull/246</li>
+</ul>
+
+<strong>Full Changelog</strong>: https://github.com/scipp/essreduce/compare/25.05.2...25.05.3
+
+
+Contents:
+ - scipp/essreduce-25.05.3.zip

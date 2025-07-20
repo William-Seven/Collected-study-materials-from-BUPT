@@ -1,0 +1,98 @@
+Title: Weather data for Nine Major Cities of Japan's Warm Climate Regions and Sample IDF files
+
+Authors: Yan, Chuyue
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This dataset contains the climate data and IDF files used in the paper <strong>"Changes in Residential Heating and Cooling Energy Consumption in Nine Major Cities of Japan&rsquo;s Warm Climate Regions Under Future Climate Conditions."</strong>
+
+
+Contents:
+ - Couple+2child Detached house RC.idf
+ - JPN_Tokyo_Tokyo_3702050.epw
+ - JPN_Nagoya_Nagoya_TMY.epw
+ - Couple+2child Detached house W.idf
+ - couple+2child Apartment RC.idf
+ - JPN_Tokyo_Tokyo_5852050.epw
+ - JPN_Tokyo_Tokyo_5852080.epw
+ - JPN_Matsuyama_Matsuyama_3702080.epw
+ - JPN_Tokyo_Tokyo_2452080.epw
+ - JPN_Tokyo_Tokyo_1262050.epw
+ - JPN_Tokyo_Tokyo_2452050.epw
+ - JPN_Osaka_Osaka_3702080.epw
+ - JPN_Nagoya_Nagoya_3702050.epw
+ - JPN_Okayama_Okayama_5852080.epw
+ - JPN_Nagoya_Nagoya_1262050.epw
+ - JPN_Kyoto_Kyoto_5852050.epw
+ - JPN_Tokyo_Tokyo_1262080.epw
+ - JPN_Nagoya_Nagoya_2452080.epw
+ - JPN_Nagoya_Nagoya_5852050.epw
+ - JPN_Kyoto_Kyoto_1262080.epw
+ - JPN_Matsuyama_Matsuyama_2452050.epw
+ - JPN_Matsuyama_Matsuyama_5852080.epw
+ - JPN_Tokyo_Tokyo_TMY.epw
+ - JPN_Nagoya_Nagoya_5852080.epw
+ - JPN_Okayama_Okayama_5852050.epw
+ - JPN_Tokyo_Tokyo_3702080.epw
+ - JPN_Fukuoka_Fukuoka_TMY.epw
+ - JPN_Kyoto_Kyoto_TMY.epw
+ - JPN_Kumamoto_Kumamoto_1262050.epw
+ - JPN_Osaka_Osaka_5852080.epw
+ - JPN_Fukuoka_Fukuoka_5852050.epw
+ - JPN_Nagoya_Nagoya_1262080.epw
+ - JPN_Kyoto_Kyoto_3702080.epw
+ - JPN_Nagoya_Nagoya_2452050.epw
+ - JPN_Nagoya_Nagoya_3702080.epw
+ - JPN_Kyoto_Kyoto_2452080.epw
+ - JPN_Kyoto_Kyoto_3702050.epw
+ - JPN_Kyoto_Kyoto_5852080.epw
+ - JPN_Hiroshima_Hiroshima_2452050.epw
+ - JPN_Kyoto_Kyoto_1262050.epw
+ - JPN_Okayama_Okayama_2452050.epw
+ - JPN_Osaka_Osaka_2452080.epw
+ - JPN_Osaka_Osaka_2452050.epw
+ - JPN_Hiroshima_Hiroshima_3702080.epw
+ - JPN_Osaka_Osaka_1262050.epw
+ - JPN_Hiroshima_Hiroshima_1262080.epw
+ - JPN_Hiroshima_Hiroshima_5852050.epw
+ - JPN_Osaka_Osaka_1262080.epw
+ - JPN_Okayama_Okayama_1262050.epw
+ - JPN_Osaka_Osaka_3702050.epw
+ - JPN_Osaka_Osaka_TMY.epw
+ - JPN_Osaka_Osaka_5852050.epw
+ - JPN_Hiroshima_Hiroshima_1262050.epw
+ - JPN_Matsuyama_Matsuyama_5852050.epw
+ - JPN_Kumamoto_Kumamoto_5852050.epw
+ - JPN_Matsuyama_Matsuyama_3702050.epw
+ - JPN_Fukuoka_Fukuoka_2452050.epw
+ - JPN_Kumamoto_Kumamoto_2452080.epw
+ - JPN_Okayama_Okayama_3702050.epw
+ - JPN_Okayama_Okayama_3702080.epw
+ - JPN_Okayama_Okayama_TMY.epw
+ - JPN_Fukuoka_Fukuoka_5852080.epw
+ - JPN_Okayama_Okayama_1262080.epw
+ - JPN_Matsuyama_Matsuyama_2452080.epw
+ - JPN_Kumamoto_Kumamoto_2452050.epw
+ - JPN_Kumamoto_Kumamoto_5852080.epw
+ - JPN_Matsuyama_Matsuyama_1262080.epw
+ - JPN_Fukuoka_Fukuoka_1262050.epw
+ - JPN_Fukuoka_Fukuoka_1262080.epw
+ - JPN_Fukuoka_Fukuoka_2452080.epw
+ - JPN_Hiroshima_Hiroshima_2452080.epw
+ - JPN_Okayama_Okayama_2452080.epw
+ - JPN_Kumamoto_Kumamoto_3702050.epw
+ - JPN_Hiroshima_Hiroshima_3702050.epw
+ - JPN_Hiroshima_Hiroshima_TMY.epw
+ - JPN_Hiroshima_Hiroshima_5852080.epw
+ - JPN_Kumamoto_Kumamoto_1262080.epw
+ - JPN_Matsuyama_Matsuyama_TMY.epw
+ - JPN_Kumamoto_Kumamoto_TMY.epw
+ - JPN_Kyoto_Kyoto_2452050.epw
+ - JPN_Matsuyama_Matsuyama_1262050.epw
+ - JPN_Fukuoka_Fukuoka_3702050.epw
+ - JPN_Fukuoka_Fukuoka_3702080.epw
+ - JPN_Kumamoto_Kumamoto_3702080.epw

@@ -1,0 +1,18 @@
+Title: Bayesian Active Learning of Microstructure Transition in Rapid Solidification Using Phase-Field Simulations
+
+Authors: Vela, Brent, Mancias, José, Juan, Flórez-Coronel, Rouhollah, Tavakoli, Allaire, Douglas, Arróyave, Raymundo, Tourret, Damien
+
+Keywords: 
+
+Publication date: 2025-04-30
+
+Description:
+<span>This study investigates the mechanisms governing microstructure selection during rapid solidification, with a focus on the transition from cellular and dendritic to planar interface morphologies under conditions relevant to additive manufacturing. We employ a phase-field model that quantitatively captures solute trapping, kinetic undercooling, and morphological instabilities across a wide range of growth velocities (V) and thermal gradients (G), applying it to a binary Fe-Cr alloy as a surrogate for 316L stainless steel. By combining high-fidelity phase-field simulations with a Gaussian Process-based Bayesian active learning approach, we efficiently map microstructural transitions across the multidimensional space of composition, growth velocity, and temperature gradient.</span>
+
+<span>Our phase-field results are compared to classical theories of rapid solidification. In particular, the classical KGT model accurately predicts the critical value of G above which the interface remains planar at any growth velocity. We observe that microstructures evolve from dendritic to cellular as the temperature gradient approaches this critical G value. Additionally, we identify unstable "intermediate" microstructures near the dendrite-planar boundary at low G, even in the absence of banding instabilities in the Fe-Cr system. Such "intermediate" microstructures are difficult to identify with conventional design of experiments, however using Bayesian active learning methods, we have successfully identified this &ldquo;transient&rdquo; solidification regime.</span>
+
+<span>Overall, our results demonstrate the effectiveness of Bayesian-guided phase-field modeling in efficiently exploring complex microstructural transitions within high-dimensional parameter spaces, offering a powerful computational tool for tailoring process conditions to achieve desired microstructures and properties in rapidly solidified metallic alloys.</span>
+
+
+Contents:
+ - AAMS2025_Vela_Abstract.docx

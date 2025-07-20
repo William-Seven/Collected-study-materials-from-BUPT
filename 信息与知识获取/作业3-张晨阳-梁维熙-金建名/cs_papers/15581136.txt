@@ -1,0 +1,16 @@
+Title: Dataset for "Geochemical Influences on Carbon Nanotubes Transport in Subsurface Environments: Integrating Millifluidics, Spectral Induced Polarization, and Machine Learning"
+
+Authors: Yang, Yixin, Liu, Pengfei, Chen, Kexin, Zhou, Sheng, Meng, Longlong, Zhang, Chi, Cao, Junnan, Bate, Bate
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+This dataset supports the research study "<span lang="EN-US">Geochemical Influences on Carbon Nanotubes Transport</span> <span lang="EN-US">in Subsurface Environments</span><span lang="EN-US">:</span><span lang="EN-US"> Integrating Millifluidic</span><span lang="EN-US">s</span><span lang="EN-US">, Spectral Induced Polarization, and </span><span lang="EN-US">Machine</span><span lang="EN-US"> Learning</span>" by Y. X. Yang, P. F. Liu, K. X. Chen, S. Zhou, L. L. Meng, C. Zhang, J. N. Cao &amp; B. Bate.
+
+Each file has its header, describing each column.
+
+
+Contents:
+ - Data of manuscript_revised.xlsx

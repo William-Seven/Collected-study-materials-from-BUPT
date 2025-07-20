@@ -1,0 +1,15 @@
+Title: iiasa/ixmp: v3.11.0
+
+Authors: Paul Natsuo Kishimoto, Fridolin Glatter, Nikolay Kushin, Daniel Huppmann, Matthew Gidden, francescolovat, Laura Wienpahl, Michael Pimmer, GamzeUnlu95, Behnam Zakeri, Adriano Vinca, Clara, Jihoon Min, MiguelPobleteCazenave, Peter Kolp
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+See <a href="https://docs.messageix.org/en/stable/whatsnew.html#v3-11-0">"What's New"</a> in the documentation for a list of all changes.
+
+
+Contents:
+ - iiasa/ixmp-v3.11.0.zip

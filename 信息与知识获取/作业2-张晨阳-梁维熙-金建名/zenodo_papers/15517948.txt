@@ -1,0 +1,19 @@
+Title: Daten der Notaufnahmesurveillance
+
+Authors: Robert Koch-Institut, AKTIN-Notaufnahmeregister
+
+Keywords: Notaufnahmesurveillance, Notaufnahmevorstellungen, Syndromische Surveillance, Syndromic Surveillance, Sentinel-Ueberwachung, Sentinel Surveillance, Notfallambulanz, Krankenhaus-, Hospital Emergency Services, Patient Admission, Patientenaufnahme, Akute Krankheit, Acute Disease, Respiratory Tract Infections, Atemwegsinfektionen, Respiratory Distress Syndrome, Atemnot-Syndrom, International Classification of Diseases, Internationale Klassifikation der Krankheiten, ICD Code, CEDIS, SUMO, AKTIN, RKI, Germany, Deutschland, Open Data
+
+Publication date: 2025-05-26
+
+Description:
+
+Der Datensatz 'Notaufnahmesurveillance' enthält aggregierte Daten der Routinedokumentation aus einer Auswahl deutscher Notaufnahmen aus dem <a href="https://www.aktin.org/de-de/">AKTIN-Notaufnahmeregister</a> und bildet die Grundlage für die <a href="https://www.rki.de/sumo">Notaufnahmesurveillance</a> am RKI.
+
+
+Contents:
+ - Notaufnahmesurveillance_Zeitreihen_Syndrome.tsv
+ - datapackage.json
+ - [Dokumentation]_Daten_der_Notaufnahmesurveillance.pdf
+ - Notaufnahmesurveillance_Standorte.tsv
+ - Metadaten.zip

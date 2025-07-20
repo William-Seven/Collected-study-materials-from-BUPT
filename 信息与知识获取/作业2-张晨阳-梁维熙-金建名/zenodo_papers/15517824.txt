@@ -1,0 +1,15 @@
+Title: TITLE: AFFORDABLE GREEN TRAVEL: A MODEL FOR SUSTAINABLE TOURISM THROUGH COST-EFFECTIVE AVIATION INNOVATION
+
+Authors: Mohammed Fayazuddin, Umar Mohammad
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<em><span lang="EN-IN">Tourism remains one of the fastest-growing sectors globally, yet its sustainability&mdash;both environmental and financial&mdash;faces ongoing scrutiny. The aviation industry, a major contributor to global emissions, has also witnessed increasing travel costs, placing constraints on accessibility for the average or regular travellers. This study focuses on the intersection of aviation innovation and inclusive tourism development, particularly in the context of Uzbekistan. It introduces the GATS (Green-Affordable Travel Synergy) model, which integrates artificial intelligence (AI)-driven aerodynamic optimization technologies such as the SOAR system, emphasizing their cost-effectiveness and applicability to smaller regional aircraft. These innovations, when aligned with national tourism policy and infrastructure upgrades, can democratize travel, reduce carbon footprints, and stimulate rural tourism development. Drawing from global case studies and literature, the paper proposes a roadmap for policymakers and stakeholders to foster an aviation ecosystem that is both green and economically inclusive.</span></em>
+
+
+Contents:
+ - 2.1.pdf

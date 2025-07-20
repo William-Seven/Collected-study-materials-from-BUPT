@@ -1,0 +1,61 @@
+Title: The climate limits of construction – consumption emissions and budgets for 1000 cities
+
+Authors: Rankin, Keagan Hudson, Serrenho, André, Bachmann, Chris, Saxe, Shoshanna, Posen, I. Daniel
+
+Keywords: Carbon budget, Climate change, Construction, Housing, Greenhouse gas
+
+Publication date: 2025
+
+Description:
+<h1>Construction emissions and budgets for over 1000 cities</h1>
+This repository contains data and code used to estimate emissions and budgets for over 1000 cities across the world [1].
+
+<h2><strong>Contents</strong></h2>
+Those interested in exploring city emissions and budgets should first look at our interactive <a href="https://app.powerbi.com/view?r=eyJrIjoiNjg1MTAzNWEtOWE3Yy00YTA2LTg4ZGMtNmExNGY5NWRkZDI0IiwidCI6IjQ5MmNiNDZiLTRmYTYtNDA2NS1iYmM5LTEzNzhkZGY1ZmJlYyJ9">dashboard</a>.
+
+
+<em>city_cumulative_budgets.xlsx</em> is supplementary to the main text and contains simplified cumulative budgets for all cities in the paper.&nbsp;
+<em>regression_data_sources</em>.xlsx is supplementary to the main text and organizes the source of all data used to generate estimates of historic city-level construction emissions.
+<em>code.zip</em> contains the data and python files required to reproduce the results from the manuscript.
+
+The structure of <em>code.zip</em> is as follows:
+
+
+The folders <em>/city_emit_py/</em>, <em>/city_budget_py/</em>, and <em>/city_future_py/</em> contain the python classes needed to estimate emissions, generate budgets, and estimate future emissions, respectively.
+These Python classes are imported and used in three jupyter notebook demo files in the main&nbsp;<em>/code</em><em>/</em> folder,&nbsp;which show how the results from the main text were generated.
+the&nbsp;<em>/data/</em> folder contains all necessary data for the jupyter demos, including some pre-generated results.
+Two external datasets are used directly in the analysis. First, the Exiobase 3 model time series, which can be downloaded and added seperately [2]. Throughout the demo files we use the path variable = <em>"D:/EXIOBASE/IOT_2019_ixi"&nbsp;</em>because we stored Exiobase on a external D drive. Please update these path variables to the location of exiobase on your local machine. We also include a version of the RASMI dataset [3] for estimating future emissions. No downloads are required for this dataset.
+
+<h2><strong>Requirements</strong></h2>
+The code in this repository was built on Windows 10 using Python 3.9.19 with the following dependencies:
+
+
+numpy 1.23.5
+pandas 2.2.2
+matplotlib 3.7.0
+seaborn 0.13.2
+geopandas 0.14.4 (optional, for generating Figure 1a in manuscript only)
+
+To use the code, please download <em>code.zip</em> from Zenodo (should only take a few minutes) and open the relevant jupyter notebooks in the environment of your choosing (e.g. VS Code). Download the seperate Exiobase 3 time series and adjust the Exiobase filepath variables to your local machine. Running the example notebooks should not take more than a few minutes, with the most time-consuming operation being the import of the Exiobase tables.
+
+This resource is licensed under an MIT open license. Please ensure proper attribution when modifying and using this work.
+
+<h2><strong>Contact</strong></h2>
+For any questions, issues, or suggestions, please contact the authors at <em>keagan.rankin@mail.utoronto.ca</em>
+
+More information about the authors and their research groups can be found at the following links: <a href="https://sustainablesystems.civmin.utoronto.ca/" target="_blank" rel="noopener">University of Toronto</a>, <a href="https://www-csd.eng.cam.ac.uk/staff/dr-andre-cabrera-serrenho" target="_blank" rel="noopener">University of Cambridge</a>, and <a href="https://uwaterloo.ca/civil-environmental-engineering/profile/c2bachma" target="_blank" rel="noopener">University of Waterloo.</a>
+
+This work was sponsored by the <a href="https://csbe.civmin.utoronto.ca/" target="_blank" rel="noopener">Centre for the Sustainable Built Environment</a> at the University of Toronto, an NSERC Alliance International grant written by authors at the University of Toronto and the University of Cambridge, and the Canadian Research Chairs held by authors IDP and SS.
+
+<h2><strong>References</strong></h2>
+[1] Rankin et al. (2025) The climate limits of construction for over 1000 cities.&nbsp;<em>In Review</em>
+
+[2] Stadler et al. (2025) Exiobase3.&nbsp;<em>Zenodo</em>. https://doi.org/10.5281/zenodo.14614930
+
+[3] Tomer Fishman, Alessio Mastrucci, Yoav Peled, Shoshanna Saxe, Bas van Ruijven. RASMI: Global Ranges of Building Material Intensities Differentiated by Region, Structure, and Function. Scientific Data 2024, 11 (1), 418. https://doi.org/10.1038/s41597-024-03190-7.
+
+
+Contents:
+ - city_cumulative_budgets.xlsx
+ - regression_data_source.xlsx
+ - code.zip

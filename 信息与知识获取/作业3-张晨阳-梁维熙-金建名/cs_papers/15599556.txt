@@ -1,0 +1,13 @@
+Title: FAIRICUBE Deliverable D3.2 Machine learning strategy specific for each use case
+
+Authors: Norwegian Institute for Air Research, Jetschny, Stefan
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+N/A
+
+Contents:
+ - FAIRiCUBE Deliverable D3.2 Machine learning strategy specific for each use case.pdf

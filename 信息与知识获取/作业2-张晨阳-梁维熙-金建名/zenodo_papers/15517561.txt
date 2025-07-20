@@ -1,0 +1,15 @@
+Title: MOVABLE ROAD DIVIDER FOR ORGANIZED VEHICULAR TRAFFIC CONTROL WITH MONITORING OVER IOT
+
+Authors: Mrs. Chinnakka Sudha, Ayyagalla Suresh, C. Sriyan Reddy
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+
+Urban traffic congestion is a growing problem, particularly during peak hours. Traditional static road dividers cannot accommodate dynamic traffic flow, leading to inefficiencies. This project proposes an IoT-based Movable Road Divider that shifts lanes dynamically based on real-time traffic conditions detected through ultrasonic and IR sensors. Using a NodeMCU ESP8266 microcontroller, the system controls servo motors to adjust divider positions and uploads traffic data to ThingSpeak for monitoring. The system offers a scalable and intelligent solution for modern traffic management.
+
+
+Contents:
+ - 22-ORJ1656.pdf

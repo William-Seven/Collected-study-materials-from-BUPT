@@ -1,0 +1,16 @@
+Title: Systematic Review on the Countdown on Investment Needs for Startups to Scale Climate Adaptation in the Africa
+
+Authors: Uba, Matthew Ndubuisi
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This data contains all contents including article and reports used in a systematic literature review <span>to examine investment needs, opportunities, and challenges for scaling climate adaptation in African start-ups. The excel sheet also contains some infographics or charts. Also attched here is a supplementary resource containing some results from the synthesis which include tables, and charts.</span>
+
+
+Contents:
+ - Supplementary material for investment need.docx
+ - SRL data for Investment need for Startup.xlsb

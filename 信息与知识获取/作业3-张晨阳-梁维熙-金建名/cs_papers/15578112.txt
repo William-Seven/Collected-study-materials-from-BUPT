@@ -1,0 +1,13 @@
+Title: Are wing contours good classifiers for automatic identification in Odonata? A view from the Targeted Odonata Wing Digitization (TOWD) project
+
+Authors: Sáenz Oviedo, Mayra A., Kuhn, William R., Rondon Sepulveda, Martin A., Abbott, John, Ware, Jessica L., Sanchez-Herrera, Melissa
+
+Keywords: Biodiversity, Taxonomy
+
+Publication date: 2022-12-08
+
+Description:
+Sáenz Oviedo, Mayra A., Kuhn, William R., Rondon Sepulveda, Martin A., Abbott, John, Ware, Jessica L., Sanchez-Herrera, Melissa (2022): Are wing contours good classifiers for automatic identification in Odonata? A view from the Targeted Odonata Wing Digitization (TOWD) project. International Journal of Odonatology 25: 96-106, DOI: 10.48156/1388.2022.1917184, URL: https://doi.org/10.48156/1388.2022.1917184
+
+Contents:
+ - source.pdf

@@ -1,0 +1,14 @@
+Title: From Pollution to Prediction: The Role of Air pollution and Artificial intelligence in Asthma
+
+Authors: NVL Suvarchala Reddy*, M. Ganga Raju, Nisha Shri C., N. Maheswari, D. Krishnaveni, P. Saritha
+
+Keywords: Artificial intelligence, Asthma management, Environmental pollutants, Machine learning applications, respiratory disease
+
+Publication date: 2025-06-03
+
+Description:
+<span>Asthma is a chronic inflammatory disorder of the airways influenced by a combination of environmental and genetic factors, with air pollution being one of the major contributors to its development and exacerbation. Airborne pollutants such as particulate matter (PM), ozone (O₃), nitrogen dioxide (NO₂), and sulfur dioxide (SO₂) can trigger airway inflammation, bronchoconstriction, and impaired lung function, leading to increased asthma attacks and severity. The health burden is particularly significant in children and the elderly, who are more susceptible to pollution-induced respiratory complications. In recent years, artificial intelligence (AI) has emerged as a powerful tool in asthma diagnosis, monitoring, and management. Through machine learning algorithms, predictive models, and real-time data from IoT-based sensors, AI can analyze environmental data and clinical records to predict asthma exacerbations, personalize treatment plans, and monitor pollutant exposure effectively. These AI systems not only enhance patient care by facilitating early intervention but also reduce emergency visits and healthcare costs. Moreover, the integration of AI with environmental monitoring platforms helps identify pollution hotspots and supports informed policymaking to improve air quality. Despite the promise of AI in respiratory health, challenges such as algorithm transparency, data variability, and equitable access remain. Further interdisciplinary collaboration between clinicians, environmental scientists, and data scientists is essential to fully harness AI&rsquo;s potential. This review highlights the impact of air pollution on asthma and explores how AI technologies can revolutionize asthma care and reduce the global burden of respiratory disease</span><span>.</span>
+
+
+Contents:
+ - 82-Review paper-NVL Suvarchala Reddy 2.docx.pdf

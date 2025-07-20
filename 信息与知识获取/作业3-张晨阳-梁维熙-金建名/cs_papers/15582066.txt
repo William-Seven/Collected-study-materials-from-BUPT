@@ -1,0 +1,14 @@
+Title: Image Processing for Product Classification
+
+Authors: Ashiq, Muhamed, Philip, Ankitha
+
+Keywords: — Convolutional Neural Networks (CNNs), Electronic-Products, Deep Learning, Image Processing
+
+Publication date: 2025-06-03
+
+Description:
+<span><span>Abstract </span></span><span>&mdash; This paper investigates the application of Convolutional Neural Networks (CNNs) for the classification of electronic products based on their visual attributes. CNNs have demonstrated remarkable success in image recognition tasks across various domains, including electronics, owing to the rapid evolution of deep learning techniques. Our research aims to evaluate the feasibility and efficacy of CNN models in accurately identifying electronic products from uploaded images. We seek to illustrate the potential of our methodology in enhancing electronic product classification and recommendation systems through empirical evaluation. Additionally, we integrate a knowledge base containing pertinent information about electronic products to supplement classification outcomes. Leveraging this data, our system generates personalized product recommendations based on recognized industry standards and consumer preferences. Through thorough analysis and validation, we highlight the reliability and practicality of our approach in optimizing electronic product classification and recommendation processes.</span>
+
+
+Contents:
+ - Image Processing for Product Classification.pdf

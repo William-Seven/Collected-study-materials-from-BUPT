@@ -1,0 +1,15 @@
+Title: AXBOROT XAVFSIZLIGINI TA'MINLASH VA DDOS HUJUMLARDAN HIMOYALANISH
+
+Authors: Karajanov, B.M., Amanbayeva, G.D., Alieva, X.A., Alifbayeva, G.B.
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<span lang="EN-US">Zamonaviy axborot jamiyatida umumiy xavfsizlikning aspektlari, axborot xavfsizligi asosiy masalalardan biridir. Axborot xavfsizligining tarkibiy qismlari maxfiylik, yaxlitlik, mavjudlik, autentifikatsiya va avtorizatsiya, zararli dasturlardan himoyalanish, audit va hatto jismoniy xavfsizlikdir.</span>
+
+
+Contents:
+ - TAFPS 1310.pdf

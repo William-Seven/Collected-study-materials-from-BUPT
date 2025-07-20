@@ -1,0 +1,15 @@
+Title: GestureMath: Free - Form Math Solver
+
+Authors: Aaron Sunu A. George, Basil Sabu, Bonia Jose, Ashin George, Premchand C. P.
+
+Keywords: Gesture-based tool, real-time recognition, handwritten recognition, free-form input
+
+Publication date: 2025-05-26
+
+Description:
+
+<em><span lang="EN-IN">An innovative mathematical tool leveraging gesture-based interaction redefines how calculations are performed, moving away from traditional input methods like keyboards or touchscreens. A cutting-edge system enables users to perform tasks such as writing mathematical expressions, pausing input, clearing the workspace and computing results using intuitive hand gestures. Unlike standard calculators or software that rely on rigid syntax or button-based inputs, this tool offers a more flexible, engaging and inclusive experience. It supports free-form handwriting and accommodates the diverse needs of users, including those with disabilities. The system processes handwritten mathematical expressions in real time, recognizing various handwriting styles and delivering instant results. Additionally, it provides optional step-by-step solutions, enhancing understanding and usability, particularly in educational settings. By offering detailed explanations, it helps students effectively learn complex concepts. Beyond its educational benefits, this tool is well-suited for both professional and everyday use. Real-time feedback and natural interaction transform human-computer engagement for mathematical computations. Designed with accessibility and adaptability in mind, this tool bridges the gap between user needs and technology, ensuring a seamless and inclusive experience for a wide range of audiences. Its gesture recognition and interactive features set a new benchmark for computational tools. </span></em>
+
+
+Contents:
+ - GestureMathFree-Form Math Solver -Formatted Paper.pdf

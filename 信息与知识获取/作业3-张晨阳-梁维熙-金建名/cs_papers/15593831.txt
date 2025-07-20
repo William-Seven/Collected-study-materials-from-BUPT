@@ -1,0 +1,33 @@
+Title: Report on the Co-Creation Workshops
+
+Authors: Ayciriex, Luciana
+
+Keywords: 
+
+Publication date: 2025-01-16
+
+Description:
+<span lang="EN-US">The ComeThinkAgain project has organized nine co-creation workshops across Europe, engaging 97 participants from higher education institutions (HEIs), vocational education and training (VET) providers, the public sector, and the private sector. These workshops aimed to establish a collaborative dialogue among stakeholders, identify synergies, and address skill gaps and learning demands crucial for the development and implementation of the ComeThinkAgain CETS (Competence and Education Training System). Below are the detailed objectives of these workshops:</span>
+
+<strong><span lang="EN-US">Stakeholder engagement: </span></strong><span lang="EN-US">The goal is to involve stakeholders in the co-creation process of the ComeThinkAgain CETS. This includes fostering collaboration in the development of learning content and increasing stakeholder interest in aligning their work with the implementation of the CETS.</span>
+
+<strong><span lang="EN-US">Mapping stakeholder needs and expectations:&nbsp;</span></strong><span lang="EN-US">This objective focuses on identifying the needs and expectations of stakeholders across the three competence pillars. The pillars include:</span>
+
+
+<span lang="EN-US">Computational thinking skills (C1): Aimed at enhancing logical reasoning, problem-solving, and digital literacy.</span>
+Entrepreneurship and innovation skills (C2): Encouraging entrepreneurial mindsets, innovative practices, and adaptability.
+Green skills (C3): Promoting environmental and social responsibility, along with sustainable development.
+
+<strong><span lang="EN-US">Curriculum requirements and career pathways: </span></strong><span lang="EN-US">These objective addresses curriculum requirements to improve employability, creativity, and career opportunities. It also emphasizes integrating industry perspectives to foster innovation and problem-solving that align with various economic sectors.</span>
+
+<strong><span lang="EN-US">Validation and expansion of competences: </span></strong><span lang="EN-US">The objective is to validate previously identified fundamental learning competences and expand the competences list within the three resilience-related pillars (C1, C2, and C3).</span>
+
+<strong><span lang="EN-US">Tools and teaching methods: </span></strong><span lang="EN-US">This involves defining and confirming new tools and methods for teaching computational thinking, entrepreneurship, and environmental sustainability. It also aims to establish didactic approaches and teaching requirements, including simulations and methodologies that emphasize the development of transversal skills.</span>
+
+<strong><span lang="EN-US">Knowledge sharing and stakeholder feedback: </span></strong><span lang="EN-US">The objective here is to facilitate knowledge sharing among Higher Education Institutions (HEIs), Vocational Education and Training (VET) institutions, the public sector, and the business sector. Additionally, it aims to gather participant feedback and encourage their involvement in pilot-testing phases.</span>
+
+<strong><span lang="EN-US">Community of practice (CoP) development: </span></strong><span lang="EN-US">The final objective is to lay the groundwork for the ComeThinkAgain Community of Practice, encouraging broader discussions and ensuring the sustainability of project outcomes.</span>
+
+
+Contents:
+ - CTA_Report_Co-Creation_Workshops_03062025.pdf

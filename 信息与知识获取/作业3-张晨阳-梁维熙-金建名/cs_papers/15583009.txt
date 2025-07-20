@@ -1,0 +1,14 @@
+Title: Chat Bot
+
+Authors: Mithun Surya S, N.Sukanya
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+Chatbots have emerged as&nbsp;transformative tools in&nbsp;human-computer&nbsp;interaction, enabling&nbsp;automated, real-time&nbsp;conversations across&nbsp;diverse domains such as&nbsp;customer service,&nbsp;education, healthcare, and&nbsp;entertainment. This paper&nbsp;explores the design,development, and&nbsp;deployment of intelligent&nbsp; chatbot systems using&nbsp;natural language processing&nbsp;(NLP) and machine learning techniques. It investigates&nbsp;key architectural models,&nbsp;including rule-based,&nbsp;retrieval-based, and&nbsp;generative approaches,&nbsp;while highlighting the&nbsp;advantages and limitations&nbsp;of each
+
+
+Contents:
+ - IJSRED-V8I3P202.pdf

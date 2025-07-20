@@ -1,0 +1,15 @@
+Title: TOURISM THROUGH THE LENS OF THE 15-MINUTE NEIGHBORHOOD MODEL: A CASE STUDY OF TASHKENT, UZBEKISTAN
+
+Authors: Sardor Karimov Mashrapjon oʻgʻli
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<em><span lang="EN-US">Tourism, as one of the fastest-growing global industries, plays a pivotal role in driving economic, cultural, and social development, yet its rapid expansion often intersects with challenges of urban sprawl and uneven accessibility. To address these issues, the 15-minute neighborhood model has emerged as a planning framework aimed at enhancing urban accessibility, sustainability, and livability by ensuring that essential services and amenities are within a short walking or biking distance. This article explores how tourism attractions can actively support the implementation of this model in Tashkent, Uzbekistan. Through geospatial analysis and online data sources, key tourist sites are viewed in maps and assessed in relation to urban mobility and proximity. The findings demonstrate that tourism infrastructure not only serves as economic and cultural hubs but also acts as a catalyst for urban cohesion and sustainable mobility.</span></em>
+
+
+Contents:
+ - 2.11.pdf

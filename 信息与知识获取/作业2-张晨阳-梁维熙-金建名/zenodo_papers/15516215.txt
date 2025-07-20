@@ -1,0 +1,60 @@
+Title: 3D Simulated Surface Defects Dataset on Car Doors for Deep Learning-Based Industrial Inspection
+
+Authors: Roos Hoefgeest Toribio, Sara
+
+Keywords: Synthetic defect generation, 3D surface inspection, Free-Form Deformation, Sensor simulation, CAD-based modeling, Industrial quality control
+
+Publication date: 2025-05-26
+
+Description:
+
+This dataset provides synthetic samples of surface defects generated on a CAD model of a car door. The defects include&nbsp;<strong>bumps and peaks</strong>, simulated using <strong>Free-Form Deformation (FFD)</strong> to ensure geometric realism and adaptability to curved surfaces. Surface acquisition is emulated using a <strong>virtual 3D profilometric sensor</strong>, incorporating both geometric and sensor noise to closely replicate real-world inspection conditions.
+
+
+All samples are<strong> labeled</strong>, and the dataset includes <strong>depth images</strong>, trajectory data, and raw sensor outputs, making it suitable for training and evaluating surface defect detection models in industrial settings.&nbsp;
+
+
+This dataset is associated with the&nbsp;<strong>TriPlay</strong> repository on GitHub:
+🔗 <a href="https://github.com/sararht/TriPlay">GitHub Repository</a>
+
+
+It is also related with the following publication:
+
+
+<a href="https://doi.org/10.3390/s23177624">📄 Simulation of Laser Profilometer Measurements in the Presence of Speckle Using Perlin Noise&nbsp;</a>
+
+
+(<em>This dataset is also associated with a manuscript currently under review.</em>)
+
+<h3>🔑 Key Features</h3>
+<ul>
+<li>
+
+<strong>High-Quality Synthetic Defects</strong>: Includes localized surface deformations (bumps and peaks) modeled with Free-Form Deformation.
+
+</li>
+<li>
+
+<strong>Virtual Profilometric Scanning</strong>: Simulates data acquisition with a 3D profilometer to capture realistic sensor readings.
+
+</li>
+<li>
+
+<strong>Realistic Sensor Noise</strong>: Adds surface and depth distortion to simulate real acquisition conditions.
+
+</li>
+<li>
+
+<strong>Per-Step Trajectory and Sensor Data</strong>: Includes detailed trajectory files and raw outputs per scanning step.
+
+</li>
+<li>
+
+<strong>Automatically Generated Annotations</strong>: Bounding boxes and defect metadata are included for supervised learning.
+
+</li>
+</ul>
+<pre>&nbsp;</pre>
+
+Contents:
+ - dataset.zip

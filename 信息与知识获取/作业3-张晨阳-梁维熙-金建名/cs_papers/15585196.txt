@@ -1,0 +1,44 @@
+Title: Operational Bottlenecks and Workforce Efficiency: A Quantitative Evaluation Using the Theory of Constraints in Healthcare
+
+Authors: Dr. David Augustine Bull
+
+Keywords: Predictive analytics, Operational value, Process flow mapping, Staff utilization, Theory of constraint
+
+Publication date: 2025-06-03
+
+Description:
+<strong><span lang="EN-US">Abstract:</span></strong><span lang="EN-US"> This study examined the predictive and operational value of bottleneck analysis for optimizing healthcare staff utilization through the integration of the Theory of Constraints (TOC) and predictive analytics. Using a quantitative, explanatory research design, data was collected from departmental workflows, performance metrics, and staff schedules in a mid-sized urban hospital over a 12-month period. Bottlenecks were identified and categorized into human, procedural, and technological constraints. To address the first research question, predictive models, including multiple linear regression and random forest algorithms were developed to assess the relationship between bottlenecks and staff utilization. The random forest model demonstrated higher predictive accuracy, indicating that identified constraints can meaningfully forecast staffing efficiency.</span>
+
+<span lang="EN-US">To answer the second research question, descriptive statistics revealed that procedural and human bottlenecks were the most frequent and disruptive. One-way ANOVA showed significant differences in staff efficiency across departments based on constraint type and severity, while chi-square tests confirmed associations between bottleneck types and inefficiencies. For the third research question, TOC-informed interventions were implemented in departments with high constraint levels. Pre- and post-intervention analyses using paired t-tests showed significant improvements in staff efficiency, reduced idle time, and increased patient throughput, with effect sizes indicating meaningful practical changes.</span>
+
+<span lang="EN-US">The study&rsquo;s findings have several implications. For practice, healthcare leaders should adopt TOC-driven bottleneck analysis combined with machine learning models to anticipate and alleviate staffing inefficiencies. Regular audits of workflow constraints can help in deploying staff more effectively and improving patient flow. For research, this study lays the groundwork for longitudinal and multi-site investigations to generalize findings across various healthcare settings. Future studies should explore real-time constraint detection using artificial intelligence tools. Theoretically, this study supports and extends the Theory of Constraints by demonstrating its compatibility with predictive modeling, contributing to a more data-driven approach to operational decision-making in healthcare. Recommendations include training healthcare managers in constraint identification and predictive analytics to enhance systemic responsiveness and sustainability in workforce management.</span>
+
+<strong><span lang="EN-US">Keywords:</span></strong><span lang="EN-US"> Predictive analytics, Operational value, Process flow mapping, Staff utilization, Theory of constraint.</span>
+
+<strong><span lang="EN-US">Title:</span></strong><span lang="EN-US"> </span><span lang="EN-US">Operational Bottlenecks and Workforce Efficiency: A Quantitative Evaluation Using the Theory of Constraints in Healthcare</span>
+
+<strong><span lang="EN-US">Author:</span></strong><span lang="EN-US"> </span><span lang="EN-US">Dr. David Augustine Bull</span>
+
+<strong><span lang="EN-US">International Journal of Interdisciplinary Research and Innovations</span></strong>
+
+<strong><span lang="EN-US">ISSN 2348-1218 (print), ISSN 2348-1226 (online)</span></strong>
+
+<strong><span lang="EN-US">Vol. 13, Issue 2, April 2025 - June 2025</span></strong>
+
+<strong><span lang="EN-US">Page No: 60-78</span></strong>
+
+<strong><span lang="EN-US">Research Publish Journals</span></strong>
+
+<strong><span lang="EN-US">Website: www.researchpublish.com</span></strong>
+
+<strong><span lang="EN-US">Published Date: 03-June-2025</span></strong>
+
+<strong><span lang="EN-US">DOI: <a href="https://doi.org/10.5281/zenodo.15585196">https://doi.org/10.5281/zenodo.15585196</a></span></strong>
+
+<strong><span lang="EN-US">Paper Download Link (Source)</span></strong>
+
+<strong><span lang="EN-US"><a href="https://www.researchpublish.com/papers/operational-bottlenecks-and-workforce-efficiency-a-quantitative-evaluation-using-the-theory-of-constraints-in-healthcare">https://www.researchpublish.com/papers/operational-bottlenecks-and-workforce-efficiency-a-quantitative-evaluation-using-the-theory-of-constraints-in-healthcare</a></span></strong>
+
+
+Contents:
+ - Operational Bottlenecks and Workforce Efficiency-03062025-4.pdf

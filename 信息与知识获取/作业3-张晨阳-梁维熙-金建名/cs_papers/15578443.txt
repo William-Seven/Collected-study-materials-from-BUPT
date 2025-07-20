@@ -1,0 +1,14 @@
+Title: MindPulse: Employee Mental Health Detection and  Attrition Prediction App
+
+Authors: Sreyas George, Gregan George, Ruth Tennyson, Rishil Shajan, Dr. Juby Mathew
+
+Keywords: 
+
+Publication date: 2025-05-23
+
+Description:
+&mdash;Employee mental health problems and excessive turnover are challenges that impact organizations at levels beyond work quality, including productivity, workforce stability, and overall morale. Conventional methods tend to be ineffective in pre-emptively predicting and managing these problems with any consistency because there are no accurate predictive tools&nbsp;available. MindPulse is a machine learning (ML) and natural language processing (NLP) application that uses AI to analyze&nbsp;the well-being of employees and attrition risk. With BERT-based sentiment analysis, it analyzes social media information to identify initial indicators of mental distress, and gradient boosting models analyze employee-specific metrics t o forecast a ttrition patterns, By combining these insights, MindPulse allows organizations to make timely interventions, creating a healthier workplace and minimizing turnover. This new methodology improves workforce retention efforts by delivering actionable, data-driven insights, making it an essential tool for contemporary businesses.
+
+
+Contents:
+ - NACORE25 P292.pdf

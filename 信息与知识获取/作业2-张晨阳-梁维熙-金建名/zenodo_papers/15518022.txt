@@ -1,0 +1,18 @@
+Title: Da UrBio a UrbanBee: spunti da due iniziative di Citizen Science sulla biodiversità urbana
+
+Authors: COCHIS, FRANCESCA, Regaiolo, Irene, Alba, Riccardo, Reynolds, Chevonne, Chamberlain, Dan, Caprio, Enrico
+
+Keywords: 2025 Convegno Bologna
+
+Publication date: 2025-05-26
+
+Description:
+<p dir="ltr">La biodiversit&agrave; urbana offre servizi ecosistemici fondamentali, inclusi benefici per il benessere umano e la salute. Con l&rsquo;avanzare dell'urbanizzazione, una variet&agrave; di specie diventa parte integrante degli habitat urbani, favorendo la nascita di comunit&agrave; sinantropiche uniche. Tuttavia, il rapido sviluppo urbano, caratterizzato da trasformazioni ambientali significative, presenta sfide che portano al declino di alcune specie, mentre favorisce la proliferazione di altre, spesso considerate problematiche. Per molte specie, abbiamo scarse conoscenze sui fattori urbani che determinano se esse beneficiano o subiscono gli effetti dell'urbanizzazione. Identificare le variabili antropiche, sociali ed ambientali chiave che influenzano la distribuzione delle specie e la dinamica delle popolazioni &egrave; quindi fondamentale. In questo contesto, evidenziamo due iniziative di Citizen Science che offrono opportunit&agrave; preziose per raccogliere dati significativi sulla biodiversit&agrave; negli ambienti urbani.
+
+<p dir="ltr">Il progetto UrBio, finanziato nell'ambito del programma NextGeneration EU (NBFC), ha coinvolto 1.101 naturalisti, birdwatchers e appassionati che hanno contribuito con osservazioni sulla distribuzione e i trend di popolazione delle specie sinantropiche in Italia, attraverso piattaforme come Ornitho.it e strumenti intuitivi come l&rsquo;app Naturalist. I risultati preliminari, raccolti in 1.102 citt&agrave;, includono 272.675 osservazioni di 390 unit&agrave; tassonomiche (specie e sottospecie). Mentre l&rsquo;imminente progetto UrbanBee mira a coinvolgere i cittadini nel monitoraggio degli impollinatori urbani, supportato da una campagna di comunicazione dedicata per sensibilizzare e stimolare la partecipazione. L&rsquo;obiettivo &egrave; collegare la presenza degli impollinatori a fattori socio-economici sia a livello locale che globale, in sette citt&agrave; in tutto il mondo, ognuna con un contesto socio-ecologico unico, sensibilizzando sull'importanza delle comunit&agrave; di impollinatori e, pi&ugrave; in generale, sulla biodiversit&agrave; nell&rsquo;ambiente urbano.
+
+<p dir="ltr">L&rsquo;analisi comparativa dei dati tra le citt&agrave; mira a identificare i modelli che influenzano gli ecosistemi urbani e a fornire spunti per la conservazione della biodiversit&agrave; e la pianificazione urbana sostenibile. Questo approccio collaborativo colma il divario tra i cittadini e il mondo accademico, promuovendo la consapevolezza ambientale e contribuendo alla gestione sostenibile degli ecosistemi urbani.
+
+
+Contents:
+ - S.4.4 - convCSI25.pdf

@@ -1,0 +1,14 @@
+Title: O que é e como interpretar os avisos emitidos pelo AESOP?
+
+Authors: Fonseca de Oliveira, Juliane, Cunha, M.C.S.L., Cunha, Gerson, Brandão de Miranda, Ray, M. H. S. Filho, Fábio, M. Dias, Lucas, Guanabara, Jéssica, Rabelo, Gilson, Campos, Mayra, Guimarães, Tamiris, Pereira Ramos, Pablo Ivan, Barral Netto, Manoel
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+Apresentar de forma breve como s&atilde;o gerados os avisos emitidos pelo AESOP para detec&ccedil;&atilde;o precoce de surtos e o que eles representam. Ao final deste v&iacute;deo, o usu&aacute;rio ser&aacute; capaz de interpretar um aviso do AESOP e utilizar o Painel T&eacute;cnico e Estrat&eacute;gico para acessar informa&ccedil;&otilde;es complementares que ajudem a contextualizar o alerta e apoiar sua valida&ccedil;&atilde;o.
+
+
+Contents:
+ - AESOP_MANUAL_01.mp4

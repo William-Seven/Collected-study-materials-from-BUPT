@@ -1,0 +1,13 @@
+Title: Guidelines for Systematic Mapping Existing MBI for Forest Ecosystem Services
+
+Authors: Górriz Mifsud, Elena, Taghouti, Ibtissem, Winkel, Georg, Thorsen, Bo Jellesmark, Lundhede, Thomas, Wunder, Sven, Schuurmans, Anne, Hoogstra-Klein, Marjanke
+
+Keywords: 
+
+Publication date: 2024-09-26
+
+Description:
+
+This protocol presents the main variables to be analysed in the INTERCEDE project Task 4.1 of "Systematically mapping Market-Based Instruments for Forest Ecosystem Services in Europe". It serves as guideline for the <span lang="EN-GB">MBI database contributors (blocks, variables, units, clarifications, examples) </span>and sets the initial steps for its analysis. It derives from a desktop research, group discussion and external workshop&nbsp;<span lang="EN-GB">with academics and stakeholders -all conducted during 2024. This document represents the INTERCEDE Milestone 6.</span>
+
+

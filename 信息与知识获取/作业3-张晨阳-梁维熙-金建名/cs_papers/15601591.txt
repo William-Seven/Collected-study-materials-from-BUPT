@@ -1,0 +1,13 @@
+Title: Collaborative Ideation
+
+Authors: La Scala, Jérémy
+
+Keywords: creativity, ideation, collaboration, learning, education, blended, hybrid
+
+Publication date: 2025-06-05
+
+Description:
+The Collaborative Ideation app in Graasp was made to organize blended and online activities where participants can share their inputs and react on them in real time. This app was designed and implemented inside the Graasp platform and is not independent from it.
+
+Contents:
+ - graasp/graasp-app-collaborative-ideation-v3.4.0.zip

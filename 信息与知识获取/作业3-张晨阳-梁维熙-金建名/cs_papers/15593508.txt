@@ -1,0 +1,14 @@
+Title: Eye Scanning for Heart Disease Prediction: A Systematic Review Using Retinal Imaging and AI
+
+Authors: Pravina Patel, Nikita Modi
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+Since heart disease is still one of the world's top causes of mortality, early detection and prevention need the use of cutting-edge diagnostic technologies. Because of the structural and physiological similarities between the retina and the vascular system of the heart, retinal imaging has become a viable non-invasive technique for predicting cardiovascular problems. In order to determine the risk of heart conditions such myocardial infarction, atherosclerosis, and heart failure, this systematic review investigates the use of deep learning and machine learning models with retinal imaging. Models like as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and sophisticated methods like Enhanced RNN (ERNN) and multi-channel variational autoencoder (mcVAE) have demonstrated notable performance in disease prediction, according to a number of reviewed publications. These models, which frequently use little patient data, use optical coherence tomography (OCT) scans and retinal fundus photos to find early cardiovascular risk markers. Retinal scanning is a dependable screening method because of the results, which demonstrate excellent levels of accuracy, specificity, and sensitivity. AI integration also raises the possibility of real-time, portable, and scalable diagnostic solutions, which would be particularly helpful in underprivileged areas. Additionally, explainable AI models are assisting in bridging the gap between clinical interpretability and black-box algorithms. In summary, this review outlines the enormous potential of eye-based diagnostics to transform preventive cardiology.
+
+
+Contents:
+ - 4-CRD3012.pdf

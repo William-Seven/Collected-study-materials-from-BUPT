@@ -1,0 +1,91 @@
+Title: Projekt "FitForFDM": Materialien zur Durchführung und Auswertung von Interviews zu den Begleitprojekten
+
+Authors: Dąbrowska, Paulina Anna, Heister, Eske Carmen, Schneidenbach, Esther, Simon, Lena, Dabrowski, Piotr Wojtek
+
+Keywords: FitForFDM, research data management, Forschungsdatenmanagement, FDM, semistrukturierte Interviews, HTW Berlin, HAW, Hochschule für Technik und Wirtschaft Berlin, Interview-Unterlagen, Materialien, qualitative Analyse
+
+Publication date: 2025-05-21
+
+Description:
+<div>
+
+Im Rahmen des Projekts &bdquo;Partizipative Entwicklung eines nachhaltigen Handlungsrahmens zum FAIRen fachgebiets&uuml;bergreifenden Forschungsdatenmanagement (FitForFDM)" sollten die Voraussetzungen f&uuml;r ein systematisches, effizientes Forschungsdatenmanagement als integraler Bestandteil der Forschungsaktivit&auml;ten an der Hochschule f&uuml;r Technik und Wirtschaft Berlin erhoben und daraus abgeleitete Handlungsempfehlungen f&uuml;r die Hochschule erprobt werden. Ein zentraler Teil der Bedarfsermittlung war die Kooperation mit f&uuml;nf Forschungsprojekten &ndash; eins je Fachbereich der Hochschule &ndash; beginnend mit semistrukturierten Interviews zum Thema Forschungsdatenmanagement (FDM). Weitere Informationen dazu <a href="https://www.htw-berlin.de/forschung/online-forschungskatalog/projekte/projekt/?eid=3262" target="_blank" rel="noopener">https://www.htw-berlin.de/forschung/online-forschungskatalog/projekte/projekt/?eid=3262</a>
+
+
+&nbsp;
+
+
+Folgende im Rahmen des Projektes verwendete Unterst&uuml;tzungsmaterialien (jeweils in zwei Formaten: .odt, .pdfA) werden hier zur Verf&uuml;gung gestellt:
+
+<ul>
+<li>
+
+Informationsblatt zur Datenerhebung und Datenverarbeitung (Informationsblatt_2025-05-21);
+
+</li>
+<li>
+
+Einverst&auml;ndniserkl&auml;rung zur Teilnahme am Interview und zur Verwendung der personenbezogenen Daten im Projekt &bdquo;FitForFDM&ldquo; (Einverstaendniserklaerung_2025-05-21);
+
+</li>
+<li>
+
+Vorababfrage zu den Interviews in zwei Versionen: Deutsch und Englisch (Vorababfrage_2025-05-21, VorababfrageEN_2025-05-21);
+
+</li>
+<li>
+
+Interviewleitfaden mit integriertem Fragenkatalog in zwei Versionen: Sie-Anrede und Du-Anrede (Fragenkatalog-DU_2025-05-21, Fragenkatalog-SIE_2025-05-21);
+
+</li>
+<li>
+
+Tabelle mit Erl&auml;uterungen zu den Codes, die w&auml;hrend der qualitativen Analyse der Interviews entwickelt und angewendet wurde (Codes-fuer-QDA-Analyse_2025-05-22);
+
+</li>
+<li>
+
+Kurze Anleitung zur Anwendung der Materialien w&auml;hrend eines Interviews (Interview-Ablauf_2025-05-21).
+
+</li>
+</ul>
+
+F&uuml;r einzelne Unterlagen (Informationsblatt und Einverst&auml;ndniserkl&auml;rung) wurden die Materialien vom &bdquo;EcoDM&ldquo; Projekt<sup>1</sup> als Formatvorlage verwendet und auf die Belange der HTW Berlin angepasst.
+
+
+Unter Ber&uuml;cksichtigung der Erfahrungen aus den Interviews wurden einzelne Materialien im Laufe des Projektes nachtr&auml;glich angepasst. Mehr &uuml;ber die Interviews und deren Ergebnisse ist nachlesbar in (REFERENZ_ZUM_E-Science-Tage_Artikel).
+
+
+&nbsp;
+
+<div>
+
+Literatur:
+
+<ol>
+<li>
+
+Spiecker, C., Richter, J., Walter, P., Chlastak, M., Burkart, C., Schneidenbach, E., Messerschmidt, R., Endres, K., Djeffal, C., &amp; N&uuml;rnberger, E. (2022). EcoDM - &Ouml;kosystem Datenmanagement: Analysen - Empfehlungen &ndash; FAIRifizierung (pp. 139-141). Zenodo. https://doi.org/10.5281/zenodo.6256398
+
+</li>
+</ol>
+</div>
+</div>
+
+Contents:
+ - Einverstaendniserklaerung_2025-05-21.odt
+ - Vorababfrage_2025-05-21.odt
+ - VorababfrageEN_2025-05-21.odt
+ - Informationsblatt_2025-05-21.odt
+ - VorababfrageEN_2025-05-21_PDFA.pdf
+ - Interview-Ablauf_2025-05-21.odt
+ - Fragenkatalog-DU_2025-05-21_PDFA.pdf
+ - Informationsblatt_2025-05-21_PDFA.pdf
+ - Einverstaendniserklaerung_2025-05-21_PDFA.pdf
+ - Fragenkatalog-SIE_2025-05-21.odt
+ - Fragenkatalog-DU_2025-05-21.odt
+ - Vorababfrage_2025-05-21_PDFA.pdf
+ - Fragenkatalog-SIE_2025-05-21_PDFA.pdf
+ - Interview-Ablauf_2025-05-21_PDFA.pdf
+ - Codes-fuer-QDA-Analyse_2025-05-22_PDFA.pdf
+ - Codes-fuer-QDA-Analyse_2025-05-22.odt

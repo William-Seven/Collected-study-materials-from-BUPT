@@ -1,0 +1,18 @@
+Title: An empirical agent-based model for Regional Twin Transition Pathways: Ideas for model enrichments through foresight
+
+Authors: Jäger, Katharina, Bürscher, Theresa, Scherngell, Thomas, Neuländtner, Martina, Bernstein, Michael, Wasserbacher, Dana
+
+Keywords: Agent-based models, Foresight, Regional innovation systems, Innovation Dynamics & Modelling, Societal Futures, Participatory Modelling
+
+Publication date: 2025-05-26
+
+Description:
+
+<span lang="EN-US">The shift towards a climate-neutral economy in Europe hinges on green innovation and clean technology. Recognizing the potential of digital knowledge in driving the green transition, the notion of &lsquo;twin transition&rsquo; has gained increasing attraction in current policy debates. This study develops an empirical agent-based model (ABM) that aims to illuminate potential pathways for the twin transition of European regions and presents initial ideas to enrich model relevance and applicability by means of foresight. The empirical ABM approach may have the potential to become a valuable tool for supporting strategic advice to the design of transformative innovation policies. To grasp transition pathways conceptually, the framework of new regional path development is employed. A fine-grained typology guides the exploration of four different forms of new path development (importation, upgrading, related diversification, unrelated diversification) that recognizes regional development as influenced by a variety of factors (i.e., local resources, institutional frameworks, and the interactions between different actors). The empirical ABM simulates knowledge creation in green and digital technologies across 292 European regions with more than 70,000 empirically calibrated researching agents. Initial results point to the basic functioning of the model as underlined by intensive empirical calibration and validation.&nbsp;</span>
+
+
+<span lang="EN-US">Model runs of different policy mixes will be informed by European R&amp;I policy analysis and participatory foresight exercises. By combining these qualitative and quantitative methods, the paper aims to shed new light on promising transformative innovation policies to foster twin transition and to strengthen regional innovation capacities in green and digital technologies across European regions. The policy analysis phase will involve experts deeply experienced in EU R&amp;I framework program evaluation and design. The analysis will focus on distilling policy instruments and translating their function in innovation ecosystem to corresponding model parameters. This will help ensure relevance, robustness, and practical applicability of the model. At the same time, these analysts will translate key aspects of model parameters into corresponding policy questions, that can be connected to policy instruments (e.g., how to build the capacity of knowledge communities? How to enhance collaboration across disciplines?). Then, using foresight, stakeholders will be engaged to creatively anticipate and explore future policy instruments that support socially fair twin transitions, e.g. avoiding a further increase in social and regional inequalities. Finally, policy analysis, foresight, and model teams will work together to connect policy scenarios to model parameters and inform parameter adjustments, review additional model runs, and enhance model evaluation. This integrative approach will not only increase the relevance of the model, but also improve its adaptability when creatively advancing policy for just digital and green transitions.</span>
+
+
+Contents:
+ - Katharina Jaeger_An empirical agent-based model for Regional Twin Transition Pathways_Ideas for model enrichments through foresight.pdf

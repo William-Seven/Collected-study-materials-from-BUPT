@@ -1,0 +1,67 @@
+Title: Data and Scripts for "The impact of adaptation and mitigation strategies on heat-related mortality in Nicosia, Cyprus: A modeling and statistical machine learning approach"
+
+Authors: Vurro, Giandomenico
+
+Keywords: 
+
+Publication date: 2025-05-31
+
+Description:
+This folder contains the R and Python data and scripts required for reproducing the results of the manuscript "The impact of adaptation and mitigation strategies on heat-related mortality in Nicosia, Cyprus: A modeling and statistical machine learning approach".
+
+
+Contents:
+ - model_daily_temp.RData
+ - net_energy_PVUT_map.jpg
+ - daily_T2_and_deltaT2.jpg
+ - radar_chart_performance_new.jpg
+ - AD_by_strategy_pretty_vs_t2_ctrl.jpg
+ - 2020vsClimatological_average.R
+ - AD_by_strategy_pretty_vs_T2_MAX_CTRL.jpg
+ - Climatological_analysis.ipynb
+ - model_Nicosia.RData
+ - gam_grid_daily_temp.RData
+ - fit_model_T2_MAX.R
+ - energy_reduction_strategies.jpg
+ - excess_and_avoided_deaths_T2_MAX_vs_baseline.jpg
+ - posterior_predictive_check_T2MAX.jpg
+ - gam_grid_temp_max.RData
+ - model_daily_temp_max.RData
+ - excess_and_avoided_deaths_by_strategy_vs_baseline_T2.jpg
+ - fit_model_T2.R
+ - panel_2D_RR_3D_RR_CR_deaths_T2MAX.jpg
+ - daily_mortality_2020_vs_climatology.jpg
+ - RR_AF_energy_space_cooling_vertical_colorbar.jpg
+ - cumulative_risk_curve_T2.jpg
+ - RR_timeseries_by_strategy_pretty_T2.jpg
+ - T2MAX_ΔT_map.jpg
+ - panel_2D_RR_3D_RR_CR_deaths.jpg
+ - daily_deaths_by_strategy_pretty_T2.jpg
+ - warm3D_tmaxdaily_nicosia.jpg
+ - RR_timeseries_by_strategy_T2_MAX.jpg
+ - baseline_T2MAX_days_deaths_gradient.jpg
+ - AF_RR_by_strategy_vs_baseline_T2.jpg
+ - warm2D_tdaily_nicosia.jpg
+ - daily_deaths_by_strategy_T2_MAX.jpg
+ - AF_RR_T2_MAX_vs_baseline.jpg
+ - RR_AF_energy_space_cooling_T2_MAX.jpg
+ - pop_exposure_ΔT.jpg
+ - cumulative_risk_curve_T2_MAX.jpg
+ - warm3D_tdaily_nicosia.jpg
+ - UTCI_90.jpg
+ - Nicosia_validation.jpg
+ - nicosia_pop_weighted_hourly_T2_UTCI.csv
+ - warm2D_tmaxdaily_nicosia.jpg
+ - daily_T2MAX_and_deltaT2MAX.jpg
+ - 1666_Athalassa_Hourly_Nov2003-2022.xlsx
+ - T2_ΔT_map.jpg
+ - Athalassa_validation.jpg
+ - posterior_predictive_check_T2.jpg
+ - Nicosia_daily_mean_2020.jpg
+ - Astromeritis_validation.jpg
+ - Max_Tmax_boxplot.jpeg
+ - Perc_Trends_extreme.jpeg
+ - nicosia_pop_weighted_daily_T2_UTCI.csv
+ - combined_data_nicosia_1916_2022.csv
+ - 1640_Nicosia_Hourly_2010_2022.xlsx
+ - Read_me.txt

@@ -1,0 +1,14 @@
+Title: Workflow pro automatické rozpoznávání archeologických nálezů pomocí umělé inteligence (AI)
+
+Authors: Pajdla, Petr, Harasim, Ronald
+
+Keywords: 
+
+Publication date: 2025-05-28
+
+Description:
+Prezentace z konference Poč&iacute;tačov&aacute; podpora v archeologii 2025 o workflow pro automatickou detekci artefaktů na archeologick&yacute;ch fotk&aacute;ch.
+
+
+Contents:
+ - ppa2025_image-annotation-workflow.pdf

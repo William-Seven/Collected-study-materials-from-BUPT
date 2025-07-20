@@ -1,0 +1,14 @@
+Title: A new microendemic gecko from the small forest fragments of south-eastern Madagascar (Squamata, Gekkonidae, Paragehyra)
+
+Authors: Belluardo, Francesco, Piccoli, Costanza, Lobón-Rovira, Javier, Oliveira Alves, Ivo, Rasoazanany, Malalatiana, Andreone, Franco, Rosa, Gonçalo M., Crottini, Angelica
+
+Keywords: Community-based management, deforestation, integrative taxonomy, mitochondrial DNA, morphology, nuclear DNA, reptiles
+
+Publication date: 2025-06-02
+
+Description:
+Historically, herpetological research in Madagascar has largely overlooked small forest fragments outside the country protected area network. Despite substantial declines in species diversity compared to large continuous forests, these fragments continue to sustain diverse herpetological communities and frequently harbour microendemic species. We describe a new gecko belonging to the genus <i>Paragehyra</i>, apparently microendemic to small and isolated forest fragments surrounding the Andringitra Massif in south-eastern Madagascar. <i>Paragehyra tsaranoro</i> sp. nov. is different from its congeneric species based on genetic distances in mitochondrial markers (16S and COI), phylogenetic position, and the lack of haplotype sharing at one nuclear locus (POMC). The new species is also distinguishable from its congeners based on a combination of 14 morphological characters. New genetic and morphological data are also provided for the sympatric <i>P. felicitae</i> and we propose a new assessment of its conservation status within the IUCN Red List. <i>Paragehyra tsaranoro</i> sp. nov. and <i>P. felicitae</i> are mostly found in forest fragments managed by local communities (community-managed reserves) outside legally protected areas. This study highlights the importance of community-based management for the conservation of local herpetofauna, particularly in regions heavily impacted by anthropogenic pressure and largely unsuitable for forest-dwelling species. The findings emphasise the importance of conducting research on small forest fragments, as they are essential for completing the inventory of Malagasy herpetofauna.
+
+
+Contents:
+ - ZK_article_151016.pdf

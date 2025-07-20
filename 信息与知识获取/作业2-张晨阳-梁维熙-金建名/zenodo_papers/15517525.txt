@@ -1,0 +1,15 @@
+Title: Advancing Communication with Chat
+
+Authors: Vikramadityasinh Puwar
+
+Keywords: WhatsApp, Telegram, WebSocket, Artificial Intelligence, End-to-End Encryption
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>The rapid evolution of communication technologies has transformed chat applications into indispensable tools for personal and professional interactions [1]. However, centralized platforms face significant challenges, including data privacy concerns, surveillance risks, and scalability limitations [2]. This research focuses on developing a centralized chat application that prioritizes usability, security, and scalability while incorporating future-ready enhancements such as decentralization, artificial intelligence (AI), and digital wallet integration [3]. Technologies like WebSocket enable seamless real-time communication, while end-to-end encryption (E2EE) ensures user privacy [4]. The system architecture is designed to handle large volumes of messages efficiently, drawing inspiration from leading platforms such as WhatsApp, Telegram, and Signal [5]. Performance testing demonstrates the app's ability to deliver messages with low latency and maintain reliability under high traffic conditions. Security evaluations confirm the effectiveness of implemented encryption protocols in safeguarding user data [6]
+
+
+Contents:
+ - E462814050625.pdf

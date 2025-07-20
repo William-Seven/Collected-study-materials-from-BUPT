@@ -1,0 +1,23 @@
+Title: ReactiveMP.jl: a Julia package for automatic Bayesian inference on a factor graph with reactive message passing.
+
+Authors: Bagaev, Dmitry
+
+Keywords: Bayesian Inference, Factor Graphs, Message Passing, Reactive Programming, Variational Inference
+
+Publication date: 2025-05-26
+
+Description:
+<h2>ReactiveMP v5.4.6</h2>
+
+<a href="https://github.com/ReactiveBayes/ReactiveMP.jl/compare/v5.4.5...v5.4.6">Diff since v5.4.5</a>
+
+
+<strong>Merged pull requests:</strong>
+
+<ul>
+<li>Fix meta in the rules for DiscreteTransition node (#473) (@bvdmitri)</li>
+<li>🤖 Auto-format Julia code (#474) (@github-actions[bot])</li>
+</ul>
+
+Contents:
+ - ReactiveBayes/ReactiveMP.jl-v5.4.6.zip

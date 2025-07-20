@@ -1,0 +1,14 @@
+Title: The Influence of Artificial Intelligence on Mathematics
+
+Authors: Dr. Rohit, Sachdeva, Dr. Honey
+
+Keywords: 
+
+Publication date: 2025-05-30
+
+Description:
+<span>The unprecedented advancements in Artificial Intelligence (AI) are rapidly reshaping the landscape of mathematics across education, research, and application domains. AI technologies such as machine learning, deep learning, symbolic computation, and automated reasoning have not only optimized mathematical problem-solving but have also introduced novel methodologies to discover, conjecture, and validate mathematical knowledge. This paper presents a comprehensive review of the transformative influence of AI on mathematics, critically examines recent studies, highlights ongoing challenges such as interpretability and ethical considerations, and proposes future research directions. The findings underscore that while AI can augment human cognitive abilities in mathematics, responsible integration is vital to sustain mathematical creativity and rigor</span>
+
+
+Contents:
+ - IJRPR47370.pdf

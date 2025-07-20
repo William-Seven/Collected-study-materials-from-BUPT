@@ -1,0 +1,18 @@
+Title: R scripts for "Global biome changes over the last 21,000 years inferred from model–data comparisons"
+
+Authors: Li, Chenzhi
+
+Keywords: biome shifts, climate change, LGM, model–data comparison, Earth system model, pollen-based biome reconstruction, R
+
+Publication date: 2025-05-26
+
+Description:
+
+This repository contains the R scripts used in the study "Global biome changes over the last 21,000 years inferred from model&ndash;data comparisons" (Li et al., 2024, Clim. Past, https://doi.org/10.5194/egusphere-2024-1862). The scripts were developed to analyze the spatio-temporal dynamics of global biome shifts based on a harmonized dataset of pollen-based biome reconstructions and Earth system model outputs.
+
+
+Contents:
+ - Statistical analyses.zip
+ - Data visualization.R
+ - Data visualization.zip
+ - Statistical analyses.R

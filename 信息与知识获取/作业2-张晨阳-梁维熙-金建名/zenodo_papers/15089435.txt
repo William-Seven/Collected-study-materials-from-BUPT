@@ -1,0 +1,37 @@
+Title: Dataset: PolarCAP/CLOUDLAB campaign in Eriswil, Switzerland, data from the seeder-feeder case study 8 Jan 2024 used in the publication in ACP: Impact of seeder-feeder cloud interaction on precipitation formation: a case study based on extensive remote-sensing, in-situ and model data
+
+Authors: Ohneiser, Kevin, Seifert, Patric, Gaudek, Tom, Maahn, Maximilian, Henneberger, Jan
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+The radar data is from the MBR7 (vertically pointing), MBR5 (scan), and RPG94 (vertically pointing) is in the respective folders within the folder called &ldquo;radar_data&rdquo;. The data were used for reflectivity, spectral width, SLDR, rimed mass fraction, EDR, Doppler spectra, peakTree, and the VDPS method.
+
+
+The ICON-D2 data is available from the DWD data center upon request (ICON-D2 Documentation, 2024).
+
+
+The VISSS data used in the study is given in the folder &ldquo;VISSS_data&rdquo;. More information on the processing of the VISSS data can be found in&nbsp;Maahn, M., Moisseev, D., Steinke, I., Maherndl, N., and Shupe, M. D.: Introducing the Video In Situ Snowfall Sensor (VISSS), Atmos. Meas. Tech., 17, 899&ndash;919, https://doi.org/10.5194/amt-17-899-2024, 2024.&nbsp;
+
+
+The 2DVD data used in the study is given in the folder &ldquo;2DVD_data&rdquo;.
+
+
+The windsond data are given in the folder &ldquo;Windsond&rdquo;.
+
+
+The HATPRO data are given in the folder &ldquo;HATPRO&rdquo;.
+
+
+<span lang="EN-US">Funding for this study was provided by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) project PolarCAP (Grant number 408027490), within the frame of DFG priority program SPP 2115 PROM, and by the European Union&rsquo;s Horizon Europe project CleanCloud (Grant No. 101137639) <span lang="EN-US">and in addition project number: 408008112 (Characterization of orography-influenced riming and secondary ice production and their effects on precipitation rates using radar polarimetry and Doppler spectra - CORSIPP) within the Priority Program SPP 2115 &bdquo;Polarimetric Radar Observations meet Atmospheric Modelling (PROM) &ndash; Fusion of Radar Polarimetry and Numerical Atmospheric Modelling Towards an Improved Understanding of Cloud and Precipitation Processes&ldquo; and t</span></span><span lang="EN-US">he CLOUDLAB project from the European Research Council (ERC) under the European Union&rsquo;s Horizon 2020 research and innovation program (grant agreement no. 101021272 CLOUDLAB)</span>.
+
+
+Contents:
+ - radar_data.zip
+ - Windsond.zip
+ - VISSS.zip
+ - HATPRO.zip
+ - 2DVD.zip

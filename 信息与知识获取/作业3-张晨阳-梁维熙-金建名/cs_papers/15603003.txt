@@ -1,0 +1,22 @@
+Title: Machine Learning Classification of Skin Lesions Using Thermal Product Biosensing: A Preliminary Diagnostic Approach
+
+Authors: Nathalie Nick1*, Joe Kirkup1, Marcus Allen1, Parv Sains2  and Kam Chana1
+
+Keywords: 
+
+Publication date: 2025-06-06
+
+Description:
+<strong><span lang="EN-GB">Abstract</span></strong>
+
+<span lang="EN-GB">Early detection of skin cancer remains a critical challenge in global healthcare, with current diagnostic methods often suffering from delays and invasive procedures. This study explores the potential of machine learning algorithms to classify skin lesions using thermal product (TP) measurements, introducing a novel approach for rapid and potentially non-invasive skin cancer diagnosis. Leveraging data from a pilot study involving 12 patients, two primary machine learning methodologies were investigated: Logistic Regression and Support Vector Machines (SVM). The research demonstrates the potential of thermal product differences as a biomarker for skin cancer classification, with both algorithms achieving 92% accuracy in preliminary tests. The study uniquely explores both binary and multiclass classification approaches, revealing promising insights into the relationship between thermal properties and cancer characteristics. Key innovations include an exploration of logistic regression and SVM </span>
+
+<span lang="EN-GB">&nbsp;</span>
+
+<span lang="EN-GB">methodologies, including linear and non-linear classification techniques. The research highlights the potential of thermal product sensing as a diagnostic tool, with the ability to distinguish between different types of skin lesions based on their thermal characteristics.</span>
+
+<strong><span lang="EN-GB">Keywords</span></strong><span lang="EN-GB">: Skin cancer; Machine learning; Thermal product sensing; Diagnostic classification; Support vector machines; Logistic regression; Biomarker analysis</span>
+
+
+Contents:
+ - MJCR-8(6)-2337.pdf

@@ -1,0 +1,13 @@
+Title: Development and validation of a realistic electric boiler model for application in EMS software
+
+Authors: Vercammen, Freek
+
+Keywords: 
+
+Publication date: 2025-06
+
+Description:
+N/A
+
+Contents:
+ - cired-2025_accepted_manuscript.pdf

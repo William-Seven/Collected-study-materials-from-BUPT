@@ -1,0 +1,15 @@
+Title: Demo dataset for MusBioMaus (from 3D DeepLabCut to muscle outputs from MuJoCo)
+
+Authors: Mathis Laboratory of Adaptive Intelligence
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This dataset accompanies a demo for "Neuro-musculoskeletal modeling reveals muscle-level neural dynamics of adaptive learning in sensorimotor cortex" by Travis DeWolf&lowast;, Steffen Schneider&lowast;, Paul Soubiran, Adrian Roggenbach, Paolo Muratore &amp; Mackenzie Weygandt Mathis. See: https://musbiomaus.squarespace.com/
+
+
+Contents:
+ - 240508_Keypoints3D.npz.final

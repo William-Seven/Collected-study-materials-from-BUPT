@@ -1,0 +1,15 @@
+Title: URBAN LANDSCAPES: MODERN ARCHITECTURE IN SOUTH AFRICAN CITIES
+
+Authors: Hemba, Dlamini
+
+Keywords: Climate change, netzero carbon building, social housing, environmental sustainability, climate change mitigation
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>Since low-income and social housing are among the most vulnerable built environments to climate change, this article evaluates the energy performance of social housing in the context of enabling net-zero carbon social housing in South Africa (SA). It seeks to investigate how improved and conscious energy-efficient design in the context of social housing contributes toward a climate change mitigation response in SA. The article analyses energy use and indoor comfort, based on ASHRAE 55-2004 Standard, of two social housing case studies to review the potential of the social housing sector to contribute to the national climate mitigating agenda. The findings highlight that the housing provision itself is not an adequate response, but that bio-climatic design solutions with appropriate spatial and material choices, along with efficient envelope articulation, play a critical role in lowering energy use and improving user comfort. There is, however, a need to challenge the growing advent of (energy-) inefficient and carbon-intensive social housing in SA and simultaneously address the parallel crisis of homelessness, to enable a sustainable future for the built environment</span>
+
+
+Contents:
+ - 3.pdf

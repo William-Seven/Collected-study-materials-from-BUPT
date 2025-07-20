@@ -1,0 +1,15 @@
+Title: Advancing In-Silico Drug Discovery: A Comprehensive Strategy for Homology Modeling, Protein Preparation, and Ligand Optimization in Molecular Docking
+
+Authors: Dr. Rajaganapathy Kaliyaperumal*, Selvakumar R., Diana L., Aswin A., Keerthivasan K. M., Srinivasan. R.
+
+Keywords: Molecular Docking, Homology Modeling, Protein Preparation, Ligand Preparation, Computational Drug Discovery, Protein-Ligand Interactions
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>Molecular docking is a pivotal computational approach in modern drug discovery, enabling the prediction of interactions between ligands and target proteins. However, the accuracy of docking outcomes depends on the quality of the input structures, necessitating a robust workflow that integrates homology modeling, protein preparation, and ligand preparation. This review aims to explore the current strategies in homology modeling, protein optimization, and ligand preparation to enhance molecular docking accuracy. It highlights key tools, methodologies, and recent advancements in in-silico modeling. Homology modeling is employed to construct reliable 3D structures of target proteins when experimental structures are unavailable. Techniques such as Swiss-Model and Modeller facilitate sequence alignment, model building, and structural validation. Protein preparation ensures the correction of missing residues, optimal protonation states, and energy minimization using tools like the Protein Preparation Wizard and Chimera. Ligand preparation involves optimizing chemical structures by generating 3D conformations, assigning charges, and performing energy minimization through Lig Prep and Open Babel. The integration of these preparatory steps significantly improves docking accuracy, leading to more precise predictions of binding affinity and molecular interactions. Recent advancements, such as machine learning-based scoring functions, flexible docking algorithms, and AI-driven ligand screening, further refine the docking process. A well-structured in-silico workflow for molecular docking enhances rational drug design by improving structure accuracy, reducing errors, and accelerating the drug discovery pipeline. Future developments in AI, quantum&nbsp; </span><span lang="EN-GB">mechanics, and high-performance computing will further revolutionize the field, paving the way for more efficient and precise therapeutic discoveries.</span>
+
+
+Contents:
+ - 166-Dr. Rajaganapathy Kaliyaperumal.pdf

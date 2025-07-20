@@ -1,0 +1,14 @@
+Title: A dual-pathway architecture for stress to disrupt agency and promote habit
+
+Authors: Giovanniello, Jacqueline, Paredes, Natalie, Weiner, Anna, Ramírez-Armenta, Kathia, Oragwam, Chukwuebuka, Uwadia, Hanniel, Yu, Abigail, Lim, Kayla, Pimenta, Jenna, Vilchez, Gabriela, Nnamdi, Gift, Wang, Alicia, Sehgal, Megha, Reis, Fernando, Sias, Ana, Silva, Alcino, Adhikari, Avishek, Malvaez, Melissa, Wassum, Kate
+
+Keywords: Matlab, fiber photometry, Amygdala, striatum, Habits, Chronic stress
+
+Publication date: 2025-06-02
+
+Description:
+Chronic stress can change how we learn and, thus, how we make decisions. Here we investigated the neuronal circuit mechanisms that enable this. Using a multifaceted systems neuroscience approach in male and female mice, we reveal a dual pathway, amygdala-striatal neuronal circuit architecture by which a recent history of chronic stress disrupts the action-outcome learning underlying agency and promotes the formation of inflexible habits. We found that the basolateral amygdala projection to the dorsomedial striatum is activated by rewarding events to support the action-outcome learning needed for flexible, goal-directed decision making. Chronic stress attenuates this to disrupt action-outcome learning and, therefore, agency. Conversely, the central amygdala projection to the dorsomedial striatum mediates habit formation. Following stress this pathway is progressively recruited to learning to promote the premature formation of inflexible habits. Thus, stress exerts opposing effects on two amygdala-striatal pathways to disrupt agency and promote habit. These data provide neuronal circuit insights into how chronic stress shapes learning and decision making, and help understand how stress can lead to the disrupted decision making and pathological habits that characterize substance use disorders and mental health conditions.
+
+
+Contents:
+ - MPC_Data_Files.zip

@@ -1,0 +1,91 @@
+Title: SECURE Deliverable 4.2 - Report on Trials to Implement SECURE Research Career Framework
+
+Authors: Moya-Falcón, Corina, Velázquez-Ortuño, Priscila, O'Neill, Gareth, Day, Emma, Moiras, Panagiotis, Zelenika, Saša, Jakominić Marot, Nataša, Lopes, Hélder, Rocha, Isabel, Venda, Ana Margarida, Irimia, Alina, Trif, Ionaa, Roman, Alexandra, Bouccara, Sophie, Lafon, Mathieu
+
+Keywords: 
+
+Publication date: 2025-03-28
+
+Description:
+
+The SECURE project aims to enhance career structures for researchers across Europe by developing a comprehensive framework known as the Research Career Framework (RCF). The SECURE RCF builds upon existing best practices and aligns with several key European initiatives (<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023H01640#ntr10-C_202301640EN.000101-E0010">European Framework for Research Careers (EFfRC)</a>, the <a href="https://euraxess.ec.europa.eu/hrexcellenceaward/european-charter-researchers">European Charter for Researchers</a>, the <a href="https://research-and-innovation.ec.europa.eu/system/files/2023-04/ec_rtd_research-competence-presentation.pdf">European Competence Framework for Researchers (ResearchComp)</a>, and the <a href="https://esco.ec.europa.eu/en">European Skills, Competences, and Occupations (ESCO)</a> classification to improve research careers and reduce precarity.
+
+
+As detailed in <a href="https://zenodo.org/records/10776715">Deliverable D2.1: First draft of SECURE Research Career Framework</a> of the SECURE project provides an initial response to and interpretation of the new <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023H01640#ntr10-C_202301640EN.000101-E0010">European Framework for Research Careers</a> (EFfRC). Figure 1 illustrates how the RCF is structured around the 8 pillars and 44 recommendations of the EFfRC, ensuring comprehensive coverage of key aspects of research careers.
+
+D2.1 proposes a set of 150 SECURE RCF actions for implementing the EFfRC at RFOS and RPOs, addressing related challenges for each recommendation. These actions were meant to provide clear, practical guidance while allowing flexibility for organisations to adapt them to their strategic interests and needs.
+
+
+During the SECURE project, the trial organisations selected and interpreted a number of these actions, which were integrated into individual action plans for each trial as detailed in <a href="https://doi.org/10.5281/zenodo.15492766">D4.1. Actions plan to implement RCF</a>. This document, D4.2: Report on the Trials to Implement the SECURE RCF, includes a detailed overview of the selected actions, the implementation process, challenges faced, key achievements, and lessons learned over the 12-month trial period from February 2024 until January 2025. The trial organisations include 3 Research-Performing Organisations (RPOs), 1 Research-funding Organisation (RFO), 1 Research Infrastructure (RI), and 1 Recruitment Agency (RA) (Table 1).
+
+
+The outcomes of these trials, combined with extensive consultations conducted throughout the project, will serve as crucial inputs for the development of the final version of the SECURE RCF (<a href="https://doi.org/10.5281/zenodo.14917415">D2.3: Final Version of Research Career Framework</a>). This iterative process ensures that the framework is not only theoretically sound but also practically applicable across various research contexts. By incorporating real-world implementation experiences and feedback from diverse stakeholders, the final SECURE RCF will be refined to address the complex challenges of research careers more effectively, providing a robust and adaptable tool for enhancing the European research landscape.
+
+
+&nbsp;
+
+
+Table 1. Trial organisations to implement the SECURE RCF
+
+<table style="border-collapse: collapse; width: 100%;"><colgroup><col style="width: 19.9433%;"><col style="width: 19.9433%;"><col style="width: 19.9433%;"><col style="width: 19.9433%;"><col style="width: 19.9433%;"></colgroup>
+<tbody>
+<tr>
+<td>Trial #</td>
+<td>Organisation</td>
+<td>Acronym</td>
+<td>Organisation
+Type</td>
+<td>Country</td>
+</tr>
+<tr>
+<td>1</td>
+<td>University of Cyprus&nbsp;</td>
+<td>UCY</td>
+<td>RPO</td>
+<td>Cyprus</td>
+</tr>
+<tr>
+<td>2</td>
+<td>University of Rijeka</td>
+<td>UNIRI&nbsp;</td>
+<td>RPO</td>
+<td>Croatia</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Universidade NOVA de Lisboa&nbsp;</td>
+<td>UNL&nbsp;</td>
+<td>RPO</td>
+<td>Portugal</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Executive Agency for Higher Education,&nbsp;Research, Development and Innovation Funding</td>
+<td>UEFISCDI&nbsp;</td>
+<td>RFO</td>
+<td>Romania</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Consorcio para el dise&ntilde;o, construcci&oacute;n,
+equipamiento y explotaci&oacute;n de la Plataforma
+Oce&aacute;nica de Canarias</td>
+<td>PLOCAN&nbsp;</td>
+<td>RI</td>
+<td>Spain</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Adoc Talent Management&nbsp;</td>
+<td>ADOC&nbsp;</td>
+<td>RA&nbsp;</td>
+<td>France</td>
+</tr>
+</tbody>
+</table>
+
+&nbsp;
+
+
+Contents:
+ - SECURE D4.2_Trials to Implement the RCF.pdf

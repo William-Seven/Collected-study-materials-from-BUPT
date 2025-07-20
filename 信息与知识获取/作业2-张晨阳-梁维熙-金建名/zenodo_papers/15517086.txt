@@ -1,0 +1,17 @@
+Title: IMPACT OF HEAT SUPPLY MECHANISMS ON THE DEFORMATION OF COMPOSITE PROTECTIVE MATERIALS
+
+Authors: Oleksandr, Mykhailo Kovalenko, Melnykand, Natalia Serhiivna
+
+Keywords: Thermal Deformation, Fiberglass Composite, Phenol-Formaldehyde Matrix, Heating Rates, Stress Gradient
+
+Publication date: 2025-05-26
+
+Description:
+<div>
+
+<span>This study examines the thermal deformation behavior of a fiberglass composite polymer material, specifically a phenol-formaldehyde matrix, under various heating conditions. The material is subjected to uniform and one-sided heating at rates up to 600&deg;C/min, with a high-temperature gas flow reaching 2500&deg;C. The research focuses on the kinetics of thermal deformation, assessing how different heating rates and temperatures impact the composite material. The analysis involves computing the stressed-deformed state of reinforced plastic samples to measure their expansion under one-sided heating. Findings reveal that the coefficient of thermal deformation (&alpha;T\alpha_T&alpha;T) shows a linear dependence on temperature and stresses, which helps in preventing bending in free samples. Conversely, for bent samples, the absence of a stress gradient (&Delta;&sigma;=0\Delta\sigma = 0&Delta;&sigma;=0) at higher heating rates results in increased stress gradient values. Comparative data from dilatometry tests, conducted across a temperature range of 20 to 1100&deg;C, corroborate these observations, providing insights into the material's response to thermal and mechanical loads.</span>
+
+</div>
+
+Contents:
+ - Paper 4.pdf

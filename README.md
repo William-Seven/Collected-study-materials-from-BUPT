@@ -16,4 +16,8 @@
 
 [程序设计实践——DSL](https://github.com/William-Seven/DSL)
 
+[编译原理与技术课程设计](https://github.com/William-Seven/BUPT-PASCC-)
+
+[信息与知识获取作业](https://github.com/William-Seven/Information-Search-Engine)
+
 [MIT-Missing-Semester笔记](https://github.com/William-Seven/MIT-Missing-Semester)

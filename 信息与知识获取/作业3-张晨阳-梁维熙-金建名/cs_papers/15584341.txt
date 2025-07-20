@@ -1,0 +1,14 @@
+Title: Harnessing Artificial Intelligence in Drug Discovery: A Comprehensive Review of Applications, Challenges, and Future Prospects
+
+Authors: Chetana Sancheti*, Ganesh Basarkar
+
+Keywords: Neural Networks, Pharmaceutical R&D, QSAR modeling, Drug Discovery, Deep Learning, Virtual Screening, Artificial Intelligence, Precision Medicine
+
+Publication date: 2025-06-03
+
+Description:
+<span>Drug development is being revolutionized by artificial intelligence (AI), which provides quicker, more precise, and more economical alternatives to conventional techniques Quick data analysis, predictive modelling, and virtual screening using machine learning (ML), deep learning (DL), and neural networks are all made possible by AI, which is completely changing how researchers identify potential drugs and assess toxicity. This review highlights the core concepts and practical applications of AI in pharmaceutical research, such as platforms that improve molecular design and pharmacological profiling. Issues including interpretability, data limitations, and ethical concerns persist despite AI's enormous promise. With sustained progress and interdisciplinary cooperation, AI is expected to play an essential part in personalized medicine and developing drugs in years to come.</span>
+
+
+Contents:
+ - 22-Chetana Sancheti.pdf

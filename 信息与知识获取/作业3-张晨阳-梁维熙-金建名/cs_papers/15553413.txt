@@ -1,0 +1,40 @@
+Title: Planting Prediction Using Soil Parameter
+
+Authors: Ayesha Shaikh, Shreyas Sawant, Sachin Malkunaik, Gauri Ghodke, Prof. A.S.Hangargekar, Prof. J.M.Shaikh
+
+Keywords: Agriculture and Machine Learning, Crop Classification Models, Decision Tree
+
+Publication date: 2025-05-30
+
+Description:
+<strong><span>Abstract:</span></strong><span> India is primarily an agricultural nation, with farming playing a key role in both the country&rsquo;s economy and the livelihood of its people. A significant portion of the population-about 70% of rural residents-depend on agriculture for their income. Predicting crop yields is one of the most important yet challenging responsibilities faced by governments and farmers alike. Every farmer is eager to know the potential yield of their crops in the coming season. Traditionally, yield estimates were based on the farmer&rsquo;s personal experience with the land and crop. However, with the rise of Machine Learning (ML), it is now possible to gain more accurate predictions and uncover hidden patterns within large agricultural datasets. These insights can guide farmers in selecting the most suitable crops for their fields and help increase their profits. This study explores different techniques for selecting relevant features for crop prediction and explains how ML algorithms can be applied. Toward the end, the research also considers future directions for improving agricultural forecasting systems. It is also recognized that many Indian farmers tend to follow conventional habits-growing the same crops repeatedly, using excessive fertilizers, and going along with popular choices-rather than data-driven decision-making.</span>
+
+<strong><span>Keywords:</span></strong><span> Agriculture and Machine Learning, Crop Classification Models, Decision Tree, K-Nearest Neighbours (KNN).</span>
+
+<strong><span>Title:</span></strong><span> Planting Prediction Using Soil Parameter</span>
+
+<strong><span>Author:</span></strong><span> Ayesha Shaikh, Shreyas Sawant, Sachin Malkunaik, Gauri Ghodke, Prof. A.S.Hangargekar, Prof. J.M.Shaikh</span>
+
+<strong><span lang="EN-US">International Journal of Recent Research in Civil and Mechanical Engineering (IJRRCME)</span></strong>
+
+<strong><span lang="EN-US">ISSN 2393-8471</span></strong>
+
+<strong><span lang="EN-US">Vol. 12, Issue 1, April 2025 - September 2025</span></strong>
+
+<strong><span lang="EN-US">Page No: 11-17</span></strong>
+
+<strong><span lang="EN-US">Paper Publications</span></strong>
+
+<strong><span lang="EN-US">Website: www.paperpublications.org</span></strong>
+
+<strong><span lang="EN-US">Published date: 30-May-2025</span></strong>
+
+<strong><span lang="EN-US">DOI: <a href="https://doi.org/10.5281/zenodo.15553413">https://doi.org/10.5281/zenodo.15553413</a></span></strong>
+
+<strong><span lang="EN-US">Paper Download Link (Source)</span></strong>
+
+<strong><span lang="EN-US"><a href="https://www.paperpublications.org/upload/book/Planting%20Prediction%20Using%20Soil%20Parameter-30052025-3.pdf">https://www.paperpublications.org/upload/book/Planting%20Prediction%20Using%20Soil%20Parameter-30052025-3.pdf</a></span></strong>
+
+
+Contents:
+ - Planting Prediction Using Soil Parameter-30052025-3.pdf

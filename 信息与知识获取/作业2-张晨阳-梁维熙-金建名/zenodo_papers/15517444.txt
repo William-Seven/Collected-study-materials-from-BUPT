@@ -1,0 +1,15 @@
+Title: Quantum Interactions: Tale of Colors in Fruits and Vegetables
+
+Authors: Dr K M Udayanandan, Dr Arvind Gopal Kulkarni
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+The vivid colors of fruits and vegetables arise from&nbsp;<strong>quantum interactions</strong>&nbsp;or effects in pigment molecules. Conjugated&nbsp;<strong>&pi;-electron</strong>&nbsp;systems in pigments like&nbsp;<strong>beta-carotene</strong>&nbsp;and chlorophyll absorb specific wavelengths of visible light via electronic transitions. Moreover, using the&nbsp;<strong>particle-in-a-box model</strong>, we can estimate these transitions and link them to observed colors. Hence, this results from unabsorbed, complementary wavelengths.
+
+
+Contents:
+ - Quantum Interactions Tale of Colors in Fruits and Vegetables.pdf

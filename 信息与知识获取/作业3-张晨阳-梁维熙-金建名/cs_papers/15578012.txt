@@ -1,0 +1,14 @@
+Title: Tutot Student Portal Management System
+
+Authors: M.Praveen Kumar, N.Sunkanya
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+An integrated and scalable platform is&nbsp;required to effectively manage academic&nbsp;activities in light of the growing demandfor digitalization in education. The tutorstudent portal management system&nbsp;presented in this project is intended to&nbsp;organize learning materials, monitor&nbsp;student progress, and expedite academic&nbsp;communication. Tutors can develop and&nbsp;administer courses, upload resources,&nbsp;issue assignments, and review student&nbsp;work using the system. Students can&nbsp;interact with tutors, access resources, turn&nbsp;in assignments, and keep track of their&nbsp;attendance. Transparency, real-time&nbsp;interaction, and effective data&nbsp;management are guaranteed across&nbsp;educational institutions with this system.&nbsp;The system's evaluation shows better&nbsp;managerial effectiveness and learning&nbsp;results.
+
+
+Contents:
+ - IJSRED-V8I3P200.pdf

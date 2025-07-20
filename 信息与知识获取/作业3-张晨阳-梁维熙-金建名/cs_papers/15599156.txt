@@ -1,0 +1,14 @@
+Title: AI IN LANGUAGE LEARNING: BENEFITS AND CHALLENGES VIA DUOLINGO CASE STUDY
+
+Authors: Han Meiran
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+<em><span lang="EN-US">This study takes Duolingo, a global language-learning platform with over 500 million users, as a case to explore the enabling pathways and potential risks of artificial intelligence (AI) in language learning. By analyzing algorithmic recommendation mechanisms, gamified design, and user behavior data, the research reveals that while AI enhances learning efficiency, it may also undermine the construction of comprehensive language proficiency through mechanisms such as the "filter bubble" effect, shallow learning induction, and fragmented attention. A "Instrumental Rationality-Educational Authenticity" balancing framework is proposed, advocating for AI to be positioned as a supplementary tool rather than a replacement for traditional methods.</span></em>
+
+
+Contents:
+ - 6.2.pdf

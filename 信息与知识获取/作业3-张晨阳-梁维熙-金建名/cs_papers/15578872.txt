@@ -1,0 +1,16 @@
+Title: The global standard deliveries in less than 30 minutes: Challenges and opportunities for Colombian e-commerce
+
+Authors: Anzueta Jiménez, Jaiver Stiven, Vásquez Molina, Audrey Sayen, Salguero Pulido, Emylee Valentina, Zamora, Jairo
+
+Keywords: E-commerce, Artificial intelligence, Route optimization, Sustainable transport, Supply chain management, Carbon footprint
+
+Publication date: 2025-06-02
+
+Description:
+<span lang="EN">Quick commerce, which refers to retail deliveries within 30 minutes, is now a global standard, changing consumer convenience and competitive dynamics in retail. The aim of this study is to investigate the operational feasibility, customer experience, and environmental implications of this model, with particular emphasis on its application to Colombian e-commerce within the scope of International Business. Using a descriptive and exploratory documentary design, a systematic literature review (2018&ndash;2025) was conducted, along with analysis of corporate white papers and case studies of leading suppliers. </span>
+
+<span lang="EN">Through thematic analysis, three key dimensions were identified: (1) the infrastructure of dark stores and micro-hubs to meet the sub-30-minute standard; (2) route optimization based on artificial intelligence and big data; and (3) sustainability strategies, such as electric fleets and load consolidation, to mitigate the impact of the last mile. The findings indicate that integrating advanced technologies with green practices is the only way to balance speed, reliability, and ecological responsibility. A conceptual model is presented to support retailers and policymakers in the development of resilient, efficient, and sustainable quick commerce ecosystems in the Colombian environment.</span>
+
+
+Contents:
+ - The global standard deliveries in less than 30 minutes- Challenges and opportunities for Colombian e-commerce.docx

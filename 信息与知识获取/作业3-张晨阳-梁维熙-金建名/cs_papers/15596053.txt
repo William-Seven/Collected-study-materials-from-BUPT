@@ -1,0 +1,14 @@
+Title: Using Machine Learning for Biosignature Detection with Pyrolysis Gas Chromatography-Mass Spectrometry Data
+
+Authors: Hystad, Grethe
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+Update README file.
+
+
+Contents:
+ - ghystad/Biosignature-Detection-with-Py-GC-MS-Data-using-Machine-Learning-v.1.0.2.zip

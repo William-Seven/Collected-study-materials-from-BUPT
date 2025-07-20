@@ -1,0 +1,24 @@
+Title: Gamma/Hadron Separation using Machine Learning Methods with the IceAct Telescopes
+
+Authors: Molchany, Logan
+
+Keywords: 
+
+Publication date: 2025-04-01
+
+Description:
+<div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>&nbsp;</div>
+<div>
+The IceCube Neutrino Observatory, located at the South Pole, is a multi-component detector array capable of observing cosmic-rays on the TeV to EeV scale. In addition to the InIce component, and the surface component IceTop, three new Imaging Air Cherenkov Telescopes, called IceAct, were installed. One of the primary goals of the IceAct telescopes is to search for high-energy photons in the Southern Sky. To do so, Gamma/Hadron separation is done by using modern machine learning methods alongside a hybrid Hillas analysis which uses both the Hillas parameters alongside InIce parameters. This approach geometrically parameterizes the ellipse formed by the images on the IceAct cameras alongside the total charge deposition at various layers in ice, as well as using reconstructed muon bundle energy loss as model features. Various classification and regression models are used to reconstruct the energy and type of the primary cosmic-ray, as well as a final meta-modeling approach that aggregates the predictions from all used models in a so-called "stacking method".
+
+This contribution will provide a preliminary look into the sensitivity of the current machine learning model/ stacking method, used for distinguishing photons from the cosmic ray background.
+
+</div>
+</div>
+
+Contents:
+ - UD_ML_Workshop_IceAct_Photons_Molchany.pdf

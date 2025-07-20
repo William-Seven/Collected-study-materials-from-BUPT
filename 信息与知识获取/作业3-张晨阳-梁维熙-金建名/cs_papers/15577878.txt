@@ -1,0 +1,14 @@
+Title: Predicting Biosensor Performance in Complex Fluids Using Machine Learning
+
+Authors: Ramya. S
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+Biosensors are critical for detecting biological markers in various fields, including medicine,environmental monitoring, and food safety. However, the performance of these sensors in complexbiological fluids, such as blood, urine, and saliva, is often hindered by the interference of otherbiomolecules present in these fluids. These interferences can lead to inaccurate or unreliable sensorreadings. Traditionally, optimizing biosensor performance in such fluids requires extensive empiricalexperimentation, which is both time-consuming and costly. Recently, machine learning (ML) techniqueshave emerged as a promising approach to predict and enhance biosensor performance in complex fluidenvironments. By training models on experimental data, ML can identify patterns between sensorresponses and the properties of the fluid, thus allowing for the optimization of sensor design and function.This article explores the role of ML in predicting the behavior of biosensors in complex fluids, providinginsights into sensor optimization, interference mitigation, and improving diagnostic capabilities.&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P194.pdf

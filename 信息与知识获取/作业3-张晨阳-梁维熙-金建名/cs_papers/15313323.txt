@@ -1,0 +1,14 @@
+Title: [Microstructural grading for tuning of the functional behavior of LPBF printed NiTi-based SMAs]
+
+Authors: Mehrpouya, Mehrshad, Molotnikov, Andrey, Vaneker, Tom, Gibson, Ian
+
+Keywords: 
+
+Publication date: 2025-04-30
+
+Description:
+<span lang="EN-US">Shape memory alloys (SMAs) have captured significant attention since their discovery, primarily due to their remarkable ability to recover large strains and exhibit the pseudo-elasticity effect. They are a group of smart materials, where their prominence stems from NiTi's exceptional properties, including high corrosion resistance, excellent ductility, customizable martensitic transformation pathways, strong work-hardening capability, and impressive shape recovery performance. On a parallel level, the advent of additive manufacturing (AM) has opened new avenues for NiTi, with laser powder bed fusion (LPBF) emerging as the most promising AM technique for fabricating highly intricate structures. Over the past decade, significant research efforts have focused on optimizing LPBF processing parameters and controlling the composition and microstructure of NiTi SMA alloys. Nevertheless, NiTi-based alloys remain challenging due to various reasons including their compositional sensitivity, and the dependency of the functionality on the transformation temperature and stress intervals. Therefore it is of great importance to control this transformation and further tune it to achieve highest functionality of the part. In this regard, microstructural<span>&nbsp; </span>and compositional grading stands out as a method for achieving progressive movement and wider temperature/ stress windows for the martensitic transformation. To achieve this, optimization of process parameters such as laser power, scanning speed, and Re-melting can create such grading in the functionality of NiTi-based alloys. In this work, state-of-the-art powder bed fusion machine equipped with laser beam (PBF-LB) was used to print Ni-rich NiTi-based powder at 55.8 at.% of Ni. There were three sets of process parameters utilized for the production of functional wires that has two-state activation achieved through optimization of the martensitic transformation. The results provide insight into the capabilities of powder bed fusion in achieving grading in the behaviour of different sections of different parts through customizing the respective microstructural features.</span>
+
+
+Contents:
+ - abstract_AAMS2025_Eslam.docx

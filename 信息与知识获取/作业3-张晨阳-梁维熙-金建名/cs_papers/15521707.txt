@@ -1,0 +1,14 @@
+Title: Integrating Digital Technologies in Teaching (TVET) Programmes for Effective Teaching and Skills Development of Students in Tertiary Institutions in Enugu State
+
+Authors: Agu, F. N.
+
+Keywords: Digital Technologies, Effective Teaching, Skills Development, Enugu State
+
+Publication date: 2025-05-26
+
+Description:
+<span>This study was set to determine the integration of digital technologies in teaching TVET programmes for effective teaching and skill development students in tertiary institutions in Enugu State. Two research questions guided the study in line with two hypotheses. The study adopted descriptive survey research design. Population was 69 respondents consisting of thirty-four (34) lecturers and thirty-five (35) Instructors was sampled purposively from two universities. The instrument for data collection was a structured four point scale and weighted questionnaire with a 20-items statement developed by the researchers. The questionnaire was validated by three research experts and the reliability of the instrument was established using Cronbach Alpha which gave a reliability co-efficient result of 0.79. Mean and standard deviation were used to answer the research questions while hypotheses were tested using t-test at .05 level of significance and appropriate degree of freedom. Some of the findings include Google Classroom, Autodesk Simulation software, Mobile Learning Applications, Zoom, Online Quizlet, 3D Printing Technology, Google Workspace, and Virtual Reality among others digital technologies required for teaching TVET programmes for effective teaching and skill development students in tertiary institutions in Enugu State.<span>&nbsp; </span>Also, the study showed that Lack of technical support needed to maintain digital technologies and troubleshoot issues that may occur, existing curriculum are not designed to incorporate digital technologies effectively, Epileptic power supply and Infrastructure Deficiencies among others.<span>&nbsp; </span>That student can play a fair role in making skill more effective as they actively participate in classroom activities and so on. It was afterwards recommended among others that the government should be actively involved in the affairs of technical colleges to ensure provision of needed resources and effective monitoring of project implementation.</span>
+
+
+Contents:
+ - GJEH 7.2(8-19).pdf

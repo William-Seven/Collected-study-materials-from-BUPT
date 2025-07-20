@@ -1,0 +1,13 @@
+Title: Identification of research trends associated with image capture using machine learning
+
+Authors: Valencia-Arias, Alejandro, Valencia, Jackeline, García-Pineda, Vanessa, Cardona Acevedo, Sebastián
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+N/A
+
+Contents:
+ - Dataset.xlsm

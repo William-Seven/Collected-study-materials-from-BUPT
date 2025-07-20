@@ -1,0 +1,47 @@
+Title: EARLS: European aggregated reconstruction for large-sample studies
+
+Authors: Daniel, Klotz, Peter, Miersch, Thiago V. M., do Nascimento, Fabrizio, Fenicia, Martin, Gauch, Jakob, Zscheischler
+
+Keywords: hydrology, rainfall, enviornment
+
+Publication date: 2025-05-26
+
+Description:
+
+EARLS is an openly available pan-European runoff&ndash;reconstruction dataset.
+
+
+As of now it is structured in the following way:&nbsp;
+
+<div>
+<ul>
+<li>The `<em>coordinates.csv`</em>&nbsp;file contains basin outlet information with 4 columns: basin id (idx), type, and estimated latitude (lat) and longitude (lon) of the outlet.</li>
+<li>The `<em>license.md`</em>&nbsp;file contains information about the licensing.</li>
+<li>The `<em>shapefile` </em>folder includes a shapefile with all basin boundaries (see: <a href="https://www.hydrosheds.org/products/hydrobasins">HydroBASINS</a>).</li>
+<li>The `<em>reconstructions`</em>&nbsp;folder contains CSV files. Each file is named after the basin id and has at least two columns: date and simulation. The simulations are given in mm. Additional columns can be used to provide more information. For the current EARLS we added two additional columns that provide the remaining parameters for the uncertainty estimation.</li>
+<li>The `<em>model-card`</em> folder contains 2 files: `<em>model-card.html`</em>, and `<em>earls-crest.png`</em>. The html document includes the png as logo and renders a model card. A&nbsp;<a href="https://arxiv.org/abs/1810.03993">model card </a>is a short summary of the model genesis, designed to increase transparency by communicating information about trained models to broad audiences. We include all three files in the dataset so that future extensions can adapt them with maximal ease. We will also host the markdown files on the main home so that the permanent identifier within the model card can be used to access the data from there.</li>
+<li>Additional data/folders are optional, but can be used to provide background information. For instance, the EARLS contains an `<em>inputs`</em>&nbsp;folder, which comprises the basin-aggregated dynamic and static inputs:&nbsp;
+
+<ul>
+<li>For the dynamic inputs (derived from <a href="https://www.ecad.eu/download/ensembles/download.php">E-OBS</a>) we use precipitation in mm per day, daily minimum/maximum/average temperature in &deg;C.</li>
+<li>For the static inputs (derived form <a href="https://www.hydrosheds.org/hydroatlas">HydroATLAS</a>) we use basin area in square kilometers, average elevation in meter, average slopes in degrees, average stream gradient in decimeter per kilometer, average long-term air temperature in degrees Celsius, minimum long-term air temperature in &deg;C, maximum long-term air temperature in &deg;C, a global aridity index, a global climate moisture index, average fraction of sand in %, average fraction of clay in %, average fraction of silt in %, and average organic carbon content in tons per hectar.</li>
+</ul>
+</li>
+</ul>
+<h2>Changelog</h2>
+
+<strong>v0.3</strong>
+
+<ul>
+<li>Introduced a changelog. yay.&nbsp;</li>
+<li>Little corrections (spelling mistakes etc.) and nicer formatting in the technical data description.&nbsp;</li>
+<li>Corrected streamflow and variance normalization from hours to daily (affected versions: v0.0 and v.0.2; thanks to Corinna Frank).</li>
+<li>Corrected technical description of the area from m2 to km2 (thanks to Corrina Frank).</li>
+<li>Introduced an example data-file with a single basin (thanks to Juliane Mai).</li>
+</ul>
+</div>
+
+Contents:
+ - EARLS-technical-data-description.pdf
+ - EARLS-example.zip
+ - EARLS.zip

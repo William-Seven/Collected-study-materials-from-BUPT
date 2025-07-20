@@ -1,0 +1,17 @@
+Title: Automated Indonesian Plate Recognition: YOLOv8 Detection and TensorFlow-CNN Character Classification
+
+Authors: BelajarKompiYuk
+
+Keywords: YOLO, TensorFlow, Optical Character Recognition (OCR), Indonesian License Plate Detection, Deep Learning
+
+Publication date: 2025-06-04
+
+Description:
+N/A
+
+Contents:
+ - BelajarKompiYuk/Jurnal-Plate-Number-Yolo-and-Deeplearning-v1.0.0.zip
+ - Easyocr.mp4
+ - Tesseract.mp4
+ - dataset.zip
+ - CNN.mp4

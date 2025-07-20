@@ -1,0 +1,31 @@
+Title: Technoecology: Machine Learning in Bioacoustics and Ecological Art
+
+Authors: Bick, Avery
+
+Keywords: bioacoustics, soundscape ecology, passive acoustic monitoring, bird migration, avian biodiversity, machine learning, art, sound art, aesthetics
+
+Publication date: 2025-06-13
+
+Description:
+Thesis for PhD in Computer Science at NTNU Gj&oslash;vik: <em>Technoecology: Machine Learning in Bioacoustics and Ecological Art&nbsp;</em>
+
+Includes manuscripts for the following papers:
+
+<ol>
+Exploring the Spatiotemporal Influence of Climate on American Avian Migration with Random Forests
+Snowmobile noise alters bird vocalization patterns during winter and pre-breeding season
+National-scale acoustic monitoring of avian biodiversity and migration
+Building a Nature Soundscape Generator for the Post-Biodiversity Future
+Simulated Environments and Environmental Consciousness:&nbsp;Extending Ecoacoustic Monitoring into Sound Art
+</ol>
+<strong>Abstract:</strong>
+
+Ecosystems face a myriad of anthropogenic pressures, from global warming to habitat loss, which threaten a collapse of biodiversity and of the ecosystem services on which we depend. Recent advancements in machine learning (ML) and automation have enabled ecologists to expand the scale of ecosystem monitoring, capturing both large-scale spatial trends and fine-scale temporal trends impossible with manual surveys. The field of bioacoustics has increasingly gained attention in this context, as automated vocalization detection has enabled real-time passive acoustic monitoring (PAM) of biodiversity and animal phenology. This increased digitization of nature promises to enhance our environmental stewardship, but also shifts our perception of nature and our relation to it.
+
+This thesis consists of two topics. First, we explore the applications of automation and large-scale data analysis to the study of avian phenology and biodiversity with a focus on bioacoustic methods. In this topic, we demonstrate that ML can extract insights on avian phenology from trans-continental scale ecoclimatic data. We next apply PAM in a national park setting, demonstrating at a fine temporal scale that engine noise affects avian vocalization phenology. We then expand our PAM scope with one of the first national-scale acoustic studies of avian biodiversity and migration phenology, using acoustic recorders installed across the latitudinal extent of Norway. We demonstrate that an autonomous PAM system can capture spring migratory arrival dynamics, fill data gaps in traditional manual surveys, and be leveraged to generate continuous maps of avian vocalization that can support the timing and planning of traditional breeding bird surveys.&nbsp;
+
+In the second topic, we delve into how technology affects our relationship to nature and our perception of it. We first build a novel ML model trained on global environmental soundscapes capable of generate novel pseudo-natural sounds, showing that increased environmental monitoring has already provided the raw data necessary for ML models to generate artificial nature. We discuss how such artificial nature can be artistically interesting in certain contexts but is far from a complete replacement for true natural. We next discuss how immersion in nature improves personal and societal well-being, as well as the aesthetics and ethics of artificial environments in this context. We demonstrate a case-study of ecological sound art using the recordings collected across Norwegian forests that leverages technology to expand the human senses. One is thus able to develop an aesthetic relationship to large-scale natural phenomenon, such as the spring migration of birds over thousands of kilometers.&nbsp;
+
+
+Contents:
+ - Bick_Thesis_2024_Final_Page_Numbers.pdf

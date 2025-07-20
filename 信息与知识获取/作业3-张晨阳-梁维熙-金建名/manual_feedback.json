@@ -1,0 +1,29 @@
+{
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldAuthors": {
+    "correct": true
+  },
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldDOI": {
+    "correct": true
+  },
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldDOIs": {
+    "correct": true
+  },
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldDescription": {
+    "correct": true
+  },
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldGitHub Link": {
+    "correct": true
+  },
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldKeywords": {
+    "correct": true
+  },
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldPublication Date": {
+    "correct": true
+  },
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldTitle": {
+    "correct": true
+  },
+  "uuid:0509f4b7-8728-41f8-a92a-ad1215cb0278fieldURLs": {
+    "correct": true
+  }
+}

@@ -1,0 +1,15 @@
+Title: InverseTampere/leafgen: Version 1.0.0
+
+Authors: Pietari Mönkkönen
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Initial release of LeafGen.
+
+
+Contents:
+ - InverseTampere/leafgen-v1.0.0.zip

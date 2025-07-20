@@ -1,0 +1,13 @@
+Title: shengfly/BrainAgingNet: nnBrainAGE
+
+Authors: Sheng He
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+This will contain the code of our publications about brain age estimation using deep learning.
+
+Contents:
+ - shengfly/BrainAgingNet-nnBrainAGE.zip

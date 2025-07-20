@@ -1,0 +1,13 @@
+Title: PCNtoolkit
+
+Authors: Marquand, Andre, Wolfers, Saige, Kia, Seyed Mostafa, Fraza, Charlotte, Zabihi, Mariam, Dinga, Richard, de Boer, Stijn
+
+Keywords: normative modeling, neuroscience, federated learning, Bayesian modeling, software toolkit
+
+Publication date: 2025-06-03
+
+Description:
+PCNtoolkit is a lightweight Python package designed to support normative modeling workflows in neuroscience.
+
+Contents:
+ - amarquand/PCNtoolkit-v1.alpha.9.zip

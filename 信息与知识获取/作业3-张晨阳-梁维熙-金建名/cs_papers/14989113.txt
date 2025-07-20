@@ -1,0 +1,34 @@
+Title: Scoping Review Dataset: Assessing the Digital Literacy Learning Environment for Older Adults
+
+Authors: Tirado-Morueta, Ramón, Duarte-Hueros, Ana
+
+Keywords: Digital Literacy, older adults, measurement scales, learning environment, Scoping Review
+
+Publication date: 2025-03-07
+
+Description:
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div>Online Supplementary Dataset. Content Description:</div>
+</div>
+</div>
+</div>
+
+The file "Scoping review protocol_ LED_LITERACY_SENIOR.pdf" describes the aim of the scoping review, the review questions, the search strategy, and the inclusion and exclusion criteria to determine whether there are validated instruments in the scientific literature to measure the learning environment in digital literacy contexts aimed at older people. This protocol has been carried out using the JBI Manual for Evidence Synthesis: Preferred Reporting Items for Systematic Reviews and Extension of Meta-Analysis for Scoping Review Checklists (PRISMA-ScR) template. The results of the review will be available in the related publication.
+The file "Documents_ScR.pdf" includes the bibliographic data of the articles analysed in the scoping review.
+
+The results of the review will be available in the related publication.
+
+&nbsp;
+
+
+Contents:
+ - Documents_ScR.pdf
+ - Scoping review protocol_ LEARNING ENVIRONMENT_DIGITAL LITERACY_SENIOR.pdf
+ - readme-en.txt

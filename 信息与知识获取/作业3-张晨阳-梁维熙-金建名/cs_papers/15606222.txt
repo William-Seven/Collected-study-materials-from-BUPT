@@ -1,0 +1,14 @@
+Title: Modeling the Importance of Ground and Strong-Motion Variables on the Damage Status in the 2023 Kahramanmaraş Earthquakes Using Supervised Machine Learning
+
+Authors: Senkaya, Mustafa, AKHANLI, SERHAT, SILAHTAR, ALI, Karaaslan, Hasan
+
+Keywords: 
+
+Publication date: 2025-06-06
+
+Description:
+<span lang="EN-US">The dataset incorporates variables such as Vs30, f0, and EBd to evaluate local ground conditions, in addition to strong-motion parameters including PGA, Repi, and Rrup, with the damage status acting as the target parameter. The station-specific parameters for the 44 available stations within the AFAD seismological network were retrieved from the TADAS database (https://tadas.afad.gov.tr/). This database functions as a comprehensive repository, encompassing active and passive seismic data that represent the site conditions of AFAD stations, as well as strong-motion parameters associated with earthquakes in T&uuml;rkiye.</span>
+
+
+Contents:
+ - data_6variable.xlsx

@@ -1,0 +1,15 @@
+Title: MODEL-BASED INVESTIGATION OF VOLTAGE HYSTERESIS IN SILICON ANODE LITHIUM-ION CELLS
+
+Authors: Michael, James Thornton, Ayesha, Marie Caldwell
+
+Keywords: Silicon Anodes, Voltage Hysteresis, State of Charge (SOC), Exchange Current Density, Lithium-Ion Batteries
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>In this study, we manufacture and test three types of silicon anode-based coin cells: porous, nano, and bulk silicon. Through lithiation-delithiation battery cycling tests, we observe a capacity difference at the beginning and end of the battery cycling loop. This capacity difference is mitigated by applying a side-reaction correction technique to the exchange current density using the Tafel kinetics formula. A significant voltage gap, known as voltage hysteresis, is generated during the battery cycling of all three types of cells. To understand the underlying causes of this voltage hysteresis, we develop a physics-based mathematical model. We evaluate the impact of hydrostatic stress on the generated voltage hysteresis and find that the stress-induced voltage values are too low to significantly affect the hysteresis. Key parameters influencing this stress are identified. We then develop new sets of exchange current density equations (average, linear, and logarithmic) as functions of the state of charge (SOC). Our findings indicate that applying a logarithmic SOC-dependent exchange current density equation results in the best fit of the voltage curve to the experimental data, effectively minimizing the generated hysteresis. This study provides a deeper understanding of the mechanisms behind voltage hysteresis in silicon anode-based lithium half cells and offers strategies to control and reduce this phenomenon</span>
+
+
+Contents:
+ - Paper 1.pdf

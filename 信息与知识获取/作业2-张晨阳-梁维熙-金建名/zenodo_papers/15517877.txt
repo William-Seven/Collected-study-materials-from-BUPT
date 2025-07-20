@@ -1,0 +1,15 @@
+Title: DESIGN AND IMPLEMENTATION OF A RESIDENTIAL CONSTRUCTION QUALITY ASSESSMENT SYSTEM FOR SOUTH AFRICA
+
+Authors: Kabelo, Thulani Maseko
+
+Keywords: CONQUAS, construction quality, housing quality, low-income houses, quality assessment, South Africa
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>Housing is a critical socio-economic driver in the vast majority of developing countries, including South Africa. It involves many aspects such as construction quality, affordability, geographic location, long-term financing, and the environment. A key research concern is the quantification of the construction quality of houses and how this may be used to assist in the delivery of better quality houses. This article is based on studies undertaken on housing construction sites in South Africa. A construction assessment tool is developed using principles similar to those used by CONQUAS in Singapore and Malaysia. The tool thus developed is capable of measuring the quality of &lsquo;as-built&rsquo; construction elements of a house against national technical standards and specifications, within reasonable time and cost. Studies on the quality of houses were then conducted on 700 houses (two low-income projects and one middle-income project). The results showed that the two low-income projects had average quality scores of 58% and 64%, while the middle-income project scored 80%. Details of the sub-elements of the scores indicated the developmental needs of the contractors involved in the projects. Using the Construction quality assessment tool, the government and other authorities can make better informed decisions when awarding contracts. If introduced and implemented correctly, the quality of the houses delivered across the entire housing spectrum can be measured and monitored, and improvement measures put in place. The data collected through this quality assessment tool will be invaluable for national authorities, regulators, and Statistics South Africa to evaluate and report if the housing stock being delivered is consistently improving. Risk assessment studies will assist the regulators in developing proper quality management strategies</span>
+
+
+Contents:
+ - 2.pdf

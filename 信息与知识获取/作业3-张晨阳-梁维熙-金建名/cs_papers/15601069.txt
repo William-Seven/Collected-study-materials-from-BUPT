@@ -1,0 +1,15 @@
+Title: Genetic- and Experimentally-informed Modeling of Denitrification Process in Groundwater through Dynamic Flux Balance Analysis and Deep Learning
+
+Authors: Dai, Heng, Zhang, Yiyu
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+N/A
+
+Contents:
+ - FBA_Code.m
+ - FBA_Data1.mat
+ - Raw_Data_Bio_simulation.xlsx

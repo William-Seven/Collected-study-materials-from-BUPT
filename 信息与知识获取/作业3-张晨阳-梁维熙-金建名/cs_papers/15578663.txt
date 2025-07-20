@@ -1,0 +1,16 @@
+Title: Architecture and System Design of an AI-based Web Application for Preparing Informed Consent Forms
+
+Authors: Krüger, Anita Susann, Moebert, Tobias, Müller, Ina, Lucke, Ulrike
+
+Keywords: Informed Consent Forms, Autonomous Decision Making, Web Application, Content Analysis, Information Preparation, Topic Identification
+
+Publication date: 2025-06-02
+
+Description:
+<span lang="EN-GB">Informed Consent Forms are often complex and difficult to understand for laypersons. We developed a web application in a participatory approach in exchange with people affected that supports the understanding of those forms by analyzing their structure and preparing the contained information in an understandable way for laypersons. Based on a combination of manual text analysis and machine learning, the tool identifies application-specific topics and content within the uploaded documents. These are mapped to an icon language for better comprehension, adding an interactive and explorative experiential dimension to the traditional information gathering process. It thus creates new possibilities for understanding to support an autonomous decision-making.</span>
+
+
+Contents:
+ - Figure_1.png
+ - Figure_2.png
+ - Table_1.pdf

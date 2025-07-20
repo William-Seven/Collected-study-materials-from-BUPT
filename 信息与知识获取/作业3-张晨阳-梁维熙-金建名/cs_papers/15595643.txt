@@ -1,0 +1,13 @@
+Title: arnor-sigurdsson/EIR: 0.21.2
+
+Authors: Arnor Sigurdsson, Ingi Þór Sigurðsson
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+A toolkit for training deep learning models on genotype, tabular, sequence, image, array and binary data.
+
+Contents:
+ - arnor-sigurdsson/EIR-0.21.2.zip

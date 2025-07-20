@@ -1,0 +1,26 @@
+Title: Documentation of the Météo-France seasonal forecasting system 9
+
+Authors: Specq, Damien, Dorel, Laurent, Beuvier, Jonathan, Ardilouze, Constantin, Batté, Lauriane
+
+Keywords: Seasonal forecasting, Climate modeling
+
+Publication date: 2024-12-31
+
+Description:
+
+M&eacute;t&eacute;o-France has been involved in real-time seasonal forecasting activities since the late 1990s, and
+in operational production of seasonal forecasts for the Copernicus Climate Change Services (C3S)
+since 2017. This document provides the technical description of the 9th version of its seasonal
+forecasting system, planned to come into operations in April 2025. System 9 is an updated version
+building on the two preceding systems 7 and 8, respectively released in 2019 and 2021, and
+documented in Batt&eacute; et al. (2019) and Batt&eacute; et al. (2021).
+Section 2 of this report provides a brief overview of the new system, while Section 3 describes in
+detail each model component, including the main novelty which is the NEMO 4.2 ocean model coming
+along the SI3 sea-ice model. Section 4 is dedicated to the initialization strategy, for which a similar
+initialization strategy as in System 7 is used. Section 5 is dedicated to the ensemble generation
+strategy, which is similar to System 8. Section 6 provides an overview of the workflow procedures,
+from initialization to post-processing.
+
+
+Contents:
+ - C3S2_D370.1.4.1_Documentation_of_the_Meteo-France_seasonal_forecasting_system_9_v1_APPROVED_Ver1.pdf

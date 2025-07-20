@@ -1,0 +1,16 @@
+Title: Style in Eight Syllables: Metric Annotation and Stylometry of Chrétien de Troyes and Contemporaries
+
+Authors: Camps, Jean-Baptiste, Cafiero, Florian, Chaumet-Riffaud, Philippe, Conceicao, Damien, Godreau, Ulysse, Guidi, Émilie, Lionnet, Alexandre, Moins, Théo, Nistor, Pierre-Alexandre, Salvati, Benedetta
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+Authorship attribution for medieval texts such as those of Chr&eacute;tien de Troyes poses unique challenges due to textual transmission, language variation, and limited reference corpora. In this context, it might be useful to draw as much stylistic information as possible from the texts, beyond most common features such as function words. This paper presents an ongoing project to include metrical annotation (with a focus on prosody) in the stylometric analysis of Medieval French, to enhance support vector machine (SVM)-based authorship attribution. The case at hand focuses on the attribution of the works of Chr&eacute;tien de Troyes and his contemporaries.
+
+
+Contents:
+ - code.zip
+ - slides_Chrestien_Camps_20250605.pdf
+ - abstract_Chrestien_Camps_20250605.pdf

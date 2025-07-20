@@ -1,0 +1,113 @@
+Title: The Role of Women in Learning Games and Water Management Outcomes
+
+Authors: Steimanis, Ivo, Falk, Thomas, Bartels, Lara, Duche, Vishwambhar, Vollan, Björn
+
+Keywords: India, water management, social dilemma, social learning, games
+
+Publication date: 2026-06
+
+Description:
+<span><span>This repository contains the raw </span></span>data and code that replicates tables and figures for the following paper:
+
+<strong>Title:</strong> The Role of Women in Learning Games and Water Management Outcomes
+
+<strong><span>Authors: Ivo Steimanis<sup>1,*</sup>, Thomas Falk<sup> 2</sup>, Lara Bartels<sup>3</sup>, Vishwambhar Duche<sup>4</sup>, Bj&ouml;rn Vollan<sup>1</sup></span></strong>
+
+<span><strong><span>Affiliations:</span></strong><span>&nbsp;</span></span>
+
+<sup><span>1</span></sup><span> <span>Department of Economics, Philipps University Marburg, Marburg, Germany</span></span>
+
+<sup><span>2</span></sup><span> </span><span>International Food Policy Research Institute, Natural Resources and Resilience Unit, Washington, USA</span><span></span><sup><span>3</span></sup><span> </span><span>Max Planck Institute for Research on Collective Goods, Kurt-Schumacher-Stra&szlig;e 10, 53113 Bonn, Germany</span>
+
+<sup><span>4</span></sup><span> International Crops Research Institute for the Semi-Arid Tropics, Patancheru, India</span>
+
+<span><strong><span>*Correspondence to:</span></strong><span>&nbsp;Ivo Steimanis, ivo.steimanis@staff.uni-marburg.de</span><strong><span>ORCID:</span></strong><span> Steimanis: 0000-0002-8550-4675,<strong> </strong></span></span>Falk: 0000-0002-2200-3048, Bartels: 0000-0002-1426-6892<span>, Vollan: </span><span>0000-0002-5592-4185<strong><span>Classification:</span></strong><span>&nbsp;Social Sciences, Economic Sciences</span><strong><span>Keywords:</span></strong><span>&nbsp;</span></span>India, water management, social dilemma, experiential learning, games
+
+<h1><span>License</span></h1>
+The data are licensed under a Creative Commons Attribution 4.0 International Public License. The code is licensed under a Modified BSD License. See <strong>LICENSE.txt</strong> for details.
+
+<h1>Software requirements</h1>
+All analysis were done in Stata version 16:
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Add-on packages are included in <strong>scripts/libraries/stata </strong>and do not need to be installed by the user. The names, installation sources, and installation dates of these packages are available in <strong>scripts/libraries/stata/stata.trk</strong>.
+
+<h1>Instructions</h1>
+<span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Save the folder &lsquo;analysis&rsquo; to your local drive.
+
+<span><span>2.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Open the master script &lsquo;<strong>run.do&rsquo; </strong>and change the global pointing to the working direction (line 20) to the location where you save the folder on your local drive
+
+<span><span>3.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Run the master script &lsquo;<strong>run.do&rsquo; </strong>to replicate the analysis and generate all tables and figures reported in the paper and supplementary online materials
+
+<h1>Datasets</h1>
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2022_09_identifier_included_excluded.dta" includes organizational information on the villages such as their allocation to control and treated.
+
+<span><span>o<span>&nbsp;&nbsp; </span></span></span>Input file: <strong>Overview_games_intervention_control.xls</strong>
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2022_06_Mandla_Census.dta" includes the Census 2011 data of the sample villages.
+
+<span><span>o<span>&nbsp;&nbsp; </span></span></span>Input file: <strong>Zensus_Mandla.xls</strong>
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>&ldquo;2022_06_Mandla_Game_raw.dta&rdquo; includes the raw data on the game intervention.
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2022_06_Mandla_Game.dta" includes the cleaned game intervention data.
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"Data_Facilitators.dta" includes information on the interventions&rsquo; facilitator teams and the intervention dates.
+
+<span><span>o<span>&nbsp;&nbsp; </span></span></span>Input file: <strong>Facilitators_MP_sites.xls</strong>
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2022_06_Mandla_Game_village_long.dta" matched the clean game intervention data with the facilitator data and transformed the individual intervention data to data at the village level to merge them with the survey data.
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey_Baseline.dta&rdquo; includes the baseline survey data.
+
+<span><span>o<span>&nbsp;&nbsp; </span></span></span>Input file: MP_suvey_data_short.xls
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey_Endline.dta&rdquo; includes the follow-up survey data.
+
+<span><span>o<span>&nbsp;&nbsp; </span></span></span>Input file: MP_suvey_data_short.xls
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey_Wide.dta" includes the merged baseline and follow-up survey data.
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey_Long.dta" includes the merged baseline and follow-up survey data in a long format to merge them with the intervention data.
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey&amp;Game_Long.dta&rdquo; includes the merged survey and intervention data in a long format. Our analysis is based on tis final data set.
+
+<span><span>‒<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey&amp;Game_Wide.dta" includes the merged survey and intervention data in a wide format.
+
+&nbsp;
+
+<h1>Descriptions of scripts</h1>
+<strong>01_cleangen.do</strong>
+
+This script processes the raw data from the game intervention as well as the baseline and endline survey waves. Within this scrip several data sources are cleaned and used to create the final data for analysis.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2022_09_identifier_included_excluded.dta" includes organizational information on the villages such as their allocation to control and treated.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2022_06_Mandla_Census.dta" includes the Census 2011 data of the sample villages.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>&ldquo;2022_06_Mandla_Game_raw.dta&rdquo; includes the raw data on the game intervention.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2022_06_Mandla_Game.dta" includes the cleaned game intervention data.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"Data_Facilitators.dta" includes information on the interventions&rsquo; facilitator teams and the intervention dates.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2022_06_Mandla_Game_village_long.dta" matched the clean game intervention data with the facilitator data and transformed the individual intervention data to data at the village level to merge them with the survey data.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey_Baseline.dta&rdquo; includes the baseline survey data.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey_Endline.dta&rdquo; includes the follow-up survey data.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey_Wide.dta" includes the merged baseline and follow-up survey data.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey_Long.dta" includes the merged baseline and follow-up survey data in a long format to merge them with the intervention data.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey&amp;Game_Long.dta&rdquo; includes the merged survey and intervention data in a long format. Our analysis is based on tis final data set.
+
+<span><span>-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>"2023_03_Survey&amp;Game_Wide.dta" includes the merged survey and intervention data in a wide format.
+
+<strong>02_analysis.do</strong>
+
+This script estimates regression models in Stata, creates figures and tables, saving them to <strong>results/figures</strong> and <strong>results/tables</strong>
+
+
+Contents:
+ - analysis.7z

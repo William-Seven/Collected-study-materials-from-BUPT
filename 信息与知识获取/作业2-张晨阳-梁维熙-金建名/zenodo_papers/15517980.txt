@@ -1,0 +1,172 @@
+Title: Supporting Information for "Nine Martian Years of polar caps observations by SPICAM-IR/Mars-Express"
+
+Authors: Lomakin, Alexander, Fedorova, Anna, Montmessin, Franck, Berdis, Jodi, Korablev, Oleg, Bertaux, Jean-Loup, Lefevre, Franck, Lacombe, Gaetan
+
+Keywords: Mars, Polar Caps, Infrared Spectrocopy, Remote Sensing, Reflectance Spectroscopy, CO2 ice
+
+Publication date: 2025
+
+Description:
+
+This dataset contains several additional figures and data for the "Nine Martian Years of polar caps observations by SPICAM-IR/Mars-Express". Data and additional figures play special role in this publication, since we use a lot of different representations (seasonal, spatial and cap edges) of sparse dataset in our work. It also includes processed SPICAM-IR CO<sub>2</sub>&nbsp;ice equivalent width and water index for orbits without artifacts or distortions and with normal signal-to-noise ratio (&gt;20).
+&nbsp;
+
+
+<strong>Data Set S1&nbsp;</strong>
+This Data Set (spicam_obs.csv) contains CO<sub>2</sub> ice equivalent width and water index for orbits without artifacts or distortions and with normal signal-to-noise ratio (&gt;20) and all required observational geometry in a form of csv table. In this file there are 12 following columns:
+
+<ul>
+<li>
+
+orbit: name of orbit as in PSA 1B files
+
+</li>
+<li>
+
+spec_num: number of spectrum in this file starting from zero
+
+</li>
+<li>
+
+lat: center latitude of field of view
+
+</li>
+<li>
+
+lon: center longitude of field of view
+
+</li>
+<li>
+
+ls: solar longitude of observation
+
+</li>
+<li>
+
+local_time: local time of observation
+
+</li>
+<li>
+
+incidence: incidence angle
+
+</li>
+<li>
+
+alt_spc: altitude of observation, which determines FOV size
+
+</li>
+<li>
+
+co2ice_index: equivalent width of CO ice 1.43 &mu;m band
+
+</li>
+<li>
+
+h2oice_index: index of 1.5 &mu;m water ice band
+
+</li>
+<li>
+
+snr: signal-to-noise ratio measure around 1.37 &mu;m, out of major absorption bands
+
+</li>
+<li>
+
+martian_year: Martian Year
+
+</li>
+</ul>
+
+Using this dataset one can plot all of the figures in the original paper, except for spectra.
+
+
+<strong>Data Set S2</strong>
+This Data Set (figure4.txt) contains data from Figure 4 in the original paper. Description of the figure:
+Diversity of ice spectra on south pole.
+
+<ol>
+<li>
+
+(Blue on picture): Slab ice in winter, Ls: 144.15, latitude: -58.7, longitude: 257.58, orbit: 10902A01, 1.43 &micro;m band width: 30.5 nm;
+
+</li>
+<li>
+
+(Orange on picture): Bright CO2 ice, Ls: 253.08, latitude: -86.23, longitude: 315.70, orbit: 1943A01, 1.43 &micro;m band width: 16.4 nm;
+
+</li>
+<li>
+
+(Green on picture): Cryptic region with almost no CO<sub>2</sub> ice, Ls: 213.12, latitude: -82.52, longitude: 122.06, orbit: 4169A01, 1.43 &micro;m band width: 1.4 nm;
+
+</li>
+<li>
+
+(Red on picture): Water ice outside of cap in winter in the Hellas basin, Ls: 117.01, latitude: -42.97, longitude: 83.266, orbit: 20144A03, water ice index: 0.47;
+
+</li>
+<li>
+
+(Purple on picture): South permanent cap in the middle of summer, Ls: 322.85, latitude: -86.06, longitude: 311.33, orbit: 19015A01, 1.43 &micro;m band width: 12.1 nm;
+
+</li>
+<li>
+
+(Brown on picture): Fine grained CO2 ice in the spring, Ls: 195.30, latitude: -64.90, longitude: 298.47, orbit: 8867A01, 1.43 &micro;m band width: 6.6 nm
+
+</li>
+</ol>
+
+<strong>Data Set S3</strong>
+This Data Set (figure5.txt) contains data from Figure 5 in the original paper. Description of the figure:
+Diversity of ice spectra on north pole and spectrum of water ice clouds.
+
+<ol>
+<li>
+
+(Blue on picture): Deep CO2 ice on North pole, Ls: 14.48, latitude: 85.72, longitude: 134.13, orbit: 5161A01, 1.43 &micro;m band width: 20.6 nm;
+
+</li>
+<li>
+
+(Orange on picture): &rdquo;Cryptic&rdquo;-like spectra in the end of winter, Ls: 332.38, latitude: 57.47, longitude: 82.96, orbit: 19074A01, 1.43 &micro;m band width: 10.45 nm;
+
+</li>
+<li>
+
+(Green on picture): Spectrum with high water ice index on North pole, Ls: 107.88, latitude: 84.74, longitude: 34.69, orbit: 1002A01, water ice index: 0.758;
+
+</li>
+<li>
+
+(Red on picture): Water ice cloud in aphelion cloud belt, Ls: 114.94, latitude: 11.98, longitude: 254.08, orbit: 8336A01, water ice index: 0.146.
+
+</li>
+</ol>
+
+<strong>Data Set S4</strong>
+This Data Set (figure6_bottom.txt, figure6_middle.txt, figure6_top.txt) contains data from Figure 6 in the original paper. Description of the figure:
+Seasonal maps of CO<sub>2</sub> 1.43 &micro;m equivalent width (top), water ice index (middle), and water ice index in log scale for the morning (bottom).
+
+
+<strong>Data Set S5</strong>
+This Data Set (figure9.txt) contains data from Figure 9 in the original paper. Description of the figure:
+Outer crocus line for the south cap for all Martian Years combined. Orange points (on the figure) represent anti-cryptic part (from 260&deg; to 60&deg; east longitude) and cryptic part (from 60&deg; to 260&deg; east longitude).
+
+
+<strong>Data Set S6</strong>
+This Data Set (figure10.txt) contains data from Figure 10 in the original paper. Description of the figure:
+Outer crocus line for the north cap for all Martian Years combined. Different colors (on the figure) represent different Martian Years.
+
+
+Contents:
+ - figure6_v2.txt
+ - figure10.txt
+ - figure8_top_v2.txt
+ - figure11.txt
+ - figure5.txt
+ - figure8_middle_v2.txt
+ - figure7_v2.txt
+ - figure8_bottom_v2.txt
+ - spicam_for_paper.csv

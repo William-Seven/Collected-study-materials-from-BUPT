@@ -1,0 +1,14 @@
+Title: Suspicious Human Activity Recognition From Surveillance Videos Using Deep Learning
+
+Authors: A.Mamatha, K.Lokesh
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+The increasing reliance on surveillance systems for public safety necessitates the development of intelligentmethods to detect suspicious human activities in real-time. Traditional manual monitoring is labor-intensiveand prone to errors, highlighting the need for automated solutions. This paper proposes a deep learningbased approach for recognizing suspicious human activities from surveillance videos. The model leveragesConvolutional Neural Networks (CNNs) for spatial feature extraction and Long Short-Term Memory(LSTM) networks for capturing temporal dependencies. By integrating these architectures, the systemeffectively identifies abnormal behaviors such as fighting, loitering, and vandalism. The proposed methodis evaluated on publicly available datasets, demonstrating its capability to achieve high accuracy and realtime performance. The results indicate that the model outperforms traditional machine learning techniques,offering a robust solution for enhancing security in various environments. This research contributes to thefield of intelligent surveillance by providing an effective tool for automatic detection of suspiciousactivities, thereby improving public safety and reducing the burden on human operators&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P230.pdf

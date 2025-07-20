@@ -1,0 +1,14 @@
+Title: Artifact for "TracLLM: A Generic Framework for Attributing Long Context LLMs" (USENIX Security '25)
+
+Authors: Wang, Yanting, Geng, Runpeng, Zou, Wei, Jia, Jinyuan
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+This artifact for &ldquo;TracLLM: A Generic Framework for Attributing Long-Context LLMs&rdquo; (USENIX Security &rsquo;25) contains the datasets, our method&rsquo;s implementation alongside several baselines, and the complete evaluation pipeline. Please refer to the README for environment setup and script execution instructions needed to reproduce our results.
+
+
+Contents:
+ - TracLLM-artifact.zip

@@ -1,0 +1,14 @@
+Title: Exploring the integration of metaverse technologies in engineering education through the SAMR model
+
+Authors: Nedeva, Veselina, Dineva, Snezhana
+
+Keywords: Metaverse, SAMR
+
+Publication date: 2025-06-04
+
+Description:
+The integration of the SAMR model (Substitution, Augmentation, Modification, and Redefinition) into metaverse-based learning environments has the potential to enhance student engagement and outcomes by transforming conventional educational practices into immersive, interactive experiences. It provides a framework for educators to integrate technology into teaching and learning processes. In the context of the metaverse, this model can be effectively applied to create dynamic and engaging learning experiences that transcend conventional methods. The paper justifies the selection of the SAMR model for planning the integration of metaverse technologies in the presence of CAVEs. It analyzes the application of these new technologies at the different stages of the SAMR model. For each stage, the paper plans the tasks for students, possible scenarios, and the role of metaverse technologies. It demonstrates the successful implementation of the model in practice and provides examples of effective practices in the context of the CAVE (Cave Automatic Virtual Environment) metaverse. The metaverse is presented as a tool to improve the learning process and to promote innovative educational approaches. The final deliverable is a plan for phased integration of metaverse learning into a Python programming course, following this model, building on existing best practices.
+
+
+Contents:
+ - ICVLa5_NEDEVA_DINEVA_(2025).pdf

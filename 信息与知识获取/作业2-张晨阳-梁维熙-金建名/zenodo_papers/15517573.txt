@@ -1,0 +1,15 @@
+Title: Internet Layers: Connecting the World
+
+Authors: Amit Singh
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+The internet has become an indispensable part of our lives. Powering everything from social media and online shopping to video calls and cloud computing. We use it daily, often without a second thought about the intricate processes that allow us to connect with information and people worldwide. This article aims to pull back the curtain and explore the fascinating&nbsp;<strong>world of computer networks</strong>. Moreover, it reveals the key building blocks and protocols that make the internet layers tick. Get ready to embark on a journey through the digital landscape to understand how your online experiences come to life.
+
+
+Contents:
+ - Internet Layers Connecting the World.pdf

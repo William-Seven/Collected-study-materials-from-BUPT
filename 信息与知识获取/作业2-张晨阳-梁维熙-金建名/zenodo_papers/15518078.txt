@@ -1,0 +1,17 @@
+Title: AniMonitor: A Low-Cost Multispectral Imaging Camera for Early Disease Detection and Management in Rice Crops
+
+Authors: Quitalig, Diane Lalaine, Nombrado, Billy, Alvarez, Neil Paul, Montances, Mark
+
+Keywords: False NDVI, Multispectral Imaging, Rice Disease Detection, Low-Cost Multispectral Imaging Camera
+
+Publication date: 2025-05-26
+
+Description:
+
+AniMonitor is a low-cost multispectral imaging system using Raspberry Pi and bandpass-filtered cameras to detect early signs of rice crop disease. It combines NDVI image analysis, machine learning, and a web platform for real-time detection, data capture, and monitoring. A fine-tuned VGG16 convolutional neural network&nbsp;trained on 256 &times; 256 NDVI composites runs on a Python/Flask back-end and achieves&nbsp;86.7 % overall accuracy in field trials conducted at PhilRice-UPLB. AniMonitor offers a scalable, farmer-friendly tool that enables early disease detection and supports precision-agriculture initiatives in resource-constrained environments.
+
+
+Contents:
+ - AniMonitor System
+ - AniMonitor-Presentation.pptx
+ - QNA-AniMonitor-IEEE.pdf

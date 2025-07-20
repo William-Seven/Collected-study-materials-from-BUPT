@@ -1,0 +1,14 @@
+Title: Machine Learning at Telescope Array
+
+Authors: Kharuk, Ivan
+
+Keywords: 
+
+Publication date: 2025-03-12
+
+Description:
+Telescope Array is a large-scale cosmic-ray observatory studying ultra-high-energy cosmic rays. Its Surface Detector array consists of 507 scintillation stations arranged in a rectangular grid covering approximately 700 km&sup2;. This talk presents our deep learning approach to reconstructing cosmic ray properties from Telescope Array Surface Detector data. We demonstrate how combining multiple data representations with various neural architectures (convolutional, recurrent, and transformer networks) enhances reconstruction accuracy of primary particle properties, including arrival direction and energy. Finally, we present post-processing techniques developed for searching for rare event, such as ultra-high-energy photons.
+
+
+Contents:
+ - TA_ML_Delaware_final.pdf

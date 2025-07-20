@@ -1,0 +1,13 @@
+Title: 3D Geovisualizations at Multiple Scales: UAV and VR  Integration for Geosite Exploration
+
+Authors: Papakonstantinou, Apostolos
+
+Keywords: UAV, 3D GEOVISUALIZATION, Virtual Reality (VR), Immersive environment, Geoheritage
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - 2025 ICC Vancouver apapak.pdf

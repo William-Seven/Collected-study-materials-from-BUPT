@@ -1,0 +1,13 @@
+Title: The Super-Resolution for Renewable Resource Data (sup3r)
+
+Authors: Benton, Brandon, Buster, Grant, Hassanaly, Malik, Pinchuk, Pavlo, Podgorny, Slater, Glaws, Andrew, King, Ryan
+
+Keywords: machine-learning, deep-learning, generative-adversarial-network, climate-change, tensorflow, climate-data, solar-energy, renewable-energy, wind-energy
+
+Publication date: 2025-06-03
+
+Description:
+The Super Resolution for Renewable Resource Data (sup3r) software uses generative adversarial networks to create synthetic high-resolution wind and solar spatiotemporal data from coarse low-resolution inputs.
+
+Contents:
+ - NREL/sup3r-v0.2.3.zip

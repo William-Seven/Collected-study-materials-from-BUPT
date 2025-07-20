@@ -1,0 +1,15 @@
+Title: AI Virtual Assitants for Physical Education: A Comparative Study between ChatGPT and Google Bard in Designing Teaching Units for 5th Grade
+
+Authors: Fernández Ortega, Javier, Fernandez-Revelles, Andres B.
+
+Keywords: Inteligencia artificial, Educación física, ChatGPT, Google Bard, Artificial intelligence, Physical education, Inteligência artificial, Educação física
+
+Publication date: 2025-06-05
+
+Description:
+<h2>Abstract:</h2>
+Introduction: Artificial intelligence (AI) is transforming educational planning. This study analyzes the potential of ChatGPT and Google Bard as virtual assistants for designing physical education units for 5th grade. Both AIs were evaluated for their ability to generate complete, well-structured programs. The growing use of AI in teaching requires assessing its precision, quality, and adaptability to students' needs. Objectives: To compare ChatGPT and Google Bard's ability to generate detailed physical education programs. Precision, quality, relevance, objectives, content, and organization were evaluated. The study also examines how AI can influence teaching, enhancing learning personalization and promoting students' overall development. Methods: Both systems were given three instructions: design a full program, develop a 9-session plan, and detail activities for each session. The responses were evaluated based on criteria such as precision, quality, organization, and their alignment with student needs. Results and discussion: Both ChatGPT and Google Bard generated well-structured programs. Google Bard excelled in content quality and organization, while ChatGPT showed more flexibility in activity distribution. Differences indicate areas for improvement, especially in activity personalization. Conclusions: AI has significant potential to support educational planning. However, further research is needed to improve adaptability and assess its pedagogical impact.
+
+
+Contents:
+ - _ESHPA-006-Fernández-Ortega.pdf

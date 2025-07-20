@@ -1,0 +1,14 @@
+Title: Trends and Gaps in AI Research for Language Education: A Focus on the Vietnamese Context
+
+Authors: Linh M. Nguyen,
+
+Keywords: Artificial Intelligence, language education, ChatGPT, academic writing, AI literacy, teacher training
+
+Publication date: 2025-06-04
+
+Description:
+This article provides a comprehensive review of recent research on the integration of Artificial Intelligence (AI) in English language education within the Vietnamese context. Drawing from both international and Vietnamese studies, including empirical investigations on tools such as ChatGPT, Grammarly, and AI-based writing assistants, the article examines how AI is reshaping language instruction, learning outcomes, and teacher roles. Findings reveal that AI applications&mdash;particularly in writing and speaking&mdash;enhance learner autonomy, engagement, and performance through immediate feedback, language scaffolding, and personalized support. However, challenges persist, including limited infrastructure, unequal access, insufficient teacher training, ethical ambiguities, and cultural mismatches in AI-generated content. The review also identifies notable research gaps, such as a lack of longitudinal studies, underexplored skill domains (e.g., listening and reading), and weak policy frameworks guiding AI use in formal education. Based on these insights, the article calls for more culturally responsive AI design, targeted teacher professional development, and integrated national strategies to ensure equitable and sustainable adoption of AI in Vietnamese classrooms. The findings contribute to a growing body of work on inclusive and context-sensitive AI implementation in nonWestern educational systems.
+
+
+Contents:
+ - 116.pdf

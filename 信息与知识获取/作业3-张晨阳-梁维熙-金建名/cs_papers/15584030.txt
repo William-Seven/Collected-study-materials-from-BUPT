@@ -1,0 +1,14 @@
+Title: Tutorial Series on Java Framework for Evolutionary Computation and Decision Making. Tutorial 10: Evolutionary Rejection Sampling
+
+Authors: Tomczyk, Michał
+
+Keywords: JECDM, Evolutionary Algorithms, Preference Learning, Preference Disaggregation, MCDA, Pairwise Comparisons
+
+Publication date: 2025-06-03
+
+Description:
+This tutorial introduces a novel method for preference disaggregation: Evolutionary Rejection Sampling.
+
+
+Contents:
+ - Tutorial10_EvolutionaryRejectionSampling.pdf

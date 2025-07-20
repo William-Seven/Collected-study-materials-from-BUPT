@@ -1,0 +1,65 @@
+Title: Aspect-Based Sentiment Dataset of Tourism Reviews in Central Java, Indonesia – Labeled Using Rule-Based Method
+
+Authors: Pramono, Basworo Ardi
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This dataset collection contains Google Reviews from ten tourist destinations located in Central Java, Indonesia, each manually annotated using a rule-based aspect-based sentiment analysis (ABSA) approach. The destinations include both cultural and recreational sites such as temples, mosques, beaches, historical landmarks, and family attractions.
+
+
+Each review has been labeled based on three primary tourism aspects:
+
+<ul>
+<li>Amenities</li>
+<li>Attractions</li>
+<li>Accessibility</li>
+</ul>
+
+In addition to the aspect category, each label is also assigned a sentiment polarity: Positive, Negative, or Neutral. This structured sentiment labeling enables detailed analysis of tourist perceptions and supports downstream tasks such as tourism recommender systems, public service evaluation, and sentiment-aware destination ranking.
+
+
+Included Destinations:
+
+<ul>
+<li>Borobudur Temple (borobudur_labeled.xlsx)</li>
+<li>Kota Lama Semarang (kotalama_labeled.xlsx)</li>
+<li>Lawang Sewu Museum (lawangsewu_labeled.xlsx)</li>
+<li>Masjid Agung Demak (masjid agung demak_labeled.xlsx)</li>
+<li>Owabong Water Park (owabong_labeled.xlsx)</li>
+<li>Pantai Jatimalang (pantai jatimalang_labeled.xlsx)</li>
+<li>Pantai Marina (pantai marina_labeled.xlsx)</li>
+<li>Prambanan Temple (prambanan_labeled.xlsx)</li>
+<li>Dusun Semilir (semilir_labeled.xlsx)</li>
+<li>Sunan Kalijaga Tomb (sunan kalijaga_labeled.xlsx)</li>
+</ul>
+
+Columns in Each Dataset File Include:
+
+<ul>
+<li>Author: Reviewer name</li>
+<li>Author Description: Reviewer level/status on Google</li>
+<li>Date: Timestamp of review</li>
+<li>Rating: Star rating (1&ndash;5)</li>
+<li>Review: Original review text</li>
+<li>Review_clean: Preprocessed text</li>
+<li>Labels: List of (Aspect, Sentiment) pairs using rule-based classification</li>
+</ul>
+
+Labeling Method:
+Reviews were labeled using rule-based pattern recognition, combining predefined tourism keywords with polarity detection rules in both Indonesian and English.
+
+
+Intended Use:
+
+<ul>
+<li>This dataset is designed for academic research and development in:</li>
+<li>Multilingual Aspect-Based Sentiment Analysis (ABSA)</li>
+<li>Tourism sentiment trend analysis</li>
+<li>Recommender Systems</li>
+<li>Smart tourism decision support systems (DSS)</li>
+</ul>
+

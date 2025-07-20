@@ -1,0 +1,14 @@
+Title: Semantic Segmentation of Nighttime Images Based on Cross-modal Domain Adaptation
+
+Authors: Jixing Huang, Yanhe Li, Yuchen Zhang, Xinyue Zhang, Xin-yue Zhang, Ruihan Qi
+
+Keywords: Nighttime Images Semantic Segmentation, All-weather Autonomous Perception, Event Cameras, Multimodal Cooperative Framework, Dual-branch Network, Cross-modal Contrastive Loss (CMCL), Hybrid Gaussian Kernel MMD Loss, Dynamic Confidence Screening (DCS), Pseudo-label Noise Suppression, Low-light Noise
+
+Publication date: 2025-06-03
+
+Description:
+Semantic segmentation of nighttime images is crucial for all-weather autonomous perception but faces challenges like low-light noise, motion blur, and cross-domain adaptation limitations. Traditional visible-light methods suffer from sensor constraints (60 dB dynamic range), causing information loss in extreme darkness (&lt;1 lux), while domain adaptation approaches degrade due to day-night noise distribution shifts. This work introduces event cameras (140 dB range, &mu;s-level response) to establish a multimodal cooperative framework. A dual-branch network decouples visible content features and event-based motion features, optimized by cross-modal contrastive loss (CMCL) and hybrid Gaussian kernel MMD loss for modality alignment and domain matching. A dynamic confidence screening (DCS) mechanism integrates optical flow consistency and Bayesian uncertainty to suppress pseudo-label noise (18.5% false detection reduction). Evaluations on DSEC/MVSEC datasets demonstrate 21.3% mIoU gain in extreme low-light, 34.5% boundary IoU improvement in blurred regions, and 14.2% superior cross-domain adaptation (day&rarr;night) over state-of-the-art methods. This framework offers a label-efficient and robust solution for nighttime autonomous driving systems, advancing multimodal sensing deployment.
+
+
+Contents:
+ - 10.pdf

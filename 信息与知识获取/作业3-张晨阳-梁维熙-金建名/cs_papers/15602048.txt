@@ -1,0 +1,15 @@
+Title: TEM Mitochondria Segmentation Dataset for Triple Negative Breast Cancer Chemotherapy Analysis
+
+Authors: Arriojas Maldonado, Argenis A, Baek, Mokryun, Berner, Mariah J., Zhurkevich, Alexander, Hinton, Jr., Antentor, Meyer, Matthew, Dobrolecki, Lacey, Lewis, Michael T., Zarringhalam, Kourosh, Echeverria, Gloria
+
+Keywords: Semantic Segmentation
+
+Publication date: 2025-06-05
+
+Description:
+This dataset contains transmission electron microscopy (TEM) images and corresponding semantic segmentation masks for mitochondria analysis in triple negative breast cancer samples. The data was used to train artificial intelligence models for automated evaluation of chemotherapy impact on mitochondrial morphology. Images are provided in TIFF format with matching segmentation masks for training deep learning models.
+
+
+Contents:
+ - tem-seg-data_slide_images.tar.gz
+ - tem-seg-data_mitochondria_masks.tar.gz

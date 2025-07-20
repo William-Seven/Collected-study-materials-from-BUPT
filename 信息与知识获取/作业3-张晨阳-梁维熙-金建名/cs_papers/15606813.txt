@@ -1,0 +1,14 @@
+Title: DEVELOPMENT AND VALIDATION OF PHYSICS COMICS IN SPORTS
+
+Authors: Maddawat, Hector L.
+
+Keywords: 
+
+Publication date: 2025-05-31
+
+Description:
+<span lang="EN-US">This study explored the development and evaluation of a contextually grounded instructional material, <em>Physics Comics </em></span><em><span lang="EN-GB">i</span></em><em><span lang="EN-US">n Sports </span></em><span lang="EN-US">(PCS), which is a printed supplementary learning tool intended for junior high school physics. The research employed a developmental evaluative research design, specifically following a modified analysis-design-develop-implement-evaluate model, with the exclusion of the implementation stage, in crafting four comic stories featuring the least mastered competencies (LMCs) in junior high school physics, in the context of sports, particularly blind sailing, basketball, skateboarding, and car racing. The said material is paired with learning guides that do not only exemplify possible utilization of</span><span lang="EN-US"> </span><span lang="EN-US">PCS as an instructional tool in the classroom but show how this narrative-driven material can foster critical thinking, collaboration, and genuine curiosity about how science operates in the world around us, nurturing a classroom culture where scientific knowledge is not only learned but lived. Using the DepEd&rsquo;s quality assurance tool for new print developed materials in validating</span><span lang="EN-US"> </span><span lang="EN-US">PCS, results from the validation of experts indicate that despite minor issues related to grammar and typography, these did not significantly impact the overall pedagogical value and integrity of the material, thus, the overall passing remark. Results highlighted that</span><span lang="EN-US"> </span><span lang="EN-US">PCS can serve as a reliable and innovative supplementary tool to enhance physics instruction. Given the results, revisions on identified areas of concern, implementation in an actual classroom, and additional cycles of evaluation from experts are highly recommended, in hopes of further strengthening the integrity and educational value of the developed Physics comics in sports. </span>
+
+
+Contents:
+ - PHYSICS COMICS IN SPORTS.pdf

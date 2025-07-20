@@ -1,0 +1,122 @@
+Title: Starter Pack and validation scripts for the Monte-Carlo-based urban radiative transfer model described in "Model of Spectral and Directional Radiative Transfer in Complex Urban Canopies with Participating Atmospheres", submitted to Boundary-Layer Meteorology
+
+Authors: Caliot, Cyril, Schoetter, Robert, Forest, Vincent, Eymet, Vincent, Chung, Tin-Yuet
+
+Keywords: Reference Monte-Carlo method; Solar radiation; Thermal infrared radiation; Three-dimensional radiative transfer; Urban form
+
+Publication date: 2025-05-26
+
+Description:
+
+The htrdr_urban Starter Pack contains data and scripts necessary to reproduce the results of the scientific article
+"Model of Spectral and Directional Radiative Transfer in Complex Urban Canopies with Participating Atmospheres" submitted to Boundary-Layer Meteorology by Caliot, C., R. Schoetter, V. Forest, V. Eymet, and T.-Y. Chung (BOUN-D-22-00034).
+
+
+The corresponding htrdr program can be downloaded from https://gitlab.com/edstar/htrdr and needs to be installed before executing the scripts provided in the present publication.
+
+
+The htrdr_urban Starter Pack is strongly inspired from the High-Tune Starter Pack, which can be downloaded from
+http://meso-star.com/projects/htrdr/htrdr-atmosphere-spk.html
+
+
+## Content
+
+
+### Atmospheric profile
+
+
+The `ecrad_opt_prop.txt` file defines the gas optical properties provided for the pressure and temperature atmospheric vertical profile. These data were generated with the [ECRAD](https://www.ecmwf.int/en/elibrary/16901-ecrad-new-radiation-scheme-ifs) software and are saved according to the [High-Tune: Gas Optical Properties file
+format](https://www.meso-star.com/projects/high-tune/downloads/gas_opt_prop_en.pdf). This file is identical to the one provided with the High-Tune Starter Pack.
+
+
+### Clouds
+
+
+This folder is empty, but might be enriched with cloud fields similar to those included in the High-Tune Starter Pack, in the case simulations with cities under a cloudy atmosphere shall be conducted.
+
+
+### Water droplets properties
+
+
+The `Mie_LUT_Cloud-2-10-0.010.nc` file stores the spectro-angular tabulation of water droplets optical properties computed using the [Mishchenko et al. (2002)](https://pubs.giss.nasa.gov/abs/mi06300n.html) implementation of the Lorenz-Mie solution for light scattering by homogeneous spherical particles. The monodisperse solution was integrated over a log-normal droplet size distribution of effective radius 10 micrometers and effective variance 0.01 micrometers. This NetCDF file is formatted according to the [High-Tune:Mie](https://gitlab.com/meso-star/htmie.git) file format. This file is identical to the one provided with the High-Tune Starter Pack.
+
+
+### Ground and human geometries
+
+
+The `models` subdirectory contains ground geometries saved in the [htrdr-obj](https://www.meso-star.com/projects/high-tune/man/man5/htrdr-obj.5.html) file format. In addition to the urban geometries, two potential human geometries are provided. The file "sphere_1cm_for_evaluation_of_optmrt0.obj" is a small sphere of 1 cm radius.
+The file "cylinder_for_human_body_representation.obj" is a cylinder with 1 m height and 0.14 m radius.
+In the models folder, execute "cp sphere_1cm_for_evaluation_of_optmrt0.obj human.obj" to use the sphere and "cp cylinder_for_human_body_representation.obj human.obj" to use the cylinder.
+
+
+### Ground materials
+
+
+The `materials/legacy` subdirectory regroups various [MruMtl](https://www.meso-star.com/projects/high-tune/man/man5/mrumtl.5.html) files representing materials whose spectral properties have been collected /
+inferred from available public sources: handbooks, manufacturer web sites, and public databases such as the [USGS High Resolution Spectral Library](https://www.usgs.gov/energy-and-minerals/mineral-resources-program/science/usgs-high-resolution-spectral-library). Various sources have most of the time been necessary in order to gather data over the whole thermal infrared range.
+
+
+The MruMtl files contained in the `materials/slum` subdirectory are generated from the Spectral Library of impervious Urban Materials ([SLUM](https://zenodo.org/record/4263842)) developped by [S. Kotthaus et
+al.](https://www.sciencedirect.com/science/article/pii/S0924271614001233)
+
+
+Finally, a set of [htrdr-materials](https://www.meso-star.com/projects/high-tune/man/man5/htrdr-materials.5.html)
+are stored in the `materials` directory.
+
+
+## Basic testing of htrdr_urban
+
+
+The file RUN_HTRDR_URBAN_BASIC_TESTS.txt contains the commands to run simple examples of the main features of htrdr_urban:
+- Maps of shortwave radiative flux density
+- Maps of longwave radiative flux density
+- Shortwave radiative flux density incident on a triangle group
+- Longwave radiative flux density incident on a triangle group
+- Shortwave radiative flux density absorbed by a triangle group
+- Longwave radiative flux density absorbed by a triangle group
+- Map of shortwave irradiance of a sphere (for Mean Radiant Temperature)
+- Map of longwave irradiance of a sphere (for Mean Radiant Temperature)
+- Map of shortwave radiative&nbsp; flux density incident on human.obj (for Mean Radiant Temperature)
+- Map of longwave radiative flux density incident on human.obj (for Mean Radiant Temperature)
+
+
+The results will be saved in ./results/
+and must be indentical to those in ./results_reference/
+If this is not the case, please contact robert.schoetter@meteo.fr
+
+
+## Reproducing the results of Caliot et al. "Model of Spectral and Directional Radiative
+## Transfer in Complex Urban Canopies with Participating Atmospheres" submitted to
+## Boundary-Layer Meteorology by Caliot, C., R. Schoetter, V. Forest,
+## V. Eymet, and T.-Y. Chung (BOUN-D-22-00034).
+
+
+The scripts "RUN_PHOTOS_Caliot_etal_Figure2.py" and "RUN_PHOTOS_Caliot_etal_Figure5.py"
+can be used to reproduce the photos in Figure 2 and Figure 5 of Caliot et al., respectively.
+The photos are stored in ./photos.
+
+
+The script RUN_HTRDR_VALIDATION_STREETCANYON.py can be used to conduct the htrdr simulations for idealised streetcanyon geometries with different materials, whose results are displayed in Figures 3 and 4 and Table 2 of Caliot et al. The script is designed not to overwrite old results, they must be deleted to repeat the simulations.
+
+
+The script RUN_HTRDR_VALIDATION_REALCITY.py can be used to conduct the htrdr simulations for real cities, whose results are displayed in Tables 3 and 4 of Caliot et al. The script is designed not to overwrite old results, they must be deleted to repeat the simulations.
+
+
+The script HTRDR_URBAN_VALIDATION.R serves to combine the htrdr results produced by RUN_HTRDR_VALIDATION_STREETCANYON.py and RUN_HTRDR_VALIDATION_REALCITY.py with the
+TEB output (stored in ./results_teb) to produce the Figures 3 and 4 of Caliot et al (stored in ./plots) and to calculate the values in the Tables 2, 3, and 4 of Caliot et al. (stored in ./residuals).
+
+
+This version includes an improved .obj file of the human body (./models/cylinder_for_human_body_representation.obj).
+
+
+This work received financial support from the French Agency for ecological transition ADEME (project MODRADURB-1917C001). Partial financial support was received from UPPA-E2S Initiatives Grants.
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+Contents:
+ - Urban-Starter-Pack.tar.gz

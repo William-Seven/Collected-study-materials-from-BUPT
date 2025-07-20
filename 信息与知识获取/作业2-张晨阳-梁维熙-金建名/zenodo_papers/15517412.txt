@@ -1,0 +1,18 @@
+Title: Dataset for Strong coupling in mechanically flexible free-standing organic membranes
+
+Authors: Georgiou, Kyriacos
+
+Keywords: 
+
+Publication date: 2024-01-01
+
+Description:
+
+Datasets for the figures used in the manuscript by Georgiou et al. Strong coupling in mechanically flexible free-standing organic membranes, J. Chem. Phys. 159, 234303 (2023).
+
+
+Contents:
+ - Dataset of Strong coupling in mechanically flexible free-standing organic membranes - Fig 3 - Membrane Polaritons.xlsx
+ - Dataset of Strong coupling in mechanically flexible free-standing organic membranes - Fig4 - Strong to Weak Coupling - Limits - Q Factors.xlsx
+ - Dataset of Strong coupling in mechanically flexible free-standing organic membranes - Fig1 - Bare films.xlsx
+ - Dataset of Strong coupling in mechanically flexible free-standing organic membranes - Fig 2 - Film Abs - Efield - Ref index.xlsx

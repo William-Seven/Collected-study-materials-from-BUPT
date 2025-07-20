@@ -1,0 +1,14 @@
+Title: A machine learning approach to predicting the outcome of football matches
+
+Authors: Parkes, Oliver
+
+Keywords: 
+
+Publication date: 2023-08-24
+
+Description:
+In this dissertation we will present a study which concerns predicting football (soccer)&nbsp;matches using a large dataset. We will employ machine learning methods such as K-Nearest&nbsp;Neighbour, Random Forests, Support Vector Machine and logistic regression in models as&nbsp;a tool for predicting football match outcomes. These methods will be applied to a dataset&nbsp;of football matches from Europe&rsquo;s top five leagues (England, France, Germany, Italy and&nbsp;Spain) from the 2017-18 season up to the 2021-2022 season. The dataset includes various&nbsp;types of match-level statistics like the result, total number of shots and expected goals (xG).&nbsp;The performance of our models are then compared against bookmaker&rsquo;s predictions, as well&nbsp;as leading models that arose from the literature. The study revealed that features related to a&nbsp;team&rsquo;s historic strength and recent form were the most important variables when predicting&nbsp;match outcomes. It also found that a support vector machine trained on the original trainingset scored the highest accuracy score of 0.5221, whilst a support vector machine trained on&nbsp;data with balanced classes achieved the lowest accuracy of all the models, but the highest F1&nbsp;score of 0.46. This trend was observed in comparisons between all models where the model&nbsp;trained on data with balanced classes achieved higher F1 score, but lower accuracy scores&nbsp;when compared to the same model trained on the original data with imbalanced classes.
+
+
+Contents:
+ - MachineLearningApproachToSoccerPrediction_02_00.pdf

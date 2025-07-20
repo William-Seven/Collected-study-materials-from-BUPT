@@ -1,0 +1,15 @@
+Title: Stabilization and Performance Analysis of an Inverted Pendulum using Classical and Intelligent Control Techniques
+
+Authors: Shrutosom Mukherjee
+
+Keywords: Control Effort, Fuzzy Logic Control, Inverted Pendulum, LQR, MPC, Robustness
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract:</strong> The inverted pendulum system is a classical control theory benchmark known for its nonlinear and unstable dynamics. This paper presents a comparative study of three advanced control strategies: Linear Quadratic Regulator (LQR), Model Predictive Control (MPC), and Fuzzy Logic Control (FLC) for stabilizing an inverted pendulum system. Each controller is designed to stabilize the pendulum upright while minimizing the cart displacement. Performance is evaluated based on settling time, rise time, steady-state error, and control effort under nominal and perturbed conditions, including varying pendulum mass and initial angle. Results indicate that while LQR offers a fast response, it demands high control energy. MPC ensures precise tracking but is computationally intensive. FLC provides a robust and energy-efficient balance, making it ideal for uncertain environments
+
+
+Contents:
+ - F109214060525.pdf

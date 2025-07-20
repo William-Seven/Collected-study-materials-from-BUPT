@@ -1,0 +1,16 @@
+Title: Brain MRI Enhancement using Butterworth Filtering and Autoencoders
+
+Authors: Kavita Singh, Rajesh Kumar, Tulika Narang
+
+Keywords: Image enhancement, butterworth filter, frequency response, cutoff frequency, filter order, MRI.
+
+Publication date: 2025-06-03
+
+Description:
+<em><span lang="EN-IN">This paper focuses on the utilization of the Butterworth filter and autoencoders to enhance the quality and interpretability of MRI (Magnetic Resonance Imaging) images. It delves into the comparative analysis of two design techniques, Analog filter design and Pole Zero Placement method, to gauge the effectiveness of the Butterworth filter. Additionally, autoencoders are employed to further refine the images by learning optimal feature representations and reducing artifacts. The research relies on several quantitative evaluation metrics, such as Mean Squared Error (MSE), Peak Signal-to-Noise Ratio (PSNR), Contrast Enhancement Measure (CEM), Structural Similarity Index (SSIM), and Entropy, to assess image enhancement quality and juxtapose the results with other enhancement methodologies. The filter&rsquo;s parameters, including the cutoff frequency and filter order, are meticulously adjusted to optimize the enhancement outcomes. The study underscores the practicality of combining the Butterworth filter and autoencoders for image enhancement, demonstrating their ability to selectively augment specific frequency components while preserving crucial image details, resulting in heightened image quality and more discernible visuals.</span></em>
+
+<em><span lang="EN-IN">&nbsp;</span></em>
+
+
+Contents:
+ - Brain MRI Enhancement using Butterworth -Formatted Paper.pdf

@@ -1,0 +1,250 @@
+Title: Reproduction Package for ASE 2025 submission "Synthesis of Precise Error Conditions"
+
+Authors: Anonymous
+
+Keywords: 
+
+Publication date: 2025-05-30
+
+Description:
+<h1>Reproduction Package for the Paper &ldquo;Synthesis of Precise Error Conditions&rdquo;</h1>
+<h2>Abstract</h2>
+This artifact is a reproduction package for the paper &ldquo;Synthesis of Precise Error Conditions&rdquo; which has been submitted to ASE 2025.
+
+It consists of all executables, input data and results required to reproduce the experiments. In particular it also contains the original results of the paper and a way to generate the plots in the paper from it.
+
+We run the experiments using 8 cores and 31 GB of memory for at most 200 minutes (CPU time). In the artifact we reduce the limits to 4 cores and 8GB of memory. While the reduction of cores will only affect the results related to the Wall Time (RQ2, RQ3, RQ4), the reduced memory limit might lead to more out-of-memory exceptions in this artifact affecting all results.
+
+A full reproduction of the experiments requires roughly <strong>2 years</strong> of CPU time. For demonstration purposes, a subset of tasks has been selected which should take at most 1 day to complete and will likely finish sooner. To test that everything is working as intended, we provide a configuration that terminates within ~5 minutes.
+
+The reproduction package can be found in <a href="https://doi.org/10.5281/zenodo.15557908">Zenodo</a>.
+
+<h2>Contents</h2>
+This artifact contains the following items:
+
+
+<code>README.md</code>: This file.
+<code>benchmark-defs/*.xml.template</code>: Templates to generate benchmark definition files for running the experiments using BenchExec.
+<code>benchmark-defs/set_tasks.py</code>: Script to change the tasks to be run in the xml files.
+<code>benchmark-defs/tasks*.txt</code>: Sets of tasks
+
+<code>benchmark-defs/tasks-all.txt</code>: All tasks used to produce the results in the paper.
+<code>benchmark-defs/tasks-subset.txt</code>: Subset of the tasks used in the paper.
+<code>benchmark-defs/tasks-one.txt</code>: Two tasks used only for the smoke test of the Artifact.
+
+
+<code>data-analysis</code>: Scripts and definitions to produce the CSV files used to generate the plots in the paper.
+<code>config.sh</code>: Configs with parameters for BenchExec.
+<code>Makefile</code>: Makefile to run the experiments.
+<code>results-paper</code>: Raw results of the experiments presented in the paper.
+<code>License.txt</code>: License information for the artifact.
+<code>sv-benchmarks</code>: The SV-COMP25 benchmarks, without tasks and programs which were not used in the experiments in order to make the artifact smaller.
+<code>2025-05-31_submission_ASE25.pdf</code>: The paper as submitted to ASE25.
+Tools
+
+<code>CPAchecker</code>: CPAchecker version <code>Removed for Anonimity</code> in the folder <code>cpachecker</code>.
+<code>DescribErr</code>: DescribErr version <code>Removed for Anonimity</code>
+<code>BenchExec</code>: BenchExec version <a href="https://github.com/sosy-lab/benchexec/releases/tag/3.29">3.29</a> in the folder <code>benchexec</code>.
+
+
+
+This ReadMe contains the following sections to help the user to reproduce the experiments:
+
+
+TL;DR: A quick guide to reproduce the experiments and analyze the data.
+Environment: Describes the environment in which the artifact was tested and can be run.
+Example from the paper: A short description on how to execute example presented in the paper
+Experiments: Describes how to execute the experiments and generate the results.
+Results: Describes where the results can be found and how to analyze them.
+Known Issues: Describes known issues when executing the artifact.
+
+<h2>IMPORTANT: Terms Soundness and Completeness in DescribErr</h2>
+DescribErr internally uses the words <code>overapproximating</code> and <code>underapproximating</code> for <code>sound</code> and <code>complete</code>, respectively.
+
+<h2>TL;DR</h2>
+We tested the artifact inside the <a href="https://zenodo.org/records/7113223">TACAS23 VM</a> (Ubuntu 22.04) with username and password being <code>tacas23</code>. To run DescribErr on single examples, 4 cores and 8GB of RAM are sufficient (cf.&nbsp;Section &lsquo;Example from the paper&rsquo;).
+
+<ol>
+Extract the files in the provided ZIP archive to an arbitrary directory and open a terminal inside it.
+Setup the environment of the VM using <code>./setup_vm.sh</code> (requires root and will reboot your system).
+Set the environment variables:
+</ol>
+
+<code>source config_clean_vm.sh</code>: if full read/write access for all tools to <code>/home</code> is fine (recommended in the TACAS VM)
+<code>source config.sh</code>: if you have a overlayfs in version 1.10 or newer installed
+
+<ol>
+Optional: Run DescribErr on the motivating example on the paper with <code>make paper-example</code>
+Choose one of the following sets of tasks to run
+
+<code>make setup-benchmark</code>: Reproduce all results in our paper on your machine (takes about 2 years of CPU time, requires 8 cores and 31GB of RAM). We strongly discourage from running this inside the VM.
+<code>make setup-benchmark-vm</code>: Reproduce all results in our paper on your machine (takes about 2 years of CPU time, requires 4 cores and 8GB of RAM; final results might differ because of reduced resources).
+<code>make setup-subset</code>: Reproduce the results on a representative subset of our tasks (takes ~1 day and requires only 8 GB of RAM).
+<code>make setup-testing</code>: Smoke test the VM and the setup (takes ~5 min and requires only 8 GB of RAM).
+
+
+Run <code>make experiments</code> to run the experiments for CPAchecker and DescribErr. If you do not want to re-run the experiments in the paper, but continue the pipeline using our results execute <code>cp -r results-paper results</code>.
+Run <code>make process-results</code> to generate the results as HTML tables, raw CSV and plots used in the paper. Find them here: <code>results/output</code>.
+</ol>
+<h2>Environment</h2>
+The easiest way to use this artifact is using the <a href="https://zenodo.org/records/7113223">TACAS23 VM</a>, copying the contents of the artifact to the VM, and setting it up by using <code>./setup_vm.sh</code> inside the root directory of the artifact (i.e., <code>setup_vm.sh</code> is visible). This should work for any clean Ubuntu VM.
+
+To run the artifact <code>BenchExec</code>, <code>Python &gt;= 3.8</code>, and <code>Java &gt;= 17</code> are required. Additionally the python packages <code>matplotlib==3.10.3</code>, <code>scipy==1.15.3</code>, <code>pandas==2.2.3</code>, <code>venny4py==1.0.3</code>, <code>pyyaml==6.0.2</code>, and <code>seaborn==0.13.2</code> are required to generate the plots. Script <code>setup_vm.sh</code> takes care of their installation. A restart of the system is required.
+
+Inside a clean VM, please see the documentation of the respective tools for installation hints. A non-exhaustive list of required packages: * <code>CPAchecker</code>: Java 17 * <code>DescribErr</code>: Python 3.10
+
+<strong>NOTE:</strong> We assume that all of the following commands are executed from inside the root directory of the artifact!
+
+<h2>Example from the paper</h2>
+The motivating example of the paper can be found under: <a><code>describerr/examples/primefactors-example.c</code></a>
+
+To find the precise error condition <code>x % -4 == 0 || (-128 &lt; x &amp;&amp; x &lt;= 0)</code> for it you can use the custom configuration <code>./describerr/examples/primefactors-config.yml</code>. In the interest of time, we restrict the config to only consider <code>==</code> as relation operator and <code>%</code> as arithmetic operator. We also showcase the extensibility of DescribErr by running a parallel portfolio of the verifiers <code>CPAchecker</code> and <code>CBMC</code> as validator for this example. The following command line shows how to execute the motivating example from the shell:
+
+<pre><code>./describerr/describ-err.py --program describerr/examples/primefactors-example.c ./describerr/examples/primefactors-config.yml</code></pre>
+Please be aware that this may take up to 45 minutes.
+
+DescribErr uses the word <code>overapproximating</code> in the logs if it was able to prove an error condition to be sound. Analogously, it uses the word <code>underapproximating</code> in the logs if it was able to prove an error condition to be complete.
+
+You should see an output similar to the following:
+
+<pre><code>2025-03-26 18:10:26 - INFO - Run DescribErr with configuration describerr/examples/primefactors-config.yml
+2025-03-26 18:10:26 - INFO - Using data model ILP32.
+2025-03-26 18:10:26 - INFO - Reading specification from /data/scratch/lingsch/idefix-all/idefix-artifact/describerr/examples/unreach-call.prp.
+2025-03-26 18:10:26 - INFO - Reading program from describerr/examples/primefactors-example.c.
+2025-03-26 18:10:40 - INFO - Executing action 'run_cegis'.
+2025-03-26 18:10:40 - WARNING - Did not find an EmptyErrorConditionGenerator. Programs without nondeterministic variables will not be solved correctly.
+2025-03-26 18:10:40 - INFO - Starting CEGIS loop to generate error conditions.
+2025-03-26 18:10:56 - INFO - Generated 8 error conditions. Entering refinement loop...
+2025-03-26 18:10:56 - INFO - Validating 8 error conditions in parallel
+2025-03-26 18:10:57 - INFO - Validating template-state error condition {63: (x % -128) == -127} in parallel
+2025-03-26 18:10:57 - INFO - Validating unsafe-interval-state error condition {63: (1 &lt; x)} in parallel
+2025-03-26 18:10:57 - INFO - Validating safe-counterexample-state error condition {63: 1} in parallel
+2025-03-26 18:10:57 - INFO - Validating template-state error condition {63: ((x % -128) == -127) || ((1 &lt;= x) &amp;&amp; (x &lt;= 0))} in parallel
+2025-03-26 18:10:57 - INFO - Validating unsafe-counterexample-state error condition {63: 0} in parallel
+2025-03-26 18:10:57 - INFO - Validating unsafe-interval-state error condition {63: (x &lt; 1)} in parallel
+2025-03-26 18:10:57 - INFO - Validating template-state error condition {63: ((x % -128) == -127) &amp;&amp; ((-128 &lt;= x) &amp;&amp; (x &lt;= 0))} in parallel
+2025-03-26 18:10:57 - INFO - Validating template-state error condition {63: (x % -128) == -127} in parallel
+2025-03-26 18:11:04 - INFO - Error condition {63: 0} is underapproximating and not overapproximating
+2025-03-26 18:11:04 - INFO - Error condition {63: ((x % -128) == -127) || ((1 &lt;= x) &amp;&amp; (x &lt;= 0))} is underapproximating and not overapproximating
+2025-03-26 18:11:04 - INFO - Error condition {63: ((x % -128) == -127) &amp;&amp; ((-128 &lt;= x) &amp;&amp; (x &lt;= 0))} is underapproximating and not overapproximating
+2025-03-26 18:11:04 - INFO - Error condition {63: (x % -128) == -127} is underapproximating and not overapproximating
+2025-03-26 18:11:04 - INFO - Error condition {63: 1} is not underapproximating and overapproximating
+2025-03-26 18:11:04 - INFO - Error condition {63: (x &lt; 1)} is underapproximating and not overapproximating
+2025-03-26 18:11:05 - INFO - Error condition {63: (x % -128) == -127} is underapproximating and not overapproximating
+2025-03-26 18:11:06 - INFO - Error condition {63: (1 &lt; x)} is not underapproximating and not overapproximating
+... &lt;SNIP&gt; ...
+2025-03-26 18:28:27 - WARNING - CPAchecker did not terminate within the time limit (900)
+2025-03-26 18:28:42 - WARNING - Program could not be verified by CPAchecker
+Console:
+Running CPAchecker with Java heap of size 15000M.
+Running CPAchecker with default stack size (1024k). Specify a larger value with --stack if needed.
+Verification result: UNKNOWN, incomplete analysis.
+More details about the verification run can be found in the directory "/tmp/tmp04orx25n".
+
+
+Error:
+Language C detected and set for analysis (CPAMain.detectFrontendLanguageIfNecessary, INFO)
+
+Using the following resource limits: CPU-time limit of 900s (ResourceLimitChecker.fromConfiguration, INFO)
+
+CPAchecker 3.1-svn-48052 / predicateAnalysis (OpenJDK 64-Bit Server VM 21.0.4) started (CPAchecker.run, INFO)
+
+Parsing CFA from file(s) "/tmp/tmp0183xqd4.c" (CPAchecker.parse, INFO)
+
+Using predicate analysis with MathSAT5 version 5.6.10 (9293adc746be) (May 31 2023 12:38:06, gmp 6.2.0, gcc 7.5.0, 64-bit, reentrant) and JFactory 1.21. (PredicateCPA:PredicateCPA.&lt;init&gt;, INFO)
+
+Using refinement for predicate analysis with PredicateAbstractionRefinementStrategy strategy. (PredicateCPA:PredicateCPARefiner.&lt;init&gt;, INFO)
+
+Starting analysis ... (CPAchecker.runAlgorithm, INFO)
+
+Shutdown requested (The CPU-time limit of 900s has elapsed.), waiting for termination. (ForceTerminationOnShutdown$1.shutdownRequested, WARNING)
+
+Warning: Analysis interrupted (The CPU-time limit of 900s has elapsed.) (ShutdownNotifier.shutdownIfNecessary, WARNING)
+
+
+2025-03-26 18:28:42 - WARNING - CPAchecker did not terminate within the time limit (900)
+2025-03-26 18:30:43 - INFO - Error condition {63: ((x % -4) == 0) || ((-128 &lt;= x) &amp;&amp; (x &lt;= 0))} is underapproximating and overapproximating
+2025-03-26 18:30:43 - INFO - Found 1 precise error condition: ['TemplateState({63: ((x % -4) == 0) || ((-128 &lt;= x) &amp;&amp; (x &lt;= 0))})']
+[RUN_CEGIS] SUCCESS: Found 1 precise error condition.</code></pre>
+Note, that the resulting formula might look different but should be equisatisfiable to the one above.
+
+<h2>Experiments</h2>
+<h3>Setup</h3>
+Run <code>source config.sh</code> (needs to be repeated every time a new shell is opened).
+
+<h3>Benchmark Selection</h3>
+Depending on your available resources you can select different sets of benchmarks to execute the tools on. You have the following options:
+
+
+A quick test with two files, which can be useful to test that the artifact is behaving as intended. To select it use <code>make setup-testing</code>. Executing this benchmark set should take ~5 minutes.
+A subset of the tasks used for the benchmarks in the paper. To select it use <code>make setup-subset</code>. Executing this benchmark set should take around 1 day.
+The full benchmark set used in the experiments. To select it use <code>make setup-benchmark</code> to run it with the original resource limits of 31GB RAM and 8 cores (or <code>make setup-benchmark-vm</code> to run it with 4 cores and 8GB of RAM). Executing this benchmark set will take around 2 years of CPU Time.
+
+<h3>Running the Experiments</h3>
+To run all experiments sequentially execute <code>make experiments</code>. This is a make target encompassing the following experiments, each represented as a make target:
+
+
+<code>experiment-cpachecker-verification-svcomp25</code>: Executes CPAchecker on the benchmarks selected using predicate analysis. This is the same analysis which DescribErr uses internally for validating the error conditions in our experiments.
+<code>experiment-describerr-template</code>: Executes the template analysis of DescribErr.
+<code>experiment-describerr-template-daikon</code>: Executes the template analysis of DescribErr boosted with the error condition candidates generated by DAIKON.
+<code>experiment-describerr-interval</code>: Executes the interval analysis of DescribErr.
+<code>experiment-describerr-interval-daikon</code>: Executes the interval analysis of DescribErr boosted with error condition candidates generated by DAIKON which are in the form of an interval.
+<code>experiment-describerr-counterexample</code>: Executes the counterexample analysis of DescribErr.
+
+All experiments are run using BenchExec in order to ensure reliable benchmarks.
+
+After running <code>make experiments</code> for a minute, the output should look similar to this for <code>experiment-cpachecker-verification-svcomp25</code>:
+
+<pre><code>./check_configured.sh
+&gt;&gt; experiment-cpachecker-verification-svcomp25
+cp ./benchmark-defs/cpachecker.xml experiment-cpachecker-verification-svcomp25.xml
+sed -i "s@||CONFIG||@--predicateAnalysis@g" experiment-cpachecker-verification-svcomp25.xml
+./benchexec/bin/benchexec --tool-directory cpachecker --read-only-dir=/                          --overlay-dir=/home experiment-cpachecker-verification-svcomp25.xml
+...
+2025-03-24 19:06:50,362 - WARNING - No files found matching './sv-benchmarks/c/aws-c-common/aws_string_new_from_string_harness_negated.yml'.
+2025-03-24 19:06:50,364 - WARNING - No files found matching './sv-benchmarks/c/ldv-linux-4.0-rc1-mav/linux-4.0-rc1---drivers--scsi--megaraid.ko.cil.yml'.
+2025-03-24 19:06:50,365 - WARNING - No files found matching './sv-benchmarks/c/openbsd-6.2/if_etherip-unreach-call.yml'.
+2025-03-24 19:06:50,793 - WARNING - Input file with name 'implicitfloatconversion.yml' appears twice in run definition. This could cause problems with equal logfile-names.
+2025-03-24 19:06:51,047 - WARNING - Ignoring specified resource requirements in local-execution mode, only resource limits are used.
+2025-03-24 19:06:51,051 - INFO - Unable to find pqos_wrapper, please install it for cache allocation and monitoring if your CPU supports Intel RDT (cf. https://gitlab.com/sosy-lab/software/pqos-wrapper).
+
+executing run set 'unreach_call'     (255 files)
+2025-03-24 19:06:51,102 - INFO - LXCFS is not available, some host information like the uptime leaks into the container.
+19:06:51   bitvector-regression/implicitfloatconversion.yml                                                                                                             false(unreach-call)          4.11    1.72
+19:06:52   bitvector-regression/implicitunsignedconversion-1.yml                                                                                                        false(unreach-call)          4.15    1.74
+19:06:54   bitvector-regression/integerpromotion-3.yml                                                                                                                  false(unreach-call)          4.11    1.67
+19:06:56   bitvector-regression/signextension-1.yml                                                                                                                     false(unreach-call)          4.31    1.72
+19:06:58   bitvector-regression/signextension2-2.yml                                                                                                                    false(unreach-call)          4.35    1.78
+19:07:00   float-newlib/double_req_bl_1210.yml                                                                                                                          false(unreach-call)          5.11    2.34
+19:07:03   float-newlib/double_req_bl_1232b.yml                                                                                                                         false(unreach-call)          5.03    1.99
+19:07:05   float-newlib/double_req_bl_1252b.yml                                                                                                                         false(unreach-call)          4.98    2.02</code></pre>
+<h2>Results</h2>
+<h3>Generating the Results</h3>
+Once you ran all experiments execute <code>make process-results</code> to generate the results as HTML tables, raw CSV and plots used in the paper. You will find them here: <code>results/output</code>.
+
+<h2>Known Issues</h2>
+<h3>Warnings</h3>
+<h4>Overheating</h4>
+During the execution of the experiments, a warning may appear which tells us that the CPU was throttled due to overheating. This affects the time measurements in the results, but should not happen when reproducing the results outside a VM.
+
+<pre><code>2025-XX-XX XX:XX:XX - WARNING - CPU throttled itself during benchmarking due to overheating. Benchmark results are unreliable!</code></pre>
+<h4>Overlayfs</h4>
+During the execution of the experiments, a warning may appear which tells us that the home directory should be given as an overlay or hidden. Currently it is not possible to do neither of those inside the TACAS23 VM due to its old overlayfs and due to not knowing the path to the folder where the artifact is being executed.
+
+<pre><code>2025-XX-XX XX:XX:XX - WARNING - Home directory in container should be /home/benchexec but this directory cannot be created due to directory mode of parent directory. It is recommended to use '--overlay-dir /home' or '--hidden-dir /home' and overwrite directory modes for subdirectories where necessary.</code></pre>
+<h4>Resource Requirements</h4>
+During the execution of the experiments, a warning may appear which tells us that the resource requirements are being ignored. This only means that the resource requirements regarding CPU model are being ignored, this has no effect on the benchmarking.
+
+<h3>Errors</h3>
+<h4>Overlay</h4>
+When BenchExec tries to create an overlay mount while there is a shared folder mounted inside the VM, the following error may occur:
+
+<pre><code>2025-XX-XX XX:XX:XX - ERROR - Failed to create overlay mount for /home/...: invalid argument ...</code></pre>
+In this case, the shared folder should be unmounted and the experiments should be run again.
+
+<h4>C Groups</h4>
+If BenchExec is unable to use C groups to benchmark and you have already run <code>./setup_vm.sh</code> then a restart of the VM will help make BenchExec work as intended.
+
+
+Contents:
+ - synthesis-of-precise-error-conditions_ASE25_submission.zip

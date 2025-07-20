@@ -1,0 +1,13 @@
+Title: CloudnetPy: A Python package for processing cloud remote sensing data
+
+Authors: Tukiainen, Simo, Siipola, Tuomas, Anniina, Korpinen, O'Connor, Ewan
+
+Keywords: Python, cloud radar, lidar, microwave radiometer, remote sensing
+
+Publication date: 2025-05-26
+
+Description:
+CloudnetPy is Python software designed for producing vertical profiles of cloud properties from ground-based remote sensing measurements.
+
+Contents:
+ - actris-cloudnet/cloudnetpy-v1.78.0.zip

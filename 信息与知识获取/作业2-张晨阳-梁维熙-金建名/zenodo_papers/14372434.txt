@@ -1,0 +1,16 @@
+Title: Single-Cell Transcriptome/VDJ from Parkinson peripheral immune cells
+
+Authors: Audet, Sebastien, Moquin-Beaudry, Gael, Andriamboavonjy, Lovatiana, Tetreault, Martine
+
+Keywords: 
+
+Publication date: 2025-01-01
+
+Description:
+
+Single-cell sequencing of human peripheral blood mononuclear cells (PBMC) isolated from 10 healthy control individuals, 14 sporadic Parkinson (PD) individuals, 3 multiple system atrophy (MSA) individuals, and 3 progressive supranuclear palsy (PSP) individuals. Samples were age and sex-matched, and 5-plexed before library was prepared according to 10X Genomics 5' v1.1 kit recommendations. In parallel to the transcriptome libraries (GEX), libraries of T-cell receptor variable regions (VDJ) were prepared for the same cells. Both libraries were processed with the Chromium Next GEM Chip G lanes prior to sequencing with a NovaSeq 6000 S4 (Illumina) sequencer, which generated 6 mixed fastq per library.
+
+
+Contents:
+ - scPD_AllCells_Annotated.rds
+ - VDJ_AllCells_Annotated.rds

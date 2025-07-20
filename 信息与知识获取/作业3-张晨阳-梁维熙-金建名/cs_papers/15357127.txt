@@ -1,0 +1,50 @@
+Title: Interpretable machine learning for atomic scale magnetic anisotropy in quantum materials
+
+Authors: Navrátil, Jan, Topolnicki, Rafał, Otyepka, Michal, Błoński, Piotr
+
+Keywords: 
+
+Publication date: 2025-05-18
+
+Description:
+N/A
+
+Contents:
+ - _MainText.pdf
+ - _SupplementaryInformation.pdf
+ - FigS10.zip
+ - FigS14.zip
+ - FigS15.zip
+ - FigS16.zip
+ - Table1.zip
+ - TableS4.zip
+ - FigS5.zip
+ - Table2.zip
+ - FigS7.zip
+ - FigS3.zip
+ - FigS9.zip
+ - FigS13.zip
+ - Table3.zip
+ - Fig1.zip
+ - TableS9.zip
+ - Fig2.zip
+ - FigS1.zip
+ - FigS12.zip
+ - FigS6.zip
+ - TableS1.zip
+ - FigS8.zip
+ - FigS4.zip
+ - TableS8.zip
+ - Fig3.zip
+ - TableS7.zip
+ - Fig4.zip
+ - TableS2.zip
+ - FigS2.zip
+ - TableS3.zip
+ - TableS5.zip
+ - TableS10.zip
+ - FigS11.zip
+ - Table4.zip
+ - TableS6.zip
+ - TableS11.zip
+ - TableS12.zip

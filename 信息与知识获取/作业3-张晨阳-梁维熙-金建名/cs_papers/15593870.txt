@@ -1,0 +1,14 @@
+Title: Fundamentals of Programming
+
+Authors: Nazarova Nigora Karimovna
+
+Keywords: programming, algorithm, variable, loop, function, object-oriented programming, data structure, programming language.
+
+Publication date: 2025-06-04
+
+Description:
+<span lang="EN-US">This scientific article presents the fundamental principles of programming, including the concepts of algorithms, data structures, programming logic, and programming languages. Basic constructs used in imperative languages are outlined, along with key principles of object-oriented programming. The paper analyzes the main stages of software development and common debugging techniques. Emphasis is placed on understanding syntax, semantics, and program logic, which serve as a solid foundation for learning modern programming languages.</span>
+
+
+Contents:
+ - Nazarova Nigora Karimovna_1720-1723.pdf

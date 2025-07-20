@@ -1,0 +1,18 @@
+Title: Futhark
+
+Authors: The Futhark Hackers
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<h2>Commits</h2>
+<ul>
+<li>2bbb76a: Onwards! (Troels Henriksen)</li>
+<li>190fd37: These are not actually in scope. (Troels Henriksen)</li>
+<li>274b723: futhark doc: print warnings (Troels Henriksen)</li>
+</ul>
+
+Contents:
+ - diku-dk/futhark-nightly.zip

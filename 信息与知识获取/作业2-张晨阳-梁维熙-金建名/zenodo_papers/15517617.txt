@@ -1,0 +1,88 @@
+Title: MultiClinSum Dataset: Summarization of Clinical Case Reports in English, Spanish, French and Portuguese
+
+Authors: Rodríguez Ortega, Miguel, Rodríguez López, Eduard, Lima López, Salvador, Krallinger, Martin
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<h1><strong>MultiClinSum Shared Task Dataset</strong></h1>
+
+<strong>MultiClinSum</strong> is a shared task about the automatic summarization of clinical case reports in English, Spanish, French and Portuguese held as part of the BioASQ workshop at CLEF 2025. The task relies on a corpus of manually selected full clinical case reports and their corresponding clinical case report summaries derived from case report publications written in the previously mentioned languages. In addition, participants are allowed to use any other data source available online as long as they report it.
+
+
+This repository includes the available datasets for the multilingual clinical summarization task. Each dataset contains pairs of full-text documents and their corresponding summaries.
+
+<ul>
+<li><strong>multiclinsum_gs_train_en</strong>: Gold-standard training dataset in <strong>English</strong>, containing 592 full-text and summary pairs.</li>
+<li><strong>multiclinsum_gs_train_es</strong>: Gold-standard training dataset in <strong>Spanish</strong>, containing 592 full-text and summary pairs.</li>
+<li><strong>multiclinsum_gs_train_fr</strong>: Gold-standard training dataset in <strong>French</strong>, containing 592 full-text and summary pairs.</li>
+<li><strong>multiclinsum_gs_train_pt</strong>: Gold-standard training dataset in <strong>Portuguese</strong>, containing 592 full-text and summary pairs.</li>
+<li><strong>multiclinsum_large-scale_train_en</strong>: Large scale training dataset in <strong>English</strong>, containing 25.902 full-text and summary pairs.</li>
+<li><strong>multiclinsum_large-scale_train_es</strong>: Large scale training dataset in <strong>Spanish</strong>, containing 25.902 full-text and summary pairs.</li>
+<li><strong>multiclinsum_large-scale_train_fr</strong>: Large scale training dataset in <strong>French</strong>, containing 25.902 full-text and summary pairs.</li>
+<li><strong>multiclinsum_large-scale_train_pt</strong>: Large scale training dataset in <strong>Portuguese</strong>, containing 25.902 full-text and summary pairs.</li>
+</ul>
+
+For each dataset, full-texts and summaries are organised in separate folders containing <code>.txt</code> files encoded in UTF-8. For a given language, files have nearly identical filenames, with summaries marked by the <code>_sum</code> suffix.
+
+
+&nbsp;
+
+<h2><strong>Resources:</strong></h2>
+
+- <a href="https://temu.bsc.es/multiclinsum">MultiClinSum website</a>
+
+
+- <a href="https://bioasq.org/">BioASQ website</a>
+
+<h2><strong>License</strong></h2>
+
+This work is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<h2><strong>Contact</strong></h2>
+
+If you have any questions or suggestions, please contact us at:
+
+<ul>
+<li>Miguel Rodr&iacute;guez Ortega (&lt;miguel [dot] rod [dot] bsc [at] gmail [dot] com&gt;)</li>
+<li>Eduard Rodr&iacute;guez L&oacute;pez (&lt;edu4bsc [at] gmail [dot] com&gt;)</li>
+<li>Salvador Lima-L&oacute;pez (&lt;salvador [dot] limalopez [at] gmail [dot] com&gt;)</li>
+<li>Martin Krallinger (&lt;krallinger [dot] martin [at] gmail [dot] com&gt;)</li>
+</ul>
+<h2><strong>Additional resources and corpora</strong></h2>
+
+If you are interested in MultiClinSum, you might want to check out these corpora and resources:
+
+<ul>
+<li><a href="https://zenodo.org/records/7614764">DisTEMIST</a> (Corpus of disease mentions and normalization to SNOMED CT)</li>
+<li><a href="https://zenodo.org/records/8224056">MedProcNER </a>(Corpus of clinical procedure mentions and normalization to SNOMED CT)</li>
+<li><a href="https://zenodo.org/records/10635215">SympTEMIST</a> (Corpus of clinical findings and normalization to SNOMED CT)</li>
+<li><a href="https://doi.org/10.5281/zenodo.10948354">DrugTEMIST</a> (Corpus of medication mentions)</li>
+<li><a href="https://doi.org/10.5281/zenodo.10948354">CardioCCC</a> (Corpus of diseases and medication mentions in cardiology texts)</li>
+<li><a href="https://zenodo.org/records/4270158">PharmaCoNER</a> (Corpus of medications, drugs, chemical substances, genes, proteins and vaccine mentions and normalization)</li>
+<li><a href="https://zenodo.org/records/7116201">MEDDOPROF</a> (Corpus of mentions of professions, occupations and working status and normalization)</li>
+<li><a href="https://zenodo.org/records/8403498">MEDDOPLACE</a> (Corpus of mentions of place-related entity mentions, including departments, nationalities or patient movements etc.. and normalization)</li>
+<li><a href="https://zenodo.org/records/4279323">MEDDOCAN</a> (Corpus of mentions of Personal Health Identifiers (PHI))</li>
+<li><a href="https://zenodo.org/records/3978041">CANTEMIST</a> (Corpus of cancer tumor morphology mentions and normalization)</li>
+<li><a href="https://zenodo.org/records/3837305">CodiESP</a> (Corpus of clinical case reportes with assigned clinical codes from ICD10, Spanish version)</li>
+<li><a href="https://zenodo.org/records/7684093">LivingNER</a> (Corpus of mentions of species, including human/family members, pathogens, food, etc.. and normalization to NCBI Taxonomy)</li>
+<li><a href="https://zenodo.org/records/2560344">SPACCC-POS</a> (Corpus of clinical case reports in Spanish annotated with POS-tags)</li>
+<li><a href="https://zenodo.org/records/2560338">SPACCC-TOKEN</a> (Corpus of clinical case reports in Spanish annotated with token-tags (word mention boundaries))</li>
+<li><a href="https://zenodo.org/records/2560338">SPACCC-SPLIT</a> (Corpus of clinical case reports in Spanish annotated with sentence boundary-tags)</li>
+<li><a href="https://zenodo.org/records/5602914">MESINESP-2</a> (Corpus of manually indexed records with DeCS /MeSH terms comprising scientific literature abstracts, clinical trials, and patent abstracts)</li>
+</ul>
+
+&nbsp;
+
+
+Contents:
+ - multiclinsum_large-scale_train_es.zip
+ - multiclinsum_large-scale_train_pt.zip
+ - multiclinsum_gs_train_fr.zip
+ - multiclinsum_large-scale_train_en.zip
+ - multiclinsum_gs_train_en.zip
+ - multiclinsum_gs_train_es.zip
+ - multiclinsum_gs_train_pt.zip
+ - multiclinsum_large-scale_train_fr.zip

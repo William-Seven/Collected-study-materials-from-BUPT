@@ -1,0 +1,14 @@
+Title: Correlates of disease severity in bluetongue as a model of acute arbovirus infection
+
+Authors: Herder, Vanessa, Caporale, Marco, MacLean, Oscar A., Pintus, Davide, Huang, Xinyi, Nomikou, Kyriaki, Palmalux, Natasha, Nichols, Jenna, Scivoli, Rosario, Boutell, Chris, Taggart, Aislynn, Allan, Jay, Malik, Haris, Ilia, Georgios, Gu, Quan, Rochi, Gaetano Federico, Furnon, Wilhelm, Zientara, Stephan, Bréard, Emmanuel, Antonucci, Daniela, Capista, Sara, Giansante, Daniele, Cocco, Antonio, Mercante, Maria Teresa, Di Ventura, Mauro, Da Silva Filipe, Ana, Puggioni, Giantonella, Sevilla, Noemi, Stewart, Meredith E., Ligios, Ciriaco, Palmarini, Massimo
+
+Keywords: 
+
+Publication date: 2024-08-16
+
+Description:
+Most viral diseases display a variable clinical outcome due to differences in virus strain virulenceand/or individual host susceptibility to infection. Understanding the biological mechanismsdifferentiating a viral infection displaying severe clinical manifestations from its milderforms can provide the intellectual framework toward therapies and early prognostic markers.This is especially true in arbovirus infections, where most clinical cases are present as mildfebrile illness. Here, we used a naturally occurring vector-borne viral disease of ruminants,bluetongue, as an experimental system to uncover the fundamental mechanisms of virushostinteractions resulting in distinct clinical outcomes. As with most viral diseases, clinicalsymptoms in bluetongue can vary dramatically. We reproduced experimentally distinct clinicalforms of bluetongue infection in sheep using three bluetongue virus (BTV) strains (BTV-1IT2006, BTV-1IT2013 and BTV-8FRA2017). Infected animals displayed clinical signs varyingfrom clinically unapparent, to mild and severe disease. We collected and integrated clinical,haematological, virological, and histopathological data resulting in the analyses of 332 individualparameters from each infected and uninfected control animal. We subsequently usedmachine learning to select the key viral and host processes associated with disease pathogenesis.We identified and experimentally validated five different fundamental processesaffecting the severity of bluetongue: (i) virus load and replication in target organs, (ii) modulationof the host type-I IFN response, (iii) pro-inflammatory responses, (iv) vascular damage,and (v) immunosuppression. Overall, we showed that an agnostic machine learningapproach can be used to prioritise the different pathogenetic mechanisms affecting the diseaseoutcome of an arbovirus infection.
+
+
+Contents:
+ - Herder et al., 2024.pdf

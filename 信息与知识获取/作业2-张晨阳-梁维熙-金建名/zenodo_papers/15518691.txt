@@ -1,0 +1,63 @@
+Title: sararht/TriPlay: Laser Profilometric Sensor Simulator v1.0 – Synthetic Defect Generation for 3D Inspection
+
+Authors: sararht
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<h1>🔻TriPlay🔺</h1>
+<h2>A Laser Triangulation Profilometric Sensor Simulator</h2>
+
+
+
+<h2>Description</h2>
+
+This project is a simulator for laser triangulation profilometric sensors, designed to replicate real-world scanning conditions, including noise simulation (e.g., <em>speckle</em> noise using Perlin noise). The tool provides an environment to test and evaluate defect detection algorithms on industrial parts before deploying them in physical systems.
+
+<h2>Features</h2>
+<ul>
+<li><strong>Simulation of Laser Scanning:</strong> Implements laser triangulation profilometric sensor modeling.</li>
+<li><strong>Speckle Noise Simulation:</strong> Uses Perlin noise to introduce realistic <em>speckle</em> effects.</li>
+<li><strong>3D Surface Defect Simulation:</strong> Supports defect modeling using Free-Form Deformation (FFD), enabling accurate replication of real-world defects.</li>
+<li><strong>Dataset Generation:</strong> Creates labeled datasets of 3D scans for defect detection training and validation.</li>
+<li><strong>Inspection Path Optimization:</strong> Includes tools for optimizing scanning paths to enhance inspection efficiency.</li>
+</ul>
+<h2>Input Requirements</h2>
+
+To use the simulator, the following inputs are required:
+
+<ul>
+<li><strong>3D Model (STL format):</strong> The part to be inspected.</li>
+<li><strong>Sensor Parameters:</strong> Characteristics of the laser triangulation sensor.</li>
+<li><strong>Surface Roughness Details:</strong> Defines the material and texture properties.</li>
+<li><strong>Defect Type:</strong> Configurable defect types, including dents, peaks, and cracks.</li>
+</ul>
+
+| Dependencies           |
+|------------------------|
+| Qt                    |
+| VTK                   |
+| OpenCV                |
+| OpenMP                |
+| ROS                   |
+| LAPACK &amp; BLAS         |
+| MPI                   |
+| Mimmo                 |
+
+<h2>Reference</h2>
+
+Roos-Hoefgeest, S., Roos-Hoefgeest, M., Álvarez, I., &amp; González, R. C. (2023). &quot;Simulation of Laser Profilometer Measurements in the Presence of Speckle Using Perlin Noise&quot;. <em>Sensors, 23</em>(17), 7624. <a href="https://www.mdpi.com/1424-8220/23/17/7624">DOI: 10.3390/s23177624</a>
+
+<h2>Video of the experiments:</h2>
+
+<a href="https://youtu.be/fM0UKCZrrfI"></a>
+
+<h2>Usage</h2>
+
+This project is actively under development, and we are working on creating an executable version for easier use. Stay tuned for updates!
+
+
+Contents:
+ - sararht/TriPlay-v1.0.zip

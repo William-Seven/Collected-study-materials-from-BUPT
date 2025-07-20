@@ -1,0 +1,14 @@
+Title: AI-Optimized Design of Nanosensors for Real-Time Pathogen Detection
+
+Authors: Chandru Shetty
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+Pathogen detection is a critical aspect of managing infectious diseases, especially in settings where rapid,on-site diagnostics are necessary. Traditional methods such as polymerase chain reaction (PCR) or culturebased assays are highly accurate but often slow, costly, and require specialized equipment. Nanosensors haveemerged as an attractive alternative for real-time, point-of-care pathogen detection due to their highsensitivity and potential for miniaturization. However, the design of efficient nanosensors for pathogendetection is complex, requiring optimization to improve their sensitivity, selectivity, and overallperformance. Artificial intelligence (AI), particularly machine learning (ML) algorithms, has become aninvaluable tool for optimizing nanosensor design, enabling faster, more reliable detection of pathogens. Thispaper explores how AI can be used to enhance the design of nanosensors, focusing on the optimization ofnanomaterial selection, functionalization, and data analysis, ultimately improving real-time pathogendetection.&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P189.pdf

@@ -1,0 +1,14 @@
+Title: Plant Disease Recognition
+
+Authors: Karthikeyan C, Dr.M.Kathiresh
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+The world economy and food supply dependheavily on agriculture, yet a number of plantdiseases frequently jeopardize crop yield. Toreduce losses and guarantee healthy cropproduction, these diseases must be identifiedearly and accurately. This study introduces aPlant Disease Recognition System thatautomatically identifies and categorizesplant diseases from leaf photos by utilizingdeep learning techniques. A ConvolutionalNeural Network (CNN) model trained on asizable dataset of labeled plant photos isused in the system, which was created withPython and TensorFlow. HTML, CSS, andJavaScript are used to construct the frontend,and Flask is used in the backend to processrequests and provide model predictions. Inorder to manage user information andprediction history, a SQL database is alsointegrated. The system&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P218.pdf

@@ -1,0 +1,14 @@
+Title: STAMS-ENABLED GENOMIC SMART FARMING: A SPECTROTEMPORAL INTELLIGENCE FRAMEWORK FOR ADAPTIVE ZONE TREATMENT AND CROP OPTIMIZATION
+
+Authors: Deepa Bhadana, G. Arulkumaran
+
+Keywords: 
+
+Publication date: 2019-06-21
+
+Description:
+Through real-time analysis of <a href="https://ijetrm.com/issues/files/Jun-2019-05-1749123953-JUNE201908.pdf" target="_blank" rel="noopener">complex multi-modal</a> datasets, deep learning has completely revolutionizedprecision farming, proving to be the game changer in data-driven insights. However, present models havelimitations in static site mapping, inadequate feature extraction, and poor responsiveness to changes in fieldconditions. This study proposes a framework for a new deep learning potency- integrated smart farming modelthat will employ Beetle Antennae Search (BAS) models in real-time treatment optimization, attention-augmentedmetric learning for crop classification with genomics-informed inputs, and IoT-based hexagonal field mapping.Our approach studies deep neural architectures; this would make possible intelligent crop-genotype matching toproduce spatial-genomic correlations. Experimental results indicate that the crop-zone match accuracy is 27%higher than traditional techniques, resource usage efficiency is increased by 31%, and yield increases by 24%.This study illustrates how deep learning will transform sustainable agriculture by enabling adaptive, contextaware decision-making across farming environments through genomics and the IoT.
+
+
+Contents:
+ - JUNE201908.pdf

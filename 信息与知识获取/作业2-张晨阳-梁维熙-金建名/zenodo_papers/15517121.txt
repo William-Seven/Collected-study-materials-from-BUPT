@@ -1,0 +1,15 @@
+Title: Remote work - Data set and questionnaire
+
+Authors: Anonymous, Anonymous
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This SPSS dataset and questionnaire support the research study which explored whether job satisfaction varied between remote and non-remote workers and how communication behaviours and personality traits relate to remote workers&rsquo; job satisfaction.&nbsp;
+
+
+Contents:
+ - RemoteWorkData.sav

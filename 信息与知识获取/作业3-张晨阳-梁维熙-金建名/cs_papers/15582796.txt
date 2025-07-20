@@ -1,0 +1,16 @@
+Title: Piattaforme FAIR-by-Design: il Training di H2IOSC per il Supporto alla Ricerca
+
+Authors: Pedonese, Giulia, Spadi, Alessia, Frontini, Francesca
+
+Keywords: 
+
+Publication date: 2025-05-22
+
+Description:
+<span>La presentazione illustra la metodologia di progettazione didattica e le piattaforme sviluppate nell'ambito della formazione del WP8 "Training, Capacity Building, Engagement" del&nbsp;</span><a href="https://www.h2iosc.cnr.it/">progetto H2IOSC</a><span>. Dopo una breve introduzione sulla metodologia FAIR-by-Design, riadattata dal progetto <a href="https://www.skills4eosc.eu/">Skills4EOSC</a>, la presentazione anticipa le principali funzionalit&agrave; delle due piattaforme sviluppate in H2IOSC: il Learning Management System chiamato <strong>Training Environment</strong> e il repository per materiali didattici riutilizzabili chiamato <strong>Training Library</strong> a supporto di studenti e docenti nelle Scienze Umane e Sociali e oltre.</span>
+
+Progetto H2IOSC - Humanities and cultural Heritage Italian Open Science Cloud finanziato dall&rsquo;Unione Europea NextGenerationEU &ndash; PNRR M4C2 &ndash; Codice progetto IR0000029 &ndash; CUP B63C22000730005.
+
+
+Contents:
+ - Piattaforme FAIR by Design H2IOSC.pptx

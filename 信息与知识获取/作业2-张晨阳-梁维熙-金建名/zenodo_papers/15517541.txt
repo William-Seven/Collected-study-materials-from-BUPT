@@ -1,0 +1,15 @@
+Title: Design and Verification of AHB Bus Protocol using Vivado Tool
+
+Authors: Arjun, Chetan, Guruprasada L, Shreyas Gowda B S, Dr. Ravi J
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+
+The AMBA AHB protocol is an on-chip communication standard that defines the rules for transferring data between master and slave devices. It's widely used in System -On -Chip (SoC) designs and microcontrollers. A M B A includes different bus architectures, such as Advanced System Bus (ASB), Advanced Peripheral Bus (APB), and Advanced HighPerformance Bus (AHB ). A H B stands out as the highperformance and high-bandwidth option, making it the preferred choice for systems with high-frequency clocks.
+
+
+Contents:
+ - 21-ORJ1657.pdf

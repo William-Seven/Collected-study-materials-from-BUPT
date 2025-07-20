@@ -1,0 +1,15 @@
+Title: Codes and data for producing Figure 10 in Schoenberg et al. (2025)
+
+Authors: Adakudlu, Muralidhar
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Codes and data used to compare FRIDA's endogenous model behavior (EMB) with different SSP baselines from selected Integrated Assessment Models (IAMs). This is Figure 10 in Schoenberg et al. (2025)
+
+
+Contents:
+ - adakudlum/FRIDA_with_other_IAMs-WorlTransFRIDA.zip

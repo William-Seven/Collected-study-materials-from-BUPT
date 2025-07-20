@@ -1,0 +1,38 @@
+Title: AI4InSync Reconstruction Tutorial
+
+Authors: Hoffman, Lauren
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+Data required to run the tutorial [data/RECONSTRUCTIONS_MAPS.nc] and [data/RECONSTRUCTION_MASK.nc] on https://github.com/lahoffman/AI4InSync&nbsp;
+
+<div>
+<div>
+<div>
+<div>In this tutorial we train a machine learning (ML) model to learn daily Arctic sea ice velocity from information about wind velocity, sea ice concentration, latitude, longitude, and day of year. The ML model will be trained using outputs from several CMIP6 models subsampled at locations of Ice Tethered Profiler (ITP) observations. The model is trained on data from 2005-2014. Reconstructions are based on the 2005-2010 period. The data included here is pre-processed and includes CMIP6 outputs subsampled at ITP locations,</div>
+</div>
+</div>
+<div>&nbsp;</div>
+<div>We use zonal and meridional sea ice velocity (siu, siv), wind velocity (uas, vas), and sea ice concentration (siconc) from the historical runs of the following CMIP6 models and ensemble members:</div>
+
+<div>1. CanESM5 [10]</div>
+<div>2. IPSL-CM6A-LR [31]</div>
+<div>3. MIROC6 [10]</div>
+
+<div>The data from CMIP6 can be found on the Earth System Grid Federation (ESFF) nodes: https://esgf-node.llnl.gov/projects/cmip6/</div>
+
+<div>Eyring, V., Bony, S., Meehl, G., Senior, C., Stevens, B., Ronald, S., &amp; Taylor, K. (2015, 12). Overview of the coupled model intercomparison project phase 6 (cmip6) experimental design and organisation. Geoscientific Model Development Discussions, 8 , 10539-10583. doi: 10.5194/gmdd-8-10539-2015</div>
+<div>&nbsp;</div>
+</div>
+<div>
+<div>TOOLE, JOHN M., et al. &ldquo;THE ICE-TETHERED PROFILER: ARGO OF THE ARCTIC.&rdquo; Oceanography, vol. 24, no. 3, 2011, pp. 126&ndash;35. JSTOR, http://www.jstor.org/stable/24861307.</div>
+
+<div>Krishfield, R., Toole, J., Proshutinsky, A., &amp; Timmermans, M. (2008). Automated Ice-Tethered Profilers for Seawater Observations under Pack Ice in All Seasons, Journal of Atmospheric and Oceanic Technology, 25(11), 2091-2105.</div>
+</div>
+
+Contents:
+ - RECONSTRUCTION_MASK.nc
+ - RECONSTRUCTIONS_MAPS.nc

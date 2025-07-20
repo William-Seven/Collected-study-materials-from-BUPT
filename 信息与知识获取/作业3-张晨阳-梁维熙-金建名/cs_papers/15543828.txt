@@ -1,0 +1,16 @@
+Title: Assessing synergies between thermal energy and torrefaction severity index of wood spruce sawdust via machine learning algorithms
+
+Authors: Šafář, Michal, Raclavska, Helena, Růžičková, Jana, Ali, Dr. Imtiaz, Naqvi, Salman Raza, Scala, Fabrizio
+
+Keywords: Torrefaction severity index, Biomass, Principal component analysis, Hierarchical cluster analysis, Correlation matrix, Machine learning
+
+Publication date: 2025-04-26
+
+Description:
+N/A
+
+Contents:
+ - Torrefied_briquettes_data_200-300C_10-60min.zip
+ - Assessing_synergies_between_thermal_energy_and_torrefaction_severity_index_of_wood_spruce_sawdust_via_machine_learning_algorithms.pdf
+ - ReadMe.txt
+ - Data_torrefaction.xlsx

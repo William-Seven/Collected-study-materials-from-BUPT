@@ -1,0 +1,14 @@
+Title: A Meta-Analytic Review of ICT Integration in High School Mathematics Education
+
+Authors: Jacob Arhin, Yarhands Dissour Arthur, Joseph Frank Gordon
+
+Keywords: ICT Integration, Mathematics Achievement, Meta-Analysis, Educational Technology, Teacher Factors
+
+Publication date: 2025-06-04
+
+Description:
+<em>This meta-analysis synthesized findings from 25&nbsp; studies conducted between 2015 and 2025 to examine the overall impact of Information and Communication Technology (ICT) integration on high school students&rsquo; mathematics achievement. Using a random-effects model, the study found a statistically significant moderate positive effect of ICT integration (b = 0.72, SE = 0.30, p = .002), indicating that ICT use enhances students&rsquo; mathematics performance. Significant heterogeneity was observed across studies (I&sup2; = 60%), suggesting variability in effect sizes influenced by study and contextual factors. Moderator analyses revealed that teacher-related variables&mdash;specifically attitudes toward ICT (b = 0.45, p = .001), pedagogical content knowledge (b = 0.62, p &lt; .001), and classroom management practices (b = 0.39, p = .001) significantly influenced the effectiveness of ICT integration, while regional differences were not significant (p = .423). These findings emphasize the pivotal role of teacher preparedness and instructional quality in maximizing ICT&rsquo;s impact on learning outcomes. Assessment of publication bias indicated moderate robustness but also highlighted potential small-study effects, warranting cautious interpretation. Overall, the study supports the continued investment in ICT resources and teacher professional development as essential strategies to enhance mathematics achievement. Future research should explore long-term effects and diverse educational contexts to optimize ICT integration in mathematics education.</em>
+
+
+Contents:
+ - 965-Article Text-2664-1-10-20250604.pdf

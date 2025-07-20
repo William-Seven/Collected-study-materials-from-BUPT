@@ -1,0 +1,14 @@
+Title: Crossing borders: Connectivity analyses reveal potential patterns of range expansion of the Northern raccoon in Europe
+
+Authors: Falaschi, Mattia, Simoncini, Andrea, Ancillotto, Leonardo, Viviano, Andrea, Menchetti, Mattia, Mazza, Giuseppe, Mori, Emiliano
+
+Keywords: Climatic suitability, connectivity models, dispersal barrier, invasive alien species, northern Italy, Procyon lotor, species distribution models
+
+Publication date: 2025-06-03
+
+Description:
+Identifying suitable areas and potential expansion corridors for alien species that can pose negative environmental and socio-economic impacts is essential to guide prevention, monitoring, and management activities. The Northern raccoon <i>Procyon lotor</i> is an alien species that significantly impacts EU biodiversity and society. This species is currently widespread in most of Central Europe, with increasing populations in southern and eastern countries. In this study, we developed species distribution models to identify areas with the highest suitability for the raccoon in Europe. Then, we employed connectivity modeling to assess potential ecological corridors across Europe. Species distribution models confirmed the broad ecological preferences of the species, predicting large areas of Europe to be suitable for raccoons. Connectivity models showed a generally high connectivity in central and western Europe and highlighted mountain ranges and intensive agricultural areas and/or areas with low annual precipitation levels as the main barriers to dispersal. We identified five potential corridors connecting Central European raccoon populations to Southern Europe. Our results can be useful to identify areas that may be prioritized to allocate monitoring and containment efforts, in order to constrain further raccoon expansion across Europe.
+
+
+Contents:
+ - NB_article_148837.pdf

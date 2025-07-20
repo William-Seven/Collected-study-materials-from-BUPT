@@ -1,0 +1,24 @@
+Title: Climate Modeling with Conda and Containers to Improve Computational Resource Usage while Achieving Native Performance and Reproducibility
+
+Authors: Iaquinta, Jean, Fouilloux, Anne, Ragan-Kelley, Benjamin
+
+Keywords: 
+
+Publication date: 2025-05-02
+
+Description:
+Integrating High-Performance Computing (HPC) and cloud computing in climate sciences is difficult, due to intricate hardware/software, compatibility, performance and reproducibility issues. Here, we address these challenges in a user-friendly way by leveraging the Conda ecosystem and containers.
+
+Containerization allows to match or exceed native performance on HPC while ensuring bit-for-bit reproducibility for deterministic algorithms and similar processor architectures. This approach simplifies deploying climate models across different platforms; for example, CESM 2.2.2 (Community Earth System Model) provides on various clusters throughputs in simulated years per computational day within +/- 1% of bare-metal performance for simulations spanning thousands of processors.
+
+Exclusively using generic Conda packages for MPI (Message Passing Interface) applications was challenging in HPC. Although OpenMPI included UCX (Universal Communication X) and OFI (Open Fabric Interface), it lacked UCC (Unified Collective Communication) and wasn't optimized by default for high-performance networks like InfiniBand, RoCE (Remote Direct Memory Access over Converged Ethernet) and HPE (Hewlett Packard Enterprise) Slingshot-11, often defaulting to TCP/IP (Transmission Control Protocol/Internet Protocol) or failing.&nbsp;&nbsp;After updating Conda-Forge&rsquo;s OpenMPI and MPICH feedstocks, we are adding MVAPICH and ParaStationMPI support to PnetCDF, HDF5, NetCDF-C, NetCDF-Fortran and ESMF (Earth System Modeling Framework) libraries critical for modellers, alongside libFabric and openPMIx (Process Management Interface - Exascale). This incidentally exposed ABI (Application Binary Interface) compatibility issues. Now, MPI toolchains featuring major UCX/OFI/PMIx versions ensure consistent operation across different hosts without affecting numerical results. Using the same Conda environment inside a container, and no hardware-specific optimization, preserves bitwise reproducibility. OMB (Ohio State University Micro-Benchmark) tests for latency, bandwidth and other metrics help confirm if optimal performance can be achieved or not.&nbsp;
+
+Such developments enable climate scientists to focus on addressing scientific questions rather than sorting out software dependencies and technical problems. One can write code on a laptop then effortlessly scale to cloud or supercomputers, and seamlessly run climate simulations somewhere then continue these wherever compute resources are available without worrying about discontinuities. This also releases expensive HPC resources for production instead of wasting them for training, learning, development or testing which can be performed comfortably elsewhere, without job scheduling constraints, in the very same software environment.
+
+Conda has primarily been developed with a focus on compatibility which limits its suitability in highly performance-sensitive applications where locally optimized builds of specific key components are paramount, typically in climate modeling. Additionally, instead of relying on local engineers to install and maintain host software, Conda users can benefit from the work of thousands of open-source contributors who continuously update and test the entire ecosystem.
+
+This strategy fits the session's theme by providing a framework where cloud resources can be utilized for big data without compromising the performance or rigor of HPC environments. Conda and container technologies ought to change how climate scientists approach software management, focusing on ease of use, scalability and reproducibility, thereby potentially altering practices within the field to improve usage of computational resources and leverage community efforts to remain at the forefront.
+
+
+Contents:
+ - EGU25.pdf

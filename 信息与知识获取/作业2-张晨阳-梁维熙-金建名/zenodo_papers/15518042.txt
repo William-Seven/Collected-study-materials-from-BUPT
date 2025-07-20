@@ -1,0 +1,20 @@
+Title: Research Data Management and Open Science Soft Skills course for PhD students of the Politecnico di Torino (AA. 24/25)
+
+Authors: PASCHETTA, Mauro
+
+Keywords: lesson, slides, open science, research data management, RDM, Politecnico di Torino, PhD student, Data management plan, DMP
+
+Publication date: 2025-05-26
+
+Description:
+
+Slides of the Research Data Management and Open Science soft skills course for the PhD students of the Politecnico di Torino.&nbsp;
+
+<h2>&nbsp;</h2>
+
+Contents:
+ - COURSE_PhD_OS_RDM_Lesson4_DataSharing_DMP_24-25.pptx
+ - COURSE_PhD_OS_RDM_Lesson1_Introduction_to_OS_and_RDM_24-25.pptx
+ - COURSE_PhD_OS_RDM_Lesson2_Privacy_Ethical_Legal_24-25.pptx
+ - COURSE_PhD_OS_RDM_Lesson3_Publishing_Research_Outputs_24-25.pptx
+ - PhD_DMP_template_PoliTO.docx

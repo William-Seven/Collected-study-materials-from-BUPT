@@ -1,0 +1,40 @@
+Title: namilus/usenix-2025: Code Release
+
+Authors: Mohamed Suliman
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+Machine learning models trained using Stochastic Gradient Descent
+produce an execution trace, that is, a log of the sequence of sampled
+mini-batches and resulting checkpoints after every step of gradient
+descent. The recomputation of these execution traces using GPUs is not
+exact due to reproduction errors which result from GPU optimisations
+(called auto-tuning) and nondeterminism resulting from changes in
+aggregation order of intermediate results.
+
+Data forging attacks provide counterfactual proof that a model was
+trained on a given dataset, when in fact, it was trained on
+another. These attacks work by forging (replacing) mini-batches in a
+models execution trace with ones containing distinct training examples
+that produce nearly identical gradients. Data forging appears to break
+any potential avenues for data governance, as adversarial model owners
+may forge their training set from a dataset that is not compliant to
+one that is. Given these serious implications on data auditing and
+compliance, we critically analyse data forging, finding that a key
+practical limitation of current attack methods makes them easily
+detectable by a verifier; namely that they cannot produce sufficiently
+identical gradients.
+
+In our artifact, we provide code to generate and recompute execution
+traces in order to observe the magnitude of reproduction errors on
+GPUs. We additionally provide code to run data forging attacks and
+find that their approximation errors, i.e. how close are the forged
+mini-batch gradients to the the original, are orders of magnitude
+larger than observed reproduction errors.
+
+
+Contents:
+ - namilus/usenix-2025-v1.0.1.zip

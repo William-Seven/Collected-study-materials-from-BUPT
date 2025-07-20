@@ -1,0 +1,14 @@
+Title: ARTIFICIAL NEURAL NETWORK BASED POWER SYSTEM STABILIZER ON A SINGLE MACHINE INFINITE BUS SYSTEM MODELLED IN DIGSILENT POWERFACTORY AND MATLAB
+
+Authors: EEIJ
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+In this paper the use of artificial neural network in power system stability is studied. A predictivecontroller based on two neural networks is designed and tested on a single machine infinite bus systemwhich is used to replace conventional power system stabilizers. They have been used for decades inpower system to dampen small amplitude low frequency oscillation in power systems. The increases insize and complexity of power systems have cast a shadow on efficiency of conventional method. Newcontrol strategies have been proposed in many researches. Artificial Neural Networks have been studiedin many publications but lack of assurance of their functionality has hindered the practical usage of themin utilities. The proposed control structure is modelled using a novel data exchange established betweenMATLAB and DIgSILENT power factory. The result of simulation proves the efficiency of the proposedstructure.&nbsp;
+
+
+Contents:
+ - 2415eeij01.pdf

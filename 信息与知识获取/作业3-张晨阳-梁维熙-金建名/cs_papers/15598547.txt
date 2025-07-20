@@ -1,0 +1,14 @@
+Title: MCDA Based Framework for Assessing the Quality of Higher Education LMS
+
+Authors: Hoor Fatima Yousaf, Usama Nasir, Hajra Masood, Muhammad Abubakar Farooq, Haroon Ilyas, Rabia Abbas
+
+Keywords: AHP, E-Learning, MCDA, Quality Factors.
+
+Publication date: 2025-03-28
+
+Description:
+Learning Management Systems (LMS) have become instrumental in revolutionizing educational processes. They provide a comprehensive platform for course management, content delivery, communication, and assessment, profoundly impacting teaching and learning effectiveness. Within higher education institutions, LMSs make substantial contributions to the efficiency and effectiveness of the educational process. For successful E- Learning, the presence of an intuitive and user-friendly Learning Management System (LMS) is imperative. However, there are many quality issues in LMS that were previously overlooked, negatively impacting its quality. This study's primary objective is to assess LMS quality issues through literature. It encompasses a comparative evaluation of various LMS systems, pinpointing issues and quality-related factors, and explores methods to enhance LMS intuitiveness and user-friendliness in the realm of higher education using the Multi Criteria Decision Analysis (MCDA) approach. Following this, the study will reveal the most optimal LMS Quality framework by employing the AHP. On completion our study, it became evident that the newly developed quality assessment scale, built on the foundation of MCDA methods, serves as a valuable tool for educational institutions. This scale facilitates the systematic evaluation of LMS quality but also proves to be readily applicable. It serves as a practical guide for educational institutions aiming to improve their Learning Management System selection and implementation, ultimately enhancing the educational experience for both teachers and students. In essence, our research offers a valuable contribution to the ongoing efforts to improve the efficiency and effectiveness of LMSs in higher education.
+
+
+Contents:
+ - 28.+138.+Hoor+Fatima+Yousaf+formatted.pdf

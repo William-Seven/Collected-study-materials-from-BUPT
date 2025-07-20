@@ -1,0 +1,196 @@
+Title: Operativni sustavi i računalne mreže - Linux u primjeni
+
+Authors: Horvat, Hrvoje
+
+Keywords: Linux, Networking, Operating systems, Virtualization, Linux Containers, TCP/IP, Linux kernel, Linux tuning
+
+Publication date: 2025-06-04
+
+Description:
+This book (in Croatian) covers operating systems and Linux, Storage and Networks (protocols &amp; standards), virtualization, and Linux containers. Since this book is in a light but constant review and update process, please use the most recent version.
+
+This book may also be used to prepare/learn, or extend the knowledge needed for the next certifications:
+
+
+Red Hat&reg;:
+
+Certified System Administrator (RHCSA&reg;).
+Certified Architect (RHCA&reg;).
+
+
+Linux Professional Institute&reg;:
+
+LPIC-1.
+LPIC-2.
+LPIC-3*.
+
+
+Linux Foundation&reg;:
+
+Linux Foundation Certified IT Associate (LFCA).
+Linux Foundation Certified System Administrator (LFCS).&nbsp;
+
+
+
+&nbsp;
+
+The book covers the following chapters (in summary):
+
+
+Principles of operating systems: basic mechanisms and way of working of operating systems.
+System administration:
+
+Work with user accounts and groups.
+System security configuration (file permissions, timestamps, ACL, SELinux ).
+
+
+Service management (installation, configuration, ...)
+Software/package management.
+Archiving and backup.
+Process management.
+Computer components and optimizations:
+
+Motherboard and chipset.
+Buses: PCI, PCI-X, PCI Express, USB, SMBus/I2C
+IRQ and DMA, ...
+CPU and RAM
+
+
+CPU architecture:
+
+Registers, instructions, and ISA.
+CPU microarchitecture.
+SMP and NUMA architecture and optimizations.
+
+
+Kernel:
+
+Purpose and design.
+Upgrade, configure, compile the new one, etc.
+
+
+Virtual memory subsystem, RAM memory, and optimizations:
+
+Types of RAM memory.
+Memory management and virtual memory subsystem.
+Out of memory (OOM) and optimizations.
+
+
+Data storage and disk subsystems:
+
+Types of disk drives and standards.
+Disk geometry and logical scheme.
+Block devices and partitioning, disk formats, and filesystems.
+RAID (hardware and software) and LVM2
+NAS and SAN storage systems overview
+
+SAN storage systems:
+
+iSCSI
+Fibre Channel (FC)
+
+
+
+
+Disk I/O subsystems and optimizations.
+
+Disk I/O performance and monitoring&nbsp;
+
+
+
+
+System analysis and optimizations (perf, strace, ltrace, dstat).
+Working with log files and services.
+Kernel dump/core dump.
+Computer networks:
+
+Copper vs Optical networks:
+
+Copper: cabling and standards.
+Fiberoptics: standards, cabling, FTTH specifics.
+
+
+Network interfaces (NIC) design and details, classic (copper) NICs (RJ-45), and SFP specifics.
+Networking concepts and protocols (topology, CSMA/CD, Bridging, OSI model):
+
+OSI 2 model and protocols:
+
+Bridges, ARP, and Flow control.
+STP, LACP, LLDP, OSI 2 network interfaces,....
+
+
+OSI 3 model and protocols:
+
+IP, QoS, IP Fragmentation.
+TTL, MTU.
+NAT (DNAT, SNAT).
+Redundancy and VRRP, ....
+
+
+
+
+Transport layer:
+
+UDP&nbsp;
+TCP:
+
+SYN, ACK, SACK.&nbsp;
+TCP Window, Window scaling, congestion control.&nbsp;
+PSH&amp;URG, ... .
+
+
+
+
+Network in Linux (configuration and details).
+Optimizing network interfaces and services for 10+Gbps (10/25/100Gbps)
+
+
+Common network commands:&nbsp;
+
+traceroute, nslookup.
+netstat, nstat, ss, lsof.
+ip, ethtool.
+tcpdump.
+
+
+Network services and protocols:
+
+DHCP, TFTP, DNS.
+Telnet and SSH.
+HTTP/HTTPS, NTP, Proxy.
+
+
+Work with the firewall:
+
+iptables
+ipset
+nftables
+eBPF
+
+
+Namespaces and isolation
+Virtualization and Linux containers:
+
+LXC&nbsp;
+Podman
+
+
+Many extras: list of Linux commands, list of terms, list of important files, interface bandwidth, ...
+Advanced and expert chapters as an addition to all the mentioned chapters and units.
+Posters covering major chapters of the book (with links to the posters at the end of the book).&nbsp;
+
+&nbsp;
+
+Who may use this book:
+
+
+Books cover the work in the Linux text environment (shell/CLI).&nbsp;
+It is intended for everyone with very little or no experience with Linux.
+Additionally, almost every major section of the book contains advanced chapters, so the book can be useful for advanced users in order to understand or optimize the Linux system in more detail.
+Furthermore, many of the advanced chapters have been further expanded for those looking for expert details and examples. Therefore, this book can also be used for practical learning about the principles of operation of operating systems in general, provided that, of course, we are talking about Linux and we offer examples from Linux, through which it is much better to get to know each operating system and its mechanisms.
+This book can be used by students, to learn the principles of operating systems, people who are new to it and want to get familiar with Linux, and those who want to deepen their knowledge of Linux, or even experts, who occasionally want to recall some advanced Linux components.
+Additionally, everyone who wants to get to know the basics of computer networks and the details of the TCP/IP protocol, as well as those who are interested in configuration and expert details and possible optimizations at the network disk or other level operating system subsystem, will find this book useful. The book begins with examples of the use of various useful programs (commands) that are specific to the whole being discussed, and is expanded with theory and more advanced examples. This was the guiding principle for most chapters where that order or mode was applicable. And at the very end, chapters were added in which we introduce virtualization and Linux containers and security technologies, and notes; from theory to practical examples in Linux.
+
+
+Contents:
+ - Operativni sustavi i računalne mreže - Linux u primjeni.pdf

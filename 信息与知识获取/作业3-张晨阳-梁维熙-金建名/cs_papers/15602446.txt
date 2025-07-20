@@ -1,0 +1,14 @@
+Title: U-Net Model Weights for TEM Mitochondria Segmentation in Triple Negative Breast Cancer
+
+Authors: Arriojas Maldonado, Argenis A, Baek, Mokryun, Berner, Mariah J., Zhurkevich, Alexander, Hinton, Jr., Antentor, Meyer, Matthew, Dobrolecki, Lacey, Lewis, Michael T., Zarringhalam, Kourosh, Echeverria, Gloria
+
+Keywords: U-Net, Deep Learning Model, Mitochondria Segmentation, TensorFlow, Semantic Segmentation, Pre-trained Weights
+
+Publication date: 2025-06-05
+
+Description:
+Pre-trained U-Net model weights for semantic segmentation of mitochondria in transmission electron microscopy images. These models were trained to analyze chemotherapy impact on mitochondrial morphology in triple negative breast cancer samples. Includes weights from k-fold cross-validation training compatible with TensorFlow 2.19.
+
+
+Contents:
+ - tem-seg-models_v1.0.0.tar.gz

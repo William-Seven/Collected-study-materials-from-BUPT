@@ -1,0 +1,15 @@
+Title: Cross-domain infrastructure for creating and maintaining WADM
+ annotations against IIIF resources.
+
+Authors: Granville, Daniel, Wang, Myriadne, Jefferies, Neil, Cornwell, Peter, Carlos, Felipe, Hintze, Almut, loannidis, Alex
+
+Keywords: 
+
+Publication date: 2025-05-15
+
+Description:
+Slides and links for presentation delivered at the IIIF 2025 conference, Leeds.&nbsp;
+
+
+Contents:
+ - Wang_Granville_IIIF_2025-shared.pdf

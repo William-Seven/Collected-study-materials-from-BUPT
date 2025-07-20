@@ -1,0 +1,18 @@
+Title: WHO Scheduling
+
+Authors: Cao, Hai
+
+Keywords: 
+
+Publication date: 2025-04-13
+
+Description:
+<strong>Duplicated submission versions caused by network issues.</strong>
+
+This repository is for the paper&nbsp;<em>Deep Reinforcement Learning for Efficient Scheduling of Ground-Based Astronomical Observations</em>&nbsp; by<em> Hai Cao</em>.&nbsp;
+
+&nbsp;
+
+
+Contents:
+ - whoscheduling-master.zip

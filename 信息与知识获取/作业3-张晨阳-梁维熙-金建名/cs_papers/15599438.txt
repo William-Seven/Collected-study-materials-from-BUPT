@@ -1,0 +1,14 @@
+Title: EFFICIENT EDUCATIONAL RECOMMENDER SYSTEM USING TRANSFER LEARNING
+
+Authors: Sona Sebastian, Sreya S, Susan Sara Joby, Vaishnavi M, Mehbooba P Shareef
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+With the recent technological advancements, the availability and abundance of educational courses are innumerable. The surplus number of recommender systems though efficient may not produce recommendations in optimal time or use optimal number of resources. Our paper focuses on the application of transfer learning on time series data in order to produce accurate recommendations in optimal time and ensure optimal utilization of resources. Four different multivariate machine learning models, all used for unique applications on time series data are evaluated based on prediction and time complexity. The pre-trained models are trained on the desired educational dataset and outputs after applying transfer learning are compared with each other based on metrics like precision,time and space complexity,resource utilization, RMSE and MAE values. The goal is to identify the merits of transfer learning for time series forecasting using pre-trained models to conclude that application of transfer learning aids in reducing time complexity and resource utilization.
+
+
+Contents:
+ - 7-CRD3023.pdf

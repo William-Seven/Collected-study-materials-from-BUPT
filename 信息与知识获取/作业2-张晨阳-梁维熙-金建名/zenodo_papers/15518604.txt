@@ -1,0 +1,15 @@
+Title: Supplementary Data for: HTML Structure Exploration in 3D Software Cities
+
+Authors: Hansen, Malte, Moreno-Lumbreras, David, Hasselbring, Wilhelm
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<div>
+<div>This artifact contains the evaluation results, a video, and a lightweight demo for the embedded web viewer and HTML visualization features in ExplorViz.</div>
+</div>
+
+Contents:
+ - Archive.zip

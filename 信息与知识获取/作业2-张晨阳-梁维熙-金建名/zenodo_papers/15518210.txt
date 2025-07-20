@@ -1,0 +1,15 @@
+Title: A Descriptive Analysis of Student Performance in Written Exams and Practical Tasks in Science 7 under the MATATAG Curriculum
+
+Authors: Jade Stephanie B. Cerezo, Kent Lloyd M. Destajo, Charlotte D. Elicano, Den Karl G. Flores, Mary Louie E. Galaura, Manilyn C. Lapiz, Ricky Boy E. Limlingan, Maritchel L. Sanchez, Joey S. Simbajon, June Antonette C. Taglucop, Rodnie M. Tagubar, Ian S. Umpil
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<strong><span lang="EN-AU">The implementation of the MATATAG Curriculum in the Philippines marked a major shift in basic education, emphasizing the integration of theoretical knowledge with practical application, particularly in Science. This study examined the academic performance of Grade 7 students in Science by comparing written examination scores and practical task outcomes. It employed a mixed-methods research design and collected data from 150 students, selected through cluster sampling from six Grade 7 sections in St. Paul University Surigao, during the Academic Year 2024&ndash;2025. Descriptive statistics were used to determine the performance levels and variability, while a one-way ANOVA tested significant differences across assessment types and student profiles. The findings revealed that students performed poorly in written examinations (mean &asymp; 35.5 out of 60) with high variability, whereas their performance in practical tasks was consistently high (mean &asymp; 52 out of 60) with low variability. A statistically significant difference in written exam performance was observed between male and female students, while no significant difference was found in practical task scores. These results highlighted the need for enhanced instructional strategies and more balanced assessment methods aligned with the MATATAG Curriculum.</span></strong>
+
+
+Contents:
+ - V5I534.pdf

@@ -1,0 +1,39 @@
+Title: assume-framework/assume: v0.5.3 (4th June 2025)
+
+Authors: Nick Harder, Florian Maurer, Kim K. Miskiw, AndreasEppler, gugrimm, Manish Khanra, Johanna Adams, Philipp Fritz, tiernan-buckley-ufr, Marie Thederan, Michael Hafner, DominikBurkert, Hendrik Wulfert, Robbe Sneyders
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+<strong>New Features:</strong>
+
+
+<strong>Add single bid RL strategy:</strong> Added a new reinforcement learning strategy that allows agents to submit bids based on one action value only that determines the price at which the full capacity is offered.
+<strong>Bidding Strategy for Elastic Demand</strong>: The new <code>ElasticDemandStrategy</code> enables demand units to submit multiple bids that approximate a marginal utility curve, using
+either linear or isoelastic price elasticity models. Unlike other strategies, it does <strong>not</strong> rely on predefined volumes—bids are dynamically generated based on the
+unit's elasticity configuration. To use this strategy, set <code>bidding_strategy</code> to <code>&quot;elastic_demand&quot;</code> in the <code>demand_units.csv</code> file and specify the following
+parameters: <code>elasticity</code> (must be negative), <code>elasticity_model</code> (<code>&quot;linear&quot;</code> or <code>&quot;isoelastic&quot;</code>), <code>num_bids</code>, and <code>price</code> (which acts as <code>max_price</code>). The <code>elasticity_model</code>
+defines the shape of the demand curve, with <code>&quot;linear&quot;</code> producing a straight-line decrease and <code>&quot;isoelastic&quot;</code> generating a hyperbolic curve. <code>num_bids</code> determines how many
+bid steps are submitted, allowing control over the granularity of demand flexibility.
+
+<strong>Improvements:</strong>
+
+
+<strong>Flexible Agent Count in <code>continue_learning</code> Mode:</strong> You can now change the number of learning agents between training runs while reusing previously trained critics.
+This enables flexible workflows like training power plants first and adding storage units later. When the core architectures match, critic weights are partially transferred when possible, ensuring smoother transitions.
+
+<strong>Bug Fixes:</strong>
+
+
+<strong>Last policy loading</strong>: Fixed a bug where the last policy loaded after a training run was not the best policy, but rather the last policy.
+<strong>Negative accepted volume in block bids</strong>: Fixed a bug where accepted volume from block bids was converted to negative.
+<strong>Grafana Dashboard adjustments</strong>: Fixed a bug where the Grafana dashboard was wrongly summing values due to time bucketing. The dashboard now consistently displays the average per time bucket which does underestimate
+variance in the data, but a note was added to explain this.
+<strong>Changed market price in rejected orders</strong>: Fixed a bug where the wrong market price was written in the rejected orders, namely any auction with more than 1 product had the price of the last product written as the
+market price instead of the price of the respective hour. This was, however, only a mistake for the rejected orders.
+
+
+Contents:
+ - assume-framework/assume-v0.5.3.zip

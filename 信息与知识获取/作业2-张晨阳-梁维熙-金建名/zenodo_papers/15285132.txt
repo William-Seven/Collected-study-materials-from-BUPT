@@ -1,0 +1,19 @@
+Title: MoM (Model Management) Challenge 2025 - Satellite Configuration
+
+Authors: Mittal, Rakshit, Guérin, Sylvain, Blouin, Dominique, AMRANI, Moussa, Martínez, Salvador, Lange, Arne, Weber, Thomas
+
+Keywords: MDE, MBSE
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - system_config.json
+ - challenge_description.pdf
+ - CONTRIBUTING.md
+ - README.md
+ - requirements.csv
+ - report.md
+ - ontology.owl

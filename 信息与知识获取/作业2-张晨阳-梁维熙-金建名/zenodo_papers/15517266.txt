@@ -1,0 +1,15 @@
+Title: Automatic 12-Volt Battery Charge Controller for Telecommunication Systems
+
+Authors: Sylvester Tirones
+
+Keywords: Battery Charge Controller, 12-Volt Lead Acid Battery, State of Charge (SoC) Monitoring, Automatic Battery Charging, Voltage Divider Circuit, Relay-Based Control, Telecommunication Systems
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>Every day, electronic applications rely on electric energy to perform work. The growing use of electrical appliances has significantly increased electricity demand. In remote areas where electronic systems are deployed, DC power is essential, making batteries vital for energy storage. Rechargeable batteries are widely used as backup power sources in applications requiring continuous operation, but without appropriate chargers, they become ineffective. Telecommunication systems depend on reliable power, which is crucial for transmitting and receiving information. A charger matched to the battery's charging and discharging specifications ensures uninterrupted operation. The proposed charger design is cost-effective and straightforward, using terminal voltage to monitor the state of charge (SoC) of a 12-volt lead-acid battery. This is achieved with a voltage divider circuit calibrated to switch the charger on or off at set voltage levels. The design includes detailed experimental work and component-level implementation, supported by software-based simulation to validate that the charger maintains control within the required charging and discharging limits. Results confirm that the charger operates safely within the specified SoC range, protecting battery health. Thus, this automatic 12-volt battery charge controller is vital for telecommunication systems, especially during main power disruptions. It ensures continued operation and enhances reliability in remote setups such as telecommunication stations, weather monitoring systems, data acquisition units, and other electronics-based remote monitoring applications.
+
+
+Contents:
+ - E110412050525.pdf

@@ -1,0 +1,55 @@
+Title: Can Large Language Models Identify Locations Better Than Linked Open Data for U-Learning?
+
+Authors: García-Zarza, Pablo, Asensio-Pérez, Juan I., Bote-Lorenzo, Miguel L., Sánchez-Turrión, Luis F., Taibi, Davide, Vega-Gorgojo, Guillermo
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+<p dir="auto">This repository contains the dataset and analysis associated with the research paper <strong>"Can Large Language Models Identify Locations Better Than Linked Open Data for U-Learning?" </strong>Presented at the <strong>20th European Conference on Technology Enhanced Learning (ECTEL), 2025</strong>.
+
+<div dir="auto">
+<h2>Overview</h2>
+</div>
+<p dir="auto">Ubiquitous learning (u-learning) applications often rely on identifying relevant Points of Interest (POIs) where students can engage in contextualized learning tasks. Traditionally, these POIs have been retrieved from structured datasets like Linked Open Data (LOD). However, with the rise of Large Language Models (LLMs), a new question arises: can LLMs outperform LOD in identifying such locations?
+
+<p dir="auto">This study compares the performance of a LOD dataset (Wikidata) and two LLMs (ChatGPT and DeepSeek) in retrieving 16th-century cultural heritage sites (churches, cathedrals, castles, and palaces) across three European cities (two in Spain and one in Italy) and their regions.
+
+<div dir="auto">
+<h2>Dataset</h2>
+</div>
+<p dir="auto">The file <code>LODvsLLMs.xlsx</code> includes:
+
+
+<strong>Raw data</strong> retrieved from Wikidata and the two LLMs.
+<strong>SPARQL queries and LLM prompts</strong> used for data collection.
+<strong>Comparative analysis</strong> across four key dimensions:
+
+<strong>Accuracy</strong>: Are the retrieved sites real and verifiable?
+<strong>Consistency</strong>: Do repeated queries yield stable results?
+<strong>Completeness</strong>: How exhaustive are the lists of POIs?
+<strong>Validity</strong>: Are the geographic coordinates and Wikipedia links correct?
+
+
+
+<div dir="auto">
+<h2>Key Findings</h2>
+</div>
+
+<strong>LOD (Wikidata)</strong> outperformed LLMs in terms of consistency, completeness (especially in larger regions), and validity of data.
+<strong>LLMs</strong> were able to retrieve some POIs not found in Wikidata, but also introduced hallucinations and invalid links.
+A <strong>hybrid approach</strong> combining LOD and LLMs is proposed for future u-learning applications to maximize coverage and reliability.
+
+<div dir="auto">
+<h2>Citation</h2>
+</div>
+<p dir="auto">If you use this dataset or refer to the findings in your work, please cite the original paper presented at ECTEL 2025.
+
+<blockquote>
+<p dir="auto"><code>Garc&iacute;a-Zarza, P., Asensio-P&eacute;rez, J.I.,  Bote-Lorenzo, M.L., S&aacute;nchez-Turri&oacute;n, L.F., Taibi, D., Vega-Gorgojo, G., Can Large Language Models Identify Locations Better Than Linked Open Data for U-Learning Proceedings of 20th European Conference on Technology Enhanced Learning, ECTEL 2025, Newcastle &amp; Durham, United Kingdom, September 2025.</code>
+
+</blockquote>
+
+Contents:
+ - LODvsLLMs.xlsx

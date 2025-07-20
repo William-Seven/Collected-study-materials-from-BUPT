@@ -1,0 +1,50 @@
+Title: Conductance-based Model for Internal Partial Discharges
+
+Authors: Linde, Thomas
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+
+This is supplementary material for the publication Numerical Modeling of Internal Partial Discharges under Distorted
+Voltages: Study on Frequency Dependency by Thomas Linde and Maria Kosse of TUD Dresden University of Technology.
+
+
+At the date of creation of this repository, the publication was submitted for the IEEE Conference on Electrical Insulation and Dielectric Phenomena 2025 in Manchester, UK.&nbsp;
+
+
+The model in this repository is a conductance-based partial discharge model. It is used to calculate partial discharges inside a void within a solid insulation material as a time-dependent simulation. The model uses MATLAB 2023b and COMSOL Multiphysics 6.2.&nbsp;
+
+
+This research was funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - project&nbsp;number&nbsp; 505291711.
+
+<h3>Usage</h3>
+<ul>
+<li>looper.m is a MATLAB function that builds the outer frame of the calculations. Voltage, frequency and parameters can be set and adjusted. The results from the single calculations are exported.</li>
+<li>runSimulation.m gives a set of function that use the COMSOL LiveLink interface to set parameters, extract results from COMSOL and controls the time-dependent electrical current (ec) simulations in COMSOL.</li>
+<li>NamedConst.m is a class file that stores permanent constants used in the functions of runSimulation.m</li>
+<li>COMSOL_model_void.mph is a COMSOL Multiphysics 6.2 file that contains the geometry, parameter framework, meshing, study settings incl. stop conditions and probes (for measuring / probing certain parameters inside the model).</li>
+</ul>
+<h3>Contact:</h3>
+
+Dr.-Ing. Thomas Linde
+
+Technische Universit&auml;t Dresden
+Faculty of Electrical and Computer Engineering
+Institute of Electrical Power Systems and High Voltage Engineering
+01062 Dresden
+Germany
+E-Mail: jan_thomas.linde@tu-dresden.de
+https://tu-dresden.de/ing/elektrotechnik/ieeh/hh
+
+
+&nbsp;
+
+
+Contents:
+ - looper.m
+ - COMSOL_model_void.mph
+ - runSimulation.m
+ - NamedConst.m

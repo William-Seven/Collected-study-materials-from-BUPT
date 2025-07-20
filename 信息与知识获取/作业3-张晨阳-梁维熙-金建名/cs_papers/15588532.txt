@@ -1,0 +1,13 @@
+Title: NVIDIA PhysicsNeMo: An open-source framework for physics-based deep learning in science and engineering
+
+Authors: NVIDIA PhysicsNeMo contributors
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+N/A
+
+Contents:
+ - physics_nemo.zip

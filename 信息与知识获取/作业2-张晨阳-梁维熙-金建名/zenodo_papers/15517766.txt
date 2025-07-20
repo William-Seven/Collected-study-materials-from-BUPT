@@ -1,0 +1,13 @@
+Title: Optimal Management of a Hydro – Wind Energy System with Hydrogen Storage
+
+Authors: Alberizzi, Jacopo Carlo, Perez Estevez, Manuel Antonio, Renzi, Massimiliano, Jin, Lingkang, Rossi, Mosè, Alberizzi, Andrea
+
+Keywords: 
+
+Publication date: 2023-09-23
+
+Description:
+N/A
+
+Contents:
+ - Paper ICPSE2023.pdf

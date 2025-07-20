@@ -1,0 +1,21 @@
+Title: University of Murcia 5G Dataset 1
+
+Authors: Asensio-Garriga, Rodrigo, Pogo Medina, Anthony Joel, Alarcon-Hellin, Gonzalo, Bernal Escobedo, Luis, Sanchez-Iborra, Ramon, Skarmeta Gómez, Antonio
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Dataset gathering 5G radio and traffic metrics a collected from the <a href="https://ants.inf.um.es/en/gaialab">University of Murcia 5G deployment</a>.
+
+
+&nbsp;
+
+
+More info in the description file.
+
+
+Contents:
+ - UMU 5G Dataset 1.zip

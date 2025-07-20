@@ -1,0 +1,14 @@
+Title: Medicine Recommendation Using Machine Learning
+
+Authors: S RAJ, Akhila, T J, Jobin
+
+Keywords: Machine Learning, Medicine  Recommendation, Disease Prediction, Random Forest,  SVM, KNN, Gradient Boosting
+
+Publication date: 2025-06-03
+
+Description:
+Abstract- Machine Learning-Based Medicine Recommendation and Disease Prediction System Using Patient Symptoms aims to revolutionize healthcare by predicting diseases and recommending medicines and precautions based solely on patient symptoms. When doctors input the patient's symptoms into the system, it leverages machine learning algorithms including Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Gradient Boosting to analyze the data. The system provides accurate disease predictions, suggests appropriate medicines, and offers necessary precautions, thereby aiding medical professionals inmaking informed decisions and improving patient care outcomes.
+
+
+Contents:
+ - Medicine Recommendation Using Machine Learning.pdf

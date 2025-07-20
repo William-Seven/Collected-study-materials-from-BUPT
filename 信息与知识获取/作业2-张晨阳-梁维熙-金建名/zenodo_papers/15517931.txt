@@ -1,0 +1,13 @@
+Title: JakobSchauser/Mechanical-cues-organize-planar-cell-polarity: Initial release
+
+Authors: Jakob Schauser
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+The analysis for our paper "Mechanical cues organize planar cell polarity during vertebrate morphogenesis and embryonic wound repair"
+
+Contents:
+ - JakobSchauser/Mechanical-cues-organize-planar-cell-polarity-1.0.zip

@@ -1,0 +1,32 @@
+Title: NatLibFi/Skosmos: Skosmos 3.0-alpha.2
+
+Authors: Osma Suominen, joelit, UnniKohonen, Bruno P. Kinoshita, kouralex, Mika Vaara, Vainonen, Thomas Francart, Dan Michael O. Heggø, Henri Ylikotila, Miki Pernu, Tina Trillitzsch, Martynas Jusevičius, Bart van Leeuwen, Bruno Almeida, Jan van Mansum, Elias Tzortzakakis, Jacco van Ossenbruggen, Jakob Voß, Joachim Neubert, Mikko Lappalainen, Minttu Hurme, Niko Partanen, Andrea
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This is the second alpha release of Skosmos 3.0 that provides an early peek into the upcoming final 3.0 release. It is mainly intended for Skosmos users who want to plan ahead for the 3.0 release. You can use it to test how Skosmos 3 works with your vocabulary and how to set it up on local infrastructure.
+
+
+Compared to the first alpha release, this release contains fixes to the layout and improvements to the tests and plugin infrastructure.
+
+
+The next release is going to be Skosmos 3.0-beta.1, due to be released in September 2025. There will be another beta release in October, followed by the Skosmos 3.0 release by the end of the year 2025.
+
+<h2>What's Changed</h2>
+<ul>
+<li>Narrower container for landing &amp; other global page types by @osma in https://github.com/NatLibFi/Skosmos/pull/1787</li>
+<li>Upgrade to Fuseki 5.4.0 in Skosmos tests and containers by @osma in https://github.com/NatLibFi/Skosmos/pull/1788</li>
+<li>Global Search twig-template by @joelit in https://github.com/NatLibFi/Skosmos/pull/1758</li>
+<li>Set max width for topbar and headerbar by @osma in https://github.com/NatLibFi/Skosmos/pull/1791</li>
+<li>New plugin infrastructure for Skosmos 3.0 by @UnniKohonen in https://github.com/NatLibFi/Skosmos/pull/1790</li>
+</ul>
+
+<strong>Full Changelog</strong>: https://github.com/NatLibFi/Skosmos/compare/v3.0-alpha.1...v3.0-alpha.2
+
+
+Contents:
+ - NatLibFi/Skosmos-v3.0-alpha.2.zip

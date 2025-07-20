@@ -1,0 +1,38 @@
+Title: MATEMATIKA FANINI O'QITISHDA AMALIY VA ILMIY METODOLOGIK TAMOYILLAR
+
+Authors: Dostonova, Nodiraxon Muxtorjon qizi
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+<strong><span lang="EN-US">MATEMATIKA FANINI O&lsquo;QITISHDA AMALIY VA ILMIY METODOLOGIK TAMOYILLAR</span></strong>
+
+<strong><span lang="EN-US">&nbsp;</span></strong>
+
+<strong><em><span lang="EN-US">Dostonova Nodiraxon Muxtorjon qizi</span></em></strong>
+
+<em><span lang="EN-US">Fargʻona Davlat texnika universiteti 2-son akademik litseyi oʻqituvchisi</span></em>
+
+<em><span lang="EN-US">&nbsp;</span></em>
+
+<strong><em><span lang="UZ-CYR">https://doi.org/</span></em></strong><strong><em><span>10.5281/zenodo.15587857</span></em></strong>
+
+<em><span lang="EN-US">&nbsp;</span></em>
+
+<strong><em><span lang="EN-US">Annotatsiya: </span></em></strong><em><span lang="EN-US">Ushbu maqolada matematikani o&lsquo;rganishning ilmiy-amaliy tamoyillari, uning ta&rsquo;lim jarayonidagi ahamiyati va metodik asoslari yoritilgan. Matematikani o&lsquo;rganishda ilmiy yondashuvlar, amaliy mashqlar va o&lsquo;qitishning innovatsion metodlari haqida ma&rsquo;lumot berilgan. Shuningdek, matematikani o&lsquo;rganishda o&lsquo;quvchilarga mustaqil fikrlash va analitik yondashuvlarni rivojlantirishning muhimligi ta&rsquo;kidlanadi.</span></em>
+
+<strong><em><span lang="EN-US">Kalit so&lsquo;zlar: </span></em></strong><em><span lang="EN-US">matematika, ilmiy tamoyillar, o&lsquo;rganish, metodika, amaliy yondashuv, analitik fikrlash, sintez, metodologiya, o&lsquo;qitish usullari, ta&rsquo;lim tizimi.</span></em>
+
+<strong><em><span lang="EN-US">Annotation: </span></em></strong><em><span lang="EN-US">This article discusses the scientific and practical principles of learning mathematics and their importance in the teaching process. It provides insights into scientific approaches, practical exercises, and innovative teaching methods for effectively learning mathematics. Furthermore, the article emphasizes the importance of developing independent thinking and analytical approaches in students while studying mathematics.</span></em>
+
+<strong><em><span lang="EN-US">Keywords:</span></em></strong><em><span lang="EN-US"> mathematics, scientific principles, learning, methodology, practical approach, analytical thinking, synthesis, methodology, teaching methods, education system.</span></em>
+
+<strong><em><span>Аннотация: </span></em></strong><em><span>В данной статье рассматриваются научно-практические принципы изучения математики и их значимость в учебном процессе. Описание научных подходов, практических упражнений и инновационных методов преподавания математики для эффективного освоения предмета. Также подчеркивается важность развития у студентов независимого мышления и аналитического подхода при изучении математики.</span></em>
+
+<strong><em><span>Ключевые слова:</span></em></strong><em><span> математика, научные принципы, обучение, методология, практический подход, аналитическое мышление, синтез, методика, методы преподавания, образовательная система.</span></em>
+
+
+Contents:
+ - Dostonova Nodiraxon Muxtorjon qizi.pdf

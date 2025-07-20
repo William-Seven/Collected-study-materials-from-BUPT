@@ -1,0 +1,18 @@
+Title: Deep Learning in Astroparticle Physics
+
+Authors: Glombitza, Jonas
+
+Keywords: 
+
+Publication date: 2025-04-18
+
+Description:
+Algorithms based on machine learning have been extraordinarily successful across many domains, including computer vision, machine translation, engineering, and science.&nbsp; Moreover, in the field of physics, the importance of machine learning is growing quickly, driven by the need for precise and efficient algorithms that can effectively handle vast amounts of complex and high-dimensional data.&nbsp; Recently, with the help of these novel algorithms, providing improved reconstructions, new insights into astroparticle physics could be gained.
+
+Could it even become a new paradigm for data-driven knowledge discovery?
+
+In this review, we explore the current state of machine learning in astroparticle physics after introducing its fundamental concepts.&nbsp; We outline the immense potential of this emerging technology, illustrate the wide variety of possible applications in the context of astroparticle physics, and debate the latest breakthroughs.&nbsp; Finally, we present novel approaches and techniques and discuss future applications and challenges in the field.
+
+
+Contents:
+ - astroparticle_physics_review_glombitza_delaware.pdf

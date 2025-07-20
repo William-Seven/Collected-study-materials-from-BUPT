@@ -1,0 +1,22 @@
+Title: D1.2 - Report on FANs interaction – initial version - Draft
+
+Authors: Kouzi, Ephy, Delioglanis, Iakovos, Delioglani, Dafni
+
+Keywords: Networking, bio-based technologies, biobased, cross-region, Ireland, Spain, Poland, Czech Republic, Italy, Greece, Atlantic, Atlantic area, Central Europe
+
+Publication date: 2025-04-30
+
+Description:
+<span lang="EN-GB">Networking and collaboration facilitate the effective exchange of knowledge and best practices. Since its very inception, BBioNets has acknowledged them as vital conduits for addressing the specific needs of farmers and foresters in the promotion and uptake of Bio-Based Technologies (BBTs).</span>
+
+<span lang="EN-GB">According to the initial BBioNets plan<span>,</span><span> </span><span>each FAN </span><span>acts as part of an </span><strong><em><span>ETR</span><span> sub-network</span></em></strong><span>, </span><span>namely the Atlantic Area (IE, ES), Central Europe (PL, CZ) and the Mediterranean Area (IT, GR, ES). The knowledge gathered, analysed and validated at FAN and consortium level, along with BBioNets tools and materials, are being communicated and discussed, informing all stakeholders of regional OG practices and results, stimulating debate and knowledge exchange as to regional concerns, solutions and opportunities, and the possibility of transferring them at a wider geographical scale.</span></span>
+
+<span lang="EN-GB">Cross-fertilisation is also pursued at the&nbsp;<strong><em>European level</em></strong>, </span><span><span>targeting countries in Northern, Southern, Eastern, Western, and Central Europe, with all FANs convening for two dedicated meetings</span></span><span lang="EN-GB">.</span><span lang="EN-GB"> The aim is to exchange on forestry and agriculture needs and challenges, and advance knowledge stemming from each and all regions in a bid for interaction and cross-pollination useful to all sub-networks. Those meetings also serve to further promote the EIP-AGRI Operational Groups (OGs) concept, discuss related hurdles and solutions, and propose approaches to foster OG creation.</span>
+
+<span lang="EN-GB">These cross-regional sub-networks play a crucial role in bridging the gap between policy implementation and on-the-ground realities. By meeting at regular intervals, they enhance their collective capacity to develop targeted solutions that support agricultural productivity, sustainability, and resilience. Their structured interactions foster a dynamic learning environment that enables them to refine their methodologies and adapt to emerging challenges. Such exchanges ensure that primary producers benefit from the most effective strategies tailored to their unique circumstances.</span>
+
+<span lang="EN-GB">The aim of this deliverable is twofold: <strong>(a)</strong> to outline the strategic framework guiding the FAN collaboration and networking process, and <strong>(b)</strong> to document the first round of meetings conducted during the reporting period to contribute to the overall objectives of the project.</span>
+
+
+Contents:
+ - D1.2_FANs_interaction_report_v1_dft.pdf

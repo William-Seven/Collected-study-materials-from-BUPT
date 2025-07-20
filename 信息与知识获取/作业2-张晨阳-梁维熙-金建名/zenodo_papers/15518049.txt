@@ -1,0 +1,25 @@
+Title: Designs (STL files) for 3D printing of breast tumor perfusion phantoms for 4D dynamic contrast-enhanced dedicated breast CT
+
+Authors: Goris, Liselot, Gouma, Sanne, PAUTASSO, JUAN, Michielsen, Koen, Sechopoulos, Ioannis
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Four different designs for 3D printing of breast tumor perfusion phantoms. Including:
+
+<ol>
+<li>A gyroid phantom with two different pore sized sizes (1.3 and 1.5 mm diameter)</li>
+<li>A small channel phantom with four 0.8 mm diameter channels and four 1 mm diameter channels</li>
+<li>A leaking vessel phantom with eight small channels and a leaking outer shell. One of the designs has two different diameter channels (0.8 and 1 mm).</li>
+<li>A gyroid dual input and output phantom. The phantom has a dividing wall between the two sides and two inputs and outputs to create different flow patterns inside the phantom</li>
+</ol>
+
+Contents:
+ - 2.Channels_phantom_0.8_1.STL
+ - 4.Gyroid_dualinput.STL
+ - 3.Leaking_phantom_1.STL
+ - 1.Gyroid_0.2_0.3.STL
+ - 3.Leaking_phantom_0.8_1.STL

@@ -1,0 +1,18 @@
+Title: EDM-Research/DIMO_ObjectDetection: v1.0
+
+Authors: Vanherle, Bram, Moonen, Steven, Van Reeth, Frank, Michiels, Nick
+
+Keywords: 
+
+Publication date: 2022-11-24
+
+Description:
+
+Object detection for the DIMO dataset. Uses the Mask-RCNN model. This is the official implementation of&nbsp;<a href="https://bmvc2022.mpi-inf.mpg.de/833/" rel="nofollow">Analysis of Training Object Detection Models with Synthetic Data</a>, published in BMVC: British Machine Vision Conference, 2022:
+
+
+Vanherle, B., Moonen, S., Van Reeth, F., &amp; Michiels, N. (2022). Analysis of Training Object Detection Models with Synthetic Data. 33rd British Machine Vision Conference 2022, BMVC 2022, London, UK, November 21-24, 2022. Retrieved from https://bmvc2022.mpi-inf.mpg.de/0833.pdf
+
+
+Contents:
+ - EDM-Research/DIMO_ObjectDetection-v1.0.zip

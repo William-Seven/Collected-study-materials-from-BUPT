@@ -1,0 +1,14 @@
+Title: Exploring Teachers Feedback Modalities on Math Engagement and Performance among Students
+
+Authors: Elvira V. Espinosa, Dr. Jenyliza T. Ucang
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+<span lang="EN-US">This study aimed to examine the impact of Teacher Feedback Modalities (TFM) on students&rsquo; engagement and performance in mathematics. Conducted at Dagatkidavao Integrated School, the research involved 63 Grade 9 students divided into two randomly selected sections&mdash;one receiving TFM and the other receiving non-TFM or traditional feedback. A 40-item standardized exam adopted from DepEd Valencia was used to assess academic performance, and a quantitative design guided the study. Before the intervention, both groups showed very low engagement levels. After the implementation of TFM, student engagement significantly improved, reaching a highly engaged level for the TFM group and a moderately engaged level for the non-TFM group. In terms of academic performance, the TFM group showed greater progress, with students transitioning from fairly satisfactory to satisfactory levels. In the retention phase, the TFM group maintained a strong performance, with most students achieving a very satisfactory level, while the non-TFM group showed only a slight improvement. Statistical analysis using ANCOVA confirmed a significant difference in both engagement and performance between the two groups, favoring the TFM group. This indicates that the use of structured, meaningful feedback had a substantial effect on students&rsquo; involvement and learning outcomes in mathematics</span><span lang="EN-US">.</span>
+
+
+Contents:
+ - SJES-109-2025-1-7.pdf

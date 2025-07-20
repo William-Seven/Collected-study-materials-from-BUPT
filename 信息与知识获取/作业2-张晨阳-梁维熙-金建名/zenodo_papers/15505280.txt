@@ -1,0 +1,38 @@
+Title: AIBoMGen-experiments Scripts & Results
+
+Authors: Vandendriessche, Wiebe
+
+Keywords: AI Bill of Materials, AI training
+
+Publication date: 2025-05-24
+
+Description:
+<div dir="auto">
+<h1>AIBoMGen-experiments</h1>
+<a href="https://github.ugent.be/wievdndr/AIBoMGen-experiments#aibomgen-experiments"></a></div>
+<p dir="auto">This repository contains evaluation scripts and results for the AIBoMGen proof of concept (PoC).
+
+<div dir="auto">
+<h2>How to Run the Experiments</h2>
+<a href="https://github.ugent.be/wievdndr/AIBoMGen-experiments#how-to-run-the-experiments"></a></div>
+<ol>
+<li>Ensure the backend API is running on&nbsp;<code>localhost:8000</code>&nbsp;without authentication.</li>
+<li>Navigate to the&nbsp;<code>scripts</code>&nbsp;folder.</li>
+<li>Run the Jupyter notebooks in the respective subfolders to execute the experiments:
+<ul>
+<li><code>basic_eval/</code></li>
+<li><code>performance/</code></li>
+<li><code>storage/</code></li>
+</ul>
+</li>
+</ol>
+<div dir="auto">
+<h2>Results</h2>
+<a href="https://github.ugent.be/wievdndr/AIBoMGen-experiments#results"></a></div>
+<ul>
+<li>The resulting jobs and outputs will be written to the&nbsp;<code>results</code>&nbsp;folder.</li>
+<li>Each experiment will create a subfolder in&nbsp;<code>results</code> corresponding to its type and configuration.</li>
+</ul>
+
+Contents:
+ - AIBoMGen-experiments-1.2.zip

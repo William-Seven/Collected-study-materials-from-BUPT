@@ -1,0 +1,27 @@
+Title: 3D-printable models of the Tomba dei Rilievi (Tomb of the Reliefs) at Cerveteri
+
+Authors: Scopinaro, Eleonora
+
+Keywords: 
+
+Publication date: 2025-05-25
+
+Description:
+
+This dataset includes a series of 3D models derived from the open-access digital replica of the Tomba dei Rilievi (Tomb of the Reliefs) at Cerveteri (Italy), designed and optimized for additive manufacturing using SLS (Selective Laser Sintering) technology.
+The models have been redesigned and restructured to ensure printability, structural stability, and educational usability.
+Each file is provided in STL format and accompanied by metadata regarding authorship, licensing, and modifications.
+This work aims to support cultural heritage accessibility, physical prototyping, and responsible reuse of 3D data in research, education, and museology.
+
+
+The original master model was created by Enzo d&rsquo;Annibale, Emanuel Demetrescu, and Daniele Ferdani.
+The derived, printable versions were designed, optimized, and physically tested through SLS 3D printing by Eleonora Scopinaro.
+
+
+Contents:
+ - 10.5281_zenodo.15512490_RA.xlsx
+ - Tomba_Rilievi-3DP_P1.stl
+ - Tomba_Rilievi-3DP_P3.stl
+ - Tomba_Rilievi-3DP_P2.stl
+ - 10.5281_zenodo.15512490_UI.xlsx
+ - attribution.txt

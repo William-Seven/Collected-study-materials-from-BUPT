@@ -1,0 +1,20 @@
+Title: Pedagogical concept for target groups in teacher training and vocational education
+
+Authors: Spieler, Bernadette, Burgsteiner, Harald, Baksh, Farnaz, Lanz, Julia, Kruusamäe, Karl, Kinnula, Marianne, Kandlhofer, Martin, Kieber, Melanie, Tomeschek, Sandra, Schaberreiter, Thomas, Majbrit Knudsen, Trine
+
+Keywords: 
+
+Publication date: 2025-03-31
+
+Description:
+<em>EU pending approval</em>
+
+This deliverable provides a comprehensive analysis of the latest approaches to didactical&nbsp;concepts, learning strategies and curricular implementations to efficiently address the&nbsp;development of competences in the field of computational thinking (CT), entrepreneurship&nbsp;education (EE) and green skills (GS), the three core competence pillars of the&nbsp;ComeThinkAgain project. Constructionism has emerged as a pivotal learning approach for&nbsp;integrating CT, EE and GS into interdisciplinary education. By emphasizing active learning,&nbsp;hands-on experimentation, and collaborative strategies, constructionist methods&nbsp;effectively foster skill development across these domains, addressing both theoretical&nbsp;understanding and practical application needs.
+
+The curricular implementation of CT, EE and GS is still challenging. The findings emerging&nbsp;from this deliverable show that there is no uniform approach in countries across Europe&nbsp;and the implementation differs according to countries as well as competence area. Most&nbsp;popularly, these competences are either integrated in other subjects e.g., mathematics for&nbsp;CT, economics for EE and natural sciences for GS, or incorporated as cross-curricular topics&nbsp;or as stand-alone subjects.&nbsp;Moreover from September to December 2024 we conducted nine co-creation workshops&nbsp;with nearly 100 participants from academia, industry and government. The workshops&nbsp;aimed to give important insights concerning CT, EE and GS competences, training&nbsp;methods, assessment and curricula implementation. The findings of these workshops&nbsp;represent a crucial component of this deliverable. The workshops emphasized the&nbsp;important role of interactive and practice-oriented learning approaches. Methods such as&nbsp;design thinking, project-based learning and simulation games emerged as powerful tools&nbsp;for fostering in-depth learning and competence application. Additionally, the workshop&nbsp;served to revise the original competence list derived from D2.1 and competences which&nbsp;are not yet or only partly covered by our original list but emerged from the co-creation&nbsp;workshops as relevant were identified.&nbsp;Our analysis in this document will serves as a linking point for Task 2.4., the development&nbsp;of the learning modules within the CTA-CETS.
+
+<em>&nbsp;</em>
+
+
+Contents:
+ - D2.2 - Pedagogical concept for target groups.pdf

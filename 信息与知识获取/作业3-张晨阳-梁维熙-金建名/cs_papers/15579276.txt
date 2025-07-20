@@ -1,0 +1,12 @@
+Title: Dataset and Code used in "Evaluating crop rotations around the world using satellite imagery and causal machine learning"
+
+Authors: Kluger, Dan M.
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+This zip file contains the dataset and code used in the preprint titled "Evaluating crop rotations around the world using satellite imagery and causal machine learning" by Dan M. Kluger, Stefania Di Tommaso, and David B. Lobell.
+
+

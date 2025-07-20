@@ -1,0 +1,14 @@
+Title: Exploring the impact of neural networks on modern technology
+
+Authors: Milind Kunwar, Pavan Malani, Archana Bendale
+
+Keywords: Neural Networks, Deep Learning, Computer Vision, Natural Language Processing (NLP), Autonomous Systems, Healthcare Diagnostics
+
+Publication date: 2025-06-03
+
+Description:
+A key component of contemporary technological innovation, neural networks are changing how robots perceive, process, and learn from data. This study examines the expanding impact of neural network architectures in a number of sectors, including as communication, healthcare, finance, and transportation. The paper illustrates how these systems improve decision-making processes, automate difficult jobs, and open up new avenues for artificial intelligence by looking at current developments and real-world applications. The difficulties with scalability, transparency, and ethical deployment are also covered in this paper. The paper seeks to offer a more thorough knowledge of how neural networks are propelling a technological revolution and influencing the development of intelligent systems in the future through a fair examination.
+
+
+Contents:
+ - 1. SJ001-V3I2-PG-1-5.pdf

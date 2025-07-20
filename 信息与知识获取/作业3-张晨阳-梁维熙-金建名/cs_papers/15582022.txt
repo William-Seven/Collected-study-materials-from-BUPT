@@ -1,0 +1,20 @@
+Title: Benefits of the laparoscopic approach in liver surgery: perioperative and long-term outcomes
+
+Authors: Kostadinov, Radoslav, Mihaylov, Vassil, Trichkov, Tsvetan, Vladov, Nikola
+
+Keywords: laparoscopic surgery, colorectal liver metastases
+
+Publication date: 2025-06-03
+
+Description:
+<strong>Background: </strong>Laparoscopic liver surgery has undergone substantial development over the last decade. Compared to the conventional approach, there is compelling evidence regarding reduced blood loss, shorter hospital stays, and fewer postoperative complications, while achieving comparable oncologic outcomes. The aim of the current study is to analyze the short- and long-term results of laparoscopic liver resections, performed in a high-volume, specialized hepatopancreatobiliary unit.
+
+<strong>Methods: </strong>A prospectively managed database of liver resections performed over a nine-year period (2014&ndash;2023) was analyzed. Of the 974 identified patients, cases involving two-stage hepatectomy, simultaneous and multivisceral resections, as well as those requiring complex vascular or biliary reconstruction, were excluded. The final analysis included 800 patients, who were divided into three groups: laparoscopic liver resection (LLR), open liver resection (OLR) and patients converted from laparoscopic to open approach. Perioperative outcomes between LLR and OLR were compared, and a survival analysis was performed for patients with malignant diseases.
+
+<strong>Results: </strong>The mean age of the cohort was 60 years (SD&plusmn;13.2), with 46% being male (n=373). OLR was performed in 505 patients, LLR in 230 patients, and 65 cases were converted to open surgery. In 569 patients, the indication for surgical treatment was a malignant disease. Patients undergoing OLR demonstrated a higher intraoperative blood loss (244 mL vs. 151 mL, p&lt;0.001), a higher rate of blood transfusions (21% vs. 6%, p=0.004), and a longer hospital stay (8 days vs. 5 days, p&lt;0.001). No significant difference was observed in the rate of minor complications (Clavien-Dindo grade&lt;III), whereas the incidence of major complications was significantly higher in the OLR group (18% vs. 6%, p=0.02). Overall survival following LLR was 58 months, compared to 41 months following OLR (p&lt;0.001). The 1-, 3-, and 5-year survival rates were 88%, 61%, and 32%, respectively, for LLR versus 77%, 42%, and 10%, respectively, for OLR.
+
+<strong>Conclusion: </strong>Our results demonstrate superior short-term outcomes with LLR compared to OLR. Although the significantly higher survival observed in the LLR group can undoubtedly be attributed to the inherent selection bias, the data nonetheless confirm the oncologic adequacy of the laparoscopic approach.
+
+
+Contents:
+ - surgery-v89i2-1.pdf

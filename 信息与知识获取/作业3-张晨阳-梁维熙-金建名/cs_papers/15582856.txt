@@ -1,0 +1,14 @@
+Title: Leveraging AI for Enhanced Archaeological Data Extraction: Workflows for Textual and Image-Based Data
+
+Authors: Pajdla, Petr, Novák, David, Harasim, Ronald, Křivánková, Dana, Straňák, Pavel, Lutsai, Kateryna, Lečbychová, Olga
+
+Keywords: 
+
+Publication date: 2025-05-07
+
+Description:
+Presentation from a talk given at <em>CAA2025 Digital Horizons</em> conference in session <em>19.&nbsp;Reusable Digital Research Workflows for Archaeology</em>.
+
+
+Contents:
+ - 01 pajdla_etal_caa2025.pdf

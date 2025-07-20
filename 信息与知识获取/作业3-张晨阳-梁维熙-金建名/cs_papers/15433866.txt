@@ -1,0 +1,20 @@
+Title: Hearing loss compensation and simulation using a differentiable loudness model
+
+Authors: Drgas, Szymon, Bramsløw, Lars
+
+Keywords: 
+
+Publication date: 2025-05-16
+
+Description:
+Recent applications of auditory models with hearing loss are &lsquo;closed-loop&rsquo; approaches. Deep learning is used to optimize the parameters of a neural network by comparing a normal hearing and a hearing-impaired branch of the auditory model.
+
+Audmod (Bramsl&oslash;w, 2024,&nbsp;<a href="https://doi.org/10.5281/zenodo.10473561">doi:10.5281/zenodo.10473561</a>) is a loudness perception model with hearing loss. The auditory filter bandwidth in the Audmod depends on both signal level and hearing loss, both leading to increased upward spread of masking. Therefore, the model takes into account complex dependencies that occur for multitone signals in loudness perception.
+
+The aim of the work was to test the early application of the differentiable version of Audmod to hearing loss compensation (HLC) and simulation (HLS). In the HLC the input signal provided at the input of the Audmod with hearing loss is multiplied in the STFT domain by a gain matrix. The gain matrix is optimized, such that the specific loudness patterns computed by the model are as similar as possible to the loudness patterns computed by Audmod for normal hearing listeners for non-processed input. In the case of HLS, the signal at the input of normal hearing Audmod is multiplied by a gain matrix optimized to achieve similar specific loudness patterns as for hearing impaired listeners.
+
+For HLC, the resulting signals were evaluated and compared to National Acoustics Laboratory revised, profound (NAL-RP) prescription using spectral measurements and the hearing-aid speech perception index (HASPI). For HLS, spectral measurements and informal listening have been used for preliminary evaluation.
+
+
+Contents:
+ - Poster_SPIN_2025-6.pdf

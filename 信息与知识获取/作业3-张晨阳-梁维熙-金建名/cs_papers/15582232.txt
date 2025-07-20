@@ -1,0 +1,14 @@
+Title: Global Monthly Dissolved Oxygen Reconstruction via Bayesian Ensemble Machine Learning
+
+Authors: Mingyu, Han, Yuntao, Zhou
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+We present DO_Reconstruction_1960-2023.nc, a global monthly gridded dataset of seawater dissolved oxygen concentration spanning January 1960 through December 2023. Observations from WOD and biogeochemical Argo floats were combined with key environmental factors (temperature, salinity, currents) at a uniform 1&deg;&times;1&deg; horizontal resolution and 75 standard depth levels (0&ndash;5902 m).
+
+
+Contents:
+ - DO_Reconstruction_1960-2023.nc

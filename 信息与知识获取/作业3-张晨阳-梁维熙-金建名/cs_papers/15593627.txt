@@ -1,0 +1,14 @@
+Title: Cross-Origin Resource Sharing Vulnerability Testing: Techniques and Implications
+
+Authors: Vivek Somi
+
+Keywords: 
+
+Publication date: 2022-12-06
+
+Description:
+This review article examines weaknesses in Cross- Origin Resource Sharing (CORS) and the necessary testing techniques essential for protection of modern online applications. Safeguarding sensitive user data depends on understanding and mitigating CORS-related risks as online applications become more dynamic and linked. Offering a complete basis for vulnerability detection, the paper looks at several testing techniques including human testing, automated tools, and browser developer tools. Moreover, it emphasizes real events that show the serious results of poorly applied CORS rules, therefore stressing the need for strict security measures. Examined are best practices for CORS security&mdash;that is, suitable configuration, regular audits, and increased developer awareness&mdash;that help companies to raise their security posture. The report presents expected developments in CORS security including machine learning for identifying anomalies and centralized policy management. This mix of strategies and penalties gives businesses trying to keep high levels of safety in a digital context significant new insight.
+
+
+Contents:
+ - 2410034 - Dec 2022.pdf

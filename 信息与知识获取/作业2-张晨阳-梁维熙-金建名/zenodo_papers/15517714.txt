@@ -1,0 +1,13 @@
+Title: Multi objective optimization for the optimal scheduling of a Battery Swapping Station integrated with photovoltaic
+
+Authors: Alberizzi, Jacopo Carlo, Renzi, Massimiliano
+
+Keywords: 
+
+Publication date: 2025-05-27
+
+Description:
+N/A
+
+Contents:
+ - AF.SDEWES2025.0009-V0.pdf

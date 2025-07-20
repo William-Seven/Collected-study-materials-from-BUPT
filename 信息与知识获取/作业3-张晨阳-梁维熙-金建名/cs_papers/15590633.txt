@@ -1,0 +1,15 @@
+Title: Single tree health monitoring using uav-based lidar data
+
+Authors: Jonikavičius, Donatas, Augustaitis, Algirdas
+
+Keywords: UAV, LiDAR data, Tree health
+
+Publication date: 2025-06-02
+
+Description:
+In recent years, climate change has forced us to seek solutions to reduce the amount of greenhouse gases in the atmosphere. One of the most widely known methods is the increase of forest areas, making it essential to monitor the health of forests. Forest health has a significant impact on the entire ecosystem. Lidar technology has been used in forest monitoring and inventory for a couple of decades, but the rapid development of technology has greatly expanded the applicability and scope of these technologies. The abundance of Lidar sensors mounted on UAVs provides opportunities for frequent monitoring of small forest areas. However, Lidar data obtained from UAVs has not been evaluated for determining tree health status. This research focuses on the application of Light Detection and Ranging (LiDAR) technology for monitoring tree health and utilizes UAV-mounted LiDAR sensors to collect high-resolution data on tree canopies, enabling detailed analysis of tree health indicators such as defoliation and overall canopy condition. By employing advanced algorithms, we extract critical parameters from LiDAR point clouds, facilitating the calculation of a canopy health index. Several approaches were investigated to extract information on tree crown parameters, such as object-based LiDAR intensity image analysis, deep learning, and more simplistic image classifications based on structural information. The intensity values of the reflected points were extracted, and a canopy health index was calculated. The accuracy of our findings is validated through field measurements conducted in summer 2024, which assess tree defoliation levels (0 to 100 %). The results highlight the potential of UAV-based LiDAR data processing in providing efficient, accurate, and frequent monitoring of tree health, offering valuable insights for forest management practices.
+
+
+Contents:
+ - ACA_article_156849.pdf
+ - ACA_article_156849.xml

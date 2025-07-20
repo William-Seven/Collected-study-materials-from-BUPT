@@ -1,0 +1,14 @@
+Title: Design and Analysis of the Performance of the IoT-Based Water Purity Identification System
+
+Authors: International Journal of Computer Science, Engineering and Applications (IJCSEA)
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+<span lang="EN-IN">In recent years, millions of tourists have visited Bangladesh to experience its natural beauty, underscoring the critical need for access to potable water. Contamination of water sources poses significant risks to human health, particularly in high-traffic tourist regions. This study proposes an Internet of Things (IoT) based water quality monitoring system designed to assess drinking water safety in Bangladesh&rsquo;s tourist areas. The system is integrated with a Wi-Fi-capable ESP32 microcontroller and four sensors to collect four water parameter values such as pH, turbidity, total dissolved solids (TDS), and temperature with a. Data from 1,000 water samples collected across diverse tourist locations are transmitted wirelessly to a dedicated IoT server for real-time analysis, aligning with water quality thresholds established by the World Health Organization (WHO) and Bangladesh standards. Results indicate that 36% of samples fully complied with safety standards, 58% were moderately pure (posing minimal risk to vulnerable populations), and 6% were polluted. These findings highlight the system&rsquo;s potential to identify unsafe water sources, safeguard public health, and promote environmental sustainability. By offering scalable, costeffective monitoring, this IoT framework addresses regional challenges while contributing to global efforts for clean water access.</span>
+
+
+Contents:
+ - 15225ijans01.pdf

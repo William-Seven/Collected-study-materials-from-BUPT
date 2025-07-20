@@ -1,0 +1,13 @@
+Title: DEEPFAKE TECHNOLOGY: THREAT LANDSCAPE, DETECTION TECHNIQUES, AND ETHICAL GOVERNANCE
+
+Authors: Abbaz Primbetov, Anvarjon Normuminov, Zulxumor Abdiraimova
+
+Keywords: Deepfake, Generative Adversarial Networks (GANs), Cybersecurity, Deepfake Detection
+
+Publication date: 2025-06-03
+
+Description:
+Deepfake technology, driven by advancements in artificial intelligence (AI) and deep learning, facilitates the creation of hyper-realistic synthetic media—encompassing images, videos, and audio. While this innovation holds promise in fields such as entertainment, education, and digital accessibility, it simultaneously poses significant threats, including misinformation dissemination, identity theft, and cybersecurity vulnerabilities. The accelerating sophistication of deepfake generation methods underscores the urgent need for effective detection techniques and comprehensive regulatory responses. This paper explores the fundamental principles underlying deepfake creation, evaluates its associated risks, examines state-of-the-art detection strategies, and discusses future directions for promoting the ethical and secure application of deepfake technology.
+
+Contents:
+ - 20_838-106-112-Primbetov.pdf

@@ -1,0 +1,14 @@
+Title: LiDAR-Camera Fusion 3D Object Detection Using Deep Learning Algorithms
+
+Authors: Dr. Sachin Singh, Arjun Singh, Dr.Khoob Singh, Vibhuti Sharma, Mr Subodh Rastogi, Piyush Rastogi
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+The rapid progress in autonomous driving technology has highlighted the need for accurate and reliable systems to detect objects, especially in 3D environments. This study aims to improve 3D object detection by combining data from LiDAR and cameras. LiDAR sensors are known for their ability to measure distances precisely, while cameras provide detailed visual information. By merging these two data sources, the goal is to create a system that can detect objects more accurately and reliably, even in complex and dynamic driving conditions. The research involves three main objectives: developing a method for combining sensor data, using advanced deep learning techniques to analyse this combined data, and validating the system through experiments. To achieve this, the project uses a pre-trained YOLOv5 model to identify objects in 2D camera images. The identified objects are then mapped into 3D space using LiDAR data, which is carefully aligned and calibrated with the camera images. The fusion process links the depth information from the LiDAR point cloud with the visual data from the camera, enabling precise 3D positioning of objects. The results show that combining LiDAR and camera data significantly enhances the accuracy of 3D object detection. Tests comparing estimated object distances with actual measurements reveal only minor differences, confirming the system's effectiveness and reliability. This work demonstrates the importance of integrating multiple sensors to improve the performance of perception systems in autonomous vehicles. This study contributes to the field of autonomous driving by presenting a validated system for LiDAR-Camera fusion. The findings emphasise how sensor fusion can enhance the robustness and precision of object detection systems. Future research could explore how to optimise the system for challenging weather conditions, incorporate additional sensors like RADAR, and leverage more advanced deep learning models to further advance autonomous driving technology.
+
+
+Contents:
+ - 1-JOT1581.pdf

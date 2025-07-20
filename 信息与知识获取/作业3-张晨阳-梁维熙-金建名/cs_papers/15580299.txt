@@ -1,0 +1,13 @@
+Title: Introduction to Reinforcement Learning
+
+Authors: Santamaria Garcia, Andrea
+
+Keywords: machine learning, reinforcement learning, accelerator physics
+
+Publication date: 2025-06-03
+
+Description:
+Introductory lecture and code to learn reinforcement learning from scratch
+
+Contents:
+ - machine-learning-tutorial/reinforcement-learning-v1.1.2.zip

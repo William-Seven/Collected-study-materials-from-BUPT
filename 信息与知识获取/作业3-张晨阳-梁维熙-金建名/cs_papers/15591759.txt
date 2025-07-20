@@ -1,0 +1,13 @@
+Title: Towards Scalable Foundation Models for Digital Dermatology
+
+Authors: Gröger, Fabian, Gottfrois, Philippe Léon-Marius, Amruthalingam, Ludovic, Gonzalez-Jimenez, Alvaro, Lionetti, Simone, Soenksen-Martinez, Luis, Navarini, Alexander, Pouly, Marc
+
+Keywords: 
+
+Publication date: 2024-11-08
+
+Description:
+The growing demand for accurate and equitable AI models in digital dermatology faces a significant challenge: the lack of diverse, high-quality labeled data. In this work, we investigate the potential of domain-specific foundation models for dermatology in addressing this challenge. We utilize self-supervised learning (SSL) techniques to pre-train models on a dataset of over 240,000 dermatological images from public and private collections. Our study considers several SSL methods and compares the resulting foundation models against domain-agnostic models like those pre-trained on ImageNet and state-of-the-art models such as MONET across 12 downstream tasks. Unlike previous research, we emphasize the development of smaller models that are more suitable for resource-limited clinical settings, facilitating easier adaptation to a broad range of use cases. Results show that models pre-trained in this work not only outperform general-purpose models but also approach the performance of models 50 times larger on clinically relevant diagnostic tasks. To promote further research in this direction, we publicly release both the training code and the foundation models, which can benefit clinicians in dermatological applications.
+
+Contents:
+ - 2411.05514v1.pdf

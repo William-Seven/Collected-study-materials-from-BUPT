@@ -1,0 +1,14 @@
+Title: Non-Targeted Screening: A PARC Training Resource
+
+Authors: BAIRA, EIRINI, Termentzi, Aikaterini
+
+Keywords: Chemical Detection, Screening (Chemistry)
+
+Publication date: 2025-05-23
+
+Description:
+This training material presents the principles and applications of Non-Targeted Screening (NTS), focusing on Liquid Chromatography coupled with High-Resolution Mass Spectrometry (LC-HRMS). The aim of this presentation is to explore methodological approaches for a broader chemical characterisation, highlighting the importance of harmonised workflows and the emerging role of AI and machine learning in advancing NTS applications.
+
+
+Contents:
+ - Training material_Non targeted screening_BPI.pdf

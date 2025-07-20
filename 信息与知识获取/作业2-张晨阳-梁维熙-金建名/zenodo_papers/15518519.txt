@@ -1,0 +1,15 @@
+Title: Research Software Discovery: How do we Want to Search Research Software and Where do we Want to Find it?
+
+Authors: Wittenborg, Tim, Gey, Ronny, Karras, Oliver, Mietchen, Daniel, Struck, Alexander
+
+Keywords: Research Software, Discovery
+
+Publication date: 2025-05-26
+
+Description:
+
+The workshop aimed to identify current challenges in research software discovery and propose actionable improvements. Using a World Caf&acute;e discussion format, participants explored topics such as the effectiveness of current discovery systems, metadata classification, hosting infrastructures, and AI integration. The workshop generated concrete recommendations for enhancing&nbsp;research software discovery, benefiting developers, researchers, and institutions.
+
+
+Contents:
+ - deRSE25_Workshop_Results_v0.2.pdf

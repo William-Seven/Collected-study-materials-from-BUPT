@@ -1,0 +1,17 @@
+Title: Transcription factor identification workflow for InsectTFDB
+
+Authors: Zhou, Hang, Mei, Yang
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This document describes the analysis pipeline for building and utilizing the InsectTFDB database, designed to catalog transcription factors (TFs) across a wide range of insect species. The pipeline consists of data collection, transcription factor identification, functional annotation, clustering analysis, and database construction. The tables are the supplementary tables
+
+
+Contents:
+ - Table S2. DNA binding domains of transcription factors.xlsx
+ - Table S1. Species information.xlsx
+ - workflow.md

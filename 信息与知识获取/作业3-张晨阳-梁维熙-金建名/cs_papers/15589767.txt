@@ -1,0 +1,14 @@
+Title: Self-Regulated Learning Model in Learning Mathematics in State High School Students in Bekasi City and Regency (Analysis of Amos Version 24 Application)
+
+Authors: Afrina Sari,, Asmadi Asla ,, Anizar Rahayu,
+
+Keywords: Self-Regulated learning, Growth Mindset, Parental Social Support, Emotional Intelligence and Self Efficacy
+
+Publication date: 2025-06-04
+
+Description:
+The purpose of this study was to test the theoretical model stating that: "The Influence/Role of Growth Mindset directly, Parental Social Support, Emotional Intelligence through self-efficacy on students' self-regulated learning Fit (in accordance) with empirical data?". And also to determine the correlation relationship between variables, namely: 1). Testing the Influence of Growth Mindset directly on Self-Regulated Learning. 2). Testing the Influence of Parental Social Support directly on self-regulated learning 3). Testing Parental Social Support on self-regulated Learning through self-efficacy. 4). Testing the influence of emotional intelligence directly on self-regulated learning. 5). Testing the influence of Emotional Intelligence on self-regulated learning through self-efficacy. 6). Testing the Influence of self-efficacy on self-regulated learning. The research method is a quantitative survey method, and data analysis with SEM (AMOS version 24, Population &amp; sample are students of SMAN Kota Bekasi and SMAN Kabupaten Bekasi totaling 240 samples. The results of the study explain 1). The relationship between GM-SRL with a value of P = 0.007 &lt;0.05, then H1 is accepted, meaning that there is a direct influence of Growth Mindset on self-regulated learning. 2). The relationship between DS-SRL with a value of P = 0.025 &lt;0.05, then H2 is accepted, meaning that there is a direct influence of Parental Social Support on self-regulated learning. 3). The relationship between KE-SRL with a value of P = 0.000 &lt;0.05, then H3 is accepted, meaning that there is a direct influence of Emotional Intelligence on self-regulated learning. 4). The relationship between DS-SE -SRL with a value of P = 0.013 &lt;0.05, then H4 is accepted, meaning that there is an influence of Parental Social Support on Self-regulated learning through the mediator Self Efficacy. 5). The relationship between KE-SE-SRL with a value of P = 0.010 &lt;0.05, then H5 is accepted, meaning that there is an influence of Emotional Intelligence on Self-regulated learning through the Self-efficacy variable. 6) The relationship between SE-SRL with a value of P = 0.000 &lt; 0.05, then, H6 is accepted, meaning that there is an influence of Self Efficacy on self-regulated learning. So it can be concluded that the study with N = 240 is significant, meaning that because the value of P &lt; 0.05 means that Ha is accepted and all variables are Valid, stated to have a role in self-regulated learning.
+
+
+Contents:
+ - 114.pdf

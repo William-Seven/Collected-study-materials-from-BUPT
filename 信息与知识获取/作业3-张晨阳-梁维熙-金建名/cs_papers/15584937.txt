@@ -1,0 +1,13 @@
+Title: Fig. 9 in Habitat Suitability Modelling for the Red Dwarf Honeybee (Apis florea (Linnaeus)) and Its Distribution Prediction Using Machine Learning and Cloud Computing
+
+Authors: Ma'moun, Shireen, Farag, Rasha, MetWally, Amr, Mona, Ali ·
+
+Keywords: Biodiversity, Taxonomy
+
+Publication date: 2024-12-17
+
+Description:
+Fig. 9 Areas(km2) for different HSI classes
+
+Contents:
+ - figure.png

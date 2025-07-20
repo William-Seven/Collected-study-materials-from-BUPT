@@ -1,0 +1,14 @@
+Title: Limits of deep-learning-based RNA prediction methods
+
+Authors: Ludaic, Marko
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+Dataset of predicted models, MSAs and original sequences for the paper Limits of deep-learning-based RNA prediction methods
+
+
+Contents:
+ - RNA-benchmark.zip

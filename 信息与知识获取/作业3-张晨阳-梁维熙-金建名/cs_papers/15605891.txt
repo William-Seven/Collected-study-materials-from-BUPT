@@ -1,0 +1,14 @@
+Title: Smart Book Assistant: AI-Enabled Digital Reading Platform
+
+Authors: Ahire Pratiksha, Ms.A.S. Ashtul
+
+Keywords: AI Book Summarization, Digital Library, Smart Book Reader, PWA, NLP, Reading Personalization, Feedbooks API, Cross- Device Sync, Offline Reading
+
+Publication date: 2025-06-06
+
+Description:
+<em><span lang="EN-US">This research paper presents the development and implementation of Smart Book Assistant, a next-generation AI- powered digital library designed to enhance the reading experience through<span> </span>intelligent<span> </span>recommendations,<span> </span>real-time<span> </span>summaries,<span> </span>and<span> </span>offline accessibility. Unlike conventional e-readers, this system leverages natural language processing (NLP) and machine learning (ML) to streamline book discovery, improve reading comprehension, and enable cross-device continuity. With integration of 50,000+ public domain<span> </span>books<span> </span>via<span> </span>Feedbooks<span> </span>API<span> </span>and<span> </span>a<span> </span>responsive<span> </span>PWA<span> </span>interface,<span> </span>the Smart Book Assistant provides a customizable, smart, and accessible platform for digital readers across the globe.</span></em>
+
+
+Contents:
+ - SMART BOOK ASSISTANT AI-ENABLED DIGITAL READING PLATFORM -Formatted Paper.pdf

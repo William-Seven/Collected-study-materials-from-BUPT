@@ -1,0 +1,16 @@
+Title: UHE Cosmic Ray Candidate Identification in RNO-G Deep Antennas Using Machine Learning
+
+Authors: Hendricks, Bryan
+
+Keywords: 
+
+Publication date: 2025-04-03
+
+Description:
+Ultra-high-energy cosmic rays (UHECRs) are believed to originate from the universe's most cataclysmic events, yet their sources remain unidentified. Composed primarily of protons and nuclei ranging from light elements to iron, these charged particle emissions are deflected en route to Earth by magnetic fields, obscuring their true source directions. The Radio Neutrino Observatory in Greenland (RNO-G) addresses this issue by targeting UHE neutrinos, as many of the mechanisms hypothesized to produce UHECRs are also expected to unleash UHE neutrinos. Neutrinos, due to their neutrality, near-zero mass, and weak interactions, can traverse the cosmos unhindered and undeflected. While these characteristics make neutrinos invaluable for tracing their origins, they also make them incredibly difficult to detect.
+
+RNO-G overcomes this challenge by leveraging the Askaryan effect: when UHE neutrinos interact within a dense, dielectric medium, they produce showers that emit broadband electromagnetic radiation which coherently sums in the radio regime. This phenomenon allows for a massive effective detection volume due to the long attenuation lengths of radio waves in ice. However, UHECR showers can produce impulsive emissions that closely mimic neutrino-induced showers, making them a critical background to account for in neutrino searches. This work presents methodology and preliminary results from a linear discriminant analysis, along with plans for other classification methods, applied to a subset of RNO-G data to identify cosmic ray candidate events in its deep in-ice antennas.
+
+
+Contents:
+ - Towards UHE Cosmic Ray Candidate Identification in RNO-G Deep Antennas Using Machine Learning.pdf

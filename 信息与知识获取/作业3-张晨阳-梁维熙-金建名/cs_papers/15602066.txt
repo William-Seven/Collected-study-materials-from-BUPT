@@ -1,0 +1,18 @@
+Title: Isotropic Deep Learning: You Should Consider Your (Inductive) Biases
+
+Authors: Bird, George
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+<div>Abstract:</div>
+<div>This paper proposes a new paradigm, \textit{Isotropic Deep Learning}, by analysing the geometric consequences of contemporary functional forms used in deep learning. The existing inductive bias for functional forms is a discrete permutation symmetry --- an often underappreciated \textit{choice}. This work promotes this discrete symmetry to a continuous rotationally symmetric framework. It has been demonstrated that current functional forms influence the activation distributions, such that discrete symmetries in functions can induce similar discrete symmetries in embedded representations through training. This produces a geometric artefact in learned representations that arises solely due to human-imposed design choices rather than task-driven necessity. There appears to be no compelling a priori justification for why such representations or functional forms are universally desirable, and this paper hypothesises three testable pathologies of this current formulation. To address these detrimental effects, an alternative construction for functional forms is defined, aimed at relaxing geometric constraints on representations and improving network performance. The underlying inductive biases of this framework are suggested to be a preferable default which can be adopted once a wide array of suitable functions are developed. A variety of functions are proposed within the paper, including several new activation functions. Since this overhauls almost all functional forms characterising modern deep learning, it is suggested that this shift may constitute a novel fork of deep learning. Finally, a taxonomic approach is discussed, which could be used to derive many such forks from symmetry-principled considerations.</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>Zenodo will be used to maintain a continuously updated copy of this work as it evolves. Please make sure that any share link used connects to this general page, rather than a specific version of the paper.</div>
+
+Contents:
+ - PositionPaper.pdf

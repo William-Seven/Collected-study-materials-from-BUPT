@@ -1,0 +1,15 @@
+Title: PREDICTIVE MODELING OF SOLVENT SYSTEMS FOR NUCLEAR FUEL REPROCESSING APPLICATIONS
+
+Authors: Ibrahim, Musa Garba, Suleiman, Hadiza Aisha
+
+Keywords: COSMO-RS, Ionic Liquids, PUREX Process, Uranylnitrate, Solvent Screening
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>This study employs the COSMO-RS method to screen 2106 ionic liquids as potential alternative solvents to the volatile n-dodecane used in the PUREX process for the separation of uranium and plutonium from spent nuclear fuel. The distribution coefficients of uranylnitrate in an ionic liquid/aqueous nitric acid biphasic system and the solubility of the ionic liquids in water were evaluated. Seventeen ionic liquids based on tetrafluoroborate (BF4) emerged as the most hydrophobic among those screened, with hexamethylguanidium tetrafluoroborate exhibiting the highest distribution coefficient. These ionic liquids demonstrated higher distribution coefficients than conventional n-dodecane, despite being more hydrophilic. The results suggest that ionic liquids can effectively serve as alternative solvents in the PUREX process, offering a promising replacement for n-dodecane.</span>
+
+
+Contents:
+ - Paper 3.pdf

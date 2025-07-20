@@ -1,0 +1,26 @@
+Title: CLINICAL PRESENTATION AND RADIOLOGIC PATTERNS OF WHO GRADE I VS GRADE II MENINGIOMAS
+
+Authors: Kovačević, Haris Eldin
+
+Keywords: Meningioma; World Health Organization; pre-operative indicator; grade
+
+Publication date: 2025-05-26
+
+Description:
+<div>
+
+<span>Meningiomas are the most common benign tumor of the central nervous system, accounting for 53.3% and 37.6% of all central nervous system tumors (1). The World Health Organization (WHO) Grade I meningiomas account for 80.5% of all meningiomas and are considered benign meningiomas; the WHO Grade II meningiomas account for 17.7 % of all meningiomas and exhibit more aggressive behavior.</span>
+
+
+<strong><span>Methods: </span></strong><span>In the period 2015-2022, a retrospective single-center study at the clinic of neurosurgery at the Clinical Center University of Sarajevo was conducted, which included patients with a pathohistological finding of WHO Grade I or II meningioma. Depending on the pathohistological grade of the tumor, patients were divided into two groups: Grade I and Grade II patients. Patients were examined clinically and radiologically. Clinical data collected included in the study: Gender, age, number of symptoms before surgery, whether patients were symptomatic or asymptomatic, pre-operative Eastern Cooperative Oncology Group,and Karnopsky performance scale. Pre-operative contrast magnetic resonance imaging of the head measured tumor volume, temporal muscle thickness (TMT), sagittal midline shift, and surrounding cerebral edema.</span>
+
+
+<strong><span>Results: </span></strong><span>A<strong> </strong>total of 80 patients were enrolled in the study, 68 with WHO Grade I and 12 with WHO Grade II meningiomas. We found that patients with Grade I meningioma were younger and that the mean thickness of the temporal muscle was statistically thicker than in patients with Grade II. Increasing TMT was significantly and positively associated with Grade I tumors and negatively associated with Grade II tumors (<em>p</em> = 0.032).</span>
+
+
+<strong><span>Conclusion: </span></strong><span>This study demonstrates that TMT can serve as a radiologic pre-operative indicator of meningioma grade and provide valuable guidance to neurosurgeons in surgical planning. Further studies are needed to validate these results.</span>
+
+</div>
+
+Contents:
+ - 3.pdf

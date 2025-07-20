@@ -1,0 +1,14 @@
+Title: Exploring the use of a machine assisted goal and scope in a Life Cycle Studies to understand stakeholder interest and priorities
+
+Authors: Pechsiri, Joseph, Monteiro Souza, Alexandre, Pechsiri, Chaveevan, Shighwedha, Paulus, Katjouanga, Uasora, Mapani, Benjamin, Goodman, Rosa, Ericsson, Niclas
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+The Goal and scope are essential phases within a life cycle study as they lay the foundation for the subsequent inventory modelling, impact assessment, and interpretation of results. Stakeholder engagement is critical throughout life cycle studies. Addressing diverse stakeholder interests and priorities have so far relied on stakeholder-expert dialogues, which remain challenging, particularly in projects with numerous stakeholders leading to a broad range of environmental, social, and economic impact categories and subcategories. This study therefore introduces a machine-assisted goal and scope approach to manage large volume of stakeholder responses generated in stakeholder-expert dialogues. It is designed to complement current manual stakeholder engagement approaches with semi-automated computer assisted analysis that identifies stakeholder interests, concerns, and prioritises them. We apply Natural Language Processing (NLP) in the goal and scope phase to preprocess stakeholder response documents collected during a life cycle study within a larger EU project. After preprocessing, unsupervised clustering algorithms were used to determine stakeholders&rsquo; interests, concerns, and priorities. This innovative use of NLP and clustering was tested on a life cycle study of bioenergy value chains in Namibia (2021-2024). The approach successfully analysed stakeholder responses and identified key impact categories and subcategories on which to focus the assessment. Compared to manual methods, the machine-assisted goal and scope phase improved the level of detail while maintaining the same time frame and resource constraints. The current study serves as a proof of concept and demonstrates how life cycle studies can benefit from a machine-assisted goal and scope approach.
+
+
+Contents:
+ - Pechsiri2025a.pdf

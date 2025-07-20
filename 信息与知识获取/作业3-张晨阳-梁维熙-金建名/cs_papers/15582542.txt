@@ -1,0 +1,14 @@
+Title: cit-research/Lung-Ultrasound-A-B-lines-classification: LungUS-AB-v1.0.0
+
+Authors: cit-research
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+This release accompanies our paper on using deep learning and augmentation techniques to detect A-lines and B-lines in lung ultrasound (LUS) images. The provided code enables binary frame-level classification with ResNet and Inception architectures, optimized for sparse, real-world clinical data.
+
+
+Contents:
+ - cit-research/Lung-Ultrasound-A-B-lines-classification-v1.0.0.zip

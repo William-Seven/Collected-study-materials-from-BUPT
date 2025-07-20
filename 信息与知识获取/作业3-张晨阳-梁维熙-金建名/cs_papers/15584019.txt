@@ -1,0 +1,16 @@
+Title: Replication Package for "LLMs for Software Architecture Knowledge: A Comparative Analysis among Seven LLMs"
+
+Authors: Soliman, Mohamed, Keim, Jan
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+This is the replication package for the paper "LLMs for Software Architecture Knowledge: A Comparative Analysis among Seven LLMs" by Mohamed Soliman, Elia Ashraf, Kamel M. K. Abdelsalam, Jan Keim, and Ashwin Prasad Shivarpatna Venkatesh, accepted at the 19th European Conference on Software Architecture (ECSA).
+
+<strong>Abstract:</strong>&nbsp;Software developers require extensive architectural knowledge (AK) to effectively maintain and extend existing software systems. Recently, Large Language Models (LLMs) have demonstrated promising capabilities in learning from vast datasets, including software repositories, to provide insightful answers about existing software systems. With the development of various LLMs, each characterized by distinct sizes, architectures, and vendors, there is potential for these models to assist developers in addressing architectural queries related to AK. Despite the advancements, there is a limited understanding of the comparative performance of different LLMs, particularly regarding the accuracy and similarity of their responses to architectural questions. This paper aims to bridge this gap by evaluating seven diverse LLMs, including GPT, Mistral, LLaMA, and DeepSeek, focusing on their ability to accurately and consistently respond to queries about the AK of the open-source system, Hadoop HDFS. Our study reveals significant variations in the performance of these LLMs, highlighting differences in the accuracy and similarity of their responses. These findings provide valuable insights for software developers and researchers, guiding the selection and utilization of LLMs for architectural knowledge tasks in software development.
+
+
+Contents:
+ - OnlineMaterial.zip

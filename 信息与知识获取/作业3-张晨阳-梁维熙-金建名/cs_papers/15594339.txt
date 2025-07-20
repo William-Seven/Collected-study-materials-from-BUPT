@@ -1,0 +1,14 @@
+Title: Figure 10.2 Learning Designer visualisations
+
+Authors: Dubois, Jacques, Jourde, François
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+<span>Dashboard to represent the characteristics extracted from the learning design spreadsheet, with charts and graphs visualising different parameters (such as learning types and activity metrics).</span>
+
+
+Contents:
+ - figure 10.2.tif

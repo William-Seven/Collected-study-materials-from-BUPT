@@ -1,0 +1,15 @@
+Title: MENTAL HEALTH CLUSTERS IN CHILDREN BORN TO UNMARRIED PARENTS: EVIDENCE FROM LATENT CLASS MODELING
+
+Authors: Thompson, Marcus Elijah
+
+Keywords: Mental Health, Children, Unmarried Parents, Latent Class
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>Despite a considerable number of accounts on the emotional health and development of young children in single-parent, divorced, cohabiting families, patterns of emotional well-being that exist among young children living with unmarried parents and which patterns most children of this group exhibit have remained unknown. Further, racial differences and families' social economic status have been empirically documented as influential factors in the disparities of children's health domains over time. Nonetheless, the impacts of these factors on the likelihood of being in a group with an emotional health pattern that is at risk more than the others have yet to be empirically examined. The present study aims to capture the latent mental health patterns among school children raised by unmarried parents. Using latent class analysis, the study analyzes the National Survey of Children's Health (NSCH) 2021 data to determine the number of latent classes and depicts the characteristics of those classes based on parent responses to children's mental health symptoms to the survey. We also examined the associations between these reporting patterns and two factors that substantially contribute to child health disparities race and food sufficiency (representing family SES). After evaluating the goodness of fit and reviewing classification diagnostics, we found five classes named ADHD class, intact class, Anxiety class, Friendship Problems class, and High-Risk class. Using a three-step approach to incorporating covariates into LCA models, we also found some significant correlations between race and food situation and the five classes. </span>
+
+
+Contents:
+ - 2.pdf

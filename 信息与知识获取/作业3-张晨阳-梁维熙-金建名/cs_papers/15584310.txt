@@ -1,0 +1,20 @@
+Title: Quality of Life in Patients with Permanent Colostomy: A Cross-Sectional Study at the Tertiary Care Hospital in Swat
+
+Authors: Shah, Hussain, Regidor III, Poblete Dioso
+
+Keywords: Permanent colostomy, Quality of life, Stoma complications, Social adjustment, Demographic characteristics
+
+Publication date: 2025-05-23
+
+Description:
+<strong><span>Background:</span></strong><span> Permanent colostomy creates major life quality changes, which damage both patients' bodily health and their mental condition while disrupting their social connections. Researchers aimed to evaluate quality of life (QoL) among permanent colostomy patients in a tertiary care hospital located in Swat to create focused interventions for population sub-groups.</span>
+
+<strong><span>Methodology:</span></strong><span> The study enrolled 70 participants aged 18 years or older who received a permanent colostomy at least three months ago. Structured questionnaires were used to gather data through direct interviews with the respondents. The research used statistical package for the social sciences (SPSS) Version 26, to process data through descriptive and inferential statistics (chi-square tests), which investigated demographic characteristics and stoma-related and QoL variables.</span>
+
+<strong><span>Results:</span></strong><span> The reported stoma complications affected half of the patients through skin irritation, while leakage affected 40%, and odor affected 31.4%. Social adjustment demonstrated the greatest adverse effect as measured by QoL domain scores (2.5/5) that resulted in poor QoL for 51.4% of participants, ahead of physical comfort (2.8/5) and psychological well-being (3.1/5). Significant associations occurred between education levels and social QoL (&chi;&sup2; = 6.78, p = 0.009), gender and physical QoL (&chi;&sup2; = 4.32, p = 0.038), and complications showed an association with overall QoL (&chi;&sup2; = 8.15, p = 0.004).</span>
+
+<strong><span>Conclusion:</span></strong><span> Permanent colostomy patients from Swat demonstrate significant impacts on their quality of life due to financial constraints, together with inadequate education levels and restricted healthcare services. A combination of targeted educational initiatives, enhanced stoma care, and psychological support should be used to handle these difficulties. </span>
+
+
+Contents:
+ - 610_Final.docx

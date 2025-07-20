@@ -1,0 +1,16 @@
+Title: A Multilingual Chatbot for Migrants: Concept and Implementation
+
+Authors: Papoutsoglou, Maria, Tassios, Alexandros, Tegos, Stergios, Bouas, Christos, Manousaridis, Konstantinos, Kaltsa, Maria, Mavropoulos, Thanassis, Vrochidis, Stefanos, Meditskos, Georgios
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Migration is one of the main societal challenges faced by many countries in the European Union (EU). Thus, efficient and transparent processes to achieve the swift registration, health support, and social integration of Third Country Nationals (TCNs) is imperative. Although governments usually provide essential information through various official websites, these resources often lack multilingual accessibility. In some cases, critical content is available in the hosting country&rsquo;s native language. This language barrier can prevent migrants from accessing important information about public services, migration policies, and asylum procedures. This paper presents the development framework for the SALLY chatbot, designed to address some of these challenges by leveraging advancements in generative AI. The proposed solution integrates state-of-the-art technologies in Large Language Models, Dialogue Management, Knowledge Graphs, and Information Retrieval to facilitate personalized,
+multilingual interactions.
+
+
+Contents:
+ - MDTT2025_Multilingual_chatbot_for_Migrants.pdf

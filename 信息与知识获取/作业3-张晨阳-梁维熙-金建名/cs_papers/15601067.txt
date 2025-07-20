@@ -1,0 +1,14 @@
+Title: AI For Continuous Intentional Learning Habits In University Students
+
+Authors: Ginting, Samuel Henjapase, Faizi, Muhammad Nur, Ferdianto
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+N/A
+
+Contents:
+ - Data Paper (RAW).xlsx
+ - Data Paper (FINAL).xlsx

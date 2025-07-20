@@ -1,0 +1,14 @@
+Title: SISTEM ABSENSI SISWA BERBASIS IOT MENGGUNAKAN SENSOR SIDIK JARI DENGAN PARAMETER QOS
+
+Authors: Abdul, Halim
+
+Keywords: Microcontroller, Esp8266, Php, Mysql, Wireshark, QoS
+
+Publication date: 2025-05-31
+
+Description:
+<span lang="IN">Sidik jari merupakan salah satu bagian tubuh manusia yang sangat unik yang membedakannya dengan yang lain serta mudah diakses. Keunikan tersebut didukung oleh teknologi yang dapat mengidentifikasi atau mengenali seseorang secara otomatis. Sistem sidik jari merupakan sarana untuk mengidentifikasi sidik jari yang disebut dengan Fingerprint Sensor. Akan tetapi, Fingerprint Sensor yang ada saat ini hanya dapat mengidentifikasi sidik jari pada satu mesin saja. Untuk itu diperlukan suatu metode agar dapat mengenali setiap pengguna pada sensor sidik jari yang berbeda. Tujuan dari penelitian ini adalah untuk membangun sistem sensor sidik jari agar pengolahan data sidik jari menjadi terpusat sehingga dapat mengidentifikasi setiap Fingerprint Sensor. Hasil pengujian pada penelitian ini menunjukkan bahwa dengan menggunakan Arduino php, mysql dan mikrokontroler esp8266, pengolahan data dapat terpusat sehingga identifikasi sidik jari dapat dilakukan pada setiap sensor sidik jari dengan nilai akurasi sebesar 98,5%. Pengujian sistem menggunakan aplikasi Wireshark untuk menghitung parameter timespan QoS, throughput dan kualitas jaringan dengan menggunakan smartphone. Pengujian throughput dan packet loss menggunakan aplikasi wireshark dengan pengujian Quality of Service (QoS) dengan packet loss sebesar 36.637 dan delay throughput sebesar 68 kb/s.</span>
+
+
+Contents:
+ - 70-75.pdf

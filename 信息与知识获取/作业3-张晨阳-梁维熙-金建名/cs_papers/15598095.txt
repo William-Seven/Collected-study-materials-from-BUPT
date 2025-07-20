@@ -1,0 +1,22 @@
+Title: Exploring the Spatiotemporal Influence of Climate on American Avian Migration with Random Forests
+
+Authors: Bick, Avery
+
+Keywords: climate change, birds, migration
+
+Publication date: 2025-06-04
+
+Description:
+<strong>Summary</strong>Code and data for running analysis and generating figures in<em> Exploring the Spatiotemporal Influence of Climate on American Avian Migration with Random Forests</em> by Bick et al 2024.&nbsp;
+
+Runs analysis predicting passerine bird species occurrence using aggregated maximum temperature, minimum temperature, and precipitation data in North and South America. Examines regional and temporal feature importance of climate features. Projects changes in bird migration patterns using 2021-2040 average CMIP6 climate projections.
+
+<strong>Abstract</strong>
+
+<span>Birds have adapted to climatic and ecological cycles to inform their Spring and Fall migration timings, but anthropogenic global warming has affected plant flowering cycles, insect populations, and habitat availability, threatening these long-establish cycles. Here, we employ a modeling approach to explore how climate spatiotemporally affects accuracy of predicting bird occurrence and model feature importance. Specifically, we train an ensemble of random forests on subsets of North and South American climate data to predict distributions of historical bird occurrence probability for migrating passerine bird species in a North American forested region on eBird citizen science surveys from 2008-2018. In October, when many passerines have begun their southward winter migration, we achieve more accurate predictions of bird occurrence using lagged climate features alone to predict occurrence. Additionally, we note significant higher feature importance in climate data from North American than South America for predicting October occurrence probabilities. These results suggest that analyses of machine learning model metrics may be useful for identifying spatiotemporal climatic cues that affect migratory behavior. Lastly, we explore the application and limitations of random forests for prediction of future bird occurrence using 2021-2040 climate projections.</span>
+
+
+Contents:
+ - Bick_et_al_SI.pdf
+ - Bick_et_al_Manuscript.pdf
+ - Bird_Migration_Analysis.zip

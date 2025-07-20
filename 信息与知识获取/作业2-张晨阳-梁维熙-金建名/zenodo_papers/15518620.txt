@@ -1,0 +1,19 @@
+Title: giffordlabcvr/AAV-Atlas: AAV-Atlas v1.0.1
+
+Authors: Robert J. Gifford
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This release corrects a file path error in v1.0 and incorporates fully validated ht-analysis materials, including:
+
+<ul>
+<li>Updated alignment and partition files</li>
+<li>New phylogenetic trees</li>
+</ul>
+
+Contents:
+ - giffordlabcvr/AAV-Atlas-v1.0.1.zip

@@ -1,0 +1,27 @@
+Title: ONTraC (Ordered Niche Trajectory Construction)
+
+Authors: Wang, Wen, Zheng, Shiwei, Shin, Sujung, Chávez-Fuentes, Joselyn Cristina, Yuan, Guo-Cheng
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+ONTraC (Ordered Niche Trajectory Construction) is a niche-centered, machine learning method for constructing spatially continuous trajectories. ONTraC differs from existing tools in that it treats a niche, rather than an individual cell, as the basic unit for spatial trajectory analysis. In this context, we define niche as a multicellular, spatially localized region where different cell types may coexist and interact with each other. ONTraC seamlessly integrates cell-type composition and spatial information by using the graph neural network modeling framework. Its output, which is called the niche trajectory, can be viewed as a one dimensional representation of the tissue microenvironment continuum. By disentangling cell-level and niche- level properties, niche trajectory analysis provides a coherent framework to study coordinated responses from all the cells in association with continuous tissue microenvironment variations.
+
+<a href="https://ontrac-website.readthedocs.io/en/latest/" target="_blank" rel="noopener">ONTraC website</a>
+
+<a title="ONTraC software" href="https://github.com/gyuanlab/ONTraC" target="_blank" rel="noopener">Software GitHub repository</a>
+
+<a href="https://github.com/gyuanlab/ONTraC_paper" target="_blank" rel="noopener">Reproducible code for ONTraC paper</a>
+
+<a href="https://doi.org/10.5281/zenodo.11186619" target="_blank" rel="noopener">Zenodo dataset repository for ONTraC paper</a>
+
+<a href="https://doi.org/10.1186/s13059-025-03588-5" target="_blank" rel="noopener">ONTraC paper</a>
+
+&nbsp;
+
+
+Contents:
+ - ontrac-1.2.0.tar.gz
+ - ontrac-1.2.0-py3-none-any.whl

@@ -1,0 +1,151 @@
+Title: modelforge curated dataset: SPICE 2
+
+Authors: Iacovella, Christopher, Wieder, Marcus, Chodera, John, Yan, Shuai
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+<h1><strong>Modelforge Curated SPICE 2 Dataset:- Full dataset limited to elements [H, C, N, O, F]- Version: full_dataset_HCNOF_v1.1</strong></h1>
+This provides a curated hdf5 file for a subset of the SPICE 2 dataset (release v2.0.1) designed to be compatible with <a href="https://github.com/choderalab/modelforge">modelforge</a>, an infrastructure to implement and train NNPs. This dataset contains 57037 unique records for 928073 total configurations. The dataset is limited to the elements ['H', 'C', 'N', 'O', 'F'].
+
+When applicable, the units of properties are provided in the datafile,&nbsp; encoded as strings compatible with the <a href="https://github.com/openforcefield/openff-units/">openff-units</a> package.&nbsp;
+
+This is compatible with modelforge hdf5 schema 2.
+
+For more information about the structure of the data file, please see the following:
+
+
+<a href="https://github.com/choderalab/modelforge/wiki/Dataset-and-curation#curation-module">https://github.com/choderalab/modelforge/wiki/Dataset-and-curation#curation-module</a>
+
+<h2><strong>Source Dataset:</strong></h2>
+Small-molecule/Protein Interaction Chemical Energies (SPICE).
+
+The SPICE 2 dataset contains roughly 2 million conformations for a diverse set of small molecules, dimers, dipeptides, and solvated amino acids. It includes 17 elements, charged and&nbsp; uncharged molecules, and a wide range of covalent and non-covalent interactions.&nbsp; SPICE 2 is an update to spice 1, roughly double the total dataset size and including 2 additional elements.&nbsp; It provides both forces and energies calculated at the &omega;B97M-D3(BJ)/def2-TZVPPD level of theory, using Psi4 1.4.1 along with other useful quantities such as multipole moments and bond orders.
+
+<div>
+<pre>&nbsp;</pre>
+</div>
+<h2><strong>Properties Included:</strong></h2>
+
+atomic_numbers&nbsp;
+positions &nbsp; &nbsp; &nbsp;
+
+"per_atom"
+"nanometer"
+
+
+dft_total_force
+
+"per_atom"
+"kilojoule_per_mole / nanometer"
+
+
+mbis_charges &nbsp;&nbsp;
+
+"per_atom"
+"elementary_charge"
+
+
+mbis_dipoles &nbsp;&nbsp;
+
+"per_atom"
+"elementary_charge * nanometer"
+
+
+mbis_quadrupoles &nbsp; &nbsp; &nbsp;&nbsp;
+
+"per_atom"
+"elementary_charge * nanometer ** 2"
+
+
+mbis_octupoles&nbsp;
+
+"per_atom"
+"elementary_charge * nanometer ** 3"
+
+
+mayer_indices &nbsp;
+
+"per_atom"
+"dimensionless"
+
+
+wiberg_lowdin_indices &nbsp;
+
+"per_atom"
+"dimensionless"
+
+
+total_charge &nbsp;&nbsp;
+
+"per_system"
+"elementary_charge"
+
+
+dft_total_energy &nbsp; &nbsp; &nbsp;&nbsp;
+
+"per_system"
+"kilojoule_per_mole"
+
+
+formation_energy &nbsp; &nbsp; &nbsp;&nbsp;
+
+"per_system"
+"kilojoule_per_mole"
+
+
+scf_dipole &nbsp; &nbsp;&nbsp;
+
+"per_system"
+"elementary_charge * nanometer"
+
+
+scf_quadrupole&nbsp;
+
+"per_system""elementary_charge * nanometer ** 2"
+
+
+smiles&nbsp;
+
+"meta_data"
+
+
+
+&nbsp;
+
+<h2><strong>Citations:</strong></h2>
+<div>
+<em>Spice 2 publication:</em>
+
+
+
+Eastman, P., Pritchard, B. P., Chodera, J. D., &amp; Markland, T. E. Nutmeg and SPICE: models and data for biomolecular machine learning. Journal of chemical theory and computation, 20(19), 8583-8593 (2024). <a href="https://doi.org/10.1021/acs.jctc.4c00794">https://doi.org/10.1021/acs.jctc.4c00794</a>
+
+
+
+</div>
+<em>Original SPICE 1 publication:</em>
+
+
+Eastman, P., Behara, P.K., Dotson, D.L. et al. SPICE,&nbsp; A Dataset of Drug-like Molecules and Peptides for Training Machine Learning Potentials. Sci Data 10, 11 (2023). <a href="https://doi.org/10.1038/s41597-022-01882-6">https://doi.org/10.1038/s41597-022-01882-6</a>
+
+<em>Source dataset, released with CCO 1.0 Universal license:</em>
+
+
+
+<div>
+<div>
+<div>
+<div>
+<div>Eastman, P., Behara, P. K., Dotson, D., Galvelis, R., Herr, J., Horton, J., Mao, Y., Chodera, J., Pritchard, B., Wang, Y., De Fabritiis, G., &amp; Markland, T. (2024). SPICE 2.0.1 (2.0.1) [Data set]. Zenodo. <a href="https://doi.org/10.5281/zenodo.10975225" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.10975225</a></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+Contents:
+ - spice_2_dataset_v1.1_HCNOF.hdf5.gz

@@ -1,0 +1,16 @@
+Title: Quiz and Assessment Application Using Mern
+
+Authors: Varshini J, S. Dharshana, K. Yazhini
+
+Keywords: Automated Evaluation, Performance Analytics, Role-Based Access Control.
+
+Publication date: 2025-06-03
+
+Description:
+<em>In the rapidly evolving context of digital education and e-learning, the need for a more robust, interactive and scalable assessment platform is becoming increasingly<span> </span>clear. This article presents the<span> </span>construction<span> </span>and<span> </span>implementation<span> </span>of<span> </span>a<span> </span>quiz<span> </span>and<span> </span>evaluation<span> </span>application,<span> </span>presented<span> </span>in<span> </span>Mern<span> </span>Stack Mongodb, Express.js, React.js, node.js. It has been developed. The purpose of this application is to<span> </span>provide<span> </span>a<span> </span>comprehensive<span> </span>solution<span> </span>for<span> </span>efficient<span> </span>implementation<span> </span>of<span> </span>online<span> </span>reviews,<span> </span>providing<span> </span>both academic and corporate training environments. The system architecture follows modular and component-based designs that ensure separation of concern and maintainability. Developed with React.JS, FrontEnd offers a responsive and dynamic user interface that supports a variety of question formats, including multiple selection, True/False, and description types. The backend built<span> </span>with<span> </span>node.js<span> </span>and<span> </span>express.js<span> </span>manages<span> </span>business<span> </span>logic,<span> </span>handles<span> </span>relaxed<span> </span>APIs,<span> </span>and<span> </span>ensures<span> </span>secure authentication<span> </span>and<span> </span>authorization<span> </span>with<span> </span>JWT.<span> </span>MongoDB<span> </span>as<span> </span>a<span> </span>NOSQL<span> </span>database<span> </span>stores<span> </span>questions<span> </span>and user data, making it more flexible and scalable. The application offers essential features such as real-time and timer-based quiz assessments, role-based access for students and administrators, result<span> </span>analysis,<span> </span>and<span> </span>comprehensive<span> </span>dashboards<span> </span>for<span> </span>managing<span> </span>users<span> </span>and<span> </span>quizzes.<span> </span>It<span> </span>also<span> </span>implements crucial security practices like input validation.</em>
+
+<em>&nbsp;</em>
+
+
+Contents:
+ - QUIZ AND ASSESSMENT -Formatted Paper.pdf

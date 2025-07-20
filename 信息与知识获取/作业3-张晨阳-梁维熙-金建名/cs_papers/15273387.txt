@@ -1,0 +1,20 @@
+Title: Metallic metamaterials with tunable coefficient of thermal expansion produced via multi-material L-PBF
+
+Authors: Prestes, Isabel B., Buchmann, Erhard, Höfer, Philipp, Jägle, Eric A.
+
+Keywords: 
+
+Publication date: 2025-04-24
+
+Description:
+<span lang="EN-US">Metamaterials with tunable coefficient of thermal expansion (CTE) are achievable by combining two materials with a large CTE difference in a specific lattice structure. These metamaterials have potential applications in components that require high dimensional accuracy in space applications, for example. Due to recent advances in the AM field, there are now technologies that allow these metamaterials to be printed in metal multi-material Laser-Powder Bed Fusion (L-PBF) process.</span>
+
+<span lang="EN-US">In this work, metamaterials with both negative and very positive CTE made out of an Invar + IN718 combination were studied. The samples, which ranged from single unit cells to multi-unit-cell segments, were printed in an L-PBF machine equipped with a multi-material &ldquo;Aerosint&rdquo; recoater. Their CTE was evaluated by dilatometry and digital image correlation (DIC) and the results were compared with FEM simulations. The structural integrity of the metamaterials was analyzed by shaker test, thermal cycling and tensile tests in bi-metallic specimens.</span>
+
+<span lang="EN-US">Single unit cells behave differently from metamaterials and a good agreement with the simulations depends on a proper selection of the samples&rsquo; geometry and the corresponding boundary conditions for the simulations. The multi-unit-cell segments present a behavior closer to a metamaterial than single unit cells. The samples subjected to shaker test and thermal cycles did not fail and presented no cracks or plastic deformation. Tensile tests show that a<span>&nbsp; </span>good metallurgical bond is achieved between the two materials, since failure did not happen at the interface. </span>
+
+<span lang="EN-US">These findings give general guidance for developing tunable-CTE metamaterials. At the end of this work, one of the studied metamaterials was applied in an actuator for a satellite experiment.</span>
+
+
+Contents:
+ - Abstract_AAMS2025_Prestes.docx

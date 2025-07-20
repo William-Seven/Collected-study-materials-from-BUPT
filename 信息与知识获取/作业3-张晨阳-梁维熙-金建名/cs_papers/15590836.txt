@@ -1,0 +1,14 @@
+Title: Action-Aware Self-Supervised Learning
+
+Authors: Aubret, Arthur
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+ARENA deliverable report of P1 - WP2
+
+
+Contents:
+ - ARENA WP2.pdf

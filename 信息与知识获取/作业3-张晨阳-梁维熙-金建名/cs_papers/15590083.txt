@@ -1,0 +1,18 @@
+Title: Such- und Angebotskriterien für das Vernetzungstool "Buddy Finder"
+
+Authors: Bacher, Sarah, Bustorff, Amelie
+
+Keywords: BIRD, Vernetzungsinfrastruktur, e-learning, education platform, network matching, collaboration, user requirements, Kriterienkatalog, Metadaten
+
+Publication date: 2025-06-04
+
+Description:
+Im Rahmen des BMBF-gef&ouml;rderten Projektes "Bildungsraum digital" (BIRD) wurde der "Buddy Finder" als Teil der BIRD-Anwendung entwickelt. Der Buddy Finder ist ein BIRD-internes Vernetzungstool. Nutzende k&ouml;nnen entweder nach einem Buddy suchen oder sich selbst als Buddy anbieten, um von anderen gefunden zu werden. Mithilfe von Such- und Angebotskriterien wird angegeben, zu welchem Zweck und in welchem Kontext man sich vernetzen m&ouml;chte und welche Eigenschaften das Gegen&uuml;ber mitbringen sollte. In einem verschl&uuml;sselten Prozess werden anschlie&szlig;end Such- und Angebotskriterien miteinander abgeglichen. Auf diese Weise k&ouml;nnen Nutzende bis zur Kontaktaufnahme mit ihrem Buddy vollst&auml;ndig anonym bleiben.
+
+Die Such- und Angebotskriterien werden im Projekt synonym auch als Buddy Finder-Metadaten bezeichnet. Welche Kriterien und zugeh&ouml;rige Auswahloptionen es geben soll, wurde in einer Umfrage mit Sch&uuml;lerinnen, Sch&uuml;lern und Studierenden detailliert untersucht.
+
+Die Such- und Angebotskriterien werden in einer festgelegten Reihenfolge abgefragt. Manche Kriterien richten sich nach einer vorherigen Auswahl (beispielsweise wird die Schulart nur abgefragt, wenn &bdquo;Schule&ldquo; als Kontext gew&auml;hlt wurde). Die Reihenfolge der Kriterien und ihre Abh&auml;ngigkeiten sind im beigef&uuml;gten Schaubild dargestellt. Ebenso ist dort mit Icons visualisiert, in welcher Art von Men&uuml; die festgelegten Optionen ausgew&auml;hlt werden (z. B. Dropdown-Men&uuml;, Checkboxen oder Radio Buttons).
+
+
+Contents:
+ - 2025-06-05_Metadatenstruktur_Buddy_Finder.pdf

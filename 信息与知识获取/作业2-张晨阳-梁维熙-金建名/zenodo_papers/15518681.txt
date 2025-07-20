@@ -1,0 +1,13 @@
+Title: The COASTLINE Project: integrating advanced  geospatial technologies for coastal monitoring and  management.
+
+Authors: Capolupo, Alessandra
+
+Keywords: Coastal preservation, Environmental technologies, Sustainable Heritage, MSCA-Horizon 2020, Geospatial data integration, Geo-Sciences
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - Coastline_ASITA_22_01_25.pdf

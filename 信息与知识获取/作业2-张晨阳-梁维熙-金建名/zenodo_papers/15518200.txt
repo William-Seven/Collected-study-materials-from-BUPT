@@ -1,0 +1,21 @@
+Title: Bo'lajak informatika o'qituvchilarining kasbiy kompetentligini dasturlash tillari orqali rivojlantirish yo'llari
+
+Authors: Mirzo Raxmatov
+
+Keywords: 
+
+Publication date: 2025-05-14
+
+Description:
+
+Ushbu maqolada informatika o&lsquo;qituvchilarining kasbiy kompetentligini dasturlash tillari orqali rivojlantirish
+metodikasining takomillashtirilishi o&lsquo;rganilgan. Dasturlash tillarining o&lsquo;qituvchilarning kasbiy kompetentligini oshirishdagi
+roli va ularning ta&rsquo;lim tizimida amaliy qo&lsquo;llanilishi tahlil qilinadi. Maqolada informatika o&lsquo;qituvchilarining dasturlash
+tillari bo&lsquo;yicha metodik tayyorgarligini oshirishda pedagogik, metodik va texnik yondashuvlarning ahamiyati ko&lsquo;rsatilgan.
+Shuningdek,
+o&lsquo;qituvchilarga dasturlash tillari, algoritmik fikrlash, kreativ va muammoli yondashuvlarni o&lsquo;rgatish bo&lsquo;yicha
+samarali metodik yondashuvlarni ishlab chiqish zarurligi ta&rsquo;kidlangan.
+
+
+Contents:
+ - 99.Raxmatov Mirzo Mukimovich.pdf

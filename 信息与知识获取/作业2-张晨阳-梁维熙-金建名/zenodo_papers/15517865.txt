@@ -1,0 +1,15 @@
+Title: Smart Edu: Performance Prediction System for Students
+
+Authors: Prachi Bhare, Sachi Jiwane, Yogeshwari Isapure, Roshan Chandekar
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+
+In the age of digital transformation, educational institutions are increasingly leveraging technology to enhance learning outcomes and streamline academic support. SmartEdu: Performance Prediction System for Students is an intelligent platform designed to predict student academic performance using datadriven techniques. The system integrates historical academic records, behavioral patterns, attendance, and engagement metrics to forecast future performance accurately. By employing machine learning algorithms, SmartEdu identifies at-risk students early, enabling timely interventions by educators. The platform also provides personalized feedback and recommendations to help students improve their academic trajectory. This paper presents the system's architecture, underlying predictive models, and a case study demonstrating its effectiveness in a real-world educational setting. The results highlight the potential of SmartEdu to transform academic management through proactive performance monitoring and datainformed decision-making.
+
+
+Contents:
+ - 59-AJ3601.pdf

@@ -1,0 +1,15 @@
+Title: Effective seismic risk reduction of critical facilities: a utopia, a wishful idea, or a realistic challenge? The SafeSchools project
+
+Authors: Pitilakis, Kyriazis, Fotopoulou, Stavroula, Manakou, Maria, Karafagka, Stella, Petridis, Christos, Raptakis, Dimitrios, Pitilakis, Dimitris
+
+Keywords: 
+
+Publication date: 2024-01-12
+
+Description:
+
+<span>Mitigating seismic risk for critical facilities is crucial for governments, decision-makers, stakeholders, researchers, society, and the economy in earthquake-prone regions in Europe and worldwide. The paper discusses some essential concepts and methods for developing and implementing a real-time risk assessment methodology through a specific testbed example in light of an engineering-based seismic risk reduction approach for critical buildings. The goal is to demonstrate that real-time seismic risk assessment of a target building could be feasible by combining a calibrated earthquake early warning system (EEWS) with the knowledge of structure-specific fragility curves evaluated with the aid of well-designed structural monitoring arrays. The work is performed in the framework of the SafeSchools project (</span><span><a href="http://www.safeschools.gr"><span>www.safeschools.gr</span></a></span><span>), where a regional network-based early warning and real-time risk assessment system for school buildings has been developed. The pilot system is implemented in three selected school buildings in Thessaloniki, Greece, while the whole approach is illustrated for one of the school buildings located in the city center. The target school building is instrumented with permanent and temporary monitoring arrays using commercial accelerometric/velocimeter stations and special in-house developed low-cost Micro-Electro-Mechanical Systems (MEMS). Recorded ambient noise measurements and seismic vibration data are collected and used to identify the dynamic characteristics of the building and, finally, generate structure-specific fragility functions, which may differ from generic ones. Past and current seismic events recorded on the regional seismic network and locally on sensors installed at the school building are used for the calibration and validation of the regional EEWS in order to reduce the rate of false or missed alarms. The refined structure-specific fragility functions are incorporated into the central database and used by the developed real-time risk assessment software to predict real-time seismic damages and losses. The effectiveness and accuracy of the whole system for a strong seismic event is checked by reproducing the Mw 6.5, 1978 Thessaloniki destructive earthquake based on 3D physics-based numerical simulations</span>
+
+
+Contents:
+ - safeschools - manuscript.pdf

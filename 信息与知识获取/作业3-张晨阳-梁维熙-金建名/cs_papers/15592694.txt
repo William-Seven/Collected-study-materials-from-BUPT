@@ -1,0 +1,22 @@
+Title: Data for TBMaLT Tutorial
+
+Authors: Sun, Wenbo
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+This file contains the data used for tutorial of Tight Binding Machine Learning Toolkit (TBMaLT).
+
+The molecule geometries as well as the silicon geometries in the various training and test sets and the results of the corresponding DFT reference calculations are available.
+
+Besides, siband-1-1 Slater-Koster parameter set used by TBMaLT is included.
+
+Also, a collection of parameter sets for each interaction ('H', 'C', 'N', 'O') computed with varying compression radii is stored.
+
+&nbsp;
+
+
+Contents:
+ - tbmalt_data.zip

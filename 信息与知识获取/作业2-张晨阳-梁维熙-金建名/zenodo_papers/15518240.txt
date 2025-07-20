@@ -1,0 +1,15 @@
+Title: SARALASH ALGORITMLARINING SAMARADORLIGINI ALGORITMIK TAHLIL QILISH VA C++ DASTURLASH TILI YORDAMIDA TADBIQ ETISH
+
+Authors: Qulmatov, Muhriddin, Naziraliyev, O'rinboy, Jumabekov, Ilhom
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<span lang="UZ-CYR">Ushbu maqolada saralash algoritmlarining asosiy turlari &ndash; Bubble Sort, Insertion Sort va Quick Sort &ndash; algoritmik tahlil asosida solishtiriladi. Har bir algoritmning ishlash prinsipi, eng yomon (worst-case), o&lsquo;rtacha (average-case) va eng yaxshi (best-case) ishlash vaqt murakkabliklari, amaliy dastur kodi hamda jadval shaklida samaradorlik solishtiruvlari keltirilgan. C++ dasturlash tili yordamida algoritmlar real ma&rsquo;lumotlarda testdan o&lsquo;tkazilib, ularning afzallik va kamchiliklari tahlil qilinadi.</span>
+
+
+Contents:
+ - ARIMS 2830.pdf

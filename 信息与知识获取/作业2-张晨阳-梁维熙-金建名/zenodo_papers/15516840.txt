@@ -1,0 +1,15 @@
+Title: A Multi-Task Text Classification Pipeline with Natural Language Explanations for Greek Tweets
+
+Authors: Mylonas, Nikolaos, Stylianou, Nikolaos, Tsikrika, Theodora, Vrochidis, Stefanos, Kompatsiaris, Ioannis (Yiannis)
+
+Keywords: Interpretability, textual explanations, text classification
+
+Publication date: 2025-02-25
+
+Description:
+
+Interpretability has gained significant attention, with most such techniques producing rule-based or feature importance interpretations. While informative, these interpretations may be harder to understand for non-expert users and, therefore, cannot always be considered as adequate explanations. To that end, explanations in natural language are often preferred. This work introduces a novel pipeline for text classification tasks, offering predictions and explanations in natural language. It consists of (i) a classifier for providing the labels and (ii) an explanation generator to provide explanations. The proposed pipeline can be adopted by any text classification task, provided that ground truth rationales are available to train the explanation generator. Our experiments on sentiment analysis and offensive language identification in Greek tweets, use a Greek Large Language Model to obtain the necessary explanations that can act as rationales. The experimental evaluation, performed through a user study and based on three metrics, showed that this pipeline can produce adequate explanations when a sufficient amount of training data with accompanying explanations are available, even when these explanations are machine generated.
+
+
+Contents:
+ - MDTT_2025_Textual_Explanations-5.pdf

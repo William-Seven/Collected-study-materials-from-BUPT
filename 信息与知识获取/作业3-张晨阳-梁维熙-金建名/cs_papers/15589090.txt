@@ -1,0 +1,14 @@
+Title: N-GRAM MODELING AND ITS SOLUTION IN CORPUS LINGUISTICS
+
+Authors: Umarova, Maftuna
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+<span lang="EN-US">N-gram modeling is a fundamental technique in corpus linguistics and natural language processing (NLP), used to analyze the statistical patterns of language based on contiguous sequences of words or characters. By representing text as a series of N-grams (unigrams, bigrams, trigrams), researchers and engineers can model language probabilities, detect linguistic trends, and develop tools such as predictive text, spell-checkers, and machine translation systems. The method relies on frequency analysis and conditional probability to predict the likelihood of word sequences, often applying smoothing techniques to manage data sparsity. Despite its simplicity and effectiveness, N-gram models have limitations in capturing long-range dependencies and semantic context, which newer neural models address. Nevertheless, N-gram approaches remain valuable for baseline models, resource-limited languages, and corpus-driven linguistic research.</span>
+
+
+Contents:
+ - ARIMS 3108.pdf

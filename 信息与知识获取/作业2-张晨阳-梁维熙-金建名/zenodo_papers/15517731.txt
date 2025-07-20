@@ -1,0 +1,15 @@
+Title: A Publication Analysis of Three Decades of Recommender Systems Research
+
+Authors: Smyth, Barry
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+The data needed to reproduce the data collection and analysis published in a forthcoming paper ("People Who Liked This Also Liked ...A Publication Analysis of Three Decades of Recommender Systems Research" by Barry Smyth) to be published in ACM Transactions on Recommender Systems.
+
+
+Contents:
+ - data.zip

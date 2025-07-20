@@ -1,0 +1,15 @@
+Title: NUMERICAL ANALYSIS OF ALKALINE FLOODING IN RESERVOIRS USING ONE-DIMENSIONAL BUCKLEY-LEVERETT MODELS
+
+Authors: Emmanuel, Tamunoemi Briggs, Owei, Florence Ebimobowei
+
+Keywords: Alkaline flooding, enhanced oil recovery, Buckley-Leverett theory, non-Newtonian fluids, oil recovery simulation
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>Alkaline flooding, a chemical enhanced oil recovery (EOR) technique, uses alkaline agents to generate in situ surfactants that reduce interfacial tension between oil and water. This paper develops and simulates a one-dimensional (1-D) model for alkaline flooding using the BuckleyLeverett frontal advance theory to improve oil recovery from reservoirs. The model applies nonNewtonian fluid dynamics and porous media flow equations to simulate the effects of alkaline solutions in reservoir environments, demonstrating improved oil recovery efficiency</span>
+
+
+Contents:
+ - 1.pdf

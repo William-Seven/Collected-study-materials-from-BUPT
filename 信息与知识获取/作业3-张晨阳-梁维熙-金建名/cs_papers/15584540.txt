@@ -1,0 +1,168 @@
+Title: LiberTEM/LiberTEM: 0.15.0
+
+Authors: Clausen, Alexander, Weber, Dieter, Bryan, Matthew, Ruzaeva, Karina, Migunov, Vadim, Dagenborg, Sivert, Baburajan, Anand, Bahuleyan, Abijith, Caron, Jan, Chandra, Rahul, Dey, Shankhadeep, Halder, Sayandip, Katz, Daniel S., Levin, Barnaby D.A., Nord, Magnus, Ophus, Colin, Peter, Simon, Puskás, Levente, Schyndel van, Jay, Shin, Jaeweon, Sunku, Sai, Ånes, Håkon W., Müller-Caspary, Knut, Dunin-Borkowski, Rafal E.
+
+Keywords: STEM, TEM, pixelated STEM, 4D STEM, high-throughput, electron microscopy
+
+Publication date: 2025-06-04
+
+Description:
+<div>
+
+
+<strong>Homepage: <a href="https://libertem.github.io/LiberTEM/">https://libertem.github.io/LiberTEM/</a></strong><strong>GitHub repository: <a href="https://github.com/LiberTEM/LiberTEM/">https://github.com/LiberTEM/LiberTEM/</a></strong><strong>PyPI: <a href="https://pypi.org/project/libertem/">https://pypi.org/project/libertem/</a></strong>LiberTEM is an open source platform for high-throughput distributed processing
+of large-scale binary data sets and live data streams using a modified
+<a href="https://en.wikipedia.org/wiki/MapReduce">MapReduce programming model</a>. The
+current focus is <a href="https://en.wikipedia.org/wiki/Scanning_transmission_electron_microscopy#Universal_detectors">pixelated</a>
+scanning transmission electron microscopy (<a href="https://en.wikipedia.org/wiki/Scanning_transmission_electron_microscopy">STEM</a>)
+[<a href="https://doi.org/10.1002/9783527808465.EMC2016.6284">MacLaren et al. (2016)</a>,
+<a href="https://doi.org/10.1017/s1431927619000497">Ophus (2019)</a>] and scanning electron
+beam diffraction data.
+
+MapReduce-like processing allows to specify an algorithm through two functions:
+One function that is mapped on portions of the input data, and another function
+that merges (reduces) a partial result from this mapping step into the complete
+result. A wide range of TEM and 4D STEM processing tasks can be expressed in
+this fashion, see <a href="#applications">Applications</a>.
+
+The UDF interface of LiberTEM offers a standardized, versatile API to decouple
+the mathematical core of an algorithm from details of data source, parallelism,
+and use of results. Mapping and merging can be performed in any order and with
+different subdivisions of the input data, including running parts of the
+calculation concurrently. That means the same implementation can be used in a
+wide range of modalities, including massive scaling on clusters. Since each
+merge step produces an intermediate result, this style of processing is suitable
+for displaying live results from a running calculation in a GUI application and
+for <a href="https://github.com/LiberTEM/LiberTEM-live">processing live data streams</a>.
+A closed-loop feedback between processing and instrument control can be realized
+as well. See <a href="https://libertem.github.io/LiberTEM/udf.html">User-defined functions</a> for more details on the
+LiberTEM UDF interface.
+
+The LiberTEM back-end offers <a href="https://libertem.github.io/LiberTEM/architecture.html">high throughput and scalability</a> on PCs, single server
+nodes, clusters and cloud services. On clusters it can use fast distributed
+local storage on high-performance SSDs. That way it achieves <a href="https://libertem.github.io/LiberTEM/performance.html">very high
+aggregate IO performance</a> on a compact and
+cost-efficient system built from stock components. All CPU cores and CUDA
+devices in a system can be used in parallel.
+
+LiberTEM is supported on Linux, Mac OS X and Windows. Other platforms that allow
+installation of Python 3.7+ and the required packages will likely work as well. The
+GUI is running in a web browser.
+
+<div>
+<strong>Installation</strong>
+The short version:
+
+<pre>$<span> </span>virtualenv<span> </span>-p<span> </span>python3<span> </span>~/libertem-venv/<span>
+</span>$<span> </span><span>source</span><span> </span>~/libertem-venv/bin/activate<span>
+</span><span>(</span>libertem-venv<span>)</span><span> </span>$<span> </span>python<span> </span>-m<span> </span>pip<span> </span>install<span> </span><span>"libertem[torch]"</span><span>
+
+</span><span># optional for GPU support
+# See also https://docs.cupy.dev/en/stable/install.html
+</span><span>(</span>libertem-venv<span>)</span><span> </span>$<span> </span>python<span> </span>-m<span> </span>pip<span> </span>install<span> </span>cupy
+</pre>
+Please see <a href="https://libertem.github.io/LiberTEM/install.html">our documentation</a> for details!
+
+Alternatively, to run the <a href="https://libertem.github.io/LiberTEM/deployment/clustercontainer.html">LiberTEM Docker image</a>:
+
+<pre>$<span> </span>docker<span> </span>run<span> </span>-p<span> </span><span>127</span>.0.0.1:9000:9000<span> </span>--mount<span> </span><span>type</span><span>=</span>bind,source<span>=</span>/path/to/your/data/,dst<span>=</span>/data/,ro<span> </span>ghcr.io/libertem/libertem
+</pre>
+or
+
+<pre>$<span> </span>apptainer<span> </span><span>exec</span><span> </span>docker://ghcr.io/libertem/libertem<span> </span>/venv/bin/libertem-server
+</pre>
+Deployment for offline data processing on a single-node system for a local user
+is thoroughly tested and can be considered stable. Deployment on a cluster is
+experimental and still requires some additional work, see <a href="https://github.com/LiberTEM/LiberTEM/issues/105">Issue #105</a>. Back-end support for live data processing
+is still experimental as well, see <a href="https://github.com/LiberTEM/LiberTEM-live">https://github.com/LiberTEM/LiberTEM-live</a>.
+
+</div>
+<div>
+<strong>Applications</strong>
+Since LiberTEM is programmable through <a href="https://libertem.github.io/LiberTEM/udf.html">user-defined functions (UDFs)</a>, it can be used for a wide
+range of processing tasks on array-like data and data streams. The following
+applications have been implemented already:
+
+
+Virtual detectors (virtual bright field, virtual HAADF, center of mass
+[<a href="https://doi.org/10.1016/j.ultramic.2016.03.006">Krajnak et al. (2016)</a>],
+custom shapes via masks)
+<a href="https://libertem.github.io/LiberTEM/app/amorphous.html">Analysis of amorphous materials</a>
+<a href="https://libertem.github.io/LiberTEM-blobfinder/">Strain mapping</a>
+<a href="https://libertem.github.io/LiberTEM-holo/">Off-axis electron holography reconstruction</a>
+<a href="https://ptychography-4-0.github.io/ptychography/">Single Side Band ptychography</a>
+
+Some of these applications are available through an <a href="https://libertem.github.io/LiberTEM/usage.html#gui-usage">interactive web GUI</a>. Please see <a href="https://libertem.github.io/LiberTEM/applications.html">the
+applications section</a>
+of our documentation for details!
+
+The Python API and user-defined functions (UDFs) can be used for complex
+operations such as arbitrary linear operations and other features like data
+export. Example Jupyter notebooks are available in the <a href="https://github.com/LiberTEM/LiberTEM/tree/master/examples">examples directory</a>. If you are having
+trouble running the examples, please let us know by filing an issue or
+by <a href="https://gitter.im/LiberTEM/Lobby">joining our Gitter chat</a>.
+
+LiberTEM is suitable as a high-performance processing backend for other
+applications, including live data streams. <a href="https://gitter.im/LiberTEM/Lobby">Contact us</a> if you are interested!
+
+LiberTEM is evolving rapidly and prioritizes features following user demand and
+contributions. Currently we are working on <a href="https://github.com/LiberTEM/LiberTEM-live">live data processing</a>, improving application support for sparse
+data and event-based detectors, performance improvements for GPU processing, and implementing
+analysis methods for various applications of pixelated
+STEM and other large-scale detector data. If you like to influence the direction
+this project is taking, or if you'd like to <a href="https://libertem.github.io/LiberTEM/contributing.html">contribute</a>, please join our
+<a href="https://gitter.im/LiberTEM/Lobby">gitter chat</a> and our <a href="https://groups.google.com/forum/#!forum/libertem">general mailing list</a>.
+
+</div>
+<div>
+<strong>File formats</strong>
+LiberTEM currently opens most file formats used for pixelated STEM. See <a href="https://libertem.github.io/LiberTEM/formats.html">our
+general information on loading data</a> and <a href="https://libertem.github.io/LiberTEM/reference/dataset.html#formats">format-specific
+documentation</a> for more
+information!
+
+
+Raw binary files
+NumPy .npy binary files
+Thermo Fisher EMPAD detector [<a href="https://doi.org/10.1017/S1431927615015664">Tate et al. (2016)</a>] files
+<a href="https://quantumdetectors.com/products/merlinem/">Quantum Detectors MIB format</a>
+Nanomegas .blo block files
+Direct Electron DE5 files (HDF5-based) and Norpix SEQ files for <a href="https://directelectron.com/de-series-cameras/">DE-Series</a> detectors
+<a href="https://web.archive.org/web/20180809021832/http://www.gatan.com/products/tem-imaging-spectroscopy/k2-camera">Gatan K2 IS</a> raw format
+Stacks of Gatan DM3 and DM4 files (via <a href="https://github.com/ercius/openNCEM">openNCEM</a>)
+Single-file Gatan DM4 scans when saved using C-ordering
+FRMS6 from PNDetector pnCCD cameras [<a href="https://doi.org/10.1017/s1431927615011836">Simson et al. (2015)</a>]
+(currently alpha, gain correction still needs UI changes)
+FEI SER files (via <a href="https://github.com/ercius/openNCEM">openNCEM</a>)
+MRC (via <a href="https://github.com/ercius/openNCEM">openNCEM</a>)
+HDF5-based formats such as HyperSpy files, NeXus and EMD
+TVIPS binary files
+Sparse data in Raw CSR (compressed sparse row) format, as is possible
+to generate from event-based detectors
+Please contact us if you are interested in support for an additional format!
+
+</div>
+<div>
+<strong>Live processing and detectors (experimental)</strong>
+See <a href="https://libertem.github.io/LiberTEM-live/">LiberTEM-live</a>!
+
+</div>
+<div>
+<strong>License</strong>
+LiberTEM is licensed under the MIT license.
+
+</div>
+<div>
+<strong>Acknowledgements</strong>
+We are very grateful for your continuing support for LiberTEM!
+
+See <a href="https://libertem.github.io/acknowledgements.html">the acknowledgement page</a> for a list of authors and
+contributors to LiberTEM and its subprojects. See also our info on <a href="https://libertem.github.io/#funding">funding</a> and <a href="https://libertem.github.io/#industry-partners">industry partners</a>.
+
+</div>
+</div>
+
+Contents:
+ - libertem-0.15.0.tar.gz
+ - libertem-0.15.0-py3-none-any.whl
+ - libertem-repo-archive-v0.15.0.tar.gz

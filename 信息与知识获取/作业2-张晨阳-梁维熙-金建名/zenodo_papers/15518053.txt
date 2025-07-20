@@ -1,0 +1,15 @@
+Title: 1. Sayı Tam Dosya ve Jenerik+Kapak dosyaları
+
+Authors: Teemmul Dergisi
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - Kapak Sayı 1 Eylül 2023.pdf
+ - Tam Sayı Dosyası 1. Sayı.pdf
+ - Jenerik Sayı 1 Eylül 2023.pdf

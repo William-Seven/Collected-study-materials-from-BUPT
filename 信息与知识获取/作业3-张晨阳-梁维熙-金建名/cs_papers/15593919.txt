@@ -1,0 +1,73 @@
+Title: Monthly Ensemble Mean Chlorophyll-a Concentration for Antarctic Phytoplankton Groups (1997–2023)
+
+Authors: Hayward, Alexander, Pinkerton, Matt
+
+Keywords: phytoplankton, biogeochemistry, Antarctica, Climate Change, pigments
+
+Publication date: 2025-05-05
+
+Description:
+<div>
+This dataset is associated with the Nature Climate Change paper 'Antarctic phytoplankton groups restructure under shifting sea ice regimes'. This dataset provides the monthly ensemble mean (from 10 different models) chlorophyll-<em>a</em> concentration (mg Chl-<em>a</em> m⁻&sup3;) for three key Antarctic phytoplankton groups:&nbsp;<strong>diatoms</strong>, <strong>haptophytes</strong>, and <strong>cryptophytes</strong>, spanning the period 1997&ndash;2023. The ensemble means were derived from 10 machine learning models trained on in situ HPLC pigment data and applied to satellite-derived surface chlorophyll-a. Data are provided on a lat-lon regular grid ~9km resolution and stored in CF compliant NetCDF format.
+
+
+
+<strong>Variables:</strong>
+
+
+
+<code>diatom</code> &mdash; Diatom chlorophyll-a (ensemble mean)
+
+
+
+<code>hapto</code> &mdash; Haptophyte chlorophyll-a (ensemble mean)
+
+
+
+<code>crypto</code> &mdash; Cryptophyte chlorophyll-a (ensemble mean)
+
+
+
+
+
+<strong>Dimensions:</strong> time (310), latitude (2160), longitude (4320)
+
+
+
+<strong>Units:</strong> mg Chl-a m⁻&sup3;
+
+
+
+<strong>Time encoding:</strong> Days since 1970-01-01, standard calendar
+
+
+
+<strong>Spatial coverage:</strong> Global, but only use for the Circumpolar Southern Ocean
+
+
+
+<strong>Temporal coverage:</strong> 1997&ndash;2023
+
+
+
+<strong>Fill value:</strong> NaN
+
+
+
+<h3><strong>Use cases:</strong></h3>
+This dataset supports research into long-term shifts in phytoplankton composition, ecological regime shifts, climate-biogeochemistry feedbacks, and model validation.
+
+Additional phytoplankton group outputs are available upon request from the corresponding author
+
+</div>
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+
+Contents:
+ - hapto_ensemble_chl.nc
+ - diatom_ensemble_chl.nc
+ - crypto_ensemble_chl.nc
+ - README.md.txt

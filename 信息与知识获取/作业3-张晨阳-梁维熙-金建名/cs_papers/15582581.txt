@@ -1,0 +1,14 @@
+Title: Wavelet-Based Denoising of Images and Audio Signals Using Pywavelet and Other  Python Libraries
+
+Authors: Adekola, Oluwaseun
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+This project explores image and audio denoising using wavelet transform techniques in Python.It employs Discrete Wavelet Transform (DWT) and both soft and hard thresholding for noise suppression.Custom algorithms were developed and evaluated using PSNR and SSIM metrics.Visualization and audio playback demonstrate the effectiveness of the denoising process.The implementation leverages PyWavelets, SciPy, OpenCV, and Matplotlib for end-to-end processing.
+
+
+Contents:
+ - Wavelet-Based Denoising of Images and Audio Signals Using Pywavelet and Other Python Libraries.pdf

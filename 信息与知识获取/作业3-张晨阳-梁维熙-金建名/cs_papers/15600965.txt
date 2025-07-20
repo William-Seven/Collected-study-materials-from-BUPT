@@ -1,0 +1,14 @@
+Title: DEEP LEARNING BASED RICE LEAF DISEASE CLASSIFICATION USING RESNET
+
+Authors: Deepa Bhadana, G. Arulkumaran
+
+Keywords: 
+
+Publication date: 2018-09-21
+
+Description:
+<a href="https://ijetrm.com/issues/files/Jun-2018-05-1749125585-SEP201810.pdf" target="_blank" rel="noopener">Rice leaf disease</a>s is vital to crop and agricultural sustainability. Within this paper, an application of ResNet-basedclassification model towards the classification of three most prevalent rice leaf diseases: Brown Spot, BacterialLeaf Blight, and Leaf Smut is introduced. The process begins from preprocessing rice leaf images, varying fromimage enlargement, resizing, and normalization in an effort to improve data quality as well as model compatibility.A pre-trained fine-tuned ResNet model is used to get deep hierarchical features as well as image classificationinto disease classes. The data is collected from the Plant Village repository and includes more than 87,000 labeledimages and was divided into an 80:20 ratio for training and validation. Experimental results indicate that theprovided model achieves good performance with 98.45% classification accuracy, precision of 97.77%, recall of98.00%, and 97.22% F1-score. The confusion matrix indicates that there is less misclassification, proof of thediscriminatory power of the model. Results confirm the stability and robustness of the ResNet model for ricedisease diagnosis. The model has significant potential to be applied in field environments in intelligent farmingsystems to offer automatic, fast, and accurate identification of plant diseases, enabling farmers to make timelydecisions for the guarantee of protection of yield and quality
+
+
+Contents:
+ - SEP201810.pdf

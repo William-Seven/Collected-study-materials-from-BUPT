@@ -1,0 +1,14 @@
+Title: Bespoke torsion parameters for protein-ligand binding free energies derived from machine learning interatomic potentials
+
+Authors: Horton, Joshua T, Scheen, Jenke, MacDermott-Opeskin, Hugo, Baumann, Hannah, Alibay, Irfan, Dotson, David, Kenney, Ian, Wagner, Jeffrey, Boothroyd, Simon, Chodera, John, Mobley, David, Cole, Daniel
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+Poster presented at the &nbsp;2025 Free energy workshop in Boston.
+
+
+Contents:
+ - Bespokefit_alchemistry_2025 JH.pdf

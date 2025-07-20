@@ -1,0 +1,15 @@
+Title: almeidasilvaf/PlantSpatialDiv: Paper submission
+
+Authors: Fabrício Almeida-Silva
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This release contains all code and data used in the version submitted to bioRxiv.
+
+
+Contents:
+ - almeidasilvaf/PlantSpatialDiv-1.0.0.zip

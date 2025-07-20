@@ -1,0 +1,58 @@
+Title: Hydrogen Bond Acceptance by Machine Learning
+
+Authors: Melo, Diego Ulysses, Carneiro, Leonardo Martins, Coutinho-Neto, Mauricio, Homem-de-Mello, Paula, Bartoloni, Fernando
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+<div dir="auto">
+<h2>Overview</h2>
+<a href="https://github.com/dmulysses/ml-pkbhx/tree/main#overview"></a></div>
+<p dir="auto">This research predicts hydrogen bond acceptance using machine learning (ML) models. It uniquely employs electronic descriptors from Natural Bond Orbital (NBO) analysis, specifically second-order perturbation stabilization energies (E(2)), as features. The study shows that a small set of these descriptors enables highly accurate&nbsp;pKHBX&nbsp;predictions.
+
+<div dir="auto">
+<h2>Key Findings</h2>
+<a href="https://github.com/dmulysses/ml-pkbhx/tree/main#key-findings"></a></div>
+
+<strong>Excellent Predictive Performance:</strong> ML models, especially the Multi-layer Perceptron (MLP), accurately predicted pKHBX values (RMSE 0.290, MAE 0.216, R2 0.920). Errors are &lt; 0.4 kcal mol&minus;1 in Gibbs free energy.
+<strong>NBO Descriptors Sufficiency:</strong>&nbsp;Eight&nbsp;&Delta;E(2)&nbsp;NBO-derived values were enough for robust models, unlike methods needing many descriptors.
+<strong>Chemical Interpretability:</strong>&nbsp;NBO descriptors offer clear chemical meaning. SHAP analysis showed specific NBO interaction contributions.
+<strong>Methodology Efficiency:</strong>&nbsp;The workflow combines efficient GFN2-xTB optimizations with DFT-level NBO analysis, suitable for large-scale use.
+
+<div dir="auto">
+<h2>Methodology</h2>
+<a href="https://github.com/dmulysses/ml-pkbhx/tree/main#methodology"></a></div>
+<ol>
+<strong>Dataset:</strong>&nbsp;979 hydrogen bond complexes (HBA + 4-FPh as HBD).&nbsp;pKHBX&nbsp;values from literature.
+<strong>Computational Workflow:</strong>
+
+<strong>SMILES Processing &amp; Structure Generation:</strong>&nbsp;RDKit used for 2D structure generation and complex formation.
+<strong>Geometry Optimization:</strong>&nbsp;GFN2-xTB (ALPB solvation - chloroform).
+<strong>Single-Point &amp; NBO Analysis:</strong>&nbsp;DFT (CAM-B3LYP/def2-TZV, SMD solvation - tetrachloromethane) for&nbsp;E(2)&nbsp;of 8 key interactions in 4-FPh (complexed vs. isolated).
+<strong>Feature Engineering:</strong>&nbsp;Descriptors (&Delta;En(2)) are differences in&nbsp;En(2)&nbsp;(complex vs. isolated 4-FPh).
+
+
+<strong>Machine Learning Models:</strong>
+
+Algorithms: KNN, Decision Tree, RF, SVM, MLP, XGBoost, CatBoost.
+Hyperparameter Optimization: Optuna (TPE algorithm).
+Evaluation: Hold-out cross-validation (90/10 split), RMSE, MAE,&nbsp;R2.
+
+
+<strong>Model Interpretation:</strong>&nbsp;SHAP analysis for NBO descriptor contributions in the MLP model.
+</ol>
+<div dir="auto">
+<h2>Software and Libraries Used</h2>
+<a href="https://github.com/dmulysses/ml-pkbhx/tree/main#software-and-libraries-used"></a></div>
+
+<strong>Cheminformatics:</strong>&nbsp;RDKit (2023.09.1)
+<strong>Quantum Chemistry:</strong>&nbsp;GFN2-xTB (xtb 6.5.1), Gaussian 09, NBO (v3), Multiwfn, VMD
+<strong>Machine Learning:</strong>&nbsp;Scikit-learn (1.4.0), XGBoost, CatBoost, Optuna (3.5.0)
+<strong>Programming:</strong> Python 3
+
+
+Contents:
+ - ml-pkbhx.ipynb
+ - dataset-train-test-predicted.xlsx

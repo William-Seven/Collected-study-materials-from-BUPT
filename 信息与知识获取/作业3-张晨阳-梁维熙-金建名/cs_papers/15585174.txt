@@ -1,0 +1,13 @@
+Title: kaapana/kaapana: v0.5.0
+
+Authors: Ünal Akünal, Rajesh Baidya, Mikulas Bankovic, Markus Bujotzek, Stefan Denner, Lorenz Feineis, Maximilian Fischer, Ralf Floca, Hanno Gao, Benjamin Hamm, Klaus Maier-Hein, Peter Neher, Marco Nolden, Santhosh Parampottupadam, Philipp Schader
+
+Keywords: medical, imaging, platform, ai, processing, cloud-computing, kubernetes, federated
+
+Publication date: 2025-06-03
+
+Description:
+Kaapana release v0.5.0
+
+Contents:
+ - kaapana/kaapana-0.5.0.zip

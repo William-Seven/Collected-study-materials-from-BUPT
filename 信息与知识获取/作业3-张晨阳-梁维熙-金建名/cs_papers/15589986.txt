@@ -1,0 +1,20 @@
+Title: Enhancing the Drive: Automotive Design and Human-Machine Interaction in Cars
+
+Authors: Rajesh, Sarin, T.K, Bijimol, Antony, Siji
+
+Keywords: Human-Machine Interaction in Cars, Automotive design, Driving experience and technology, Car design safety features, User-friendly car interfaces, Human factors in automotive design
+
+Publication date: 2025-06-04
+
+Description:
+<span><span lang="EN-IN">The following section elaborates on the interface of your car, which is in the form of automobile technology. Technology has such an impact that it has also changed how we talk to our cars [1]. We can now command to change the radio station or switch the temperature from hot to cold just by our voice commands, without losing our grip on the steering wheel. Besides, few cars have enormous screens in place of the basic ones, showing music, routes, and even messages from our phones [5]. This makes driving less hazardous and more convenient compared to the previous times.</span></span>
+
+<span><span lang="EN-IN">Design in cars is more about how the parts come together to allow for more comfortable and convenient driving rather than appearance [3]. How we feel operating a car may be incredibly influenced by looking closely at all the little things which auto designers take into account, such as where to put buttons for easy access, how to make seats comfortable for the back, and how you manage to have eyes all over the place when driving.</span></span>
+
+<span><span lang="EN-IN">What is truly exciting in this field of car design and technology is the fact that we are starting to see the likes of augmented reality displays, which give directions straight on the windshield, and artificial intelligence assistants that can recognize our tendencies and preferences to make driving even simpler [4]. The future vehicles can be designed to be not only more efficient but also easier to handle by understanding the mechanisms of how one of these changes would have an impact on us [2].</span></span>
+
+<span><span lang="EN-IN">This study focuses on the values of well-engineered vehicle interfaces and their meaning to drivers [1]. With an understanding of those issues, we can affect broad-based improvements in driving and ensure that technological developments are, indeed, contributing to increased convenience and safety [2].</span></span>
+
+
+Contents:
+ - Enhancing the Drive_Automotive Design and Human Machine Interaction in Cars.pdf

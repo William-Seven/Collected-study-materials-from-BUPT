@@ -1,0 +1,17 @@
+Title: The principal components (PCs) datasets of the leaf and canopy levels used for full-spectrum SIF reconstruction in FSIF-iPCA method.
+
+Authors: Zhao, Dianrun, Du, Shanshan, Liu, Liangyun
+
+Keywords: 
+
+Publication date: 2025-01-20
+
+Description:
+<div>
+
+A principal components (PCs) dataset (640&ndash;850 nm) generated using a principal component analysis approach to reconstruct the shape of the reflectance spectrum for the leaf and canopy levels. For the leaf level, a novel SIF-free leaf spectra dataset (n = 849, species = 95) collected at three sites in Beijing, China during June and August 2023, was used. For the canopy level, a total of 305,640 SIF-free spectra generated using a SCOPE model based on the measured leaf reflectance and transmittance was employed.
+
+</div>
+
+Contents:
+ - PCs_Leaf_Canopy.xlsx

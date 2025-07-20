@@ -1,0 +1,15 @@
+Title: Pre-Metric Null Dynamics in (3+1) Dimensions: Universal Critical Shear from a Single Quadratic Cone
+
+Authors: Hentsch, Patrick
+
+Keywords: null dynamics, pre-metric geometry, universal critical shear, spacetime, lightcone
+
+Publication date: 2025-05-21
+
+Description:
+
+We derive a closed-form universal critical shear &epsilon; = 1/&radic;6 that marks the sharp transition between ray divergence and refocusing in a fully pre-metric model of null dynamics in (3+1) dimensions. This threshold emerges from a purely real-algebraic structure: a single cyclic quadratic constraint on ℝ&sup3; that defines a two-sheeted null cone. We classify all vector fields that preserve this cone and show that, up to scaling and cyclic symmetry, a unique canonical flow governs its internal dynamics. Deforming this flow by a family of shear fields and projecting onto a quotient screen yields two solvable differential equations, from which the critical bifurcation arises. The threshold &epsilon; is independent of shear angle, base point, or coordinate frame, and survives embedding into three distinct completions: Minkowski space, a phase-space lightcone, and a lapse-tilted Ricci-flat spacetime. The same shear value reproduces a sign flip in the null Raychaudhuri equation, matches the curvature bifurcation of a PT-symmetric quantum Hamiltonian, and characterises a 𝛾-plane foliation of the Klein quadric. These correspondences suggest that &epsilon; arises intrinsically from the algebraic structure, not from any imposed geometry, and position the Hentsch model as a minimal analytic framework for pre-metric null dynamics with gravitational, optical, and quantum analogues.
+
+
+Contents:
+ - pre-metric_null_dynamics_sm.pdf

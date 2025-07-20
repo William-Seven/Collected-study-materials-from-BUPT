@@ -1,0 +1,14 @@
+Title: IntelliFraud: Next-Gen ML Solutions for Credit Card Fraud Detection
+
+Authors: Dr.Rasmi A, Enankadhara S, Vishal V, Darshan Gowda B S, Darshan K
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+Credit card fraud has become one of the most prevalent threats in the digital transaction ecosystem. Asdigital banking grows, so do the complexities of fraud, making traditional detection mechanisms obsolete.IntelliFraud is a machine learning-powered framework aimed at identifying fraudulent transactions in realtime while reducing false positives and enabling adaptive learning. This paper analyzes various MLalgorithms combined with data sampling techniques to handle highly imbalanced datasets&mdash;a commonchallenge in fraud detection. The project evaluates the strengths and weaknesses of models like DecisionTrees, Random Forests, Logistic Regression, KNN, and XGBoost, and benchmarks them usingresampling strategies like SMOTE, Tomek Links, and Cluster Centroids. This comprehensive evaluationdemonstrates that combining XGBoost with SMOTE yields the highest accuracy, making IntelliFraud aviable, efficient solution for modern banking fraud detection systems.&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P186.pdf

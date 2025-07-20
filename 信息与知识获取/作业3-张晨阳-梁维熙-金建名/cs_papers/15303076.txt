@@ -1,0 +1,14 @@
+Title: Microstructure-mechanical property correlations in laser powder bed fusion produced Aluminum alloys
+
+Authors: Basu, Soudip, Stockmar, Janosch, Brasche, Frederike, Haase, Christian
+
+Keywords: 
+
+Publication date: 2025-04-29
+
+Description:
+<a name="_Hlk196421726"></a><span lang="EN-US">Additively manufactured (AM) materials exhibit heterogeneities across multiple length scales (mm to nm) that critically affect the performance of AM components, for example under loading. Hence, tailoring these microstructures is important to control the nature of deformation mechanisms and obtain targeted mechanical properties such as strength and ductility. In the present work, we investigated aluminum alloys with increasing microstructural complexity (pure Al, Al-Mg, Al-Mg-Zr-Ti and Al-Mg-Sc-Zr (Scalmalloy)) produced by laser-based powder bed fusion of metals (PBF-LB/M). Advanced characterization tools including scanning and transmission electron microscopy as well as synchrotron X-Ray diffraction were used to investigate the microstructural constituents (e.g. grain structure and precipitation evolution) of as printed and heat-treated materials. To correlate the microstructural constituents to the underlying deformation mechanisms, micro and nanohardness measurements, interrupted electron backscattered diffraction (EBSD) mapping under tensile loading as well as microscale digital image correlation (&micro;DIC) were performed to capture the full-field strain accumulated in the material. In the case of Scalmalloy, a characteristic bimodal microstructure was observed, in which the coarse-grained (CG) regions in the melt interiors accommodated higher strains than the fine-grained (FG) regions along the melt pools. Further, an accumulation of geometrically necessary dislocations (GND) at the interface between FG and CG domains, with higher GND density in the FG regions was observed. Specifically, CG regions carry 32% higher effective strain than FG regions at 23% tensile strain, while FG regions (including interfacial areas) carry 47% higher GND density than CG regions at 14% tensile strain. Although similar strain and GND partitioning trends were found across regions, the corresponding magnitudes varied from region to region, implying that the microstructural neighborhood of the region of interest plays an important role. Micromechanical data from these heterogeneous alloy systems are an important starting point to develop physics-based deformation models or machine learning based statistical models.</span>
+
+
+Contents:
+ - Soudip_Basu_AAMS2025.pdf

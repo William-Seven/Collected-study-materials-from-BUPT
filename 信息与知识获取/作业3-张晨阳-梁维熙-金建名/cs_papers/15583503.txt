@@ -1,0 +1,16 @@
+Title: Contrastive Learning Through Time and Related Methods - v02
+
+Authors: Aubret, Arthur, Triesch, Jochen
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+ARENA deliverable:&nbsp;
+
+P1_WP1_01[M21] Report 1: Contrastive Learning Through Time (CLTT) - v02 - pdf updated
+
+A central goal of our research within the ARENA project is to develop computational models of how infants and toddlers learn object representations. Our starting point has been a method we have dubbed Contrastive Learning Through Time (CLTT) (Schneider et al., 2021). CLTT merges two ideas. The first idea is to learn invariant object representations without supervision by exploiting the temporal structure of the visual input stream during interactions with objects. This has a long history in Computational Neuroscience going all the way back to the early work by F&ouml;ldi&aacute;k (1991), Slow Feature Analysis (Wiskott &amp; Sejnowski, 2002) and many related models. The second idea is to perform self-supervised learning with a contrastive loss as in the prominent SimCLR approach (Chen et al., 2020). In this form of contrastive learning, two image transformations are applied to an image (e.g., crop and resize, flipping the image, grayscaling the image, etc.), the resulting images are passed through a neural network and and the weights are adjusted to make the latent representations of the two images similar, while making them dissimilar from those of other images. CLTT combines the two ideas by defining a loss that makes the representations of successive images similar, i.e., the (arbitrary) image transformations are replaced by the natural temporal structure of visual input during interactions with objects (Schneider et al., 2021). Note that the approach can be used with any kind of neural network architecture such as deep convolutional neural networks or vision transformers. While the work by Schneider et al. (2021) established a first proof of concept, we have generalized and extended the CLTT approach in several directions within the ARENA project. In particular, in some works we have generalized the self-supervised learning approach from&nbsp;contrastive learning to other approaches such as BYOL (Grill et al., 2020). Because of this, we have introduced the more general term of Self-supervised Learning Through Time (SLTT), which we use in the following.&nbsp;
+
+

@@ -1,0 +1,142 @@
+Title: github.com/broadinstitute/epi-SHARE-seq-pipeline/Combinomics
+
+Authors: broadinstitute
+
+Keywords: 
+
+Publication date: 2023-08-04
+
+Description:
+<h1>Broad Institute of MIT and Harvard Single-Cell/Nucleus Multiomic Processing Pipeline</h1>
+Pipeline specifications can be found <a href="https://docs.google.com/document/d/1J-NWpDLkEGLsLjVe6h6-Rx4nxzTdgy1TJZvuMnYiiyg/edit?usp=sharing">here</a>.
+
+Pipeline main page on <a href="https://dockstore.org/workflows/github.com/broadinstitute/epi-SHARE-seq-pipeline/SHARE-seq:release?tab=info">dockstore</a>.
+
+
+  
+
+
+<h3>Structure of this repo</h3>
+
+The <strong>tasks</strong> directory contains the tasks called from the main workflow share-seq.wdl. Each task corresponds to a different step of the pipeline: <em>align</em>, <em>filter</em>, etc.
+The <strong>src</strong> directory contains bash, Python, R, and notebook scripts called within the tasks.
+The <strong>dockerfiles</strong> directory contains the Dockerfiles used to build the Docker images used by the pipeline.
+
+<h2>Introduction</h2>
+The <strong>SHARE-seq</strong> multiomic pipeline is based off the original Buenrostro SHARE-seq pipeline specifications (by Sai Ma) in <a href="https://github.com/masai1116/SHARE-seq-alignment">this github repo</a>.
+
+This <strong>10X</strong> single-cell multiomic pipeline is based off the ENCODE (phase-3) single-cell pipeline specifications (by Anshul Kundaje) in <a href="https://docs.google.com/document/u/2/d/e/2PACX-1vTlgtT4WeXbvRicybUHXnhZs8RKyB4EkTbcWooQ6qBxxQ_zIHpFEVHy38D5lC_s8_YDGfUTsyomJcs3/pub">this google doc</a>.
+
+<h3>Features</h3>
+
+<strong>Portability</strong>: The pipeline can be run on different cloud platforms such as Google, AWS and DNAnexus, as well as on cluster engines such as SLURM, SGE and PBS.
+<strong>User-friendly HTML report</strong>: In addition to the standard outputs, the pipeline generates an HTML report that consists of quality metrics including alignment statistics along with many useful plots. An example of the <a href="">HTML report</a>. # TODO: add an example html.
+<strong>Supported genomes</strong>: The pipeline requires genome-specific data such as aligner indices, chromosome sizes, and blacklisted regions. We provide genome references for hg38, mm10, mm39.
+
+<h2>Installation</h2>
+<ol>
+
+Install Caper (Python Wrapper/CLI for <a href="https://github.com/broadinstitute/cromwell">Cromwell</a>).
+
+<pre><code>	$ pip install caper
+</code></pre>
+
+
+<strong>IMPORTANT</strong>: Read Caper's <a href="https://github.com/ENCODE-DCC/caper/blob/master/README.md">README</a> carefully to choose a backend for your system. Follow the instructions in the configuration file.
+
+<pre><code>	# backend: local or your HPC type (e.g. slurm, sge, pbs, lsf). read Caper's README carefully.
+	$ caper init [YOUR_BACKEND]
+
+	# IMPORTANT: edit the conf file and follow commented instructions in there
+	$ vi ~/.caper/default.conf
+</code></pre>
+
+
+Git clone this pipeline.
+
+<pre><code>	$ cd
+	$ git clone https://github.com/broadinstitute/epi-SHARE-seq-pipeline/ #TODO: This should point to the release
+</code></pre>
+
+
+Define test input JSON.
+
+<pre><code>	INPUT_JSON=&quot;&quot; #TODO: We need a test dataset available for everyone
+</code></pre>
+
+
+If you have Docker and want to run the pipelines locally on your laptop, <code>--max-concurrent-tasks 1</code> limits the number of concurrent tasks to test-run on a laptop. Uncomment if running on a workstation/HPC.
+
+<pre><code>	# check if Docker works on your machine
+	$ docker run ubuntu:latest echo hello
+
+	# --max-concurrent-tasks 1 is for computers with limited resources
+	$ caper run share-seq.wdl -i &quot;${INPUT_JSON}&quot; --docker --max-concurrent-tasks 1
+</code></pre>
+
+
+Otherwise, install Singularity on your system. Please follow <a href="https://neuro.debian.net/install_pkg.html?p=singularity-container">these instructions</a> to install Singularity on a Debian-based OS. Or ask your system administrator to install Singularity on your HPC.
+
+<pre><code>	# check if Singularity works on your machine
+	$ singularity exec docker://ubuntu:latest echo hello
+
+	# on your local machine (--max-concurrent-tasks 1 is for computers with limited resources)
+	$ caper run share-seq.wdl -i &quot;${INPUT_JSON}&quot; --singularity --max-concurrent-tasks 1
+
+	# on HPC, make sure that Caper's conf ~/.caper/default.conf is correctly configured to work with your HPC
+# the following command will submit Caper as a leader job to SLURM with Singularity
+$ caper hpc submit share-seq.wdl -i &quot;${INPUT_JSON}&quot; --singularity --leader-job-name ANY_GOOD_LEADER_JOB_NAME
+
+# check job ID and status of your leader jobs
+$ caper hpc list
+
+# cancel the leader node to close all of its children jobs
+# If you directly use cluster command like scancel or qdel then
+# child jobs will not be terminated
+$ caper hpc abort [JOB_ID]
+</code></pre>
+
+</ol>
+<h2>Input JSON file</h2>
+<blockquote>
+<strong>IMPORTANT</strong>: DO NOT BLINDLY USE A TEMPLATE/EXAMPLE INPUT JSON. READ THROUGH THE FOLLOWING GUIDE TO MAKE A CORRECT INPUT JSON FILE.
+
+</blockquote>
+An input JSON file specifies all of the input parameters and files that are necessary for successfully running this pipeline. This includes a specification of the path to the genome reference files and the raw data FASTQ files. Please make sure to specify absolute paths rather than relative paths in your input JSON files.
+
+<ol>
+<a href="docs/input_short.md">Input JSON file specification (short)</a>
+<a href="docs/input.md">Input JSON file specification (long)</a>
+</ol>
+<h2>Running on Terra/Anvil (using Dockstore)</h2>
+Visit our pipeline repo on <a href="https://dockstore.org/my-workflows/github.com/broadinstitute/epi-SHARE-seq-pipeline/SHARE-seq">Dockstore</a>. Click on <code>Terra</code> or <code>Anvil</code>. Follow Terra's instructions to create a workspace on Terra and add Terra's billing bot to your Google Cloud account.
+
+Download this [test input JSON for Terra](we don't have one at the moment), upload it to Terra's UI, and then run the analysis.
+
+If you would like to use your own input JSON file, make sure that all files in the input JSON are on a Google Cloud Storage bucket (<code>gs://</code>). URLs will not work.
+
+<h2>How to organize outputs</h2>
+Install <a href="https://github.com/ENCODE-DCC/croo#installation">Croo</a>. Make sure that you have python3(&gt; 3.4.1) installed on your system. Find a <code>metadata.json</code> on Caper's output directory.
+
+<pre><code>$ pip install croo
+$ croo [METADATA_JSON_FILE]
+</code></pre>
+<h2>How to make a spreadsheet of QC metrics</h2>
+Install <a href="https://github.com/ENCODE-DCC/qc2tsv#installation">qc2tsv</a>. Make sure that you have Python 3 (&gt;3.4.1) installed on your system.
+
+Once you have <a href="#how-to-organize-outputs">organized the output with Croo</a>, you will be able to find the pipeline's final output file <code>qc/qc.json</code> which contains all the QC metrics. Simply feed <code>qc2tsv</code> with multiple <code>qc.json</code> files. It can take various URIs such as local paths, <code>gs://</code>, and <code>s3://</code>.
+
+<pre><code>$ pip install qc2tsv
+$ qc2tsv /sample1/qc.json gs://sample2/qc.json s3://sample3/qc.json ... &gt; spreadsheet.tsv
+</code></pre>
+QC metrics for each experiment (<code>qc.json</code>) will be split into multiple rows (1 for overall experiment + 1 for each bio replicate) in a spreadsheet.
+
+
+TODO:\
+Sambamba\
+add track generation \
+Thank you to the <strong>ENCODE DAC</strong> for writing excellent documentation for their pipelines that we used as templates.
+
+
+Contents:
+ - github.com-broadinstitute-epi-SHARE-seq-pipeline-Combinomics_v1.0.0.zip

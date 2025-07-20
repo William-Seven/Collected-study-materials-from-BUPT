@@ -1,0 +1,144 @@
+Title: ecDNA machine learning modeling
+
+Authors: Shixiang Wang, Qi Zhao
+
+Keywords: ecDNA, machine learning, TCGA, PCAWG
+
+Publication date: 2025-06-03
+
+Description:
+<h3><strong>1. Today (2024-06-27), we discovered an issue with the labeling of sample groups in one of the supplementary figures (Supplementary Figure 14c) in our published article. We have corrected the figure and present it here, and we extend our apologies to all readers for any confusion this may have caused (although no report received).</strong></h3>
+<h3><strong>2. The source data of supplementary figure 13 in the accompanying article table has been found to have issues, which were identified as a result of improper Excel operation. Here, we have uploaded the correct data table</strong></h3>
+--------------------------------------------------
+
+&nbsp;
+
+1.&nbsp;ecDNA_cargo_gene_modeling_data.csv.gz
+
+The dataset contains features from 386 TCGA tumors for modeling ecDNA cargo gene prediction. It was converted from R data format with the following&nbsp;code. NOTE: columns 'sample' and 'gene_id' are not used for actual modeling but for identifying, and sampling purposes.
+
+library(data.table)
+
+data = readRDS("~/../Downloads/ecDNA_cargo_gene_modeling_data.rds")
+
+colnames(data)[3] = "total_cn"
+
+data.table::fwrite(data, file = "~/../Downloads/ecDNA_cargo_gene_modeling_data.csv.gz", sep = ",")
+
+&nbsp;
+
+2.&nbsp;gcap_pcawg_WGS_result.tar.gz
+
+GCAP analysis results for PCAWG allele-specific copy number profiles derived from WGS.
+
+&nbsp;
+
+3.&nbsp;gcap_tcga_snp6_result.tar.gz
+
+GCAP analysis results for TCGA allele-specific copy number profiles derived from SNP6 array.
+
+&nbsp;
+
+4.&nbsp;gcap_Changkang_WES_result.tar.gz
+
+GCAP analysis results for SYSUCC Changkang&nbsp;allele-specific copy number profiles derived from tumor-normal paired WES.
+
+&nbsp;
+
+5.&nbsp;tcga_overlap_gene_wgs.rds,&nbsp;tcga_overlap_gene_snp.rds and&nbsp;tcga_overlap_gene_wes.rds
+
+These datasets contain TCGA gene-level copy number results in R data format from overlapping samples (dataset above). WGS from PCAWG, SNP array, and WES from GDC portal.
+
+&nbsp;
+
+6.&nbsp;cellline-batch1.zip &amp;&nbsp;cellline-batch1.zip
+
+&nbsp;
+
+GCAP results of cell line batch 1 and batch 2.
+
+&nbsp;
+
+7.&nbsp;AA_cellline_wgs.zip
+
+AA software results for cell line batch 1.
+
+&nbsp;
+
+8.&nbsp;Batch2_AA_summary.xlsx
+
+AA software results for cell line batch 2.
+
+&nbsp;
+
+9.&nbsp;FISH-for-supp-file.zip
+
+Extended raw FISH images from 12 CRC samples.
+
+&nbsp;
+
+10. SNU216.zip
+
+Extended AA and GCAP analysis on SNU216.
+
+&nbsp;
+
+11. aa_ffpe.zip and AA_summary_table_of_6_erbb2_ffpe_samples.xlsx
+
+Extended AA running files (all results) and result summary data for 6 GCAP predicted ERBB2 amp clinical samples.
+
+&nbsp;
+
+12. source data of fig.4
+
+&nbsp;
+
+13. source data of supp fig.2 subplots
+
+&nbsp;
+
+13. source data of supp fig.15
+
+&nbsp;
+
+14. GCAP result data objects for three ICB cohorts. Both gene-level and sample-level data included.
+
+&nbsp;
+
+15. PDX-P68: processed (AA and CNV) data of P68 from WGS and WES data.
+
+&nbsp;
+
+16. source data of supp fig.13
+
+&nbsp;
+
+17. updated supplementary figure 14
+
+
+Contents:
+ - ICB_mono_GC_fcna_obj.rds
+ - ICB_comb_ESCC_fcna_obj.rds
+ - supp_fig14c.png
+ - SNU216.zip
+ - aa_ffpe.zip
+ - AA_summary_table_of_6_erbb2_ffpe_samples.xlsx
+ - tcga_overlap_gene_wgs.rds
+ - AA_cellline_wgs.zip
+ - Batch2_AA_summary.xlsx
+ - source_fig4c.csv
+ - cellline-batch1.zip
+ - cellline-batch2.zip
+ - FISH-for-supp-file.zip
+ - tcga_overlap_gene_wes.rds
+ - gcap_Changkang_WES_result.tar.gz
+ - gcap_tcga_snp6_result.tar.gz
+ - source_supp_fig2_TCGA_genelevel_modeling.csv.gz
+ - gcap_pcawg_WGS_result.tar.gz
+ - ecDNA_cargo_gene_modeling_data.csv.gz
+ - tcga_overlap_gene_snp.rds
+ - source_fig4d.csv
+ - source_supp_fig15.csv
+ - PDX-P68.zip
+ - source_data_supp_fig13.csv
+ - ICB_mono_NPC_fcna_obj.rds

@@ -1,0 +1,15 @@
+Title: Development and Implementation of a Custom License Plate Detection and Recognition System Using YOLOv10 and Tesseract OCR: A Comprehensive Study in Computer Vision and Optical Character Recognition Technologies
+
+Authors: Priyankush Kaushik Baruah
+
+Keywords: License Plate Recognition (LPR), YOLOv10, Optical Character Recognition (OCR), Object Detection, Intelligent Transportation Systems (ITS), Real-Time Monitoring
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>This study presents an automated license plate detection and recognition system, combining YOLOv10 for realtime object detection and Tesseract OCR for robust text extraction. The methodology involves training a customised YOLOv10 model on annotated vehicle datasets to localize license plates, followed by region-of-interest (ROI) filtering to enhance accuracy. Detected plates are processed with Tesseract OCR to convert visual data into machine-readable text. Evaluated using precision, recall, and inference speed metrics, the system achieves 97% detection accuracy and real-time performance, demonstrating reliability in automated vehicle identification tasks such as traffic monitoring. This work underscores the synergy of YOLOv10&rsquo;s detection efficiency and Tesseract&rsquo;s OCR capabilities, offering a scalable solution for intelligent transportation systems.
+
+
+Contents:
+ - E108314050425.pdf

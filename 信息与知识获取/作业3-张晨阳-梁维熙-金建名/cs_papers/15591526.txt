@@ -1,0 +1,22 @@
+Title: IntelELM: A Python Framework for Intelligent Metaheuristic-based Extreme Learning Machine
+
+Authors: Van Thieu, Nguyen
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+
+Update <code>mealpy</code> dependency from <code>3.0.1</code> to <code>3.0.2</code>.
+Fix bug in <code>validator</code> module
+Update <code>data_loader</code> module.
+Move parameters <code>lb</code>, <code>ub</code>, <code>mode</code>, <code>n_workers</code>, <code>termination</code> from <code>fit()</code> to <code>init()</code> in <code>BaseMhaElm</code>, <code>MhaElmRegressor</code>, and <code>MhaElmClassifier</code> classes.
+Add more parameters to <code>MhaElmComparator</code> class.
+Update ChangeLog, workflows, citation, readme, setup, manifest files
+Update examples, tests, and documentation for MhaElm models.
+Remove support for python <code>3.7.x</code>
+
+
+Contents:
+ - thieu1995/IntelELM-v1.3.0.zip

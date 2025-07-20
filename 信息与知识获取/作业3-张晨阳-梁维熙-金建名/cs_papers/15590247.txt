@@ -1,0 +1,14 @@
+Title: Code for Weakly Supervised Deep Learning for Global Seamount Detection and Morphological Characterization
+
+Authors: Bi, Zhengfa
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+This repository contains the full implementation for the manuscript titled <em>Weakly Supervised Deep Learning for Global Seamount Detection and Morphological Characterization</em>. The code integrates satellite-derived vertical gravity gradient (VGG) and bathymetric data using a foundation vision model adapted from Segment Anything Model (SAM) and a MaskFormer-style Transformer decoder. The framework enables global-scale seamount detection using weak supervision and elliptical Gaussian fitting to ensure morphological plausibility. It supports model training, pseudo-label generation, and Gaussian fitting. This open-source release promotes reproducibility in large-scale geoscientific data analysis and facilitates future research on submarine volcanic morphology under sparse labeling constraints.
+
+
+Contents:
+ - README.txt

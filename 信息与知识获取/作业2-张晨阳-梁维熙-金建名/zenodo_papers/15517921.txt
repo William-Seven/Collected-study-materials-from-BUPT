@@ -1,0 +1,30 @@
+Title: An enhanced machine learning plagioclase-liquid hygrometer for magmatic H2O estimation across different tectonic settings
+
+Authors: Lin, Jia-min, Liu, Ping-ping, Gao, Jian-feng, Xue, Ze-run, Caricchi, Luca, Petrelli, Maurizio, Zhangzhou, J
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This release includes all the scripts and data used to generate the results presented in the paper, with a specific focus on:
+
+
+Magmatic H2O content Prediction:
+
+
+Contains Python code that predicts magmatic H2O content across different tectonic settings based on geochemical element data and thermodynamic parameter. Utilizes machine learning models to explore the relationships between magmatic H2O content and geochemical elements. Includes data preprocessing, model training, and evaluation steps.
+
+
+Data augmentation:
+
+
+Provides tools to augment the data using the Markov chain Monte Carlo method. Allows users the freedom to make different levels of data enhancements according to their needs:
+
+
+For details on running the code and setting up the environment, please refer to the README.md file. Data files and instructions for reproducing the figures in the paper are also included.
+
+
+Contents:
+ - A-new-enhanced-machine-learning-plagioclase-liquid-hygrometer-main.zip

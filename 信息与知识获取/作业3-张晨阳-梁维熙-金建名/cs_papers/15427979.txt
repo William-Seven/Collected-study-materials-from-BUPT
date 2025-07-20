@@ -1,0 +1,20 @@
+Title: Microstructure and mechanical properties of 316L steel-Inconel 625 gradient materials manufactured by laser powder bed fusion
+
+Authors: Pasiowiec, Hubert, Lisiecka-Graca, Paulina, Ledwig, Piotr, Ziaja, Waldemar, Poręba, Marek, Dubiel, Beata
+
+Keywords: 
+
+Publication date: 2025-05-15
+
+Description:
+<span>Laser powder bed fusion (LPBF) process facilitates the production of gradient materials by gradually varying the ratio of different metal alloys. Combining 316L steel and Inconel 625 nickel-based superalloy with a gradual changing the mixing ratio in LPBF printouts allows for obtaining the desirable properties at particular zones, according to the requirements related to different stresses acting on individual cross-sections of machine parts operating at high temperature. To prove this concept, in this study the microstructure and mechanical properties of 316L steel-Inconel 625 gradient materials LPBF processed were investigated. </span>
+
+<span>The gradient samples were LPBF processed by using AYAS 120 LM machine, starting from </span><span>316L steel, followed by </span><span>four transition zones with a thickness of 450 &micro;m each, containing 20, 40, 60 and 80 wt.% of Inconel 625, and ending with single Inconel 625. </span><span>Microstructural analysis were carried out using LM and SEM.</span><span> </span><span>The gradient material was characterized by fine grains with cellular structure, elongated in the build direction. Porosity in each zone was &lt;0.1%. The hardness increased gradually from 230 HV0.5 for S316L to 301 HV0.5 for Inconel 625. In the transition zones, numerous precipitates were present at the cell boundaries. Sporadically, in the vicinity of particles, the microcracks were observed. Tensile tests were conducted at room temperature, 600, 700 and 750&deg;C with the load perpendicular to the gradient direction. The YS, UTS and elongation decreased with the increase of tensile test temperate. The values of<span>&nbsp; </span>YS and UTS </span><span lang="EN">were between those for the individual gradient component materials, while the elongation was similar to Inconel 625 but lower than for 316L steel.<span>&nbsp; </span></span>
+
+<span>The results have shown that the 316L steel-Inconel 625 compositional gradient resulted in desired gradient in hardness and</span><span> </span><span>tensile properties better than </span><span lang="EN">316L steel</span><span>.</span>
+
+<span>This research was funded by AGH, Poland, </span><span>grant no </span><span>16.16.110.663 &ndash; task 11</span><span>.</span>
+
+
+Contents:
+ - abstract_HP et al_AAMS2025.docx

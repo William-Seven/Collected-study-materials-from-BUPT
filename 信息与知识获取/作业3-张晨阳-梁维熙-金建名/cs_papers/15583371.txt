@@ -1,0 +1,14 @@
+Title: Intelligent Automation Framework for Penetration Testing and Security Assessment
+
+Authors: Dr. Anitha S., Pravishka D.
+
+Keywords: Automated penetration testing, cybersecurity framework, vulnerability assessment, Security automation, threat detection, open-source tools, AI in cybersecurity
+
+Publication date: 2025-06-03
+
+Description:
+<em><span>As<span> </span>cyber<span> </span>threats<span> </span>grow<span> </span>in<span> </span>complexity<span> </span>and<span> </span>frequency,<span> </span>the<span> </span>need<span> </span>for<span> </span>efficient, continuous<span> </span>security<span> </span>assessment<span> </span>is<span> </span>critical.<span> </span>Traditional<span> </span>penetration<span> </span>testing<span> </span>is<span> </span>often time-consuming,<span> </span>manual,<span> </span>and<span> </span>resource-intensive.<span> </span>This<span> </span>paper<span> </span>presents<span> </span>a<span> </span>modular Automated Penetration Testing Framework that automates key phases namely reconnaissance, scanning, vulnerability detection, exploitation, and reporting using open-source tools and rule-based logic. The framework reduces human error, improves test consistency, and supports real-time reporting, making it ideal for dynamic and resource-constrained environments. It also offers adaptability across various infrastructures and paves the way for future AI integrations to enhance threat detection and response.</span></em>
+
+
+Contents:
+ - INTELLIGENT AUTOMATION FRAMEWORK -Formatted Paper.pdf

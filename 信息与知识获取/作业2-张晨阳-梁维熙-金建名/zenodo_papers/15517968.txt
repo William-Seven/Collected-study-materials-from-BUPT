@@ -1,0 +1,13 @@
+Title: Tulipa Clustering
+
+Authors: Neustroev, Grigory, Tejada-Arango, Diego A., Clisby, Lauren, Morales-España, Germán
+
+Keywords: Open source tool, Energy system modelling, Energy system analysis, Clustering
+
+Publication date: 2025-05-26
+
+Description:
+The Tulipa Clustering package is a Julia package for finding representative periods and their weights based on demand and generation profiles.
+
+Contents:
+ - TulipaEnergy/TulipaClustering.jl-v0.4.1.zip

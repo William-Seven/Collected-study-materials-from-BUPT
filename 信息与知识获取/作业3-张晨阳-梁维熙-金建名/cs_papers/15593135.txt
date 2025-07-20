@@ -1,0 +1,14 @@
+Title: VIDEO DATA FOR TRANSMISSION IN TV CHANNELS
+
+Authors: Norov, Elnur, Tashmetov, Shaxzod
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+<span lang="EN-US">Intelligent analysis of video data encompasses a variety of techniques, including machine learning, deep learning, computer vision, and real-time processing. These methods are designed to automate the detection, categorization, and enhancement of video content, ensuring seamless transmission and high-quality viewing experiences. For instance, deep learning models, such as convolutional neural networks (CNNs) and long short-term memory (LSTM) networks, are extensively used for content recognition and anomaly detection in video streams[1].</span>
+
+
+Contents:
+ - Yosh olimlar 2006.pdf

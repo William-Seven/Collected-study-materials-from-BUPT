@@ -1,0 +1,13 @@
+Title: gstlearn/gstlearn: Stable Release v1.7.3
+
+Authors: MINES Paris - PSL University
+
+Keywords: C++ Library, Python Package, R Package, Geostatistics, Machine Learning
+
+Publication date: 2025-06-04
+
+Description:
+The Geostatistics &amp; Machine Learning C++ Library, Python and R Packages
+
+Contents:
+ - gstlearn/gstlearn-stable_1.7.3.zip

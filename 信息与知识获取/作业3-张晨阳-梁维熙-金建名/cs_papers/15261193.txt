@@ -1,0 +1,88 @@
+Title: Szenario:SZ-HB-II-02-04 Ausfüllen und Teilen eines Kurses mit anderen Lehrenden
+
+Authors: Peil, Ricarda, Dinier, Julia, Schröter, Alexander, Lehmler, Julia, Endries, Tara-Marie, Erdmann, Sönke
+
+Keywords: BIRD, Scenario, Human-centered-Design, Bildungsraum Digital, Education, LMS, moodle
+
+Publication date: 2025-06-04
+
+Description:
+<strong>Warum schreiben wir im Kontext von BIRD Szenarien?</strong>
+
+Mithilfe von Szenarien k&ouml;nnen soziotechnische Systeme nach dem Ansatz des szenario-basierten Designs (Rosson &amp; Carroll, 2002) von Beginn an nutzerzentriert gestaltet werden. Dieses mehrstufige Design-Framework erleichtert durch wiederholte Teilschritte das Verst&auml;ndnis von Designentscheidungen und richtet diese gezielt an den Anforderungen der Nutzergruppe aus. Die Szenarien werden in Prosaform erstellt und einem festen Kontext zugeordnet. Basierend auf den ermittelten Anforderungen aus einer qualitativen Studie (Bustorff et al., 2023) wurden in mehreren Workshops die wichtigsten Anwendungsf&auml;lle aus den verschiedenen BIRD-Dimensionen gesammelt und sp&auml;ter in Expert:innengruppen als Szenarien ausgearbeitet. Der Kanon an Szenarien ist dynamisch. Neue Rahmenbedingungen bringen entweder neue Szenarien hervor oder f&uuml;hren zur Depriorisierung bestehender Szenarien.
+
+Einige Szenarien sind keine expliziten Bildungsszenarien, haben ihren unmittelbaren Anlass also nicht in einem lehr- oder lernbezogenen Handlungsproblem, sondern betreffen allgemeine Registrierungs- und Orientierungsprozesse innerhalb des Systems. Diese stellen gegebenenfalls notwendige, mehr oder weniger uniforme Zwischenschritte auf dem Weg zum L&ouml;sen des Handlungsproblems, Voraussetzungen oder ein &ldquo;Mittel zum Zweck&rdquo; dar, um ein bestimmtes Ziel zu erreichen.
+
+Die Szenarien sind zeitlich nicht vorgelagert, sondern finden parallel zueinander statt. So kann es sein, dass eine Persona zeitgleich unterschiedliche Probleme hat und versucht diese via BIRD zu l&ouml;sen, ohne dass die Ergebnisse aus einem Szenario auf einem anderen aufbauen oder dieses beeinflussen.
+
+<strong>Warum haben wir diesen Aufbau gew&auml;hlt?</strong>
+
+Die Szenarien sind in zwei Teile unterteilt: das Problemszenario und das Aktivit&auml;tsszenario. Zu Beginn eines jeden Szenarios wird im Problemszenario das Handlungsproblem der Persona beschrieben, die durch ein Szenario begleitet wird. Das Problemszenario gliedert sich in die folgenden f&uuml;nf Abschnitte: Einleitung, Problemdefinition, Hintergrund und Kontext, Auswirkungen des Problems (auf die Persona) sowie Versuche zur Probleml&ouml;sung vor BIRD.
+
+Jeder dieser Abschnitte tr&auml;gt dazu bei das Problem der Persona besser zu verstehen und unterst&uuml;tzt die Handlungen innerhalb des Aktivit&auml;tsszenarios. Die <em>&bdquo;Einleitung&ldquo;</em> bietet eine Einf&uuml;hrung in das Thema und in das Problem, dem sich die Persona gegen&uuml;bersieht. Die <em>&bdquo;Problemdefinition&ldquo;</em> beschreibt das Kernproblem der Persona. Der Abschnitt <em>&bdquo;Hintergrund und Kontext&ldquo;</em> beleuchtet Hintergrundinformationen, die aus Sicht der Persona relevant sind. Die <em>&bdquo;Auswirkungen des Problems (auf die Persona)&ldquo;</em> verdeutlichen die Konsequenzen des Problems und den Leidensdruck der Persona. Schlie&szlig;lich werden im Abschnitt <em>&bdquo;Pre BIRD L&ouml;sungsversuche&ldquo;</em> die bisherigen L&ouml;sungsans&auml;tze der Persona aufgef&uuml;hrt und bewertet.
+
+Im Anschluss folgt das Aktivit&auml;tsszenario, welches das Vorgehen der Persona innerhalb von BIRD beschreibt. Abh&auml;ngig von der Problemstellung kann das Erreichen des Ziels einen oder mehrere Parts erfordern. Die Aktivit&auml;tsszenarien sind in Schritte unterteilt, welche die Persona durchl&auml;uft, um ihr Ziel zu erreichen. Dabei ist zu beachten, dass es sich bei den Schritten nicht lediglich um Klickanleitungen handelt, sondern auch die Gewohnheiten und Emotionen der Persona ber&uuml;cksichtigt werden. Die Aktivit&auml;tsszenarien dienen als Grundlage f&uuml;r technische Implementierungen.
+
+<strong>Wie kategorisieren wir die Szenarien? </strong>
+
+In <strong>Bustorff et al. 2023</strong> wurden die drei wichtigsten Dimensionen von BIRD ermittelt, welche wir auch als &uuml;bergeordnetes Kategoriensystem f&uuml;r die Szenarien verwenden (I. Informieren, II Sammeln und Erarbeiten, III Entdecken und Vernetzen). Dar&uuml;ber hinaus haben wir folgendes Ordnungsschema angewandt:
+
+<u>Allgemeine Szenarien</u>
+
+<u>I Informieren</u>
+
+<u>II Sammeln und Erarbeiten</u>
+
+
+
+Eigener Arbeitsbereich (01): Szenarien, die die eigenst&auml;ndige Nutzung betonen
+
+
+
+Kollektiver Arbeitsbereich (02): Szenarien, die die kollaborative Nutzung im Fokus haben (einschlie&szlig;lich Einzel- und Gruppennutzung)
+
+
+
+<u>III Entdecken und Vernetzen</u>
+
+
+
+1 zu 1 Matching (01): Buddy Finder Szenarien, in welchen sich zwei Einzelpersonen vernetzen
+
+
+
+
+
+1 zu x Matching (02): Buddy Finder Szenarien, in welchen sich eine Einzelperson mit einer Gruppe vernetzt
+
+
+
+weitere Szenarien zum Netzwerk
+
+
+
+Alle Unterkategorien sind unterteilt in die Dom&auml;nen <em>"Schule"</em>, <em>"Hochschule"</em>, <em>"Berufliche Bildung"</em> und <em>"Erwachsenenbildung"</em>.
+
+<strong>Woher nehmen wir den Input f&uuml;r die Szenarien?</strong>
+
+In einem der Vorg&auml;ngerprojekte &ldquo;eLiS&rdquo; (e-Learning in Studienbereichen) wurden 170 User Stories von Hochschulangeh&ouml;rigen erhoben, die in die Konzeption von CampusUP eingeflossen sind (Hafer, Kiy &amp; Lucke 2014). Diese dienten als eine der wichtigsten Datengrundlagen f&uuml;r das Szenario-Repositorium. Erg&auml;nzend wurden die im Rahmen des Projekts "Digitaler Campus" erhobenen und bis dato unver&ouml;ffentlichten Befragungen und Anforderungen nachgenutzt. Dar&uuml;ber hinaus lieferte die leitfadengest&uuml;tzte qualitative Studie zu BIRD Einblicke in die Wahrnehmung von Lernenden zu &Uuml;berg&auml;ngen im Bildungssystem sowie konkrete W&uuml;nsche an eine Vernetzungsinfrastruktur f&uuml;r die Bildung (Bustorff et al., 2023). Weitere Erkenntnisse wurden durch die Ergebnisse der in Ver&ouml;ffentlichung befindlichen Umfrage zu gew&uuml;nschten Metadaten im Buddy Finder generiert. Erg&auml;nzt wurden diese internen Daten durch eine umfassende Online-Recherche zu bestehenden L&ouml;sungen und Diensten sowie durch den wertvollen Input des personell starken, interdisziplin&auml;ren Konsortiums.
+
+<strong>Warum haben wir &Auml;nderungen an den Szenarien vorgenommen? </strong>
+
+Die Szenarien haben sich nicht nur in der Struktur des Ablaufs und der Klassifikation ver&auml;ndert, sondern auch in den ausgew&auml;hlten Personas und den technischen M&ouml;glichkeiten der bekannten BIRD-Komponenten. Diese Anpassungen sind Teil des iterativen Arbeitsprozesses im Projekt Bildungsraum Digital und werden in jedem Szenario unter dem Vermerk &bdquo;edited for clarity&ldquo; festgehalten.
+
+Die Ver&auml;nderung der Ablaufstruktur ist bei allen Szenarien konsistent: so wurde anstelle des Nutzerbed&uuml;rfnisses das Problemszenario ausgearbeitet (siehe oben), um das spezifische Handlungsproblem der Persona und den Grund f&uuml;r die Nutzung von BIRD in den Vordergrund zu stellen. Die Ver&auml;nderungen in der Klassifikation oder Zuordnung zu den Feldern sind minimal und betreffen lediglich die Dimensionen in BIRD, die Bildungsbereiche sowie die verwendeten Komponenten. Diese Modifikationen sind als Teil des Entstehungsprozesses und der R&uuml;ckkopplung zu verstehen.
+
+Alle Szenarien sind unter Lizenz CC BY 4.0 ver&ouml;ffentlicht.
+
+<strong>Literatur:</strong>
+
+Bustorff, A., Tille, R., Wisniewski, S., Blum, F., Lucke, U. (2023). Nutzungsanforderungen, p&auml;dagogische &Uuml;berlegungen und Grobstruktur einer digitalen Vernetzungsinfrastruktur f&uuml;r die Bildung. eleed, Issue se2023.
+
+Hafer, J., Kiy, A., Lucke, U. (2014). Moodle &amp; Co. auf dem Weg zur Personal Learning Environment. eleed, Issue 10
+
+Rosson, M.B., Carroll, J.M. (2002). Scenario-Based Design. In J. Jacko &amp; A. Sears (Eds.). The Human-Computer Interaction Handbook: Fundamentals, Evolving Technologies and Emerging Applications. Lawrence Erlbaum Associates, pp. 1032-1050.
+
+
+Contents:
+ - BIRD-Zenodo_ SZ-HB-II-02-04_ Ausfüllen und Teilen eines Kurses mit anderen Lehrenden über eine OER-Plattform-040625.pdf

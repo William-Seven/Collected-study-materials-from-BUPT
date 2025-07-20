@@ -1,0 +1,59 @@
+Title: Urban Garden Ground-Cover UAV RGB Orthomosaic Dataset for Semantic Segmentation
+
+Authors: Afrasiabian, Yasamin, Belwalkar, Anirudh
+
+Keywords: ground cover, remote sensing, deep learning, urban gardens
+
+Publication date: 2025-05-23
+
+Description:
+
+<strong>Overview</strong>
+
+
+This dataset provides high-resolution Uncrewed Aerial Vehicle (UAV) orthomosaic RGB imagery and corresponding ground-truth masks for semantic segmentation of ground cover types in urban community gardens. Collected from five community gardens in Munich, Germany, in 2021 and 2022, the dataset supports research in urban ecology, remote sensing, and machine learning. It is designed for researchers in remote sensing, ecologists, urban planners, and community stakeholders interested in urban garden management.
+
+
+<strong>Dataset Description</strong>
+The dataset comprises 24 high-resolution RGB orthomosaic images captured using a DJI Phantom 4 UAV with an RTK GPS system. The imagery covers five community gardens in Munich. Data were collected during multiple sampling periods in 2021 (July, August) and 2022 (May, July, October).
+
+
+<strong>Key Features:</strong>
+
+<ul>
+<li>RGB Images: 3-band GeoTIFFs (Red, Green, Blue) in EPSG:25832 (UTM Zone 32N), with a spatial resolution ranging from 0.0032 to 0.0079 m (3.2-7.9 mm) and pixel counts ranging from 18.9 to 146.4 million pixels per image.</li>
+<li>Ground-Truth Masks: Single-band GeoTIFFs of identical dimensions to the RGB images, with pixel values representing one of eight ground cover classes: grass, herb, litter, soil, stone, straw, wood, and woodchip.</li>
+<li>Patch-Based Dataset: To support deep learning applications, images and masks are cropped into overlapping 512&times;512 pixel patches (stride: 256 pixels), organized into training, validation, and test subsets.</li>
+<li>Metadata: A `dataset_metadata.csv` file provides details for each image and mask, including filename, dimensions, pixel count, spatial resolution, coordinate reference system (CRS), Agisoft Metashape processing parameters, and flight properties (e.g., flight height, image overlap, acquisition time).
+
+</li>
+</ul>
+
+<strong>Dataset Structure</strong>
+
+
+The dataset is organized into three folders corresponding to the train/validation/test split:
+
+<ul>
+<li>Train: 14 RGB orthomosaic images and 14 corresponding ground-truth mask files.</li>
+<li>Val: 5 RGB images and 5 mask files.</li>
+<li>Test: 5 RGB images and 5 mask files.
+
+</li>
+</ul>
+
+Additionally, a patches directory contains:
+
+<ul>
+<li>images: train/, val/, test/ sub-folders for RGB orthomosaic images</li>
+<li>masks: matching train/, val/, test/ sub-folders for corresponding mask files
+
+</li>
+</ul>
+
+Contents:
+ - test.zip
+ - dataset_metadata.csv
+ - train.zip
+ - val.zip
+ - patches.zip

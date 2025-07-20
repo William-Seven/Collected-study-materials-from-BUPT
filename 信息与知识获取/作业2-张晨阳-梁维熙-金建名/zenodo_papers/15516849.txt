@@ -1,0 +1,15 @@
+Title: Numerical Analysis of Lift Coefficients for NACA 4412 Airfoil Across Different Angles of Attack
+
+Authors: Neloy Kumar Das
+
+Keywords: Airfoil optimisation, Aerodynamic performance, XFOIL, CFD, NACA 4412
+
+Publication date: 2025-05-30
+
+Description:
+
+<strong>Abstract: </strong>The accurate aerodynamic performance prediction is critical for designing and optimising airfoils used in aerospace, automotive, and renewable energy applications. This study focuses on evaluating and comparing the lift coefficients of the NACA 4412 airfoil using three distinct methodologies: CFD, wind tunnel experimentation, and the Panel method. The primary objective is to assess each technique's accuracy and limitations in capturing the airfoil's aerodynamic characteristics. CFD simulations were conducted using ANSYS FLUENT, applying a steady-state, incompressible flow model with appropriate turbulence modelling to capture flow behaviour across a range of angles of attack. Experimental validation was performed in a controlled wind tunnel environment to generate benchmark data. The Panel method analysis was also executed using XFOIL, a commonly used inviscid flow solver known for its computational efficiency. The results demonstrate a strong agreement between CFD simulations and experimental data, particularly in predicting lift coefficients at moderate angles of attack. In contrast, XFOIL consistently overestimated lift values, especially at higher angles, due to its inability to accurately model flow separation and viscous effects. This discrepancy highlights the inherent limitations of potential flow methods when applied to complex flow regimes. The study systematically compares these approaches and emphasises the critical need for high-fidelity numerical or experimental validation when assessing airfoil performance. The findings advocate for a cautious application of simplified methods like the Panel method in preliminary design stages and reinforce the role of CFD as a reliable tool in aerodynamic analysis. This work contributes to the ongoing refinement of predictive tools for airfoil design, ensuring more accurate performance assessments in realworld applications.
+
+
+Contents:
+ - A823314010525.pdf

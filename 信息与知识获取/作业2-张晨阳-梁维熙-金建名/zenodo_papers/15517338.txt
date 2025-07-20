@@ -1,0 +1,35 @@
+Title: Dacentrurinae Mateus, Maidment & Christiansen 2009
+
+Authors: Sánchez-Fenollosa, Sergio, Cobos, Alberto
+
+Keywords: Biodiversity, Taxonomy, Animalia, Chordata, Stegosauridae
+
+Publication date: 2025-05-26
+
+Description:
+
+Dacentrurinae Mateus, Maidment &amp; Christiansen, 2009 (nomen cladi conversum)
+
+<b>Registration number.</b>
+
+1099.
+
+<b>Phylogenetic definition.</b>
+
+The largest clade containing <i>Dacentrurus armatus</i> Owen, 1875 but not <i>Stegosaurus stenops</i> Marsh, 1887. This is a maximum-clade definition.
+
+<b>Reference phylogeny.</b>
+
+Figure 5 of this paper is designated as the primary reference phylogeny. Additional reference phylogenies include figure 3.14 of Carpenter et al. (2001), figure 16.11 of Galton and Upchurch (2004), figure 8 of Maidment et al. (2006), figure 3 of Escaso et al. (2007 a), figure 11 A and 12 A of Maidment et al. (2008), figure 1 of Mateus et al. (2009), figure 1 of Maidment (2010), figure 1 and 2 of Raven and Maidment (2017), figure 6 A of Hao et al. (2018), figure 12 of Maidment et al. (2020), figure 8 of Dai et al. (2022), figure 6 of Jia et al. (2024), figure 15 of Li et al. (2024 a), figure 8 of Li et al. (2024 b), figure 7 of Li et al. (2024 c), and figure 12 of Zafaty et al. (2024).
+
+<b>Composition.</b>
+
+According to the primary reference phylogeny, the clade Dacentrurinae comprises <i>Al. longispinus</i>, <i>K. aethiopicus</i>, <i>Th. atlasicus</i>, <i>Ad. boulahfa</i>, and <i>D. armatus</i>.
+
+<b>Comments.</b>
+
+Dacentrurinae was first (informally) defined by Mateus et al. (2009). This is formalized using the same type of definition but replacing <i>S. armatus</i> Marsh, 1877 with <i>S. stenops</i> as external specifier. The species <i>S. armatus</i> was originally designated as the type species of the genus <i>Stegosaurus</i>, but it was later replaced by <i>S. stenops</i> as the type (International Commission on Zoological Nomenclature 2013). Figure 5 of this paper has been designated as the primary reference phylogeny because it considers the latest taxonomic revisions, includes the highest number of stegosaurian OTUs, and provides a high-resolution topology.
+
+
+Contents:
+ - treatment.html

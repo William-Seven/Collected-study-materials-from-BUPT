@@ -1,0 +1,18 @@
+Title: Machine Learning Applications in Use-Wear Analysis: a Critical Review
+
+Authors: Eleftheriadou, Anastasia, McPherron, Shannon, Marreiros, Joao
+
+Keywords: use-wear analysis, machine learning, computational archaeology, open science, FAIR data
+
+Publication date: 2025-05-18
+
+Description:
+This dataset forms part of the submission titled <em>"Machine Learning Applications in Use-Wear Analysis: A Critical Review"</em> to the <em>Journal of Computer Applications in Archaeology</em>. It includes the Quarto source file containing the manuscript and analyses, along with all associated supporting files (.csv, .csl, .json, .zip).
+
+
+Contents:
+ - db_article_1.csv
+ - loss_curves.zip
+ - citations.json
+ - journal_of_computer_applications_in_archaeology.csl
+ - manuscript.qmd

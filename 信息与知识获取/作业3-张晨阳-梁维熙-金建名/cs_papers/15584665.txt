@@ -1,0 +1,14 @@
+Title: Enhancing Financial Fraud Detection using XGBoost, LSTM, and KNN with SMOTE for Imbalanced Datasets
+
+Authors: Godfred Antwi Koduah, Jinguo Lian
+
+Keywords: Financial fraud detection, imbalanced datasets, machine learning, XGBoost, SMOTE
+
+Publication date: 2025-06-05
+
+Description:
+<strong><span>Abstract</span></strong><strong><span>&mdash;</span></strong><span> </span><span><span>The surge in digital financial activity has led to increasingly sophisticated forms of fraud, creating serious <span>challenges</span><span> </span><span>for</span><span> </span><span>financial</span><span> </span><span>institutions.</span><span> </span><span>One</span><span> </span><span>of</span><span> </span><span>the</span><span> </span><span>core</span><span> </span><span>obstacles</span><span> </span><span>in</span><span> </span><span>fraud</span><span> </span><span>detection</span><span> </span><span>is</span><span> </span><span>the</span><span> </span><span>substantial</span><span> </span><span>class</span><span> </span><span>imbalance </span>present in transactional datasets, where fraudulent records represent a small minority.<span> </span>This study presents a robust machine learning framework that integrates the Synthetic Minority Over-sampling Technique (SMOTE) <span>with</span><span> </span><span>three</span><span> </span><span>distinct</span><span> </span><span>classifiers&mdash;XGBoost, Long</span><span> </span><span>Short-Term</span><span> </span><span>Memory</span><span> </span><span>(LSTM),</span><span> </span><span>and</span><span> </span><span>K-Nearest</span><span> </span><span>Neighbors</span><span> </span><span>(KNN)&mdash;to </span>enhance<span> </span>the<span> </span>detection<span> </span>of<span> </span>fraudulent<span> </span>activities. Using<span> </span>a<span> </span>real-world<span> </span>dataset<span> </span>of<span> </span>six<span> </span>million<span> </span>banking<span> </span>transactions,<span> </span>we assess each model&rsquo;s performance through accuracy, precision, recall, F1-score, and both PR and ROC AUC metrics.<span> </span>Our findings show that SMOTE significantly boosts model recall and AUC scores.<span> </span>Among the models, XGBoost consistently delivers superior results with near-perfect metrics, while KNN maximizes recall, albeit at a slight cost to precision.<span> </span>LSTM produces more moderate but stable performance.<span> </span>Visual diagnostics, such as ROC/PR<span> </span>curves<span> </span>and<span> </span>confusion<span> </span>matrices,<span> </span>further<span> </span>confirm<span> </span>the<span> </span>reliability<span> </span>of<span> </span>XGBoost<span> </span>when<span> </span>combined<span> </span>with<span> </span>SMOTE. Overall, the integration of data balancing with advanced classifiers proves to be a powerful approach for real- time fraud detection. </span></span>
+
+
+Contents:
+ - IJOER-MAY-2025-4.pdf

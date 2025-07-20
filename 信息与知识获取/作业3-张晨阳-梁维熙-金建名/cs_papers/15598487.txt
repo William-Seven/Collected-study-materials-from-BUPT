@@ -1,0 +1,14 @@
+Title: Harnessing Time and Data: A Literature Review of Recurrent Neural Networks for Personalized Deep Brain Stimulation (DBS) in Parkinson's and Epilepsy
+
+Authors: R, Devadethan, T.K, Bijimol
+
+Keywords: Deep Brain Stimulation (DBS), Parkinson's disease, Epilepsy, Biomarkers Deep Learning, Machine Learning, Reinforcement Learning (RL), Artificial Intelligence(AI), Explainable AI, Personalized medicine, Closed-loop control, Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks ,Convolutional Neural Networks(CNNs), Neuromorphic computing, Ethical considerations, Informed consent, Data privacy, Electroencephalography (EEG), Local Field Potentials (LFPs), Feature engineering, Tremor
+
+Publication date: 2025-06-05
+
+Description:
+<span><span>Abstract - Deep Brain Stimulation (DBS) offers a promising treatment for neurological disorders like Parkinson's disease and epilepsy. However, current methods lack personalization and require frequent adjustments. This review explores Deep Learning's potential to revolutionize DBS. By analyzing brain activity (EEG, LFP) in real-time, Deep Learning can identify relevant biomarkers for each patient, enabling personalized DBS protocols. Feature engineering optimizes Deep Learning's performance, while supervised and unsupervised learning approaches aid in biomarker discovery.</span></span><span><span>The review examines various Deep Learning architectures suitable for closed-loop DBS control. Recurrent Neural Networks (RNNs) process sequential brain activity data, Convolutional Neural Networks (CNNs) excel at real-time classification of movement disorders, and Reinforcement Learning (RL) allows for stimulation parameter optimization based on brain feedback. These algorithms can be tailored to address the specific challenges of Parkinson's disease and epilepsy. Additionally, Deep Learning can leverage individual patient data to create personalized DBS protocols. The review concludes by discussing challenges, ethics, emerging trends like neuromorphic computing, and key research gaps in this promising field. Deep Learning holds immense potential to personalize DBS therapy,&nbsp;</span></span><span><span>offering a path towards improved treatment outcomes for patients with neurological disorders.</span></span>
+
+
+Contents:
+ - Harnessing Time and Data_ A Literature Review of Recurrent Neural Networks for Personalized Deep Brain Stimulation (DBS) in Parkinson's and Epilepsy.pdf

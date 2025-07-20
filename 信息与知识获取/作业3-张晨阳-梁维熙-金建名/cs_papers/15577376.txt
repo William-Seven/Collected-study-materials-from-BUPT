@@ -1,0 +1,16 @@
+Title: Timing of Breeding Site Availability Across the North-American Arctic Partly Determines Spring Migration Schedule in a Long-Distance Neotropical Migrant
+
+Authors: Lamarre, Jean-François, Gauthier, Gilles, Lanctot, Richard B., Saalfeld, Sarah T., Love, Olivier P., Reed, Eric, Johnson, Oscar W., Liebezeit, Joe, McGuire, Rebecca, Russell, Mike, Nol, Erica, Koloski, Laura, Sanders, Felicia, McKinnon, Laura, Smith, Paul A., Flemming, Scott A., Lecomte, Nicolas, Giroux, Marie-Andrée, Bauer, Silke, Emmenegger, Tamara, Bêty, Joël
+
+Keywords: phenology, snowmelt, trans-hemispheric migrant, arctic birds, timing of breeding, American Golden-Plover
+
+Publication date: 2021-10-21
+
+Description:
+<strong>Abstract</strong>
+
+Long-distance migrants are under strong selection to arrive on their breeding grounds at a time that maximizes fitness. Many arctic birds start nesting shortly after snow recedes from their breeding sites and timing of snowmelt can vary substantially over the breeding range of widespread species. We tested the hypothesis that migration schedules of individuals co-occurring at the same non-breeding areas are adapted to average local environmental conditions encountered at their specific and distant Arctic breeding locations. We predicted that timing of breeding site availability (measured here as the average snow-free date) should explain individual variation in departure time from shared non-breeding areas. We tested our prediction by tracking American Golden-Plovers (<em>Pluvialis dominica</em>) nesting across the North-American Arctic. These plovers use a non-breeding (wintering) area in South America and share a spring stopover area in the nearctic temperate grasslands, located &gt;1,800 km away from their nesting locations. As plovers co-occur at the same non-breeding areas but use breeding sites segregated by latitude and longitude, we could disentangle the potential confounding effects of migration distance and timing of breeding site availability on individual migration schedule. As predicted, departure date of individuals stopping-over in sympatry was positively related to the average snow-free date at their respective breeding location, which was also related to individual onset of incubation. Departure date from the shared stopover area was not explained by the distance between the stopover and the breeding location, nor by the stopover duration of individuals. This strongly suggests that plover migration schedule is adapted to and driven by the timing of breeding site availability <em>per se</em>. The proximate mechanism underlying the variable migration schedule of individuals is unknown and may result from genetic differences or individual learning. Temperatures are currently changing at different speeds across the Arctic and this likely generates substantial heterogeneity in the strength of selection pressure on migratory schedule of arctic birds migrating sympatrically.
+
+
+Contents:
+ - Lamarre et al 2021 Front Ecol Evol - Timing of Breeding Site Availability.pdf

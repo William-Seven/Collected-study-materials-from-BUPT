@@ -1,0 +1,14 @@
+Title: [Replication Package] ASE 2025 submission #2487
+
+Authors: Anonymous Author(s)
+
+Keywords: 
+
+Publication date: 2025-05-30
+
+Description:
+<div>Replication package associated with the scientific article: "Probabilistic Boundary Generation for Deep Learning System Testing", submitted for possible publication to the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025).</div>
+<div>The package contains the implementation of DeepSpectrum and the instructions to set up and run the experiments.See README.md for further details.&nbsp;</div>
+
+Contents:
+ - deepspectrum.zip

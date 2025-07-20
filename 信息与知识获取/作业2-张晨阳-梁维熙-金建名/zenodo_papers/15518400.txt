@@ -1,0 +1,21 @@
+Title: A remote sensing-based strategy for mapping anthropogenic urban surface ecological poorness zones (AUSEPZ): A case study of Lisbon City
+
+Authors: Karimi Firozjaei, Mohammad, Mijani, Naeim, M Atkinson, Peter
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+In this dataset, the original and processed data and information in the article titled <strong>A remote sensing-based strategy for mapping anthropogenic urban surface ecological poorness zones (AUSEPZ): A case study of Lisbon City</strong> published in the Journal of Ecological Informatics (https://www.sciencedirect.com/science/article/pii/S157495412400517X) are categorized and presented as follows:
+1- Original and processed datasets (AUSEPZ_Lisbon_Results folder), which can be opened and reviewed in spatial analysis software.
+2- Map outputs used in the article, organized in the AUSEPZ_Lisbon_Maps folder.
+3- A PowerPoint file (Paper_Figures) containing all maps and charts used in the article.
+4- Our team four previous published articles that laid the groundwork for the current study, where the methodology was originally introduced and developed. These are listed as &ldquo;Reference articles for the idea&rdquo;.
+
+Best regard
+
+
+Contents:
+ - Ecological Informatics_AUSEPZ_Lisbon.rar

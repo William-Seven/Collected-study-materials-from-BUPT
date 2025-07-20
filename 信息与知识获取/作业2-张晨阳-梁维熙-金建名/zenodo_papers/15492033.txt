@@ -1,0 +1,91 @@
+Title: Structural and Functional Insights into the Selective Inhibition of Mutant Tau Aggregation by Purpurin and Oleocanthal in Frontotemporal Dementia
+
+Authors: Das, Viswanath
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+<h3><strong>Zenodo Dataset Description</strong></h3>
+
+This dataset provides source data and supplementary materials for the manuscript entitled
+<strong>"Structural and Functional Insights into the Selective Inhibition of Mutant Tau Aggregation by Purpurin and Oleocanthal in Frontotemporal Dementia."</strong>
+
+
+Each file corresponds to specific figures in the main text or supplementary material to enable transparent data access and reproducibility.
+
+<h3>
+<strong>&nbsp;Source Data Files</strong></h3>
+<ul>
+<li>
+
+<strong>Source Data File 1 (Figure 1b):</strong>
+Raw Thioflavin T fluorescence data for the aggregation kinetics of tau peptides (WT, P301L, V287I, and N279K) shown in&nbsp;<strong>Figure 1b</strong>.
+
+</li>
+<li>
+
+<strong>Source Data File 2 (Figure 2a&ndash;b):</strong>
+Raw sensorgram data from surface plasmon resonance titration curve kinetics of purpurin and oleocanthal binding with WT and mutant R2R3 tau peptides, shown in <strong>Figure 2a and 2b</strong>.
+
+</li>
+<li>
+
+<strong>Source Data File 3 (Figure 3a&ndash;d):</strong>
+Raw Thioflavin T fluorescence data showing dose-dependent aggregation inhibition of WT and mutant tau peptides by purpurin and oleocanthal, corresponding to&nbsp;<strong>Figure 3a&ndash;d</strong>.
+
+</li>
+<li>
+
+<strong>Source Data File 4 (Figure 4a):</strong>
+Thioflavin T fluorescence traces depicting the elongation of preformed WT and P301L tau fibrils before and after treatment with purpurin or oleocanthal, shown in&nbsp;<strong>Figure 4a</strong>.
+
+</li>
+<li>
+
+<strong>Source Data File 5 (Figure 5b):</strong>
+Quantification of CFP/YFP-positive inclusions and total cell count used to calculate normalized aggregate numbers in Tau RD P301S biosensor cells, shown in <strong>Figure 5b</strong>.
+
+</li>
+<li>
+
+<strong>Source Data File 6 (Figure 6c):</strong>
+Quantification of intracellular aggregates (CFP/YFP inclusions) and cell count following post-transduction treatment with purpurin or oleocanthal, shown in <strong>Figure 6c</strong>.
+
+</li>
+</ul>
+<h3><strong>Supplementary Data Files</strong></h3>
+<ul>
+<li><strong>Source Data File S1 (Figure S4):</strong>
+Fluorescence measurements of ThT, purpurin, and oleocanthal in the absence of peptide, shown in <strong>Supplementary Figure S4</strong>.</li>
+<li><strong>Source Data File S2 (Figure S13a):</strong>
+ThT fluorescence data for elongation inhibition of V287I and N279K tau peptides, before and after treatment with purpurin or oleocanthal, shown in <strong>Supplementary Figure S13a</strong>.</li>
+<li><strong>Source Data File S3 (Figure S16):</strong>
+Raw MTS absorbance values used to determine IC₅₀ values for purpurin and oleocanthal in Tau biosensor and CCRF-CEM cells, shown in <strong>Supplementary Figure S16</strong>.</li>
+<li><strong>Supplementary Dataset S1:</strong>
+MM-GBSA binding free energy calculations for purpurin and oleocanthal bound to WT and P301L tau filaments.</li>
+<li><strong>Supplementary Dataset S2:</strong>
+Residue-level decomposition analysis of purpurin and oleocanthal interactions with WT and P301L tau filaments.
+
+</li>
+</ul>
+<h3><strong>Computational Methods Document</strong></h3>
+<ul>
+<li><strong>Title:</strong> <em>Computational Methods &ndash; Monomeric Tau Docking and Simulation</em>
+This file provides detailed protocols for AlphaFold2-based structure prediction, molecular docking, MM-GBSA energy calculations, and molecular dynamics simulations of monomeric WT and P301L tau peptides with purpurin and oleocanthal. These methods support <strong>Supplementary Figures S9&ndash;S10</strong> and <strong>Tables S1&ndash;S2</strong> in the manuscript.</li>
+</ul>
+
+Contents:
+ - Source Data File 6 (Figure 6).xlsx
+ - Computational Methods.docx
+ - Source Data File 1 (Figure 1)_Revised.xlsx
+ - Source Data File S1 (Figure S4).xlsx
+ - Source Data File S3 (Fiigure S16).xlsx
+ - Source Data File 2 (Figure 2).xlsx
+ - Supplementary Dataset S2.xls
+ - Source Data File 4 (Figure 4).xlsx
+ - Supplementary Dataset S1.xls
+ - Source Data File 3 (Figure 3)_revised.xlsx
+ - Source Data File 5 (Figure 5).xlsx
+ - Source Data File S2 (FIgure S13).xlsx

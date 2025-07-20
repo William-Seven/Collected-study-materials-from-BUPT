@@ -1,0 +1,30 @@
+Title: PREreview of "Predictive Modelling of Normative Lower Limb Sagittal Kinematics in Young Ghanaian Adults"
+
+Authors: Aniket Abhishek Soni, Vanessa Fairhurst, Amber Osman, Toba Isaac Olatoye, Chidi Asuzu MBBS, MMCi, Prasakthi Venkatesan, Jubin Abhishek Soni
+
+Keywords: Live Review
+
+Publication date: 2025-06-03
+
+Description:
+<strong>This Zenodo record is a permanently preserved version of a PREreview. You can view the complete PREreview at <a href="https://prereview.org/reviews/15586283">https://prereview.org/reviews/15586283</a>.</strong>
+
+
+<i>This review is the result of a virtual, collaborative live review discussion organized and hosted by PREreview and JMIR Publications on May 15, 2025. The discussion was joined by 16 people: 3 facilitators from the PREreview Team, 1 member of the JMIR Publications team, 12 live review participants. The authors of this review have dedicated additional asynchronous time after the call over the course of two weeks to help compose this final report using the notes from the Live Review. We thank all participants who contributed to the discussion and made it possible for us to provide feedback on this preprint.</i>
+<h2><b>Summary:</b></h2>In this study, the authors addressed the lack of regional and demographic specificity in normative gait data using a technique known as Clinical Gait Analysis (CGA), and developed predictive models that were tailored to young Ghanaian adults. Having recognised that current practices in CGA are heavily reliant on generalized data; therefore, they collected anthropometric, demographic, spatiotemporal, and kinematic data from a carefully selected cohort of 30 healthy individuals. In this process, the authors built multiple regression models for predicting sagittal kinematic waveforms of the lower limbs. These models that were based on predictors such as BMI, age, gender, and walking speed, showed strong performance with R² values ≥ 0.9 and RMSE values ≤ 6°. The significance levels were tested at P-values &lt; 0.05. The results highlighted the significant effects of the predictor variables, especially walking speed with approximately 30% impact, on gait patterns. The approach adopted in this study brings a clinically meaningful and efficient method for reconstructing kinematic waveforms, by using important biomechanical inputs, which suggest the study's potential to improve the accuracy and relevance of CGA in different populations. Although the use of leave-one-out cross-validation solidifies the reliability of the findings, nevertheless, the small and seemingly homogeneous sample limits the generalizability at a broader level. Future research should therefore explore non-linear or machine learning approaches and expand the inclusion and demographic criteria, in order to validate and build upon these promising results.
+<h2><b>List of major concerns and feedback:</b></h2>The study clearly outlines its objectives, participant details, and modeling approach all of which do support partial reproducibility. There is a lack of access to code and raw data, limiting reproducibility; sharing MATLAB scripts and sample datasets is recommended. However, the methodology is described in sufficient detail to allow replication.
+There should be documentation showing IRB approval was granted for the study. 
+Future iterations of this work should aim to include a larger and more diverse cohort, ideally stratified by relevant variables such as age, sex, and activity level. This would allow for more robust statistical modeling and improved confidence in the generalizability of the results. Though the author has already addressed this in the discussions section.
+<h2><b>List of minor concerns and feedback</b></h2>Emotional states can affect a subject's gait. It states the subjects are all healthy - there is no mention about mental/emotional state, and this could be expanded upon as a limitation.
+Consider open-sourcing MATLAB scripts and include reproducibility details, such as code and sample dataset to support transparency. 
+The study states it received approval from the University of Ghana Ethics Committee and has obtained consent from all participants; however, a link to the documentation would be helpful.
+<h2><b>Concluding remarks</b></h2>We thank the authors of the preprint for posting their work openly for feedback. We also thank all participants of the Live Review call for their time and for engaging in the lively discussion that generated this review.
+
+
+    <h2>Competing interests</h2>
+
+    Vanessa Fairhurst was a facilitator of this call and one of the organizers. No other competing interests were declared by the reviewers.
+
+
+Contents:
+ - review.html

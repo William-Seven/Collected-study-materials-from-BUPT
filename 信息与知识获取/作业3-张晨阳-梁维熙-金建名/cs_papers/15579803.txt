@@ -1,0 +1,31 @@
+Title: Observational social learning of "know-how" and "know-what" in wild orangutans: evidence from nest-building skill acquisition
+
+Authors: Permana, Andrea L., Schuppli, Caroline, Permana, Junaidi Jaka, Nellissen, Lara, Prayogi, Eggi Septian, Prasetyo, Didik, Wich, Serge A., van Schaik, Carel P.
+
+Keywords: Nest-building, Orangutan
+
+Publication date: 2025-06-02
+
+Description:
+Data frames, R code and two supplementary video's used in the creation of the manuscript entitled, 'Observational Social Learning of 'know-how' and 'know-what' in wild orangutans: evidence from nest building skill acquisition'
+
+
+Contents:
+ - NestPeerDailyData_fin.txt
+ - Supplementary Video 1_NestPeeringPracticeCycle_TulyusTrident.mp4
+ - NestPeeringTargetProp_fin.txt
+ - ObservationalSocialLearning_NestBuilding_Analyses&Figures_fin2.R
+ - TwigManipProb_fin.txt
+ - NestPracticePeer_Model1_fin.txt
+ - NestTreeSpeciesOverlap_Mod4_fin.txt
+ - NestTypeProb_fin.txt
+ - MultiTreePeeringProp_fin.txt
+ - Supplementary Video 2_NestPeering.MP4
+ - IndNestPrRates_AllConditions_fin.txt
+ - InfantDistMotherNestsPropAgeClass_fin.txt
+ - Supplementary Figures_Tables_FINAL_NB SL_100425.pdf
+ - APNDailyValues_fin.txt
+ - NestFeaturesPeer_Model2_fin.txt
+ - PeeringTargets_Model3_fin.txt
+ - ComplElementsProb_fin.txt
+ - InfantDistancesWhenMotherNests_fin.txt

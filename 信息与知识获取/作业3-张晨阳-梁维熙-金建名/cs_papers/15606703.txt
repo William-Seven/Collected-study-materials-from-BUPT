@@ -1,0 +1,13 @@
+Title: SummationByPartsOperators.jl: A Julia library of provably stable discretization techniques with mimetic properties
+
+Authors: Ranocha, Hendrik
+
+Keywords: 
+
+Publication date: 2025-06-06
+
+Description:
+SummationByPartsOperators.jl is a Julia library of summation-by-parts (SBP) operators, which are discrete derivative operators developed to get provably stable (semi-) discretizations, paying special attention to boundary conditions. Discretizations included in this framework are finite difference, Fourier pseudospectral, continuous Galerkin, and discontinuous Galerkin methods. The main aim of SummationByPartsOperators.jl is to be useful for both students learning the basic concepts and researchers developing new numerical algorithms based on SBP operators. Therefore, SummationByPartsOperators.jl provides a unified framework of all of these seemingly different discretizations. At the same time, the implementation is reasonably optimized to achieve good performance without sacrificing flexibility.
+
+Contents:
+ - ranocha/SummationByPartsOperators.jl-v0.5.80.zip

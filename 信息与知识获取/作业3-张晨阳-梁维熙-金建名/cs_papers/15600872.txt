@@ -1,0 +1,14 @@
+Title: SMART SYSTEMS AT SCALE: AI AND CLOUD INTEGRATION ACROSS HEALTHCARE, BANKING, AND DATA SECURITY
+
+Authors: Archana Chaluvadi, Aravindhan Kurunthachalam
+
+Keywords: 
+
+Publication date: 2018-02-21
+
+Description:
+The rapid expansion of <a href="https://ijetrm.com/issues/files/Jun-2018-05-1749124781-FEB201813.pdf" target="_blank" rel="noopener">smart technologies</a> across sectors such as healthcare, banking, and cybersecurity demandsan integrated, scalable, and privacy-preserving intelligent system architecture. This research proposes a hybridframework that combines cloudlet-based mobile cloud computing, artificial intelligence (AI), and federatedlearning to address the limitations of traditional centralized systems. Cloudlets ensure low-latency processingclose to the edge, while AI models like XGBoost and LSTM provide predictive analytics and anomaly detectionacross multiple domains. Federated learning maintains data privacy by enabling decentralized model training,eliminating the need to centralize sensitive information. The study utilizes datasets from three core domains:Electronic Health Records (EHR) for healthcare, Credit Card Fraud Detection for banking, and CICIDS 2017 forcybersecurity. Data preprocessing involves normalization using Min-Max and Z-score methods to ensureconsistent input to machine learning models. Real-time data transmission and responsiveness are facilitatedthrough IoT and 5G technologies, while Simulation-as-a-Service (SIMaaS) is employed for evaluating systemperformance under various stress scenarios. The integration is maintained via standardized APIs and securecommunication protocols, ensuring cross-domain interoperability. Experimental implementation was conductedusing Python, with models trained and validated using scikit-learn, TensorFlow, and PyTorch frameworks. TheXGBoost model achieved 98.4% accuracy on the fraud detection dataset, while the LSTM model delivered 96.1%accuracy in anomaly detection within the cybersecurity dataset. The proposed framework demonstrated strongperformance across all domains, validating its effectiveness in enabling intelligent, real-time, and secureoperations in large-scale smart systems. This methodology paves the way for future deployment of unified smartenvironments across sectors.
+
+
+Contents:
+ - FEB201813.pdf

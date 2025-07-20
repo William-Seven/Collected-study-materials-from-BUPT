@@ -1,0 +1,29 @@
+Title: MANTRA: The Manifold Triangulations Assemblage
+
+Authors: Rieck, Bastian, Röell, Ernst, Schmid, Daniel Bīn, Bautista, Rubén Ballester
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+MANTRA is a dataset consisting of&nbsp;<em>combinatorial triangulations</em>&nbsp;of manifolds. It can be used to create novel algorithms in topological deep learning or debug existing ones. See our&nbsp;<a href="https://openreview.net/pdf?id=X6y5CC44HM" rel="nofollow">ICLR 2025 paper</a> for more details on potential experiments.
+
+<p dir="auto">Please use the following citation for our work:
+
+<div dir="auto">
+<pre><span>@inproceedings</span>{<span>Ballester25a</span>,
+  <span>title</span>         = <span><span>{</span>{MANTRA}: {T}he {M}anifold {T}riangulations {A}ssemblage<span>}</span></span>,
+  <span>author</span>        = <span><span>{</span>Rub&eacute;n Ballester and Ernst R&ouml;ell and Daniel Bīn Schmid and Mathieu Alain and Sergio Escalera and Carles Casacuberta and Bastian Rieck<span>}</span></span>,
+  <span>year</span>          = <span>2025</span>,
+  <span>eprint</span>        = <span><span>{</span>2410.02392<span>}</span></span>,
+  <span>archiveprefix</span> = <span><span>{</span>arXiv<span>}</span></span>,
+  <span>primaryclass</span>  = <span><span>{</span>cs.LG<span>}</span></span>,
+  <span>booktitle</span>     = <span><span>{</span>International Conference on Learning Representations<span>}</span></span>,
+  <span>url</span>           = <span><span>{</span>https://openreview.net/forum?id=X6y5CC44HM<span>}</span></span>,
+}</pre>
+</div>
+
+Contents:
+ - 3_manifolds.json.gz
+ - 2_manifolds.json.gz

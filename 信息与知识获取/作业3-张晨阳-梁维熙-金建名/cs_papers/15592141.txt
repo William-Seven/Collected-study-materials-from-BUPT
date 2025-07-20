@@ -1,0 +1,14 @@
+Title: Ontology-Based Distributed Computing at the Edge
+
+Authors: Prof. Uzma Kausar, Dr. Harish Joshi
+
+Keywords: Ontology engineering, Internet of Things, Edge Computing, Ubiquitous computing, Human-machine interaction, •Human-Centric IoT, Firmware generation
+
+Publication date: 2025-06-04
+
+Description:
+<em><span lang="EN-AU">This paper explores novel facets of using an ontology-based approach to manage the behaviour of Edge Computing devices. While ontology-driven methods are commonly employed to develop adaptive solutions within the Internet of Things (IoT) and ubiquitous computing environments, creating a comprehensive, user-friendly, and efficient ontology driven Edge Computing framework remains a challenge. We introduce a new method that enables ontology reasoning directly on highly resource-constrained Edge devices, rather than relying on Fog or Cloud infrastructure. This approach allows for real-time adaptation of device functionality, on-the-fly monitoring of intermediate data, and improved interoperability within IoT ecosystems. Additionally, it facilitates the intelligent and dynamic transition from Machine-to-Machine communication to more Human-Centric IoT interactions. The practicality of our approach is demonstrated through the implementation of an ontology-based Smart Home edge device designed to assist in locating lost items. </span></em>
+
+
+Contents:
+ - Ontology-Based Distributed Computing at the Edge -Formatted Paper.pdf

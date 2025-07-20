@@ -1,0 +1,44 @@
+Title: A Comparative Study of Data Mining Algorithms for Weather Prediction
+
+Authors: Kazheen S., Muhammad, Omar, Sedqi Kareem
+
+Keywords: Weather Prediction,   Convolutional   Neural   Networks   (CNN),   Time-series   Forecasting,Deep   Learning,Meteorological Data
+
+Publication date: 2025-05-26
+
+Description:
+<div>
+<div>
+
+
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+
+
+
+Accurate weather forecasting is vital for sectors such as agriculture, transportation, disaster management, and daily planning. Traditional numerical weather prediction (NWP) models rely on complex physical equations and high computational power, often facing limitations in localized or short-term forecasts. With the advancement of deep learning, data-driven models have emerged as efficient alternatives for capturing non-linear and complex temporal patterns in meteorological data. This study proposes a Convolutional Neural Network (CNN)-based approach for short-term weather prediction using structured, historical weather data. The method involves preprocessing hourly weather observations&mdash;such as temperature, humidity, wind speed, and pressure&mdash;and converting them into two-dimensional matrices suitable for CNN input. The model is trained to predict the next hour's temperature based on a 24-hour history of weather data. Experimental results show that the proposed CNN model achieves a prediction accuracy of 96.12%, outperforming traditional machine learning algorithms like Support Vector Machines (SVM) and Random Forests, as well as deep learning models such as LSTM and CNN-LSTM hybrids. The CNN architecture effectively captures both temporal and cross-feature patterns, offering a computationally efficient and accurate solution for real-time weather forecasting. Future work will explore multi-variable and multi-step forecasting, integration of satellite and spatial data, and hybrid deep learning models to further enhance performance and generalizability.
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+
+Contents:
+ - 47.pdf

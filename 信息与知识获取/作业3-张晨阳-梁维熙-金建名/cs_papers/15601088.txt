@@ -1,0 +1,14 @@
+Title: Pharmacovigilance: A Comprehensive Review of Current Practices, Challenges, and Future Directions
+
+Authors: Abhijeet M. Kule, Abhiraj S. Mohite, Abhishek G. Nagle, Abhishek R. Adhau, Aditya G. Kakad, Shivshankar M. Nagrik, Manisha R. Jawale, Prakash Kendre, Somnath Vibhute, Shirish Jain
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+Pharmacovigilance, the science and activities relating to the detection, assessment, understanding, and prevention of adverse effects or any other drug-related problems, plays a critical role in ensuring the safety and efficacy of pharmaceutical products. As drug development and global drug distribution accelerate, the need for robust pharmacovigilance systems has become more pronounced. This comprehensive review explores the evolution, current practices, and global frameworks of pharmacovigilance, with a focus on post-marketing surveillance, spontaneous reporting systems, signal detection methods, and regulatory requirements across various countries. The review critically examines the persistent challenges, including underreporting, lack of awareness among healthcare professionals, inconsistent regulatory guidelines, and limitations in data integration from electronic health records and real-world evidence sources. Moreover, the paper emphasizes the importance of patient-centric approaches and the integration of advanced technologies such as artificial intelligence, machine learning, and big data analytics in enhancing pharmacovigilance capabilities. It also highlights global efforts and collaborations by organizations such as the World Health Organization (WHO), the Uppsala Monitoring Centre (UMC), and regional regulatory authorities in harmonizing practices and improving drug safety monitoring. The future of pharmacovigilance lies in strengthening regulatory frameworks, improving education and awareness, fostering international collaboration, and leveraging digital innovations to ensure proactive and predictive safety surveillance. This review serves as a valuable resource for healthcare professionals, researchers, regulatory bodies, and pharmaceutical industries committed to enhancing patient safety and optimizing pharmacovigilance systems globally.
+
+
+Contents:
+ - 17-CRD3038.pdf

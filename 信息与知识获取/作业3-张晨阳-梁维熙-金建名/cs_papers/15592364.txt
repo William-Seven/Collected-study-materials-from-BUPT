@@ -1,0 +1,14 @@
+Title: Applications of digital image processing: current techniques and future directions
+
+Authors: Sagar Gaikwad, Pavan Malani, Archana Bendale
+
+Keywords: Digital Image Processing, Image Enhancement, Medical Imaging, Remote Sensing, Surveillance Systems, Industrial Inspection, Image Segmentation, 3D Image Analysis
+
+Publication date: 2025-06-04
+
+Description:
+Digital image processing has evolved significantly over the past few decades, transforming from a specialized scientific field to an essential technology with applications across numerous sectors. This paper examines the theoretical foundations of digital image processing and explores its diverse applications in medical imaging, remote sensing, security and surveillance, industrial quality control, and entertainment. Through a comprehensive analysis of current techniques including image enhancement, restoration, segmentation, and object recognition, this research highlights how computational advancements and machine learning integration have expanded the capabilities and accuracy of digital image processing systems. The paper concludes by identifying emerging trends and future research directions, emphasizing the growing importance of real-time processing, threedimensional imaging, and multimodal image analysis in addressing complex real-world challenges.
+
+
+Contents:
+ - 2. A104-SJ001-2025.pdf

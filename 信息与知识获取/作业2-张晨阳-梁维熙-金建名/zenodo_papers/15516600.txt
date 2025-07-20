@@ -1,0 +1,15 @@
+Title: Data described in the article "Selective Glycopolymer Inhibitors of Galectin-3: Supportive Anti-Cancer Agents Protecting Monocytes and Preserving Interferon-Gamma Function"
+
+Authors: Flipová, Marcela, Rodrigues Tavares, Marina, Hovorková, Michaela, Heine, Viktoria, Nekvasilová, Pavlína, Křen, Vladimír, Etrych, Tomáš, Chytil, Petr, Bojarová, Pavla
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+NMR and other data for the compounds.
+
+
+Contents:
+ - 503381-Revised-Supplementary-Material.docx

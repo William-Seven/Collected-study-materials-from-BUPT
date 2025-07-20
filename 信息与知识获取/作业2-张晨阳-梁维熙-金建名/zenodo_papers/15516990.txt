@@ -1,0 +1,15 @@
+Title: Enhanced Hourly Precipitation Estimation During the 2019 Summer Season
+
+Authors: Jing, Yinghong
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+A satellite-ground fused precipitation dataset from June 1, 2019, at 23:00 to August 31, 2019, at 15:00 using a&nbsp;<span lang="EN-US">Geographically constrained multi-source Fusion Network with cross Attention (GeoFNA).</span>
+
+
+Contents:
+ - Eval_GeoFAN0514_1.zip

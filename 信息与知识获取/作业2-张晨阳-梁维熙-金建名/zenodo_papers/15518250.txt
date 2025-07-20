@@ -1,0 +1,22 @@
+Title: Stable Roommates Experimentation Toolkit
+
+Authors: Glitzner, Frederik
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This software can be used to compute various structures of Stable Roommates instances, e.g., to compute a reduced stable partition, a stable matching (if one exists), an almost stable matching, or to enumerate all stable partitions or all stable matchings. The code also provides a random generator relying on the mapel-roommates package and scripts to distribute the computation across a compute cluster. A paper describing experimental results derived using this software package can be found here:
+
+
+<a href="https://arxiv.org/abs/2505.06717">Perspectives on Unsolvability in Roommates Markets, Frederik Glitzner and David Manlove, Technical Report no. 2505.06717, Computing Research Repository, Cornell University Library, 2025.</a>
+
+
+See the README for more technical information.
+
+
+Contents:
+ - README.md
+ - sr_experiments.zip

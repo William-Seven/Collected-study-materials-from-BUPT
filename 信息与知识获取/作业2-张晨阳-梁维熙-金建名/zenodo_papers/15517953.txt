@@ -1,0 +1,15 @@
+Title: MICROBIOLOGICAL SURVEILLANCE FOR PETROLEUM -HYDROCARBON UTILIZERS IN PRODUCED WATER FROM KOKORI, NIGER - DELTA REGION, NIGERIA
+
+Authors: Olusola Abayomi, Ojo-Omoniyi, Qudus, Olatunji Jamiu, Funmilayo, Omolayo Rufai, Adebowale Olakunle, Kuye, Hakeem Olanrewaju, Bello, Abayomi Stephen, Akinola
+
+Keywords: Bioremediation, Crude oil, ecosystem, Hydrocarbon clastic microorganisms, produced water, sustainable development
+
+Publication date: 2025-05-26
+
+Description:
+
+<em><span>The recurrent incidences of accidental release of crude oil and improper disposal of oilfield produced water which is massive into the environment has raised concerns over the adverse effects this may have both on the environment, water conservation and the biota in Niger Delta region.<span>&nbsp; </span>This study aims to isolate, identify and characterize crude oil degrading microorganisms obtained from produced water - polluted environment in Kokori, Niger Delta.<span>&nbsp; </span>The physic-chemical properties of the soil and water samples were determined prior to microbiological and molecular analyses.<span>&nbsp;&nbsp; </span>Three samples were obtained aseptically; bore water, runoff water, and soil samples from a crude oil-contaminated site in Kokori, Niger Delta region at 0 - 30cm depth. The need to give adequate characterization to the microbial populations involved both in biodegradation and bioremediation activities in oil-polluted environment becomes crucial to advance sustainable development and greener ecosystem both nationally and globally. Serial-dilution technique was used to determine the total population of indigenous heterotrophic and crude oil-degrading microorganisms following standard and conventional methods; Nutrient agar, sabouraud dextrose agar and Minimal salt Agar (MSA) supplemented with 0.02% Forcados blend crude oil were used to isolate the microbial populations. These were then incubated at room temperature for 3 and 3-5 days for bacterial as well as fungal isolates respectively. Morphological and biochemical reactions were used initially for the characterization of the isolates. Incontrovertible evidence of the identity of these isolates were obtained with the 16S rRNA gene sequencing method. Hydrocarbon-utilizing bacteria isolated included Bacillus pumilus and Bacillus subtilis, the crude oil-degrading fungi isolated were Rhizopus stolonifera, Penicillium roqueforti, and Rhodotorula sp., three hydrocarbonoclastic isolates were randomly selected for molecular characterization following standard procedure. These isolates were Achromobacter insuavis (MK517596.1), Micrococcus endophyticus (MT225734.1), and Aspergillus flavus (LN482496.1). This study successfully identified and characterized crude oil-degrading microorganisms with significant bioremediation potential. These findings highlight the importance of microbial-based solutions in mitigating oil pollution and promoting sustainable environmental restoration as an effort towards a greener ecosystem</span></em>
+
+
+Contents:
+ - IJEES_250414058.pdf

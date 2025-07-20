@@ -1,0 +1,23 @@
+Title: Bringing together citizens and professionals to develop know-how for energy efficient renovations
+
+Authors: SHARED GREEN DEAL
+
+Keywords: 
+
+Publication date: 2025-06
+
+Description:
+The SHARED GREEN DEAL (Social sciences &amp; Humanities for Achieving a Responsible, Equitable and Desirable GREEN DEAL) project aims to drive progress towards EU Green Deal targets. At the heart of this EU Horizon 2020 project are six streams of innovative, participatory social experiments focused on six Green Deal priority areas: Clean Energy, Circular Economy, Efficient Renovations, Sustainable Mobility, Sustainable Food, and Preserving Biodiversity. Experiments for each of the six streams were implemented in four locations across Europe between April 2023 and June 2024. The experiments were led by local partners (NGOs and local, regional, or national governments). Whilst the activities undertaken by each of the local partners differed across experiment streams, a core component of each experiment was that different stakeholders were involved.
+
+This Zenodo upload includes two documents: 1) a report setting out learning points and recommendations from the Efficient Renovations stream, and 2) a methodological appendix.
+
+The report is based upon the activities undertaken by the experiment stream's local partners: Let&rsquo;s Renovate the City, Vilnius (Lithuania); ECODES, Zaragoza (Spain); Climate Action Louisburgh Locality (Ireland), and Habitat for Humanity Hungary, N&oacute;gr&aacute;d County (Hungary). The learning points and recommendations cover three main areas: 1) the value of a Knowledge Network approach; 2) the process of implementing Knowledge Networks; and, 3) wider policy implications. These learning points and recommendations are aimed at both policyworkers and practitioners who may want to support or run Knowledge Networks at any level.
+
+The insights presented are informed by the analysis of interviews conducted with participants involved upon the completion of the SHARED GREEN DEAL experiments. Each local partner conducted 10 interviews with participants involved in their experiment (totalling 40 interviews in each stream, and 240 interviews across the project). The purpose of these interviews was to learn more individuals' experiences of participating in the local experiment. The interviews were carried out in spring 2024, and the transcripts are available on the SHARED GREEN DEAL Zenodo community.
+
+The methodological appendix provides methodological background to the report. It explains how the four social&nbsp;experiments on efficient renovations were conducted, and gives an overview of empirical methods used.&nbsp;
+
+
+Contents:
+ - Methodological appendix - Bringing together citizens and professionals to develop know-how for energy efficient renovations.pdf
+ - Bringing together citizens and professionals to develop know-how for energy efficient renovations.pdf

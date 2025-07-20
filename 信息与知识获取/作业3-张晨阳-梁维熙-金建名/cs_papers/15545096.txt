@@ -1,0 +1,27 @@
+Title: Predicting Runtime and Resource Utilization of Jobs on Integrated Cloud and HPC Systems
+
+Authors: Yildirim, Esma
+
+Keywords: high performance computing, cloud computing
+
+Publication date: 2025-05-29
+
+Description:
+This is a time series data set of resource utilizations and runtime for jobs run on both HPC systems (IC2 at Brookhaven Naional Lab, &nbsp;Polaris at Argonne National Lab and Amazon Web Services. The data set can be used for machine learning models to predict runtime and resource utilization of jobs on a variety of systems.
+
+
+Contents:
+ - workload_cw.json
+ - system_load_cw.json
+ - all_system_loads_aws.json
+ - all_workloads_aws.json
+ - all_system_loads_ic2.json
+ - all_workloads_polaris_25nodes.json
+ - all_system_loads_polaris_50nodes.json
+ - all_workloads_polaris_50nodes.json
+ - all_workloads_polaris.json
+ - all_system_loads_polaris.json
+ - all_system_loads_polaris_10nodes.json
+ - all_system_loads_polaris_25nodes.json
+ - all_workloads_ic2.json
+ - all_workloads_polaris_10nodes.json

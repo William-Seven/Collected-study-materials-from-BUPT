@@ -1,0 +1,14 @@
+Title: Tax share analysis and prediction of kernel extreme Learning machine optimized by vector weighted average algorithm
+
+Authors: Lin, Ziqi
+
+Keywords: Vector weighted average algorithm, Tax share forecast, Kernel Extreme Learning Machine (KELM), Machine Learning in Economics, Fiscal Policy Prediction, Data-Driven Tax Analysis, AI in Public Finance, Economic Forecasting Models
+
+Publication date: 2025-06-05
+
+Description:
+In this paper, a kernel Extreme Learning Machine (KELM) model based on vector weighted average algorithm is proposed for the prediction of national tax revenue ratio, which provides a new way of thinking and method for tax revenue prediction. By analyzing the correlation between each index and tax share, it is found that gasoline price and life expectancy are significantly positively correlated with tax share, while fertility rate and birth rate are significantly negatively correlated. The model shows excellent predictive performance on both training set and test set, with an R&sup2; of 0.995 in training set and 0.994 in test set, indicating that the model has excellent generalization ability. In addition, the root mean square error (RMSE) of the training set and the test set are 0.185 and 0.177, respectively, and the relative prediction deviation (RPD) is 14.234 and 13.178, respectively, which further verifies the high accuracy and stability of the model. Scatter plots of actual predicted versus actual values show that the model is able to accurately capture trends in tax shares with little prediction error. In summary, the optimized KELM model proposed in this paper not only has excellent performance on known data, but also has good expansion ability, and can be effectively applied to the tax share prediction of unknown data, providing a reliable tool for relevant policy making and economic analysis. The research of this paper provides a new technical path for the field of tax forecasting, which has important theoretical significance and practical value.
+
+
+Contents:
+ - Tax share analysis and prediction of kernel extreme Learning.pdf

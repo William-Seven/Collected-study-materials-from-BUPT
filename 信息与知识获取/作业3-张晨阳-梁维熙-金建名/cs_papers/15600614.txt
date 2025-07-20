@@ -1,0 +1,13 @@
+Title: MedModels
+
+Authors: Limebit GmbH
+
+Keywords: Electronic Health Records, Machine Learning, Medical Outcomes, Real World Evidence, Data Science
+
+Publication date: 2025-06-05
+
+Description:
+A Rust-powered Python framework for modern healthcare research. MedModels provides tools for data handling, data preprocessing, model training and evaluation with a focus on real-world evidence and electronic health records.
+
+Contents:
+ - limebit/medmodels-v0.3.1.zip

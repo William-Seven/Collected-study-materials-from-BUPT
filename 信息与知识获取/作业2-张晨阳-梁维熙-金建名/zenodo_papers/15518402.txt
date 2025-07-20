@@ -1,0 +1,13 @@
+Title: template-uv-python-research-software
+
+Authors: Bunten, David
+
+Keywords: python, uv, research-software, template
+
+Publication date: 2025-05-26
+
+Description:
+A template for Pythonic research software with environment management through uv.
+
+Contents:
+ - CU-DBMI/template-uv-python-research-software-v0.0.1.zip

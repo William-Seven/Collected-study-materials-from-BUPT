@@ -1,0 +1,16 @@
+Title: Altering microstructure and enhancing mechanical properties during additive manufacturing of Ti-6Al-4V via in-process laser heat treatments
+
+Authors: Abdesselam, K. Abdellah, Gaudez, Steve, Van Petegem, Steven, Honkimäki, Veijo, Hallais, Simon, Cornet, Louis, Vallet, Maxime, Upadhyay, Manas
+
+Keywords: 
+
+Publication date: 2025-04-29
+
+Description:
+<span lang="ES-TRAD">In this work, we have explored in-process laser-based heat treatment (LHT) as an alternative to post-process heat treatments such as annealing, in order to alter the hcp &alpha;'/&alpha; and bcc &beta; phase content in additive manufactured Ti-6Al-4V. To that end, three samples were manufactured with a laser metal deposition machine, a directed energy deposition technique, with the laser operating at 300 W. The reference sample was not subjected to any LHT. For the remaining two samples, each deposited layer was subjected to either an LHT at 100 W (LHT100) for one sample or an LHT at 300 W (LHT300) for the other, without powder addition.</span>
+
+<span lang="ES-TRAD">LHT100 showed an overall improvement in the strength/ductility trade-off. Whereas LHT300 resulted in a lower strength but a much higher ductility and toughness than the other samples. In order to understand the origin of these differences in the mechanical response, the contribution of each of the microstructural features and internal strains to the overall mechanical response is studied in detail. A combined analysis via synchrotron X-ray diffraction, scanning electron microscopy and transmission electron microscopy of the as-built samples revealed that the differences in between the different types of hcp phase fractions between the three samples has the dominant contribution to the difference in their mechanical response. These results, which will be presented in this talk, demonstrate the potential of in-process LHTs for altering microstructures and tailoring mechanical properties.</span>
+
+
+Contents:
+ - AAMS2025-Ti64-Abdesselam.docx

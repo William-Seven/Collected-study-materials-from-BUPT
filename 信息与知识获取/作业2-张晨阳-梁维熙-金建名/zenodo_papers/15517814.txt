@@ -1,0 +1,21 @@
+Title: Hypoxia effects on boreal lake tea bag decomposition
+
+Authors: Sarneel, Judith
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Tea bags were incubated at different depths in two lakes.
+
+
+See: <strong><span lang="EN-US">Impacts of hypoxia on boreal lake biogeochemistry and productivity: A 4-year whole-ecosystem BACI experiment</span></strong>
+
+
+<strong>&nbsp;by </strong><span lang="EN-US">Puts IC<sup>1,2</sup>, Koizumi S<sup>1,4</sup>, Sarneel JM<sup>1</sup>, Jonsson A<sup>1</sup>, Verheijen HA<sup>1,5</sup>, Karlsson J<sup>1</sup>, Seekell D<sup>1,3</sup>, Bystr&ouml;m P<sup>1</sup>, Bergstr&ouml;m A-K<sup>1</sup></span>
+
+
+Contents:
+ - teabags_oxigenponds_with_metadata.xlsx

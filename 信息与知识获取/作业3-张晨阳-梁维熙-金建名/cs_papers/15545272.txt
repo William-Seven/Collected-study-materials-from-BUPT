@@ -1,0 +1,15 @@
+Title: Identifying Ring Galaxies in DESI Legacy Imaging Surveys Using Machine Learning Methods.
+
+Authors: Zhang, Aina
+
+Keywords: 
+
+Publication date: 2025-05-29
+
+Description:
+This repository is for the paper Identifying Ring Galaxies in DESI Legacy Imaging Surveys Using Machine Learning Methods. by Aina Zhang. It is associated with the manuscript number AAS59841R2.
+
+
+Contents:
+ - README.txt
+ - tab5.txt

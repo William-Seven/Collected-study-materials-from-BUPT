@@ -1,0 +1,25 @@
+Title: A Convolutional Denoising Autoencoder approach for estimating Heart Rate Variability from wrist photoplethysmography devices in daily activities
+
+Authors: Rho, Gianluca
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+We publicly share a novel methodology based on&nbsp;an ensemble of convolutional denoising autoencoders (CNN-DAEs) to denoisePPG time series under high-intensity activity, followed by a PRV tracking&nbsp;algorithm designed to improve the reliability of pulse rate variability (PRV) time-domain parameters&nbsp;(meanHR, stdRR, RMSSD).
+
+The methodology is implemented in Python using PyTorch, and includes the following files:
+
+
+main_denoise_ppg_data.py: exemplary script on how to use the relevant implemented classes and methods
+PPGdenoising.py: class providing methods for denoising PPG time series through a pre-trained ensemble of CNN-DAEs
+trackingAlgorithm.py: class implementing the post-processing tracking algorithm
+models.zip: trained Pytorch models weights&nbsp;
+sampleData.csv: exemplary PPG time series to be used with main_denoise_ppg_data.py
+
+A more detailed explanation of the main methods to be used is provided in the .py files.&nbsp;
+
+The paper illustrating the proposed methodology is currently under revision at Biomedical Signal Processing and Control journal. The code files will be made available upon paper publication.&nbsp;
+
+

@@ -1,0 +1,61 @@
+Title: Multilingual Aspect-Based Sentiment Analysis Dataset of Tourism Reviews in Indonesia (Labeled with Gemini 2 LLM)
+
+Authors: Pramono, Basworo Ardi
+
+Keywords: ABSA, Tourism, LLM, Multilingual Sentiment, NLP, Central Java
+
+Publication date: 2025-05-26
+
+Description:
+
+This dataset contains manually verified aspect-based sentiment annotations for tourism-related Google Reviews in Central Java, Indonesia. It covers 10 popular tourist destinations and includes multilingual content (Indonesian and English). Each review is segmented and labeled based on the 3A tourism framework:<strong> Amenity, Attraction, and Accessibility</strong>, with sentiment polarities classified as <strong>Positive, Neutral, or Negative.</strong>
+
+
+The annotation process combines rule-based aspect detection with LLM-enhanced verification. Specifically, this dataset was labeled using a hybrid approach that integrates a custom keyword dictionary and syntactic rules, refined through Gemini 2 (Google&rsquo;s LLM) for aspect and sentiment validation. This approach improves multilingual ABSA accuracy and consistency, especially in noisy user-generated content.
+
+
+### Dataset Structure:
+- `review`: Raw user review text
+- `aspect`: One of the 3A categories (Amenity, Attraction, Accessibility)
+- `sub_aspect`: Fine-grained subcategory under each aspect
+- `sentiment`: Sentiment polarity (Positive, Neutral, Negative)
+- `language`: Language of the review (id = Indonesian, en = English)
+- `source`: Name of the tourist destination
+
+
+### Destinations Included:
+1. Borobudur
+2. Kota Lama Semarang
+3. Lawang Sewu
+4. Pantai Marina
+5. Dusun Semilir
+6. Prambanan
+7. Owabong
+8. Pantai Jatimalang
+9. Masjid Agung Demak
+10. Sunan Kalijaga
+
+
+### Applications:
+This dataset is part of a doctoral research project on developing a multilingual tourism recommender system using Aspect-Based Sentiment Analysis (ABSA) and Decision Support Systems (DSS). It supports further research in:
+- Sentiment analysis
+- Recommender systems
+- Multilingual NLP
+- Tourism informatics
+- LLM-based content analysis
+
+
+### Format:
+- CSV files (one per destination, labeled and cleaned)
+- UTF-8 encoding
+- Compatible with Python (pandas, transformers, HuggingFace Datasets)
+
+
+### License:
+CC-BY 4.0
+
+
+### Citation:
+Please cite this dataset using the DOI provided by Zenodo upon publication.
+
+

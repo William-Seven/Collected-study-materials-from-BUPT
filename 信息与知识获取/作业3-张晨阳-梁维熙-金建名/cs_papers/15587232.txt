@@ -1,0 +1,20 @@
+Title: Final geometries and energies, statistical analysis and estimated errors of single metals and bimetallics for CO2 to methanol conversion
+
+Authors: Pisal, Prajwal, Krejci, Ondrej
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+To be added later
+
+
+Contents:
+ - Statistics_AEDs_metals_bimetallics.csv
+ - Statistics_AEDs_metals_bimetallics.xlsx
+ - AEDs_metals_bimetallics.xlsx
+ - Estimated_MAEs_metals_bimetallics.csv
+ - Estimated_MAEs_metals_bimetallics.xlsx
+ - AEDs_metals_bimetallics.csv
+ - geometries_and_energies.zip

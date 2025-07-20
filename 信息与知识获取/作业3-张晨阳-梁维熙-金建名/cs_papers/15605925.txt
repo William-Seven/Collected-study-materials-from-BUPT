@@ -1,0 +1,14 @@
+Title: Bridging Gaps In Rwanda's Higher Education: A Strategic Analysis Of Program Availability, Delivery Models, And Regional Competitiveness
+
+Authors: SANGWA, Sixbert, RUHAMYA, Paul, EKOSSE, Emmanuel, NGOBI, Dennis
+
+Keywords: : Rwanda higher education, program gaps, blended learning, employability, institutional theory, human capital, digital capability, online and distance learning
+
+Publication date: 2025-05-31
+
+Description:
+This study analyzes Rwanda&rsquo;s higher education system, identifying critical gaps in program offerings, deliverymodes, and regional competitiveness. Rwanda's gross tertiary enrollment ratio is approximately 8%, indicatingthat only about 8% of the eligible population is enrolled in tertiary education, which is low compared to otherAfrican nations. Most institutions and students are concentrated in undergraduate programs, with postgraduate&nbsp;(Master&rsquo;s/PhD) output extremely low. We review the availability of bachelor&rsquo;s, master&rsquo;s, and doctorate&nbsp;programs across fields of study, noting shortages in advanced degrees, especially in STEM andresearch‑intensive fields. The study also assesses delivery models: Rwanda relies heavily on in‑personinstruction, while online and blended learning are nascent and hindered by poor Internet infrastructure. Tuitionis largely subsidized by government loans, but repayment issues signal affordability challenges. Employersreport that graduate skills often do not match job needs, underscoring concerns about quality and employability.&nbsp;Using institutional theory, human capital theory, and a digital capability lens, we conduct an AI‑assisted&nbsp;document synthesis and gap‑overlay mapping of curricula versus national needs, and benchmark Rwanda&nbsp;against Kenya, Ghana, Nigeria, and South Africa. Comparative data show that Rwanda lags behind these&nbsp;countries in tertiary enrollment, program diversity, and research capacity. For example, Ghana and Nigeria&nbsp;enroll roughly 19 % and 12 % of eligible youths in tertiary education, versus ~8 % in Rwanda. Based onfindings, we provide actionable recommendations for Rwanda&rsquo;s Higher Education Council (HEC), universities,private investors, and regional planners&mdash;such as expanding postgraduate pipelines, investing in digitalinfrastructure, and aligning programs with labor‑market demands. We conclude with a ten‑year foresighthighlighting the need for sustained investment in research, innovation, and digital readiness.
+
+
+Contents:
+ - 6328.pdf

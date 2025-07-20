@@ -1,0 +1,24 @@
+Title: Geospatial Data Interpretation of the Land Suitability of Heavy Chernozems (Karasolutsi) from North – East Bulgaria for Growing  Agricultural Crops
+
+Authors: Lyubenova, Ivanka
+
+Keywords: land evaluation, heavy chernozems, agricultural crops, geographic information system, geospatial analysis
+
+Publication date: 2025-01
+
+Description:
+
+Geographic information systems (GIS) and geospatial analysis are the modern
+platform (method) for intelligent data interpretation. The study presents the results of
+geospatial data analysis of the land suitability of Heavy Chernozems (Karasolutsi) from
+Dobrich region - North-Eastern Bulgaria. The results are visualized in the form of thematic
+maps by suitability for growing main agricultural crops, land category, and land classification
+according to FAO. The investigated soils are the most suitable for growing wheat and corn
+(from the cereal crops), sunflower (from the technical crops), alfalfa (from the fodder crops)
+and cherries (from the fruit crops). They mainly refer to the 3rd and 4th categories or "good
+lands", and according to the FAO classification - class S1 suitable lands and class S2
+moderately suitable lands.
+
+
+Contents:
+ - BJSS_2025_1_1.pdf

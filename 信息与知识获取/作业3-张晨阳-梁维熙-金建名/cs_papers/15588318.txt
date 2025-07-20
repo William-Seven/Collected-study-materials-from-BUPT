@@ -1,0 +1,14 @@
+Title: Neuronale Netze in der Computerlinguistik. Eine Einführung
+
+Authors: Wegerhoff, Dennis
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+Presentation in Wuppertaler linguistisches Forum (WlF) 13.06.24
+
+
+Contents:
+ - Neuronale_Netzwerke-1.pdf

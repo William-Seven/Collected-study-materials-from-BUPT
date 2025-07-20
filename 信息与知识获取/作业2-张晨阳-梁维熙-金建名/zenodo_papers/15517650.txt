@@ -1,0 +1,15 @@
+Title: Binary Numbers and Bitwise Magic: A Fun Guide
+
+Authors: Samruddhi Bhabad
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+<strong>Binary numbers</strong>&nbsp;are everywhere. They power computers, phones, and moreover calculators. While they look confusing at first, they&rsquo;re actually easy to use. This guide helps you learn binary in a fun way. You&rsquo;ll also play with a&nbsp;<strong>bitwise calculator</strong> that adds two binary numbers. Additionally, we start from simple numbers and show how they turn into binary first.
+
+
+Contents:
+ - Binary Numbers and Bitwise Magic A Fun Guide.pdf

@@ -1,0 +1,14 @@
+Title: Deep Learning for Drug Discovery
+
+Authors: Pavithraprasathe.E, N.Sunkanya
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+The process of finding new drugs is difficult,&nbsp;expensive, and time-consuming.&nbsp;Traditionally, it includes molecular docking,high-throughput screening, and a lot of lab&nbsp;work. This field has undergone a revolution&nbsp;thanks to recent developments in deeplearning, which provide strong tools for&nbsp;accurately and efficiently modelling&nbsp;intricate biological and chemical&nbsp;interactions. Convolutional neural networks&nbsp;(CNNs), recurrent neural networks (RNNs),&nbsp;and graph neural networks (GNNs) are&nbsp;examples of deep learning techniques that&nbsp;are being used more and more for tasks like&nbsp;virtual screening, drug&ndash;target interaction&nbsp;prediction, de novo drug design, and&nbsp;molecular property prediction. Promising&nbsp;drug candidates can be quickly identified&nbsp;thanks to these models' ability to learn from&nbsp;enormous datasets of chemical structures,&nbsp;biological data, and clinical outcomes.&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P213.pdf

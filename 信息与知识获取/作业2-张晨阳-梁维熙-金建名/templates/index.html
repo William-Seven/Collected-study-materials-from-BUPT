@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Information Search Engine</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+
+<body class="p-4">
+    <div class="container">
+        <h1 class="mb-4">Information Search Engine</h1>
+
+        <!-- 搜索栏：搜索框与按钮同行 -->
+        <form id="search-form" class="d-flex mb-4" role="search" enctype="multipart/form-data">
+            <input type="text" class="form-control me-2" id="query" placeholder="Enter your query...">
+
+            <!-- 图片上传 -->
+            <input type="file" class="form-control me-2" id="image" accept="image/*" style="width: 200px;">
+
+            <!-- TopN 选择 -->
+            <select id="topn" class="form-select me-2" style="width: 120px;">
+                <option value="5" selected>Top 5</option>
+                <option value="10">Top 10</option>
+                <option value="20">Top 20</option>
+            </select>
+
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+
+
+        <div id="results"></div>
+    </div>
+
+    <script>
+        const form = document.getElementById('search-form');
+        form.onsubmit = async (e) => {
+            e.preventDefault();
+
+            const queryValue = document.getElementById('query').value.trim();
+            const imageInput = document.getElementById('image');
+            const topnValue = document.getElementById('topn').value;
+
+            // 检查是否至少填写了 query 或上传了图片
+            if (!queryValue && imageInput.files.length === 0) {
+                alert("Please enter a query or upload an image.");
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append('query', queryValue);
+            formData.append('topn', topnValue);
+
+            if (imageInput.files.length > 0) {
+                formData.append('image', imageInput.files[0]);
+            }
+
+            const res = await fetch('/search', {
+                method: 'POST',
+                body: formData
+            });
+
+            const data = await res.json();
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = "";
+
+            if (data.results.length === 0) {
+                resultsDiv.innerHTML = "<p>No results found.</p>";
+                return;
+            }
+
+            data.results.forEach((r, idx) => {
+                const card = document.createElement('div');
+                card.className = "card mb-3 p-3";
+                card.innerHTML = `
+                        <h5>${r.title}</h5>
+                        <p><strong>Authors:</strong> ${r.authors}</p>
+                        <p><strong>Date:</strong> ${r.pub_date}</p>
+                        <p><strong>Similarity:</strong> ${r.similarity}</p>
+                        <p><strong>Matched Keywords:</strong> ${r.matched_keywords.join(', ')}</p>
+                        <p><strong>Snippet:</strong> ...${r.snippet}...</p>
+                        ${r.url ? `<p><a href="${r.url}" target="_blank">View Full Text</a></p>` : ""}
+                        <div class="mt-2">
+                            <button class="btn btn-success me-2" onclick="rate(${idx}, 1)">Relevant</button>
+                            <button class="btn btn-danger" onclick="rate(${idx}, 0)">Irrelevant</button>
+                        </div>
+                    `;
+                resultsDiv.appendChild(card);
+            });
+
+            window.feedback = { query: data.query, results: [] };
+        };
+
+        function rate(idx, rel) {
+            const result = document.querySelectorAll('.card')[idx];
+            result.style.opacity = 0.6;
+            const title = result.querySelector('h5').innerText;
+            window.feedback.results.push({ title, relevant: rel });
+
+            fetch('/feedback', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(window.feedback)
+            }).then(() => {
+                console.log("Feedback submitted");
+            });
+
+            window.feedback.results = [];
+        }
+    </script>
+</body>
+
+</html>

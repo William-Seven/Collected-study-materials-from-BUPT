@@ -1,0 +1,14 @@
+Title: SmartLearn: Adaptive Learning Platform Using AI for Personalized Content Delivery
+
+Authors: T.P. Raju, Srushti Dahekar, Akshata Parghane, Switi shende
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+The need for personalized and adaptive learning systems is rapidly increasing in modern education. This paper presents SmartLearn, an AI-powered adaptive learning platform designed to personalize content delivery based on learner behavior, knowledge level, and engagement. Using machine learning algorithms, NLP, and behavioral analytics, the system continuously evolves to enhance educational outcomes. The platform evaluates learner performance, recommends content paths, and adapts dynamically using reinforcement learning. Experimental results with over 800 students show significant improvements in engagement and academic performance, demonstrating SmartLearn&rsquo;s potential as a nextgeneration educational tool.
+
+
+Contents:
+ - 3-AJ3625.pdf

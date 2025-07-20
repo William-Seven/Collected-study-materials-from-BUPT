@@ -1,0 +1,15 @@
+Title: Anticancer Activity of Grapes and Papaya: A Comprehensive Review
+
+Authors: Bhargavi Mahadik*, Aasiya Dadel
+
+Keywords: Grapes, Carica papaya, resveratrol, papain, cancer prevention, anticancer activity, molecular mechanisms, dietary polyphenols
+
+Publication date: 2025-05-26
+
+Description:
+
+<span lang="EN-IN">Grapes and papaya possess notable anticancer properties, as substantiated by in vitro studies that highlight their potential in cancer research [1], [2]. These fruits, through their inherent bioactive compounds, can influence various cellular pathways, positioning them as significant subjects in the realm of cancer research. Their capacity to modulate these pathways suggests a promising avenue for exploration in the quest for novel cancer therapeutics. Key bioactive compounds, including resveratrol and papain, exert their influence by modulating various cellular pathways that are intricately involved in cancer development [3], [4]. Resveratrol, a stilbenoid prominently found in grapes, is celebrated for its antioxidant and anti-inflammatory properties, attributes that significantly contribute to its observed anticancer effects. Papain, a proteolytic enzyme characteristic of papaya, has also demonstrated anticancer activities through a spectrum of mechanisms, further emphasizing the therapeutic potential inherent in these natural compounds. This review summarizes the molecular mechanisms, clinical potential, and future research directions for grape and papaya-based cancer therapies, providing a comprehensive overview of their role in combating cancer [5], [6]. Understanding the molecular mechanisms through which these fruits exert their anticancer effects is paramount for the rational design of effective cancer therapies. The clinical potential of these compounds is also discussed, highlighting the trajectory from bench to bedside</span><span>.</span>
+
+
+Contents:
+ - 55-Review paper-Bhargavi Mahadik.docx.pdf

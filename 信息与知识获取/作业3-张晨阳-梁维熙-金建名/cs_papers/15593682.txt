@@ -1,0 +1,17 @@
+Title: Prediction of Pituitary Adenoma's Volumetric Response to Gamma Knife Radiosurgery Using Machine Learning-Supported MRI Radiomics
+
+Authors: Speckter, Herwin, Radulović, Marko, Lazo, Erwin, Hernandez, Giancarlo, Bido, Jose, Rivera, Diones, Suazo, Luis, Valenzuela, Santiago, Stoeter, Peter, Vraneš, Veličko
+
+Keywords: gamma knife radiosurgery, machine learning, outcome prediction, pituitary adenoma, radiomics
+
+Publication date: 2025-04-23
+
+Description:
+<h3>Abstract</h3>
+<div>
+<span>Background/Objectives: Gamma knife radiosurgery (GKRS) is widely performed as an adjuvant management of patients with residual or recurrent pituitary adenoma (PA). However, the variability in the tumor volume response to GKRS emphasizes the need for reliable predictors of treatment outcomes. The application of radiomics, an analytical approach for quantitative imaging, remains unexplored in predicting treatment responses for PAs. This study aimed to pioneer the use of radiomic MRI analysis to predict the volumetric response of PA to GKRS. Methods: This retrospective observational cohort study involved 81 patients who underwent GKRS for PA. Pre-treatment 3-Tesla MRI scans were used to extract radiomic features capturing the intensity, shape, and texture of the tumors. Radiomic signatures were generated using the least absolute shrinkage and selection operator (LASSO) for feature selection, in conjunction with several classifiers: random forest, na&iuml;ve Bayes, kNN, logistic regression, neural network, and SVM. Results: The models demonstrated predictive performance in the test folds, with AUC values ranging from 0.759 to 0.928 and R<sup>2</sup>&nbsp;values between 0.272 and 0.665. Single-sequence T1w, dual-sequence T1w + CE-T1w, and multi-modality including clinicopathological (CP) parameters (CP + T1w + CE-T1w) achieved rather similar prognostic performance in the test folds, with respective AUCs of 0.928, 0.899, and 0.909. All these radiomics models significantly outperformed a benchmark model involving only CP features (AUC = 0.846). Conclusions: This study represents a radiomic analysis focused on predicting the volume response of PAs to GKRS to facilitate treatment individualization. The developed MRI-based radiomics models exhibited superior classification performance compared with the benchmark model composed solely of standard clinicopathological parameters.</span>
+
+</div>
+
+Contents:
+ - jcm Prediction of Pituitary Adenoma’s Volumetric Response to...-14-02896.pdf

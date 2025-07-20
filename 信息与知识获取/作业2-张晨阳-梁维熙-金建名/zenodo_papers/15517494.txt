@@ -1,0 +1,15 @@
+Title: HEALTH SYSTEM RESPONSIVENESS: EMERGENCY CARE ACCESS IN CAPE COAST
+
+Authors: Kwabena, Michael Osei
+
+Keywords: Accessibility, Emergency Health Care, Cape Coast, Ghana, GIS
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>Globally one in every 10 dies from their inability to access emergency health care. For developing countries where the number of trauma cases resulting from motor accidents, conflicts, and industrial accidents is steadily rising, access to emergency health becomes even more important. The study examined the level of access to emergency health care using the Three-delay model. Dimensions of access examined included physical accessibility, delays in health care decisions, and the quality of care. The study employed a cross-sectional descriptive survey design where selfadministered questionnaires were used to collect data from 122 exit clients from the four existing emergency units in the study area. Physical accessibility of 31 suburbs in Cape Coast was also conducted using ArcGIS 10.1 Network Analyst. Service area analysis of emergency units showed most of the areas out of the 31 suburbs was within 5 and 10 min of the emergency facility but, there were delays in the decision to seek health care mostly because of poor knowledge of the risk of complications and the cost involved. Actual reported levels of physical access differed significantly with 37.7% having 10 min delays and 26.3% having 20 min delays. Health care was generally perceived as good although the most accessible of the emergency units was the least resourced</span>
+
+
+Contents:
+ - 1.pdf

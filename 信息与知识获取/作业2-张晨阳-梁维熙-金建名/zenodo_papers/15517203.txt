@@ -1,0 +1,15 @@
+Title: Dataset for Cyanopeptide photochemistry manuscript by Thiagarajan et al
+
+Authors: NAH, Theodora
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Our manuscript was submitted to ESPI. Upon submission, all data must be accessible by anonymous access.&nbsp;
+
+
+Contents:
+ - Kinetics data.xlsx

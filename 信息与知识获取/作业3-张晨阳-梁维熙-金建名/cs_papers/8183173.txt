@@ -1,0 +1,19 @@
+Title: Code, Data and Results for Numerical Experiments in "An adaptive data sampling strategy for stabilizing dynamical systems via controller inference'"
+
+Authors: Werner, Steffen W. R.
+
+Keywords: Adaptive Sampling, Controller Inference, Nonlinear Dynamics, Data-driven Control, Stabilization, Linear Matrix Inequalities, Scientific Machine Learning, Numerical Linear Algebra, Unstable Heat Flow, Power Networks, Tubular Reactor, Toda Lattice, Navier-Stokes Equations, MATLAB, CVX, MOSEK, JSONLab
+
+Publication date: 2025-06-01
+
+Description:
+This archive contains the companion codes, used data and computed results for the paper:
+
+
+S. W. R. Werner, B. Peherstorfer; "An adaptive data sampling strategy for stabilizing dynamical systems via controller inference",
+
+which implement numerical experiments with a greedy, adaptive data sampling&nbsp;scheme in controller inference for the stabilization of nonlinear dynamical systems.
+
+
+Contents:
+ - supWer25.zip

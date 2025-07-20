@@ -1,0 +1,24 @@
+Title: Supplementary files of Ament & Almeida (submitted) Is additive coding useful for morphological phylogenetic analyses? An empirical evaluation
+
+Authors: Ament, Danilo
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+N/A
+
+Contents:
+ - Morph matrix 2_quantitative chars decomposed into binary characters.ss
+ - Morph matrix 3_quantitative chars best binary opt.ss
+ - Molecular matrix.nex
+ - Morph matrix 1_quantitative chars with 6 states.ss
+ - Tree A_All data.tif
+ - Tree A obtained with all data analyzed.tre
+ - Morph matrix 4_quantitative chars 2best binary opt.ss
+ - Tree B obtained with only molecular data.tre
+ - Tree B_Molecular data.tif
+ - Phylogenetic signal Blomberg K.xlsx
+ - SSMolecMorph2PartCharsAdditiv.nex
+ - SSMolecMorph2PartCharsNonAdditiv.nex

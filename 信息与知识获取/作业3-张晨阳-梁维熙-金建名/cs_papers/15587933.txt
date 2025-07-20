@@ -1,0 +1,14 @@
+Title: The Role of AI in Transforming Agriculture: Toward Sustainable Growth in an Era of Climate Change
+
+Authors: Wah, Jack Ng Kok
+
+Keywords: Artificial Intelligence in Agriculture, Smart Agriculture, Food Security, Machine Learning, Sustainable Agriculture
+
+Publication date: 2025-02-25
+
+Description:
+ABSTRACTThe review investigates the transformative role of Artificial Intelligence (AI) and the Internet of Things (IoT) in advancing sustainable agriculture, with a particular focus on Malaysia&rsquo;s response to climate-induced productivity challenges. By employing a structured systematic review methodology, the study evaluates peer-reviewed literature to synthesize global and Malaysian perspectives on precision agriculture, machine learning, and remote sensing technologies. Quantitative findings reveal that AI-assisted irrigation systems can reduce water usage by up to 35%, while precision monitoring tools have boosted crop yields by approximately 20&ndash;25% in pilot implementations. Moreover, IoT-based systems demonstrated a 40% increase in operational efficiency among smart greenhouse farms. Despite these advancements, adoption remains uneven, with only 27% of Malaysian smallholder farmers currently integrating IoT solutions largely hindered by upfront costs, inadequate digital infrastructure, and a lack of technical training. The review identifies a multi-dimensional strategy for overcoming these barriers. It emphasizes the necessity for government-backed financial incentives, such as AI adoption subsidies, along with nationwide digital literacy campaigns and public&ndash;private partnerships to foster ecosystem readiness. Policy recommendations are particularly directed toward policymakers and governmental agencies, urging targeted funding and strategic policy alignment. Practitioners and agricultural extension services are encouraged to focus on scalable, low-cost AI models suitable for smallholder use, while researchers are called to explore the long-term socio-economic effects of AI integration in rural farming. The study&rsquo;s novelty lies in its integrative and cross-contextual analysis, offering scalable solutions for developing economies grappling with similar agricultural vulnerabilities. Future research should prioritize context-sensitive design of AI solutions tailored to small-scale operations and develop frameworks to measure the inclusive benefits of smart agriculture, particularly among underserved farming communities.
+
+
+Contents:
+ - 5-SC 11(2)2025 SC-13 (Final).pdf

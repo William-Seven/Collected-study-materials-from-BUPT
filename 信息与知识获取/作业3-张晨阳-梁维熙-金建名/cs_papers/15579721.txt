@@ -1,0 +1,14 @@
+Title: Autonomy and Intrinsic Motivation in e-Learning: The Moderating Effects of Age and Gender
+
+Authors: FIRAT, MEHMET
+
+Keywords: distance education, learner autonomy, intrinsic motivation
+
+Publication date: 2025-06-02
+
+Description:
+<span lang="EN-US">Data inlude 2,566 undergraduate students enrolled in open education programs. Independent variables are age and gender. Dependent variables are learning autonomy and intrinsic motivation.&nbsp;</span>
+
+
+Contents:
+ - Data_elas_imel.xlsx

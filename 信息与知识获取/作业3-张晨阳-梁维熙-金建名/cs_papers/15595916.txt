@@ -1,0 +1,17 @@
+Title: Class Incremental Learning for Algorithm Selection  in Continuous Optimisation data
+
+Authors: Nemeth, Mate Botond, Hart, Emma, Sim, Kevin, Renau, Quentin
+
+Keywords: 
+
+Publication date: 2025
+
+Description:
+Class Incremental Learning for Algorithm Selection supplementary material.
+
+Labeled BBOB feature data and supplementary information.
+
+
+Contents:
+ - BBOB_features_100_instances_100_runs_01_median.csv
+ - Algorithm_Selection_Class_Incremental_Learning_for_Continuous_Optimisation___Supplementary_Information.pdf

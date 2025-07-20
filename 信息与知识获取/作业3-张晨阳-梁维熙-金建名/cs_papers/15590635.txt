@@ -1,0 +1,17 @@
+Title: Explainable machine learning for modeling of net ecosystem exchange in boreal forests
+
+Authors: Laanti, Topi, Ezhova, Ekaterina, Lintunen, Anna, Kolari, Pasi, Nieminen, Tuomo, Mammarella, Ivan, Heljanko, Keijo, Kulmala, Markku
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+Accurate modeling of net ecosystem exchange (NEE) in boreal forests is crucial for understanding the global carbon cycle and predicting how forest ecosystems respond to a warming climate. In this work, we applied four machine learning (ML) methods—cubist, random forest, averaged neural networks, and linear regression—to predict subhourly NEE at two Finnish boreal forest sites with contrasting latitudes (SMEAR II Hyytiälä in the south and SMEAR I Värriö in the north). We modelled separately NEE during the peak growing season and the entire year. 
+To gain insight into the drivers of NEE, we employed two explainable artificial intelligence (XAI) methods called Permutation Feature Importance and ALE plots. During the peak growing season, photosynthetically active radiation, diffuse radiation, and vapor pressure deficit (or air temperature) were identified as the variables with the largest explaining power. When modeling NEE over the full year, vapor pressure deficit was replaced by soil temperature as a key driver. Combining data from the two sites into one set revealed soil water content as an influential factor; however, its effect diminished upon adding site-identifying input variables. Notably, we observed that some models exhibit contradictory dependencies on interdependent variables such as air and soil temperature, underscoring the importance of carefully interpreting ML results, particularly for extrapolations to future climate scenarios. 
+These findings highlight that high accuracy alone does not ensure reliable predictions under changing environmental conditions. We emphasize the value of XAI techniques to dissect how ML models handle complex input variables, providing interpretability that traditional "black-box" approaches often lack. Moreover, the results underscore the need for robust model evaluation across spatiotemporal scales—especially when data from multiple sites and climatic regimes are combined—and call for a careful assessment of ML-based predictions under conditions that diverge substantially from the training data. 
+
+
+Contents:
+ - ACA_article_156762.xml
+ - ACA_article_156762.pdf

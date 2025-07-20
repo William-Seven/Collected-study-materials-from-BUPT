@@ -1,0 +1,31 @@
+Title: From Kernels to Features: A Multi-Scale Adaptive Theory of Feature Learning
+
+Authors: Rubin, Noa, Fischer, Kirsten, Lindner, Javed, Dahmen, David, Seroussi, Inbar, Ringel, Zohar, Krämer, Michael, Helias, Moritz
+
+Keywords: feature learning, kernel adaptation, Bayesian inference, field theory, deep neural networks, kernel rescaling
+
+Publication date: 2025-05-28
+
+Description:
+<h1>Code for From Kernels to Features: A Multi-Scale Adaptive Theory of Feature Learning</h1>
+
+This repository contains the code accompanying the paper:
+
+
+Rubin, N., Fischer, K., Lindner, J., Dahmen, D., Seroussi, I., Ringel, Z., Kr&auml;mer, M., Helias, M. From Kernels to Features: A Multi-Scale Adaptive Theory of Feature Learning (<a href="https://arxiv.org/abs/2502.03210">arxiv 2502.03210</a>).
+
+
+For any questions, please contact Noa Rubin (noa.rubin@mail.huji.ac.il), Kirsten Fischer (ki.fischer@fz-juelich.de) or Javed Lindner (javed.lindner@rwth-aachen.de).
+
+
+Contents:
+ - visualization.py
+ - create_figures_manuscript_predictor_stats.py
+ - utils_data.py
+ - utils_parsing.py
+ - network_architecture.py
+ - parameters.yml
+ - predictor_stats.py
+ - train_networks_lsgd.py
+ - directional_fl_create_figures.ipynb
+ - directional_fl_train_net.py

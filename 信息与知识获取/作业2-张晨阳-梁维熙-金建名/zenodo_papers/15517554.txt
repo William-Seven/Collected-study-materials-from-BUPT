@@ -1,0 +1,15 @@
+Title: Deep Learning Based Detecting Security System
+
+Authors: P. Balaji, L. Athisha, K. Kalpana Sri, K. Kaniga, R. Keerthana
+
+Keywords: Deep learning technology, facial recognition security, smart locker solutions, biometric access control
+
+Publication date: 2025-05-26
+
+Description:
+
+<em><span>With the growing demand for intelligent and contactless security solutions, deep learning technologies have become central to modern authentication systems. This project presents a deep learning-based security system designed for securing lockers through face recognition. The system captures the facial image of a passenger and locks the allotted locker. Only the registered passenger is allowed to unlock it. If any unauthorized individual attempts to access the locker, the system identifies the mismatch, denies access, triggers a buzzer alarm, and sends an instant alert to security personnel. By leveraging convolutional neural networks (CNN) for accurate facial verification, the system provides a highly secure, efficient, and automated solution suited for sensitive environments like airports, railway stations, and corporate offices.</span></em>
+
+
+Contents:
+ - Deep Learning Based Detecting -Formatted Paper.pdf

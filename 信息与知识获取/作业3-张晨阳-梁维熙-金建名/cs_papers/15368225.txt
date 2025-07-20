@@ -1,0 +1,20 @@
+Title: Modeling functional connectivity with learning and memory in a mouse model of Alzheimer's disease
+
+Authors: Pedersen, Steen E.
+
+Keywords: Alzheimer's Disease, rs-FMRI, functional connectivity, modeling, behavior
+
+Publication date: 2025-06-03
+
+Description:
+The included material is raw data and processing and analysis code for the following publication:
+
+Fadel L, Hipskind E, Pedersen SE, Romero J,Ortiz C, Shin E, Samee MAH and Pautler RG(2025) Modeling functional connectivity withlearning and memory in a mouse model ofAlzheimer&rsquo;s disease.Front. Neuroimaging 4:1558759.doi: 10.3389/fnimg.2025.1558759
+
+
+Contents:
+ - ImagingData.zip
+ - rsFMRIpreProcessingMatLabCode.zip
+ - MorrisWaterMazeRawData.zip
+ - MorrisWaterMazePrizmFile.pzfx
+ - regression_codes.zip

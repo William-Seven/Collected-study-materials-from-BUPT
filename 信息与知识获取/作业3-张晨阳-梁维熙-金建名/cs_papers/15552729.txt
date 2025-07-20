@@ -1,0 +1,57 @@
+Title: NDC-SDG Connections: Data on updated NDC submissions (V2)
+
+Authors: Dzebo, Adis, Banerjee, Aparajita, Iacobuţă, Gabriela, Beaussart, Raphaëlle
+
+Keywords: Paris Agreement, 2030 Agenda, Nationally Determined Contributions, Sustainable Development Goals, climate policy, climate action, sustainable development
+
+Publication date: 2025-05-29
+
+Description:
+NDC-SDG Connections is a joint initiative of the German Institute of Development and Sustainability (IDOS) and the Stockholm Environment Institute (SEI). The research and visualisation project aims at illuminating synergies between the 2030 Agenda for Sustainable Development and the Paris Agreement, and at identifying entry points for coherent policies that promote just, sustainable and climate-smart development.
+
+The objective of the NDC-SDG Connections is to: foster a dialogue on meaningful interaction between the 2030 Agenda and the Paris Agreement, globally and at the national level; to increase transparency with easy accessibility to all climate activities; and to cultivate learning and catalyse partnerships between countries and other actors to raise the ambition of future NDCs.
+
+With its second version with data on the updated NDC submissions (V2), the NDC-SDG Connections project opened its data for public re-use. In 2025, the V2 is updated with new data to version 1.2.0. The data is provided in the following formats:
+
+
+single .csv files (data per SDG)
+zip .csv file (data per SDG for all SDG in one zip)&nbsp;
+
+Visit the Online Data Visualisation to interact directly with the data<strong>: www.NDC-SDG.info</strong>
+
+&nbsp;
+
+<strong>Note:This data set contains data for second NDC submissions (V2)</strong>.&nbsp;The terms &lsquo;First&rsquo; and &lsquo;Updated&rsquo; do not fully follow the UNFCCC nomenclature. For most countries, updated NDCs are called &lsquo;First updated NDC&rsquo; or &lsquo;Enhanced NDCs&rsquo;, while some countries call their updated NDCs for &lsquo;Second NDC&rsquo;. In order to make it comprehensible, the tool developers have chosen to distinguish between &lsquo;First&rsquo; and &lsquo;Updated&rsquo;. Detailed description of which version is counted as &lsquo;First&rsquo; and which as &lsquo;Updated&rsquo; has been documented in the data.
+
+&nbsp;
+
+<strong>Updated NDCs included in version 1.2.0 of V2 - </strong><strong>New data was added for 27 updated NDCs plus one NDC updated to a newer version:</strong>
+
+New Updated NDCs:
+
+Azerbaijan, Benin, Democratic Republic of the Congo, Grenada, India, Kyrgyzstan, Madagascar, Mali, Montenegro, Nepal, Nigeria, Oman, Qatar, Saint Kitts and Nevis, Saint Lucia, Samoa, Sierra Leone, Singapore, South Sudan, Sri Lanka, Suriname, Togo, Tunisia, Tuvalu, Ukraine, United States of America
+
+New version of Updated NDC:
+
+Namibia&rsquo;s NDC has been updated to the most recent version.
+
+
+Contents:
+ - SDG5_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG8_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG12_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG10_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG14_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG16_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG1_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG17_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG6_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG7_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG9_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG13_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG3_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG4_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG11_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG15_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - SDG2_2025-05-29_NDCSDGConnections_V2-1-2-0.csv
+ - 10.5281zenodo.15552729_NDCSDGConnections_V2-1-2-0.7z

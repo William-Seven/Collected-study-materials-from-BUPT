@@ -1,0 +1,32 @@
+Title: D3.6 - BBioNets Knowledge Transfer Activities - initial version - Draft
+
+Authors: Moustakis, Dimitrios
+
+Keywords: Practice Abstract, EPI-AGRI, Operational Group, Knowledge Transfer, Bio-Based Technologies, biobased
+
+Publication date: 2025-04-30
+
+Description:
+<span>This document outlines the BBioNets Project's (BBioNets) Knowledge Transfer Activities (KTAs) and their role in implementing the "BBioNets for Everyone" concept, providing a clear overview of KTAs' objectives and contextual background. At the core of the KTAs are the Operational Groups (OGs) and their potential to support the dissemination and uptake of Bio-Based Technologies (BBTs). These activities aim to engage underrepresented groups -such as unemployed individuals, women, and youth- through the dedicated "BBioNets for Everyone" concept. The KTAs follow a phased approach beginning with broad content targeting general audiences and gradually evolving to address more specialized groups with increasingly tailored content.</span>
+
+<span>KTAs planned within the framework of the BBioNets include:</span>
+
+<span>&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Info-days to:</span>
+
+<span>&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Promote the concept and highlight the need for and the benefits of establishing OGs at national level; and</span>
+
+<span>&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Showcase BBTs that have been successfully implemented in the Represented Region (RR).</span>
+
+<span>&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Train-the-Trainer (TT) workshops with advisors, other multipliers and BBioNets partners meeting to exchange experiences, solutions, concerns, ways to overcome barriers</span>
+
+<span>&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>small-scale mentoring to provide customised support to farmers'/foresters' co-operatives/ associations so as to:</span>
+
+<span>&middot;<span>&nbsp; </span>Boost potential collaborations amongst farmers/foresters;</span>
+
+<span>&middot;<span>&nbsp; </span>Provide guidance to allow further understanding of BBT specifics; and</span>
+
+<span>&middot;<span>&nbsp; </span>Promote OG creation through networking.</span>
+
+
+Contents:
+ - D3.6 BBioNets Knowledge Transfer Activities - Initial Version_dft.pdf

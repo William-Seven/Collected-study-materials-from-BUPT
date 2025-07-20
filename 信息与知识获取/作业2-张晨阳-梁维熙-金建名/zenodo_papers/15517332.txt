@@ -1,0 +1,39 @@
+Title: Neostegosauria Sanchez-Fenollosa & Cobos
+
+Authors: Sánchez-Fenollosa, Sergio, Cobos, Alberto
+
+Keywords: Biodiversity, Taxonomy, Animalia, Chordata, Stegosauridae, Neostegosauria
+
+Publication date: 2025-05-26
+
+Description:
+
+Neostegosauria S&aacute;nchez-Fenollosa &amp; Cobos (nomen cladi novum)
+
+<b>Registration number.</b>
+
+1097.
+
+<b>Phylogenetic definition.</b>
+
+The smallest clade containing <i>Kentrosaurus aethiopicus</i> Hennig, 1915 a, <i>Dacentrurus armatus</i> Owen, 1875, and <i>Stegosaurus stenops</i> Marsh, 1887. This is a minimum-clade definition.
+
+<b>Etymology.</b>
+
+Derived from &lsquo; neo- &rsquo; (Greek), meaning new. And from the clade name Stegosauria.
+
+<b>Reference phylogeny.</b>
+
+Figure 5 of this paper is designated as the primary reference phylogeny. Additional refence phylogenies include figure 3.14 of Carpenter et al. (2001), figure 8 of Maidment et al. (2006), figure 1 of Raven and Maidment (2017), figure 12 of Maidment et al. (2020), figure 8 of Dai et al. (2022), figure 6 of Jia et al. (2024), figure 15 of Li et al. (2024 a), figure 8 of Li et al. (2024 b), figure 7 of Li et al. (2024 c), and figure 12 of Zafaty et al. (2024).
+
+<b>Composition.</b>
+
+According to the primary reference phylogeny, the clade Neostegosauria comprises <i>Lo. priscus</i>, <i>He. mjosi</i>, <i>S. stenops</i>, <i>J. junggarensis</i>, <i>W. homheni</i>, <i>Ya. ultimus</i>, <i>Al. longispinus</i>, <i>K. aethiopicus</i>, <i>Th. atlasicus</i>, <i>Ad. boulahfa</i>, and <i>D. armatus</i>.
+
+<b>Comments.</b>
+
+Neostegosauria is the name established for the clade that includes the late-diverging members of Stegosauridae (Stegosaurinae and Dacentrurinae). This clade has been recovered in the last phylogenetic analyses although with differences in composition and topology. According to the primary reference phylogeny, it is supported by six synapomorphies (File S 1 [1.6]). These synapomorphies, except the two cranial ones, are widely recognized in these taxa. Neostegosaurs are late-diverging stegosaurids of medium to large size that at least inhabited Africa and Europe during the Middle and Late Jurassic, North America during the Late Jurassic, and Asia during the Late Jurassic and Early Cretaceous. They are mainly characterized by presenting a dorsal process on the transverses processes of anterior and mid caudal vertebrae, and a solid sacral yoke with no foramina between ribs. Figure 5 of this paper has been designated as the primary reference phylogeny because it considers the latest taxonomic revisions, includes the highest number of stegosaurian OTUs, and provides a high-resolution topology.
+
+
+Contents:
+ - treatment.html

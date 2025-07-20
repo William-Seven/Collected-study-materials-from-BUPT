@@ -1,0 +1,12 @@
+Title: Clustering de los egresados profesionales de siete carreras de la educación superior en Colombia: hacia una tipología del espíritu emprendedor
+
+Authors: Bravo Reyes, Juan Hernando, Pulido Daza, Nelson Javier, Mayorga Sánchez, José Zacarías, Bonilla Bonilla, Yudy Marlen
+
+Keywords: 
+
+Publication date: 2025-06-05
+
+Description:
+El art&iacute;culo deriva de la investigaci&oacute;n titulada &ldquo;El emprendimiento en los egresados de las instituciones de educaci&oacute;n superior en Colombia&rdquo;, su objetivo, analiza la influencia que tiene la actitud y los comportamientos de los egresados, en pro de una actitud emprendedora. La metodolog&iacute;a, es un an&aacute;lisis de correlaci&oacute;n de Spearman y clasificaci&oacute;n sobre variables cualitativas, utilizando algoritmos PAM y el agrupamiento jer&aacute;rquico, usando la distancia Manhattan, basada en 986 encuestas a egresados universitarios. Los resultados prueban que factores personales como la autoconfianza, autoestima, proactividad, creatividad y el asumir riesgos, tienen una correlaci&oacute;n positiva en las intenciones emprendedoras. En tanto, la edad, rendimiento acad&eacute;mico o el nivel de estudios no evidencian correlaci&oacute;n alguna. Las conclusiones demuestran que los conocimientos adquiridos, los m&eacute;todos de ense&ntilde;anza y los planes de estudio de las instituciones de educaci&oacute;n superior, no muestran una asociaci&oacute;n con las intenciones emprendedoras de los egresados.
+
+

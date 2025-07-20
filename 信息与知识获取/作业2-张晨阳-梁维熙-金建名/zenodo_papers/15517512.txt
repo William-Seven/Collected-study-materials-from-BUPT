@@ -1,0 +1,15 @@
+Title: REHABILITATION STRATEGIES FOR SPONDYLOARTHROPATHIES: A COMPARATIVE STUDY OF EXERCISE MODALITIES
+
+Authors: Vuković, Ana Marija
+
+Keywords: Isokinetic exercise; pain; spondyloartropathy; standard exercises; trunk muscle strength; functional abilities
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>Spondyloarthropathy is a group of different chronic rheumatic diseases. There are a number of physiotherapy interventions that all aim to support the trunk flexors and extensors, relieve pain, and mobilize the joints. The aim of this study is to compare isokinetic exercises (IE) with a standard exercise protocol in patients with spondyloarthropathies. A<strong> </strong>total of 16 subjects participated in the study and were randomly divided into two groups: The group with the standard protocol (SP) and the other in the isokinetic protocol (IP). Both groups underwent the same follow-up testing: Muscle strength, pain, and functional status. Both groups underwent a total of 15 physiotherapy interventions over a 3-week period. The mean age in the standard group was 36 &plusmn; 7.93 and in the isokinetic group 46.13 &plusmn; 13.88. In the isokinetic group, there was a difference in pain intensity between the second and third measurements (<em>p</em> = 0.016). There was an improvement in muscle strength in the isokinetic group (Cohen&rsquo;s d = 0.33). At an angular velocity (AV) of 60&deg;/s, this group is better than the delayed SP, while it is directly better at an AV of 90&deg;/s (d = 0.30). The delayed measurement of the groups (IP) showed a lower functional deficit than the SP group (<em>p</em> = 0.012). Based on the results of this study and a search of the scientific literature, we can conclude that IE has been shown to be beneficial rather than harmful. Further longitudinal studies with a larger number of subjects are needed to investigate the effects of isokinetics on functional outcomes in rheumatology patients</span>
+
+
+Contents:
+ - 4.pdf

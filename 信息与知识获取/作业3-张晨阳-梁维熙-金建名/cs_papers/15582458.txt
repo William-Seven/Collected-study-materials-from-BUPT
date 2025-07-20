@@ -1,0 +1,14 @@
+Title: Construction of a Large Language Model-Driven Online Programming Experiment System and Research on Active Learning Paradigm Transformation
+
+Authors: Shengying Yang, Chen Lu, Fangfang Qiang
+
+Keywords: Large Language Models, Programming Experiment Platform, Program Design, Artificial Intelligence
+
+Publication date: 2025-06-03
+
+Description:
+Traditional online programming teaching platforms have significant deficiencies in supporting the development of students' abilities. The core issue is concentrated on the unidirectional nature of the evaluation system: it cannot effectively assess engineering elements such as code standardization, style uniformity, and runtime efficiency, nor can it provide students with in-depth suggestions for improvement. To break through this limitation, this paper constructs a new generation of online programming experiment platforms based on large language model technology. The platform can analyze students' code logic in real-time, generate targeted error correction suggestions, explanations of knowledge points, and optimization plans, and supports language interaction to help students quickly understand programming concepts. Experiments show that the platform significantly improves students' programming practice abilities, confirming its value in programming education. It provides an expandable technical solution for the innovation of programming education models and is of great significance in promoting the transformation of programming education from passive infusion to active exploration.
+
+
+Contents:
+ - 9.pdf

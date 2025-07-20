@@ -1,0 +1,13 @@
+Title: Web-Based Application for Personalized Learning Using Natural Language Processing
+
+Authors: Yulianto, Budi, Rahmansyah, Joe Phang
+
+Keywords: 
+
+Publication date: 2025-06-04
+
+Description:
+N/A
+
+Contents:
+ - Personalized Learning.xlsx

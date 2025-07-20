@@ -1,0 +1,13 @@
+Title: FOYDALANISHNI ROLLI CHEKLASH TIZIMINI QURISH USULLARI VA ALGORITMLARI MASALASI
+
+Authors: D.Y. Irgasheva
+
+Keywords: kompyuter tizimlari, xavfsizlik modellari, konfidensiallik, foydalanuvchanlik, foydalanishning cheklash tizimi, RBAC (Role-Based Access Control), SOD (Segregation Of Duties), ME (Mutually Exclusive), MER (Mutually Exclusive Roles), MEP (Mutually Exclusive Permissions), COI (Conflict Of Interest)
+
+Publication date: 2025-06-03
+
+Description:
+Ushbu maqola foydalanishni boshqarishning dinamik modelining tahlili, dinamik modeldagi rasmiy spetsifikatsiya va algoritmlari hamda ishlab chiqilgan foydalanishni rolli cheklash tizimi modeli algoritmining tavsifiga bag'ishlangan. Taklif etilgan model kombinatsiyalangan model sifatida ishlaydi, rollarga vakolatlarni dinamik tarzda tayinlaydi, hamda turli atributlar yordamida rollarga foydalanuvchilarni tayinlaydi. Ushbu yondashish faqat RBACning asosiy obyektlariga taalluqli. Undan tashqari, taklif etilgan model SODni vakolatlar sathida amalga oshiradi
+
+Contents:
+ - 15_829-71-79-Irgasheva.pdf

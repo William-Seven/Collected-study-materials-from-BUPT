@@ -1,0 +1,20 @@
+Title: IOT FUNDAMENTALS
+
+Authors: DR. ANUMOLU LASMIKA, DR. PRADEEP G, DR. G. VENKATESWARLU, SYED ATHIKA SULTANA
+
+Keywords: 
+
+Publication date: 2025-05-31
+
+Description:
+The Internet of Things (IoT) is no longer a futuristic concept&mdash;it's a transformative force that is already reshaping industries, revolutionizing daily life, and redefining the boundaries of technology. From intelligent devices embedded in homes and factories to expansive sensor networks monitoring infrastructure and the environment, IoT has emerged as a critical component of the digital era.
+
+This book, <em>IoT Fundamentals</em>, is designed to serve as a comprehensive guide for both beginners and professionals eager to understand the foundations and applications of IoT. It offers a clear and structured approach to exploring the key components, network architectures, protocols, security concerns, and real-world implementations of IoT across various industries.
+
+Divided into three parts, the book begins by demystifying what IoT truly means and how its networks are built. It then delves deeper into the engineering of IoT networks&mdash;covering everything from smart objects and communication technologies to data analytics and cybersecurity. The final part explores how IoT is being deployed across diverse verticals such as manufacturing, oil and gas, utilities, transportation, mining, public safety, and smart cities.
+
+Our goal is to provide readers with not only technical knowledge but also the practical insight necessary to design, secure, and manage IoT solutions. Whether you're a student, researcher, engineer, or industry professional, this book will equip you with the core principles and latest developments to confidently navigate the rapidly evolving IoT landscape.
+
+We hope that this book will serve as both a learning resource and a source of inspiration as you explore the endless possibilities enabled by the Internet of Things.
+
+

@@ -1,0 +1,16 @@
+Title: RafaelArutjunjan/InformationGeometry.jl: v1.19.2
+
+Authors: Rafael Arutjunjan, simonbeyer1
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<h2>InformationGeometry v1.19.2</h2>
+
+<a href="https://github.com/RafaelArutjunjan/InformationGeometry.jl/compare/v1.19.1...v1.19.2">Diff since v1.19.1</a>
+
+
+Contents:
+ - RafaelArutjunjan/InformationGeometry.jl-v1.19.2.zip

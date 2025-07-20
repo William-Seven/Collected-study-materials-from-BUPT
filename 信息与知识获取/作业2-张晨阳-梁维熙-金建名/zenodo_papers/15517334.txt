@@ -1,0 +1,35 @@
+Title: Stegosaurinae Marsh 1880
+
+Authors: Sánchez-Fenollosa, Sergio, Cobos, Alberto
+
+Keywords: Biodiversity, Taxonomy, Animalia, Chordata, Stegosauridae
+
+Publication date: 2025-05-26
+
+Description:
+
+Stegosaurinae Marsh, 1880 (nomen cladi conversum)
+
+<b>Registration number.</b>
+
+1098.
+
+<b>Phylogenetic definition.</b>
+
+The largest clade containing <i>Stegosaurus stenops</i> Marsh, 1887 but not <i>Dacentrurus armatus</i> Owen, 1875. This is a maximum-clade definition.
+
+<b>Reference phylogeny.</b>
+
+Figure 5 of this paper is designated as the primary reference phylogeny. Additional refence phylogenies include figure 3.14 of Carpenter et al. (2001), figure 16.11 of Galton and Upchurch (2004), figure 8 of Maidment et al. (2006), figure 3 of Escaso et al. (2007 a), figure 11 A and 12 A of Maidment et al. (2008), figure 1 of Mateus et al. (2009), figure 1 of Maidment (2010), figure 1 and 2 of Raven and Maidment (2017), figure 6 A of Hao et al. (2018), figure 12 of Maidment et al. (2020), figure 8 of Dai et al. (2022), figure 6 of Jia et al. (2024), figure 15 of Li et al. (2024 a), figure 8 of Li et al. (2024 b), figure 7 of Li et al. (2024 c), and figure 12 of Zafaty et al. (2024).
+
+<b>Composition.</b>
+
+According to the primary reference phylogeny, the clade Stegosaurinae comprises <i>Lo. priscus</i>, <i>He. mjosi</i>, <i>S. stenops</i>, <i>J. junggarensis</i>, <i>W. homheni</i>, and <i>Ya. ultimus</i>.
+
+<b>Comments.</b>
+
+Stegosaurinae was first (informally) defined by Sereno (1998). Sereno (2005) defined Stegosaurinae applying the maximum-clade definition and using <i>S. stenops</i> as the internal specifier and <i>D. armatus</i> as the external specifier. This definition is formalized using the same type of definition and specifiers. Note that Raven et al. (2023) re-defined (informally) Stegosaurinae using <i>Stegosaurus</i> and <i>Hesperosaurus</i> Carpenter, Miles, and Cloward, 2001 as internal specifiers and a minimum-clade definition. There is no reason for its redefinition and makes it is less suitable. In fact, some authors have proposed the genus <i>Hesperosaurus</i> as a subjective junior synonym of <i>Stegosaurus</i>. Therefore, the &lsquo; traditional concept&rsquo; of Stegosaurinae is retained. Figure 5 of this paper has been designated as the primary reference phylogeny because it considers the latest taxonomic revisions, includes the highest number of stegosaurian OTUs, and provides a high-resolution topology.
+
+
+Contents:
+ - treatment.html

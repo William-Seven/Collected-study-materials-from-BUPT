@@ -1,0 +1,13 @@
+Title: Deep Learning and Reinforcement Learning: Concepts, Architectures and Applications
+
+Authors: Dr. S Ambareesh  Dr. Soumya Patil  Mrs. Ashwini M Gorte
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+N/A
+
+Contents:
+ - Untitled.jpg

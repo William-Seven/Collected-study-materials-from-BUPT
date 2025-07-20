@@ -1,0 +1,13 @@
+Title: VisCy
+
+Authors: Liu, Ziwen, Hirata-Miyasaki, Eduardo, Foley, Christian, Pradeep, Soorya, Imran, Alishba, Mehta, Shalin
+
+Keywords: machine-learning, computer-vision, bioimage-analysis, image-translation, representation-learning
+
+Publication date: 2025-06-02
+
+Description:
+computer vision models for single-cell phenotyping
+
+Contents:
+ - mehta-lab/VisCy-v0.3.1.zip

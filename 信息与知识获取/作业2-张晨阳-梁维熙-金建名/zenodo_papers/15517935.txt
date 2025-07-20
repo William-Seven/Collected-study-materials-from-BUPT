@@ -1,0 +1,15 @@
+Title: Training on the Use of Artificial Intelligence Tools in an Academic Context
+
+Authors: Racyn, Lucie, Velísek, Vojtěch
+
+Keywords: Generative AI, AI ethics, Teaching with AI, Science communication, Personalized learning, Future of AI
+
+Publication date: 2025-05-26
+
+Description:
+
+The workshop &ldquo;Training on the Use of Artificial Intelligence Tools in an Academic Context&rdquo; provided two days of intensive training for university staff and researchers. It took place on 28&ndash;29 April 2025 at the Faculty of Science, Masaryk University in Brno, combining theoretical foundations with hands-on practice. Day 1 focused on generative AI, its underlying principles, and the critical evaluation of outputs. Sessions then covered literature review, data analysis, and data visualization. In the afternoon, participants used AI to streamline grant writing and specific project sections. Day 2 opened with a discussion on ethics and academic integrity, including proper citation of AI tools. The morning continued with communication skills, structuring scientific texts, and outreach of results. The afternoon centered on teaching support, personalized learning, and adaptive approaches powered by AI. The final session reviewed advanced tools and sparked debate on the future of AI in physics. Participants left with practical skills for effectively leveraging AI in research, teaching, and grant activities; the training was delivered in Czech and required personal devices with internet access.
+
+
+Contents:
+ - WORKSHOP - AI ve fyzice.pdf

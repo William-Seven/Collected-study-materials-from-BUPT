@@ -1,0 +1,20 @@
+Title: 7-Tage-Inzidenz der COVID-19-Fälle in Deutschland
+
+Authors: Robert Koch-Institut
+
+Keywords: COVID-19, SARS-CoV-2, Inzidenz, 7-Tage-Inzidenz, Incidence, Infektionen, Deutschland, Infections, Germany, Open Data, RKI
+
+Publication date: 2025-05-26
+
+Description:
+
+Im Datensatz '7-Tage-Inzidenz von COVID-19 in Deutschland' werden die aktuellen 7-Tage-Inzidenzen der nach den Vorgaben des <a href="https://www.gesetze-im-internet.de/ifsg/index.html">Infektionsschutzgesetzes - IfSG -</a> an das RKI übermittelten COVID-19-Fälle veröffentlicht. Datengrundlage zur Berechnung der 7-Tage-Inzidenzen sind die an das RKI übermittelten COVID-19-Fälle. Eine detaillierte Dokumentation zur Erhebung der Daten zum Infektionsgeschehen ist im Datensatz '<a href="https://github.com/robert-koch-institut/SARS-CoV-2-Infektionen_in_Deutschland/blob/main/Aktuell_Deutschland_SarsCov2_Infektionen.csv">SARS-CoV-2-Infektionen in Deutschland</a>' enthalten. Die für die Berechnung der 7-Tage-Inzidenz notwendigen Bevölkerungsdaten bezieht das RKI durch das Statistisches Bundesamt (Destatis), Referat F24 | Bevölkerungsfortschreibung, Ausländer- und Integrationsstatistiken.
+
+
+Contents:
+ - datapackage.json
+ - COVID-19-Faelle_7-Tage-Inzidenz_Bundeslaender.csv
+ - COVID-19-Faelle_7-Tage-Inzidenz_Landkreise.csv
+ - [Dokumentation]_COVID-19_7-Tage-Inzidenz_in_Deutschland.pdf
+ - COVID-19-Faelle_7-Tage-Inzidenz_Deutschland.csv
+ - Metadaten.zip

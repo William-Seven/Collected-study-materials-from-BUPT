@@ -1,0 +1,14 @@
+Title: A Hybrid Methodology for Mutual Fund Trend Prediction Using Association Rule Mining and Random Forest Classifiers
+
+Authors: Ms. Priyanka, Bhandari, Dr. Manish, Shrimali
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+Mutual fund dynamics are difficult to forecast since they include the complete macroeconomic environment and market behaviour. This makes it one of the hardest methods. ARM and RF categorization are used in this study to improve mutual fund estimates. The analysis includes closing prices of five funds, VFIAX, FXAIX, VIGRX, VTMGX, and VTSAX, from 2011 to 2024. GDP growth, inflation, and interest rates are considered. The Apriori approach is utilized in association rule extraction to identify intentional participation patterns across economic levels and acceptable co-occurrence patterns across multi-dimensional economic scenes. To improve accuracy, acquired rules are included as features to Random Forest models. Economic data is mixed using technical indicators, daily moving averages and returns, rolling window standard deviations, and others. The model predicts bullish or bearish movements by comparing accuracy, precision, recall, and F1 score to specified benchmarks. The Grid search model exceeded the baseline model in precision and accuracy with a Reset Measured dichotomized score of 98.91%. The persistence of negative Sharpe ratios advises "do not invest." This is because certain fund patterns perform poorly in risk-adjusted returns. The study shows that financial industry operating and forecasting systems require data mining and machine learning to improve accuracy. This method for finding hidden financial data links may help investors amid market turmoil.
+
+
+Contents:
+ - A Hybrid Methodology for Mutual Fund Trend Prediction.pdf

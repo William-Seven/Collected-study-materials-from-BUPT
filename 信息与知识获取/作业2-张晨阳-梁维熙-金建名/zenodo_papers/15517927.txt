@@ -1,0 +1,15 @@
+Title: Recombinant expression and purification of FMO enzymes
+
+Authors: Garcia-Moyano, Antonio, Ree, Rasmus, Larsen, Øivind, Bjerga, Gro
+
+Keywords: flavin monooxygenase, recombinant expression, fermentation, enzyme, enzyme purification
+
+Publication date: 2025-05-26
+
+Description:
+
+This Standard Operating Procedure (SOP) outlines the protocol for the expression of recombinant flavin-containing monooxygenase (FMO) enzymes in Escherichia coli strain MC1061 using a pBAD plasmid-based expression system.
+
+
+Contents:
+ - OXIPRO_SOP_FMO_production_v4.pdf

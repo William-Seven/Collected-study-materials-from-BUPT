@@ -1,0 +1,25 @@
+Title: Primena velikih jezičkih modela u srpskoj opisnoj leksikografiji –  studija slučaja
+
+Authors: Marković, Aleksandra, Stanković, Ranka
+
+Keywords: LLMs, lexicography, lexicons
+
+Publication date: 2025-05-26
+
+Description:
+<p dir="ltr">Veliki jezički modeli (Large Language Models, LLMs) imaju primenu u raznim oblastima primenjene lingvistike, a važna oblast primenjene lingvistike je leksikografija, koja je tradicionalno smatrana akademskim umećem ili ve&scaron;tinom. Međutim, modernizacija i automatizovanje leksikografije doveli su do revolucionarnih promena u njoj. Te promene pružile su leksikografima novi ugao gledanja na svoje zadatke i dovele do nastanka novog leksikografskog modela, poznatog kao leksikografija naknadnog redigovanja (post-editing lexicography). U ovom modelu uloga leksikografa usmerena je na redigovanje nacrta automatski generisanog rečnika (Randel 2024).
+
+<p dir="ltr">Pojava velikih jezičkih modela, uključujući ChatGPT, može dodatno da unapredi izradu rečnika. Otkako je lansiran u novembru 2022, brojni radovi bavili su se istraživanjem mogućnosti upotrebe LLM u izradi rečnika. Neki autori izrazili su optimizam, smatrajući da bi ta pojava mogla da označi &bdquo;kraj leksikografije&ldquo; (de &Scaron;river, DŽof 2023), dok su neki pre skeptični (Randel 2023). To mi&scaron;ljenje zasnovano je na nizu eksperimenata u kojima je ChatGPT kori&scaron;ćen za kreiranje elemenata rečničkog članka ili celih članaka za jednojezični rečnik engleskog jezika.&nbsp;
+
+<p dir="ltr">U ovom radu predstavićemo tri eksperimenta sprovedena na malom skupu podataka s ciljem da se proceni korisnost upotrebe VJM u zadacima u srpskoj leksikografiji, naime u izdvajanju značenja vi&scaron;eznačnih leksema, pisanju definicija i generisanju ilustrativnih primera. Ukazaćemo na izazove i probleme na koje smo nailazili s dva različita modela, GPT-4 i Geminijem, i predstaviti diskusiju o razlikama u njihovim performansama zasnovanim na datim upitima.
+
+<p dir="ltr">&nbsp;Nalazi dobijeni iz sličnih ekspreimenata vr&scaron;enih za engleski pokazuju da je ChatGPT imao problema sa izdvajanjem značenja i generisanjem ilustrativnih primera (morali su da budu potpuno zamenjeni, odnosno nisu bili upotrebljivi). Ipak, definicije koje je Chat generisao bile su ocenjene &bdquo;kao dobro napisane i razumljive&ldquo; (Randel 2023: 15). Iako je jasno da su modeli bolje prilagođeni za engleski jezik i da na tom jeziku pružaju mnogo bolje rezultate, procena njihovih performansi za jezik koji nema dovoljnu tehnolo&scaron;ku podr&scaron;ku, kao &scaron;to je srpski, predstavlja dovoljan izazov.
+
+<p dir="ltr">Veliki jezički modeli, leksikografija, leksikgrafija naknadnog redigovanja, izdvajanje značenja, pisanje definicija, generisanje ilustrativnih primera, srpski jezik.
+
+
+&nbsp;
+
+
+Contents:
+ - Alt8 - Primena velikih jezičkih modela u srpskoj opisnoj leksikografiji – studija slučaja.pptx

@@ -1,0 +1,14 @@
+Title: The Role of AI in Enhancing Library Information Retrieval: Opportunities and Challenges
+
+Authors: Noemi, Szabo
+
+Keywords: Artificial Intelligence Machine Learning Information Retrieval Systems Recommender Systems Automated Cataloging Natural Language Processing Data Privacy Algorithmic Bias Algorithmic Transparency Academic Libraries Public Libraries
+
+Publication date: 2025-06-03
+
+Description:
+<span>Artificial intelligence (AI) and machine learning are increasingly transforming library information retrieval systems. This paper provides a critical theoretical overview of recent AI applications in libraries, focusing on recommender systems, automated cataloging, and natural language processing (NLP) for search. Drawing on scholarly literature from 2019&ndash;2024, we discuss how AI-driven tools offer new opportunities to improve efficiency, personalize services, and scale up information retrieval in libraries. At the same time, we examine key challenges, including patron privacy concerns, algorithmic biases, and the need for transparency in AI decision-making. By synthesizing current research and practice, the paper highlights both the potential benefits of AI-enabled library systems and the ethical and practical hurdles that libraries must navigate. The conclusion calls for responsible implementation of AI in libraries, aligning technological advancements with core library values and user trust.</span>
+
+
+Contents:
+ - The Role of AI in Enhancing Library Information Retrieval.pdf

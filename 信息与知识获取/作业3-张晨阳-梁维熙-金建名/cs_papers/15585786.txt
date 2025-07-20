@@ -1,0 +1,16 @@
+Title: optTMT: A Shiny application to optimize any experimental design to minimize the TMT reporter ion interference
+
+Authors: GERAULT, Marc-Antoine
+
+Keywords: TMT reporter ion interference
+
+Publication date: 2025-06-03
+
+Description:
+This is the executable file containing the Shiny application optTMT. Its R package version with documentation and source code is available at&nbsp; <span><a href="https://github.com/mgerault/optTMT">https://github.com/mgerault/optTMT</a></span>. By dowloading and install it on your Windows machine you will be able to obtain any optimal experimental design to minimize the TMT reporter interference for your proteomics experiment.
+
+The Shiny appliucation is also direclty usable at <span><a href="https://marc-antoinegerault.shinyapps.io/TMT_optimization/"><span>https://marc-antoinegerault.shinyapps.io/TMT_optimization/</span></a></span>
+
+
+Contents:
+ - optTMT-setup.exe

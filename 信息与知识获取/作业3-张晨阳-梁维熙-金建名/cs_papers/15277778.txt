@@ -1,0 +1,16 @@
+Title: Database of the ABSTRACT experiment "visual versus verbal modality in learning novel verbs"
+
+Authors: Lorusso, Maria Luisa
+
+Keywords: 
+
+Publication date: 2025-04-24
+
+Description:
+Then file contains two shhets, one for Experiment 1 and one for Experiment 2. Experiment 1 compares the scores obtained by 100 school-age children in defining a novel verb (either a mental verb or an action verb) after visual or verbal presentation of positive and negative instances of the novel verb. Experiment 2 compares the correct judgments and response times collected with 15 children aged 8-10 years, for positive and negative visual instances of novel verbs, after verbal and visual presentation.&nbsp;
+
+&nbsp;
+
+
+Contents:
+ - databaseVerbalVisualexp_Zenodo.xlsx

@@ -1,0 +1,15 @@
+Title: Cross-species interactome analysis uncovers a conserved  selective autophagy mechanism for protein quality control in plants
+
+Authors: Dagdas, Yasin
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+This is the raw data of the figures that were generated during the revision process.&nbsp;
+
+
+Contents:
+ - Raw_data_Sorted.zip

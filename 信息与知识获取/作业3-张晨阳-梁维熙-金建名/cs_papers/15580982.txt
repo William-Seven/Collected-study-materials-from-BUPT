@@ -1,0 +1,13 @@
+Title: DEEPFAKE DETECTION USING A HYBRID RESNEXT AND LSTM ARCHITECTURE
+
+Authors: Sarvar Maxmudjanov, Abbaz Primbetov, Axadjon Naimov
+
+Keywords: Resnext, LSTM, Deepfake
+
+Publication date: 2025-06-03
+
+Description:
+Deepfakes pose a serious threat to media authenticity and public trust. This paper proposes a hybrid deep learning model combining ResNeXt and LSTM to detect deepfakes by capturing both spatial and temporal inconsistencies. ResNeXt extracts detailed frame-level features, while LSTM models temporal dependencies across video frames. Evaluated on benchmark datasets such as DFDC and Celeb-DF, the model achieves high accuracy and robust performance. The results confirm that integrating spatial and temporal features significantly improves deepfake detection, offering a reliable approach for video-based forensic analysis.
+
+Contents:
+ - 17_835-87-94-Primbetov.pdf

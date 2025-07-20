@@ -1,0 +1,18 @@
+Title: Explainable AI in Healthcare: Bridging the Gap Between Accuracy and Interpretability
+
+Authors: Mohanraju Muppala, Subramanya Bharathvamsi Koneti and Sibaram Prasad Panda
+
+Keywords: Big Data, Artificial Intelligence (AI), healthcare, explainable AI (XAI), Medical Computer Vision (MCV)
+
+Publication date: 2025-06-04
+
+Description:
+<strong><span lang="EN-US">Abstract-</span></strong>
+
+<span lang="EN-US">A complex healthcare system strives to offer the best quality medical services to every patient. This necessitates the need for efficient and effective administration in addition to the healthcare services for the patients. Every decision made in a healthcare system is expected to be driven by quality decision-making and must consider the parameters and metrics of great importance, making the decisions interpretable for improving the outcome of the system. The multidisciplinary healthcare system provides healthcare services ranging from major organ transplant, cancer treatment, neurological disorder diagnosis, treatment for small but vital disorders to the patients. In addition to the treatment by a clinical expert, doctors analyze the patient's details and medical report to understand the influences of the patient's past morbidity and mortality response to the various healthcare services provided to him/her by the hospital. The completion of the project in an efficient way will help in the better decision-making process by identifying the hidden influential learning patterns from the years of electronic medical records data, which will similarly benefit decision makers in other domains.</span>
+
+<strong><span lang="EN-US">Keywords-</span></strong><span lang="EN-US"> Big Data, Artificial Intelligence (AI), healthcare, explainable AI (XAI), Medical Computer Vision (MCV)</span>
+
+
+Contents:
+ - 5.pdf

@@ -1,0 +1,18 @@
+Title: Transportes, Viagens e Alojamento - INEGI
+
+Authors: Pontes, Ana João de Castro
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+
+Apresenta-se este ficheiro no &acirc;mbito da disserta&ccedil;&atilde;o do Mestrado em Ci&ecirc;ncia da Informa&ccedil;&atilde;o da Faculdade de Engenharia e Faculdade de Letras da Universidade do Porto, intitulada: "Preparar uma organiza&ccedil;&atilde;o para a introdu&ccedil;&atilde;o de um LLM no seu sistema de informa&ccedil;&atilde;o: Caso na Gest&atilde;o Financeira e Administrativa no Instituto de Ci&ecirc;ncia e Inova&ccedil;&atilde;o em Engenharia Mec&acirc;nica e Engenharia Industrial".
+
+
+O ficheiro "Transportes, Viagens e Alojamento" refere como os colaboradores do INEGI devem proceder nas seguintes atividades: Desloca&ccedil;&otilde;es em Servi&ccedil;o, Reserva de Viagens e Alojamento, Aluguer de Viaturas, Ajudas de Custo e Reembolso de Despesas.
+
+
+Contents:
+ - INEGI_COMO TRABALHAMOS - Transportes, Viagens e Alojamento.pdf

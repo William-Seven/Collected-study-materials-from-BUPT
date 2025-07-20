@@ -1,0 +1,13 @@
+Title: Starter Kit
+
+Authors: Okreša Đurić, Bogdan, Šlibar, Barbara, Kutnjak, Ana, Devčić, Antonela, Hrustek, Larisa, Šajn, Matija, Đuras Sekovanić, Martina, Gregurec, Iva, Tomičić Furjan, Martina, Schatten, Markus, Oletić Tušek, Izabela
+
+Keywords: 
+
+Publication date: 2025-04-16
+
+Description:
+N/A
+
+Contents:
+ - AI-HED Starter Kit.pdf

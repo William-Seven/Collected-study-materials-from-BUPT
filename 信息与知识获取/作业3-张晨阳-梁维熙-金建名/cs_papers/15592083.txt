@@ -1,0 +1,14 @@
+Title: Network slicing for 5G: A comprehensive review
+
+Authors: Pramod Palde, Archana Bendale, Pavan Malani
+
+Keywords: 5G, Network Slicing, Software-Defined Networking (SDN), Network Function Virtualization (NFV), Multi-access Edge Computing (MEC), Ultra- Reliable Low-Latency Communication (URLLC), enhanced Mobile Broadband (eMBB), massive Machine- Type Communication (mMTC), Slice Orchestration, Quality of Experience (QoE), Artificial Intelligence (AI), Digital Twins, Security, Network Architecture, Slice Isolation
+
+Publication date: 2025-06-04
+
+Description:
+Network slicing introduces a novel paradigm in 5G communications, enabling diverse services to operate over shared physical infrastructure through logically independent virtual networks. This paper offers a comprehensive analysis of network slicing&rsquo;s foundational technologies, architectural models, practical implementations, and the challenges it faces. We examine current advancements and outline future trends that are shaping the transformation of mobile networks into programmable, serviceoriented platforms.
+
+
+Contents:
+ - 2. A102-SJ001-2025.pdf

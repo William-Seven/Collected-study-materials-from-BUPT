@@ -1,0 +1,35 @@
+Title: SynProtX: A Large-Scale Proteomics-Based Deep Learning Model for Predicting Synergistic Anticancer Drug Combinations
+
+Authors: Boonyarit, Bundit, Kositchutima, Matin, Na Phattalung, Tisorn, Yamprasert, Nattawin, Thuwajit, Chanitra, Rungrotmongkol, Thanyada, NUTANONG, Sarana
+
+Keywords: SynProtX, Deep Learning, Graph Neural Networks, Cancer Drug Combinations, Multi-omics
+
+Publication date: 2025-06-06
+
+Description:
+<h2>SynProtX: A Large-Scale Proteomics-Based Deep Learning Model for Predicting Synergistic Anticancer Drug Combinations</h2>
+SynProtX is a deep learning model that integrates large-scale proteomics data, molecular graphs, and chemical fingerprints to predict synergistic effects of anticancer drug combinations. It provides robust performance across tissue-specific and study-specific datasets, enhancing reproducibility and biological relevance in drug synergy prediction.
+
+This Zenodo repository includes a <code>.tar.gz</code> archive containing all essential components to reproduce the experiments described in the study. This archive is designed to work seamlessly with the coding pipeline available at: <a href="https://github.com/manbaritone/SynProtX" target="_blank" rel="noopener">https://github.com/manbaritone/SynProtX</a>.
+
+<h3>License:</h3>
+Creative Commons Zero v1.0 Universal (CC0)This work is released under CC0, dedicating it to the public domain. You are free to use, modify, and distribute it without restriction.
+
+<h3>Archive Contents:</h3>
+This compressed file includes:
+
+
+Datasets- Tissue Datasets: <code>ALMANAC-Breast</code>, <code>ALMANAC-Lung</code>, <code>ALMANAC-Ovary</code>, <code>ALMANAC-Skin</code>- Study Datasets: <code>FRIEDMAN</code>, <code>ONEIL</code>
+Supporting Files- Raw and preprocessed data- Feature dictionaries- Hyperparameter configurations- Trained model weights
+
+<h3>Folder Structure:</h3>
+<blockquote>
+<code>SynProtX/</code><code>├── data/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Raw and preprocessed data</code><code>│ &nbsp; ├── export/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Processed protein/gene expression &amp; drug combinations</code><code>│ &nbsp; ├── nps/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Numpy arrays for all datasets</code><code>│ &nbsp; ├── nps_intersected/ &nbsp; &nbsp;# Dataset-specific numpy arrays</code><code>│ &nbsp; └── raw/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Original data from DrugComb, CCLE, COSMIC, ChEMBL V31, ProCan-DepMapSanger</code><code>├── feature_dicts/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Feature dictionaries for drug combinations</code><code>├── hyperparams/ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Hyperparameter configs for SynProtX-GATFP</code><code>│ &nbsp; ├── classification/&nbsp; &nbsp; &nbsp;# For classification tasks</code><code>│ &nbsp; └── regression/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# For regression tasks</code><code>├── state_dict/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Trained model weights</code><code>│ &nbsp; ├── classification/&nbsp; &nbsp; &nbsp;# PyTorch checkpoints for classification</code><code>│ &nbsp; └── regression/&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# PyTorch checkpoints for regression</code><code>└── README_Zenodo.md &nbsp; &nbsp; &nbsp; &nbsp;# This file</code>
+
+</blockquote>
+<h3>For more information, please visit:</h3>
+<strong>GitHub:</strong>&nbsp;<a href="https://github.com/manbaritone/SynProtX" target="_blank" rel="noopener">https://github.com/manbaritone/SynProtX</a>
+
+
+Contents:
+ - SynProtX.tar.gz

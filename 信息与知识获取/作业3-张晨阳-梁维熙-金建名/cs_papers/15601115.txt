@@ -1,0 +1,12 @@
+Title: Adopting Machine Learning and Deep Learning to predict Patient Adherence with Lifestyle Recommendations and Quality of Life Outcomes
+
+Authors: Istituto Nazionale Tumori IRCCS "Fondazione G. Pascale"
+
+Keywords: mediterranean diet, quality of life, breast cancer, lifestyle, physical activity, vitamin D, missing data
+
+Publication date: 2025-06-05
+
+Description:
+Ongoing project regarding the <span lang="EN-GB">predicton of patient adherence to a lifestyle intervention (including diet, physical activity, and vitamin D supplementation) via ML and DL frameworks. Data contains repeated measures outcomes of the intervention program and a set of sociodemographic and clinical baseline information from <span lang="EN-US">DEDiCa study which was approved by the Ministry of Health Italian, Italian Medicines Agency (AIFA) and the ethics committees of each recruiting hospital (ClinicalTrials.gov&nbsp;<a href="https://clinicaltrials.gov/ct2/show/NCT02786875" target="_blank" rel="noopener noreferrer">NCT02786875</a>).</span></span>
+
+

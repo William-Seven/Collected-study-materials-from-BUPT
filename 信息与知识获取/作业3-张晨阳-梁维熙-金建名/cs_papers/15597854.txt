@@ -1,0 +1,14 @@
+Title: Empowering Self-Sovereign Digital Identities: A Blockchain and  AI-Driven Approach for Enhanced Privacy and Security
+
+Authors: Angelin Rosy M, Indhumathi J
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+With the rapid rise in digital services, managing personal identity online has become both essential and challenging. Most current systems rely on centralized or federated identity models, which often compromise user privacy and are vulnerable to data breaches. Centralized systems store user data in a single location, increasing the risk of large-scale attacks, while federated models allow third-party providers to access and track user information without clear consent. To address these concerns, this paper introduces a Self-Sovereign Identity (SSI) solution that gives users full control over their digital identity. The proposed system, called Sign Up Wallet, leverages blockchain technology for secure, decentralized identity storage and uses cryptographic methods to protect user credentials. To ensure trust, the system integrates a machine learning model&mdash;Logistic Regression&mdash;to evaluate whether a service provider is reliable. If a provider is flagged as untrusted, the system generates a masked version of the user&rsquo;s identity using a Lookup Substitution Algorithm, allowing safe verification without exposing actual data. This approach significantly enhances privacy, security, and user autonomy, reducing reliance on centralized authorities and offering a more transparent and trustworthy identity framework.
+
+
+Contents:
+ - 35_154407ok.pdf

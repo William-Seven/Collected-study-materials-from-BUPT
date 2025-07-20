@@ -1,0 +1,16 @@
+Title: The data set to paper: Ka-band Cloud Radar Meteorological Echo Dataset with Complex Weather Coverage: Baseline Models for Deep Learning Applications
+
+Authors: Zou, Weijie
+
+Keywords: insect echo
+
+Publication date: 2025
+
+Description:
+The data set to paper: Ka-band Cloud Radar Meteorological Echo Dataset with Complex Weather Coverage: Baseline Models for Deep Learning Applications.
+
+Data discription is included.
+
+
+Contents:
+ - Dataset.zip

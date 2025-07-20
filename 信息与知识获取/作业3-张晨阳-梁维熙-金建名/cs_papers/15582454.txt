@@ -1,0 +1,16 @@
+Title: Supplementary code for Project 2 of Quantum computing and quantum machine learning course
+
+Authors: Piersanti, Eleonora
+
+Keywords: 
+
+Publication date: 2025-06-03
+
+Description:
+Jupyter notebook containing code for Project 2 for Quantum computing and quantum machine learning course.
+
+&nbsp;
+
+
+Contents:
+ - Project2.ipynb

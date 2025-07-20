@@ -1,0 +1,37 @@
+Title: Edirom Online
+
+Authors: Benjamin W. Bohl, Daniel Röwenstrunk, Niko Beer, Peter Stadler, Jettka, Daniel, Herold, Kristin, Alemayehu, Hizkiel, Friedl, Dennis, Dennis Ried, Reich, Silke, Kepper, Johannes, Bachmann, Tobias
+
+Keywords: 
+
+Publication date: 2025-05-26
+
+Description:
+<div>
+
+The v2.0.0 is the first release with new Edirom Online architecture based on individual repositories for <a href="https://github.com/Edirom/Edirom-Online-Frontend">frontend</a> and <a href="https://github.com/Edirom/Edirom-Online-Backend">backend</a>. The software modules now reside in these remote repositories.&nbsp;
+
+
+The present release contains the global documentation for the Edirom Online and the build architecture based on Docker. The local setup of an Edirom Online instance - fetching and building of frontend and backend and inclusion of edition packages - can now be done with a few docker compose commands which are documented in the README.&nbsp;
+
+
+<strong>What's Changed</strong>
+* Merge main branch by @daniel-jettka in https://github.com/Edirom/Edirom-Online/pull/537
+* add description about annot in source by @krHERO in https://github.com/Edirom/Edirom-Online/pull/539
+* Bump ncipollo/release-action from 1.15.0 to 1.16.0 by @dependabot in https://github.com/Edirom/Edirom-Online/pull/540
+* Update release-workflow.md by @krHERO in https://github.com/Edirom/Edirom-Online/pull/548
+* Update CONTRIBUTING.md by @krHERO in https://github.com/Edirom/Edirom-Online/pull/553
+* build: switch to sencha-cmd:2.1.0 by @bwbohl in https://github.com/Edirom/Edirom-Online/pull/554
+* move images to docs by @krHERO in https://github.com/Edirom/Edirom-Online/pull/557
+* Update data-creation-workflow.md by @krHERO in https://github.com/Edirom/Edirom-Online/pull/564
+* Ftr/550 build from sep frontend and backend by @daniel-jettka in https://github.com/Edirom/Edirom-Online/pull/559
+
+
+
+**Full Changelog**: https://github.com/Edirom/Edirom-Online/compare/v1.0.0...v2.0.0
+
+</div>
+
+Contents:
+ - Edirom-Online-2.0.0.zip
+ - Edirom-Online-2.0.0.tar.gz

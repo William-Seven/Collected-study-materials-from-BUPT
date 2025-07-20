@@ -1,0 +1,19 @@
+Title: eitprocessing
+
+Authors: Bodor, Dani, Somhorst, Peter, Jonkman, Annemijn, Baccinelli, Walter, Wisse-Smit, Jantine, Francovich, Juliette
+
+Keywords: Mechanical lung ventilation, Electrical impedance tomography, Image/data processing, Advanced respiratory care
+
+Publication date: 2025-05-26
+
+Description:
+<h2>What's Changed</h2>
+<ul>
+<li>Improve PixelBreath by @psomhorst in https://github.com/EIT-ALIVE/eitprocessing/pull/374</li>
+</ul>
+
+<strong>Full Changelog</strong>: https://github.com/EIT-ALIVE/eitprocessing/compare/v1.7.1...v1.7.2
+
+
+Contents:
+ - EIT-ALIVE/eitprocessing-v1.7.2.zip

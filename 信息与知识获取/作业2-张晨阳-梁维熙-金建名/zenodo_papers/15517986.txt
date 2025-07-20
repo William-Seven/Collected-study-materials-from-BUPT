@@ -1,0 +1,15 @@
+Title: Indole Synthesis: A Review and Medicinal Uses of Their Derivatives
+
+Authors: Aditi Shelke*, Shritej Varhadi, Dr. Lokhande R. P., Mahadik Jay, Dhamane Yash
+
+Keywords: Indoles, Ionic Liquids, Microwave Irradiation, Nanoparticles, Heterocyclic Compounds, Anti-Tubercular
+
+Publication date: 2025-05-26
+
+Description:
+
+<span>A large variety of bioactive natural products and molecules with significant therapeutic value include indoles, a functional group that is widely distributed in nature. The development of new techniques for the synthesis of indole core and site-specific indoles has consequently increased exponentially. Greener techniques that employ solid acid catalysts, ionic liquids, water as a solvent, microwave irradiation, and solvent-free nanoparticles are replacing conventional methods for the synthesis of indoles. Additionally, the substituted indoles have a wide range of uses. 3-The sulfur-substituted indole derivative phenylthioindole has attracted attention because of its possible biological activity and use as a synthesis intermediary in medicinal chemistry. By nucleophilically substituting thiophenol for 3-haloindole under basic circumstances, this work describes an effective synthesis pathway for 3-phenylthioindole. In polar aprotic solvents, the reaction proceeds smoothly and produces the required thioether with excellent purity and good yield. Spectroscopic methods such as NMR, IR, and mass spectrometry were used to characterize the produced chemical. This technique provides a useful way to create sulfur-functionalized indole frameworks for additional research in medicinal chemistry.</span>
+
+
+Contents:
+ - 167-Aditi Shelke.pdf

@@ -1,0 +1,14 @@
+Title: Privacy-Aware Monitoring Framework Moving Objects
+
+Authors: N.Raghul, N.Sukanya
+
+Keywords: 
+
+Publication date: 2025-06-02
+
+Description:
+The frontend design and development of an interactive e-learning website is presented in this articlewith the goal of giving teachers and students in smaller institutions a versatile and reasonably priceddigital learning platform. Without requiring sophisticated backend infrastructure, the website wasconstructed utilizing the fundamental frontend technologies of HTML5, CSS3, and JavaScript, providingan approachable solution for educational institutions with little technological expertise. The platform'suser-friendly design allows users to see course materials, browse available courses, and submitquestions. Responsive design is prioritized in order to guarantee accessibility on a range of screens anddevices. To improve user- teacher connection, a simple contact form with input validation is alsoincluded.&nbsp;
+
+
+Contents:
+ - IJSRED-V8I3P179.pdf

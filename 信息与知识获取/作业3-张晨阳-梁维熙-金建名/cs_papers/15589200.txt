@@ -1,0 +1,14 @@
+Title: MACHINE LEARNING FOR CROSS-FUNCTIONAL PRODUCT ROADMAPPING IN FINTECH USING AGILE AND SIX SIGMA PRINCIPLES
+
+Authors: Foluke Ekundayo, Oladimeji Adegoke, Iyinoluwa Elizabeth Fatoki
+
+Keywords: 
+
+Publication date: 2022-12-21
+
+Description:
+In the rapidly evolving landscape of<a href="https://ijetrm.com/issues/files/Jun-2022-04-1749009547-DEC202263.pdf" target="_blank" rel="noopener"> financial technology (fintech</a>), delivering innovative, user-focused digitalproducts requires adaptive planning, cross-functional collaboration, and real-time data intelligence. Traditionalproduct roadmapping methods often fail to meet the agility and accuracy needed in such complex environments.This paper presents a machine learning-enabled framework for cross-functional product road mapping in fintech,integrating Agile principles and Six Sigma quality controls. Support Vector Machine (SVM) is employed as thecore algorithm for its robustness in handling high-dimensional data, its capability for clear decision boundaries,and its effectiveness in small-to-medium-sized datasets common in product development cycles. To justify thismodel choice, a detailed comparative analysis is conducted against Decision Trees, Random Forests, and kNearest Neighbors (k-NN). While Decision Trees offer interpretability, they suffer from overfitting; RandomForests improve stability but at the cost of computational efficiency; and k-NN lacks performance in highdimensional, sparse data typical of product feedback matrices. SVM outperforms these models in predictiveaccuracy and generalization ability when classifying priority product features, segmenting customer needs, andidentifying risk hotspots across cross-functional inputs. The framework uses SVM to process real-time data fromcustomer support, engineering logs, marketing analytics, and regulatory feedback, aligning sprint planning withSix Sigma-driven quality thresholds. Agile cycles are informed by SVM-based classifications, while Six Sigmaensures low variance in feature delivery. The paper introduces a hybrid implementation approach, combiningCRISP-DM with Agile and DMAIC to maintain traceability and strategic alignment. This study provides a novel,data-centric approach to product planning in fintech, demonstrating how SVM can drive more intelligent, efficient,and quality-assured product roadmaps.
+
+
+Contents:
+ - DEC202263.pdf
