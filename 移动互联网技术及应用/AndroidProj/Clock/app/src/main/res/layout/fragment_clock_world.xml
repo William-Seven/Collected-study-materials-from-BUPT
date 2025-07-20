@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/world_clock_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="24dp"
+        android:divider="?android:attr/dividerHorizontal"
+        android:showDividers="middle"
+        android:dividerPadding="8dp">
+
+        <!-- 卡片：北京 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/world_clock_card"
+            android:elevation="4dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Beijing"
+                android:textSize="20sp"
+                android:textColor="#3F51B5"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/timeBeijing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="--:--:--"
+                android:textSize="32sp"
+                android:textColor="#000000"
+                android:layout_marginTop="8dp"
+                android:fontFamily="monospace" />
+        </LinearLayout>
+
+        <!-- 卡片：新加坡 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/world_clock_card"
+            android:elevation="4dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Singapore"
+                android:textSize="20sp"
+                android:textColor="#3F51B5"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/timeSingapore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="--:--:--"
+                android:textSize="32sp"
+                android:textColor="#000000"
+                android:layout_marginTop="8dp"
+                android:fontFamily="monospace" />
+        </LinearLayout>
+
+        <!-- 卡片：伦敦 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/world_clock_card"
+            android:elevation="4dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="London"
+                android:textSize="20sp"
+                android:textColor="#3F51B5"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/timeLondon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="--:--:--"
+                android:textSize="32sp"
+                android:textColor="#000000"
+                android:layout_marginTop="8dp"
+                android:fontFamily="monospace" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
